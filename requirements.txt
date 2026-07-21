@@ -1,0 +1,5 @@
+feedparser==6.0.11
+requests==2.32.3
+python-telegram-bot==21.4
+python-dotenv==1.0.1
+rapidfuzz==3.9.7

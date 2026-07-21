@@ -1,0 +1,33 @@
+{
+  "official_labs": [
+    {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Google DeepMind Blog", "url": "https://deepmind.google/blog/feed/basic/"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"}
+  ],
+  "unofficial_lab_mirrors_VERIFY_FIRST": [
+    {"name": "Anthropic News (unofficial mirror)", "url": "https://rsshub.bestblogs.dev/anthropic/news"},
+    {"name": "Meta AI Blog (unofficial)", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml"},
+    {"name": "Mistral AI News (unofficial)", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral_news.xml"},
+    {"name": "Cohere Blog (unofficial)", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml"}
+  ],
+  "tech_news": [
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/"},
+    {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed/"},
+    {"name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss"}
+  ],
+  "data_center": [
+    {"name": "Data Center Knowledge", "url": "https://feeds.feedburner.com/DataCenterKnowledge"}
+  ],
+  "research": [
+    {"name": "arXiv cs.AI", "url": "http://export.arxiv.org/rss/cs.AI"},
+    {"name": "arXiv cs.CL", "url": "http://export.arxiv.org/rss/cs.CL"}
+  ],
+  "community_signal": [
+    {"name": "Hacker News Frontpage", "url": "https://hnrss.org/frontpage"},
+    {"name": "Hacker News AI keyword", "url": "https://hnrss.org/newest?q=AI"},
+    {"name": "Reddit r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/.rss"},
+    {"name": "Reddit r/singularity", "url": "https://www.reddit.com/r/singularity/.rss"}
+  ]
+}
