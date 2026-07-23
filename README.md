@@ -2,7 +2,7 @@
 
 A pipeline that fetches AI news from a curated set of sources, filters/dedupes it,
 uses DeepSeek to classify and write short posts, and publishes them to a Telegram
-channel. Runs hourly via GitHub Actions.
+channel. Runs hourly during daytime hours via GitHub Actions.
 
 ## Architecture
 
@@ -76,6 +76,36 @@ that lose out to the cap are recorded as seen-but-not-posted and won't be
 retried later that day - the cap is a hard editorial limit on channel volume,
 not a delayed queue.
 
+## Post format
+
+DeepSeek writes each post as a headline + explanation, not one flat paragraph:
+
+- `post_title` - a punchy, emoji-led headline (e.g. `🚀 OpenAI ships GPT-5.5`).
+- `post_body` - 4-6 sentences of plain-text explanation (what happened, who's
+  involved, key numbers, why it matters), starting with a different emoji and
+  weaving in 2-3 more near key facts.
+
+`publish.format_post` joins them as `title\n\nbody\n\n🔗 url`. If DeepSeek ever
+omits the leading emoji, `publish._with_leading_emoji` falls back to a
+per-category emoji from `config.CATEGORY_EMOJIS` so every post still gets one.
+
+## Posting window
+
+Posts only go out during local daytime hours, `config.POSTING_WINDOW_START_HOUR`
+-`config.POSTING_WINDOW_END_HOUR` in `config.POSTING_TIMEZONE` (currently
+8:00-23:00 `Europe/Berlin`). `main._within_posting_window()` checks this with
+`zoneinfo`, which tracks CET/CEST DST automatically - this is the precise gate.
+
+The GitHub Actions cron (`.github/workflows/post.yml`) only restricts runs to a
+UTC superset of that window (`06:00-22:00 UTC`) to cut down on wasted runs; a
+fixed cron can't track DST on its own, so the exact cutoff is always decided in
+code, not by the cron expression. Outside the window, `main.run()` returns
+immediately without fetching, classifying, or posting anything.
+
+To bypass the window (e.g. testing manually outside daytime hours), either pass
+`--force` to `main.py` or trigger the workflow via `workflow_dispatch` with the
+`force` input set to `true`.
+
 ## Testing a single feed locally before adding it to sources.json
 
 ```bash
@@ -98,7 +128,8 @@ python main.py --dry-run
 `--dry-run` runs fetch -> dedupe -> classify normally but logs what *would*
 be posted instead of calling the Telegram API - useful for checking the
 pipeline end-to-end before secrets are wired up, or before trusting it with
-a live channel.
+a live channel. `--dry-run` always bypasses the posting window; add `--force`
+too if you want to test a real (non-dry-run) post outside daytime hours.
 
 ## Notes
 

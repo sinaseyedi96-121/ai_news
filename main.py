@@ -9,6 +9,7 @@ the workflow).
 import argparse
 import logging
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 import classify_and_write
 import config
@@ -17,6 +18,14 @@ import fetch
 import publish
 
 logger = logging.getLogger(__name__)
+
+
+def _within_posting_window() -> bool:
+    """True during the channel's local daytime hours (config.POSTING_TIMEZONE).
+    The GitHub Actions cron only covers a superset of this in UTC (a fixed cron
+    can't track DST) - this check is the precise, DST-safe gate."""
+    now_local = datetime.now(ZoneInfo(config.POSTING_TIMEZONE))
+    return config.POSTING_WINDOW_START_HOUR <= now_local.hour < config.POSTING_WINDOW_END_HOUR
 
 
 def _sort_key(item: dict):
@@ -50,7 +59,14 @@ def select_for_publishing(classified: list[dict], meta: dict) -> list[dict]:
     return selected
 
 
-def run(dry_run: bool = False) -> None:
+def run(dry_run: bool = False, force: bool = False) -> None:
+    if not dry_run and not force and not _within_posting_window():
+        logger.info(
+            "Outside the daytime posting window (%s, local hours %d-%d) - skipping this run",
+            config.POSTING_TIMEZONE, config.POSTING_WINDOW_START_HOUR, config.POSTING_WINDOW_END_HOUR,
+        )
+        return
+
     history = dedupe.load_history()
 
     raw_items = fetch.fetch_all()
@@ -71,7 +87,8 @@ def run(dry_run: bool = False) -> None:
     if dry_run:
         logger.info("[dry-run] Would publish %d item(s):", len(to_publish))
         for item in to_publish:
-            logger.info("[dry-run]   (%s/%s) %s -- %s", item["category"], item["priority"], item["title"], item["url"])
+            logger.info("[dry-run]   (%s/%s) %s -- %s", item["category"], item["priority"],
+                        item.get("post_title") or item["title"], item["url"])
         results = [(item, False) for item in to_publish]
     else:
         results = publish.publish_items(to_publish)
@@ -98,5 +115,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fetch, filter, and post AI news to Telegram")
     parser.add_argument("--dry-run", action="store_true",
                          help="Run the full pipeline but only log what would be posted, don't call Telegram")
+    parser.add_argument("--force", action="store_true",
+                         help="Bypass the daytime posting window check (for manual/test runs)")
     args = parser.parse_args()
-    run(dry_run=args.dry_run)
+    run(dry_run=args.dry_run, force=args.force)

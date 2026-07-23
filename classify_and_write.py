@@ -18,8 +18,8 @@ logger = logging.getLogger(__name__)
 
 PRIORITY_RANK = {"high": 0, "medium": 1, "low": 2}
 
-SYSTEM_PROMPT = """You are the editorial filter for an AI news Telegram channel. You will receive a
-numbered list of candidate items (title, source, published date, summary, url).
+SYSTEM_PROMPT = """You are the editorial filter and writer for an AI news Telegram channel. You will
+receive a numbered list of candidate items (title, source, published date, summary, url).
 For EACH item, decide:
 
 - relevant (bool): is this actually AI news in scope? In-scope categories:
@@ -39,9 +39,21 @@ For EACH item, decide:
   canonical; mark the rest as duplicates)
 - reject_reason: short string, required if relevant=false or duplicate_of is set,
   otherwise null
-- post_text: ONLY if relevant=true and duplicate_of=null - a punchy Telegram
-  post, 2-4 sentences, plain text, at most one emoji, no markdown headers, no
-  hashtags. Do not include the URL, the code appends it. Otherwise null.
+- post_title and post_body: ONLY if relevant=true and duplicate_of=null (otherwise
+  both null). Write a headline + explanation, not one flat paragraph:
+  - post_title: a punchy headline, at most 12 words, no trailing period. MUST
+    start with exactly one emoji that fits the story (e.g. 🚀 launches/releases,
+    💰 funding/big-money deals, ⚖️ policy/legal/regulation, 🏗️ infrastructure/data
+    centers/chips, 🔬 research breakthroughs, 🎓 courses/certifications, 🤝
+    partnerships/integrations).
+  - post_body: 4-6 sentences of plain-text explanation covering what happened,
+    who's involved, key numbers/facts, and why it matters for the reader. MUST
+    start with a different emoji than the title's, and should naturally weave in
+    2-3 more emojis next to key facts, numbers, or outcomes (e.g. 📈 growth, 💵
+    dollar figures, ⚡ speed/performance, 🌍 global reach, 🔥 notable/big news) to
+    make it visually engaging - but don't force one into every sentence, and
+    never use more than one emoji in a row. No markdown headers, no hashtags, no
+    URLs (the code appends the link separately).
 
 Community-signal items (Hacker News/Reddit) are only relevant if they themselves
 report concrete news - general discussion/opinion threads are not relevant.
@@ -49,7 +61,7 @@ report concrete news - general discussion/opinion threads are not relevant.
 Respond with STRICT JSON only, no prose before or after, in this exact shape:
 {"decisions": [{"index": 1, "relevant": true, "category": "model_release",
 "priority": "high", "duplicate_of": null, "reject_reason": null,
-"post_text": "..."}]}
+"post_title": "...", "post_body": "..."}]}
 
 Include exactly one decision object per input item, in the same order, with
 "index" matching the item's number in the input list."""
@@ -58,7 +70,7 @@ Include exactly one decision object per input item, in the same order, with
 def _build_user_prompt(batch: list[dict]) -> str:
     lines = []
     for i, item in enumerate(batch, start=1):
-        summary = (item.get("summary") or "")[:500]
+        summary = (item.get("summary") or "")[:config.CLASSIFY_SUMMARY_CHARS]
         lines.append(
             f"{i}. Title: {item['title']}\n"
             f"   Source: {item['source']} ({item['category']})\n"
@@ -113,7 +125,8 @@ def classify_batch(batch: list[dict]) -> list[dict]:
         if decision is None:
             logger.warning("No DeepSeek decision for item %d ('%s') - treating as not relevant", i, item["title"])
             enriched.update(relevant=False, category=item["category"], priority="low",
-                             duplicate_of=None, reject_reason="no decision returned", post_text=None)
+                             duplicate_of=None, reject_reason="no decision returned",
+                             post_title=None, post_body=None)
         else:
             enriched.update(
                 relevant=bool(decision.get("relevant", False)),
@@ -121,7 +134,8 @@ def classify_batch(batch: list[dict]) -> list[dict]:
                 priority=decision.get("priority", "low"),
                 duplicate_of=decision.get("duplicate_of"),
                 reject_reason=decision.get("reject_reason"),
-                post_text=decision.get("post_text"),
+                post_title=decision.get("post_title"),
+                post_body=decision.get("post_body"),
             )
         classified.append(enriched)
     return classified

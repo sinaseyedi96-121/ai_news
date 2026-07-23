@@ -2,6 +2,7 @@
 
 import asyncio
 import logging
+import re
 
 from telegram import Bot
 from telegram.error import TelegramError
@@ -10,9 +11,27 @@ import config
 
 logger = logging.getLogger(__name__)
 
+# Rough "starts with an emoji-ish character" check, used only as a safety net
+# in case DeepSeek forgets the leading emoji it was instructed to include.
+# Covers arrows/symbols/dingbats (U+2190-U+2BFF), variation selector
+# (U+FE0F), and the main emoji planes (U+1F000-U+1FFFF).
+_EMOJI_START_RE = re.compile(
+    "^[←-⯿️\U0001f000-\U0001ffff]"
+)
+
+
+def _with_leading_emoji(text: str, category: str) -> str:
+    text = (text or "").strip()
+    if text and _EMOJI_START_RE.match(text):
+        return text
+    emoji = config.CATEGORY_EMOJIS.get(category, config.DEFAULT_EMOJI)
+    return f"{emoji} {text}".strip()
+
 
 def format_post(item: dict) -> str:
-    return f"{item['post_text'].strip()}\n\n🔗 {item['url']}"
+    title = _with_leading_emoji(item["post_title"], item["category"])
+    body = _with_leading_emoji(item["post_body"], item["category"])
+    return f"{title}\n\n{body}\n\n🔗 {item['url']}"
 
 
 async def _send_one(bot: Bot, item: dict) -> bool:
