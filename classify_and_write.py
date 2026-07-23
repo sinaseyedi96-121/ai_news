@@ -54,6 +54,14 @@ For EACH item, decide:
     make it visually engaging - but don't force one into every sentence, and
     never use more than one emoji in a row. No markdown headers, no hashtags, no
     URLs (the code appends the link separately).
+  - post_title_fa and post_body_fa: fluent, natural Farsi (Persian) translations
+    of post_title and post_body, for a mirror channel. Same rules apply: keep the
+    exact same leading emojis and inline emojis in the same spots, at most 12
+    words for the title with no trailing period, 4-6 sentences for the body, no
+    markdown/hashtags/URLs. Translate the meaning idiomatically (not word-for-word);
+    keep well-known product/company names (OpenAI, GPT-5, Nvidia, ...) in their
+    original Latin form rather than transliterating. If relevant=false or
+    duplicate_of is set, both are null (same as the English fields).
 
 Community-signal items (Hacker News/Reddit) are only relevant if they themselves
 report concrete news - general discussion/opinion threads are not relevant.
@@ -61,7 +69,8 @@ report concrete news - general discussion/opinion threads are not relevant.
 Respond with STRICT JSON only, no prose before or after, in this exact shape:
 {"decisions": [{"index": 1, "relevant": true, "category": "model_release",
 "priority": "high", "duplicate_of": null, "reject_reason": null,
-"post_title": "...", "post_body": "..."}]}
+"post_title": "...", "post_body": "...", "post_title_fa": "...",
+"post_body_fa": "..."}]}
 
 Include exactly one decision object per input item, in the same order, with
 "index" matching the item's number in the input list."""
@@ -126,7 +135,8 @@ def classify_batch(batch: list[dict]) -> list[dict]:
             logger.warning("No DeepSeek decision for item %d ('%s') - treating as not relevant", i, item["title"])
             enriched.update(relevant=False, category=item["category"], priority="low",
                              duplicate_of=None, reject_reason="no decision returned",
-                             post_title=None, post_body=None)
+                             post_title=None, post_body=None,
+                             post_title_fa=None, post_body_fa=None)
         else:
             enriched.update(
                 relevant=bool(decision.get("relevant", False)),
@@ -136,6 +146,8 @@ def classify_batch(batch: list[dict]) -> list[dict]:
                 reject_reason=decision.get("reject_reason"),
                 post_title=decision.get("post_title"),
                 post_body=decision.get("post_body"),
+                post_title_fa=decision.get("post_title_fa"),
+                post_body_fa=decision.get("post_body_fa"),
             )
         classified.append(enriched)
     return classified

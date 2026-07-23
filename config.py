@@ -27,6 +27,17 @@ TELEGRAM_CHANNEL_USERNAME = os.environ.get("TELEGRAM_CHANNEL_USERNAME") or (
     TELEGRAM_CHANNEL_ID.lstrip("@") if TELEGRAM_CHANNEL_ID.startswith("@") else ""
 )
 
+# --- Farsi mirror channel (optional) -----------------------------------
+# A second channel that receives a Farsi translation of every post/digest,
+# via its own bot. Left empty -> Farsi posting is silently skipped and the
+# pipeline behaves exactly as the English-only version. Same @handle vs
+# numeric-chat-id rules as the English channel above.
+TELEGRAM_FARSI_BOT_TOKEN = os.environ.get("TELEGRAM_FARSI_BOT_TOKEN", "")
+TELEGRAM_FARSI_CHANNEL_ID = os.environ.get("TELEGRAM_FARSI_CHANNEL_ID", "")
+TELEGRAM_FARSI_CHANNEL_USERNAME = os.environ.get("TELEGRAM_FARSI_CHANNEL_USERNAME") or (
+    TELEGRAM_FARSI_CHANNEL_ID.lstrip("@") if TELEGRAM_FARSI_CHANNEL_ID.startswith("@") else ""
+)
+
 # --- DeepSeek ------------------------------------------------------------
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
 DEEPSEEK_MODEL = "deepseek-chat"  # cheaper non-reasoning tier; plenty for classify+write

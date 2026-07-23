@@ -1,10 +1,22 @@
-"""Publish layer: send approved items to the Telegram channel via the Bot API."""
+"""Publish layer: send approved items to the Telegram channel(s) via the Bot API.
+
+Two destinations are supported: the primary English channel and an optional
+Farsi mirror (config.TELEGRAM_FARSI_*). Each classified item carries both an
+English (post_title/post_body) and a Farsi (post_title_fa/post_body_fa)
+rendering; we send the matching language to each channel and report both
+results so the caller can record a per-channel message id (used by digest.py to
+link each digest entry back to that channel's own post).
+
+If the Farsi channel isn't configured, every Farsi send is reported as skipped
+and the pipeline behaves exactly like the English-only version.
+"""
 
 from __future__ import annotations
 
 import asyncio
 import logging
 import re
+from dataclasses import dataclass
 
 from telegram import Bot
 from telegram.error import TelegramError
@@ -22,6 +34,35 @@ _EMOJI_START_RE = re.compile(
 )
 
 
+@dataclass(frozen=True)
+class Channel:
+    """A Telegram destination: which bot token, which chat, which language."""
+    lang: str        # "en" or "fa" - selects the post rendering and log label
+    token: str
+    chat_id: str
+
+    @property
+    def configured(self) -> bool:
+        return bool(self.token and self.chat_id)
+
+
+def _channel(lang: str) -> Channel:
+    """Build the Channel for a language, reading config live (so env/test
+    overrides applied after import are picked up)."""
+    if lang == "fa":
+        return Channel("fa", config.TELEGRAM_FARSI_BOT_TOKEN, config.TELEGRAM_FARSI_CHANNEL_ID)
+    return Channel("en", config.TELEGRAM_BOT_TOKEN, config.TELEGRAM_CHANNEL_ID)
+
+
+# English first (primary); Farsi second (mirror). Order matters for logging and
+# for which failure drives the "posted" flag in main.py (English = primary).
+LANGS = ("en", "fa")
+
+
+def channel_configured(lang: str) -> bool:
+    return _channel(lang).configured
+
+
 def _with_leading_emoji(text: str, category: str) -> str:
     text = (text or "").strip()
     if text and _EMOJI_START_RE.match(text):
@@ -30,64 +71,85 @@ def _with_leading_emoji(text: str, category: str) -> str:
     return f"{emoji} {text}".strip()
 
 
-def format_post(item: dict) -> str:
-    title = _with_leading_emoji(item["post_title"], item["category"])
-    body = _with_leading_emoji(item["post_body"], item["category"])
+def format_post(item: dict, lang: str = "en") -> str:
+    """Render an item for a channel. Farsi falls back to the English fields if
+    the model didn't return a translation for some reason."""
+    if lang == "fa":
+        title_src = item.get("post_title_fa") or item.get("post_title")
+        body_src = item.get("post_body_fa") or item.get("post_body")
+    else:
+        title_src = item["post_title"]
+        body_src = item["post_body"]
+    title = _with_leading_emoji(title_src, item["category"])
+    body = _with_leading_emoji(body_src, item["category"])
     return f"{title}\n\n{body}\n\n🔗 {item['url']}"
 
 
-async def _send_one(bot: Bot, item: dict) -> tuple[bool, int | None]:
+async def _send(bot: Bot, chat_id: str, text: str, *, disable_preview: bool) -> tuple[bool, int | None]:
     try:
         message = await bot.send_message(
-            chat_id=config.TELEGRAM_CHANNEL_ID,
-            text=format_post(item),
-            disable_web_page_preview=False,
+            chat_id=chat_id,
+            text=text,
+            disable_web_page_preview=disable_preview,
         )
         return True, message.message_id
     except TelegramError:
-        logger.warning("Failed to send Telegram message for '%s'", item["title"], exc_info=True)
+        logger.warning("Failed to send Telegram message to %s", chat_id, exc_info=True)
         return False, None
 
 
-async def _publish_all(items: list[dict]) -> list[tuple[bool, int | None]]:
-    bot = Bot(token=config.TELEGRAM_BOT_TOKEN)
+def _bots_for(channels: list[Channel]) -> dict[str, Bot]:
+    """One Bot per distinct token, reused across all items in the run."""
+    bots: dict[str, Bot] = {}
+    for ch in channels:
+        if ch.configured and ch.token not in bots:
+            bots[ch.token] = Bot(token=ch.token)
+    return bots
+
+
+async def _publish_all(items: list[dict]) -> list[dict[str, tuple[bool, int | None]]]:
+    channels = [_channel(lang) for lang in LANGS]
+    bots = _bots_for(channels)
     results = []
     for i, item in enumerate(items):
         if i > 0:
             await asyncio.sleep(config.TELEGRAM_SEND_DELAY_SECONDS)
-        results.append(await _send_one(bot, item))
+        per_lang: dict[str, tuple[bool, int | None]] = {}
+        for ch in channels:
+            if not ch.configured:
+                per_lang[ch.lang] = (False, None)
+                continue
+            text = format_post(item, ch.lang)
+            per_lang[ch.lang] = await _send(bots[ch.token], ch.chat_id, text, disable_preview=False)
+        results.append(per_lang)
     return results
 
 
-def publish_items(items: list[dict]) -> list[tuple[dict, bool, int | None]]:
-    """Send each item to the Telegram channel in order. Returns (item, success, message_id) triples."""
+def publish_items(items: list[dict]) -> list[tuple[dict, dict[str, tuple[bool, int | None]]]]:
+    """Send each item to every configured channel, in order.
+
+    Returns one (item, results) pair per item, where results maps each language
+    to a (success, message_id) tuple, e.g.
+        {"en": (True, 4021), "fa": (True, 88)}
+    Unconfigured channels report (False, None)."""
     if not items:
         return []
     if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHANNEL_ID:
         logger.warning("TELEGRAM_BOT_TOKEN/TELEGRAM_CHANNEL_ID not set - skipping publish")
-        return [(item, False, None) for item in items]
+        skipped = {lang: (False, None) for lang in LANGS}
+        return [(item, dict(skipped)) for item in items]
 
     results = asyncio.run(_publish_all(items))
-    return [(item, ok, message_id) for item, (ok, message_id) in zip(items, results)]
+    return list(zip(items, results))
 
 
-async def _send_text(bot: Bot, text: str) -> int | None:
-    try:
-        message = await bot.send_message(
-            chat_id=config.TELEGRAM_CHANNEL_ID,
-            text=text,
-            disable_web_page_preview=True,
-        )
-        return message.message_id
-    except TelegramError:
-        logger.warning("Failed to send digest message", exc_info=True)
+def send_text(text: str, lang: str = "en") -> int | None:
+    """Send a standalone message (e.g. a digest) to one channel. Returns the
+    message id on success, else None (including when that channel isn't set up)."""
+    ch = _channel(lang)
+    if not ch.configured:
+        logger.warning("%s channel not configured - skipping text send", ch.lang)
         return None
-
-
-def send_text(text: str) -> int | None:
-    """Send a standalone message (e.g. a digest) not tied to a fetched item."""
-    if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHANNEL_ID:
-        logger.warning("TELEGRAM_BOT_TOKEN/TELEGRAM_CHANNEL_ID not set - skipping digest send")
-        return None
-    bot = Bot(token=config.TELEGRAM_BOT_TOKEN)
-    return asyncio.run(_send_text(bot, text))
+    bot = Bot(token=ch.token)
+    _, message_id = asyncio.run(_send(bot, ch.chat_id, text, disable_preview=True))
+    return message_id

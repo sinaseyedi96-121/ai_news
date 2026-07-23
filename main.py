@@ -88,23 +88,33 @@ def run(dry_run: bool = False, force: bool = False) -> None:
             for item in to_publish:
                 logger.info("[dry-run]   (%s/%s) %s -- %s", item["category"], item["priority"],
                             item.get("post_title") or item["title"], item["url"])
-            results = [(item, False, None) for item in to_publish]
+            skipped = {"en": (False, None), "fa": (False, None)}
+            results = [(item, dict(skipped)) for item in to_publish]
         else:
             results = publish.publish_items(to_publish)
 
-        published_ok = {id(item): message_id for item, ok, message_id in results if ok}
+        # Per-item, per-channel (success, message_id); English drives the
+        # "posted" record and the daily cap, Farsi is mirrored alongside it.
+        results_by_item = {id(item): per_lang for item, per_lang in results}
+        posted_count = {"en": 0, "fa": 0}
 
         for item in classified:
-            posted = id(item) in published_ok
-            dedupe.add_history_entry(history, item, posted=posted, message_id=published_ok.get(id(item)))
-            if posted:
+            per_lang = results_by_item.get(id(item), {})
+            en_ok, en_message_id = per_lang.get("en", (False, None))
+            fa_ok, fa_message_id = per_lang.get("fa", (False, None))
+            dedupe.add_history_entry(history, item, posted=en_ok,
+                                     message_id=en_message_id, message_id_fa=fa_message_id)
+            if en_ok:
+                posted_count["en"] += 1
                 meta["posts_today"] += 1
                 meta["posts_today_by_category"][item["category"]] = (
                     meta["posts_today_by_category"].get(item["category"], 0) + 1
                 )
+            if fa_ok:
+                posted_count["fa"] += 1
 
-        logger.info("Run complete: %d classified, %d selected, %d actually posted",
-                    len(classified), len(to_publish_ids), len(published_ok))
+        logger.info("Run complete: %d classified, %d selected, %d posted (en), %d posted (fa)",
+                    len(classified), len(to_publish_ids), posted_count["en"], posted_count["fa"])
 
     # Digests are time-triggered (see digest.py), not tied to fresh news, so
     # they run on every non-dry-run invocation regardless of the branch above.

@@ -61,8 +61,13 @@ def default_meta() -> dict:
 def default_digest_state() -> dict:
     """Tracks the last date each digest was posted, so a slow-fire hourly cron
     doesn't repost it every run within the same day/week. Unlike "_meta", this
-    is never reset by ensure_today - it needs to persist across day changes."""
-    return {"daily_digest_date": None, "weekly_digest_date": None}
+    is never reset by ensure_today - it needs to persist across day changes.
+    The "_fa" keys track the Farsi mirror's digests independently, so each
+    channel can post its own recap without blocking the other."""
+    return {
+        "daily_digest_date": None, "weekly_digest_date": None,
+        "daily_digest_date_fa": None, "weekly_digest_date_fa": None,
+    }
 
 
 def load_history(path=config.POST_HISTORY_PATH) -> dict:
@@ -139,7 +144,8 @@ def filter_new_items(items: list[dict], history: dict) -> list[dict]:
     return new_items
 
 
-def add_history_entry(history: dict, item: dict, posted: bool, message_id: int | None = None) -> None:
+def add_history_entry(history: dict, item: dict, posted: bool,
+                      message_id: int | None = None, message_id_fa: int | None = None) -> None:
     seen_at = datetime.now(timezone.utc).isoformat()
     entry = {
         "title": item["title"],
@@ -151,11 +157,14 @@ def add_history_entry(history: dict, item: dict, posted: bool, message_id: int |
     }
     if posted:
         # Extra fields only needed for digest posts (main.select_for_publishing
-        # already applied priority; message_id lets digests link back to the
-        # channel's own post instead of the original news URL).
+        # already applied priority; the message ids let each channel's digest
+        # link back to its own post instead of the original news URL - "_fa" is
+        # the Farsi mirror's message id, absent/None when it wasn't posted there).
         entry["posted_at"] = seen_at
         entry["message_id"] = message_id
+        entry["message_id_fa"] = message_id_fa
         entry["post_title"] = item.get("post_title")
+        entry["post_title_fa"] = item.get("post_title_fa")
         entry["priority"] = item.get("priority")
     history[url_hash(item["url"])] = entry
 

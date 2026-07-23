@@ -4,14 +4,18 @@ A pipeline that fetches AI news from a curated set of sources, filters/dedupes i
 uses DeepSeek to classify and write short posts, and publishes them to a Telegram
 channel. Runs hourly during daytime hours via GitHub Actions.
 
+DeepSeek writes each post in English **and** Farsi, so an optional second channel
+(the Farsi mirror) receives a translated copy of every post and digest. Leave the
+`TELEGRAM_FARSI_*` secrets blank to run English-only.
+
 ## Architecture
 
 ```
 fetch.py               -> pulls raw items from sources.json (RSS) + NewsAPI (policy)
 dedupe.py               -> drops items already seen (post_history.json)
-classify_and_write.py   -> DeepSeek: filter relevance + write the Telegram post
-publish.py              -> sends approved posts to the Telegram channel
-digest.py               -> builds/sends the daily top-3 and weekly top-5 recap posts
+classify_and_write.py   -> DeepSeek: filter relevance + write the post (EN + FA)
+publish.py              -> sends approved posts to the Telegram channel(s)
+digest.py               -> builds/sends the daily top-3 and weekly top-5 recaps (per channel)
 main.py                 -> ties it all together, run once per invocation
 ```
 
@@ -27,10 +31,15 @@ so the workflow can inject them as env vars. Locally, copy `.env.example` to
 | `TELEGRAM_BOT_TOKEN` | publish.py -> Telegram Bot API |
 | `TELEGRAM_CHANNEL_ID` | publish.py -> which channel to post to (e.g. `@your_channel` or a numeric chat id) |
 | `TELEGRAM_CHANNEL_USERNAME` | digest.py -> public `@handle` (no `@`) used to build `https://t.me/<handle>/<message_id>` links in digest posts. Optional - only needed if `TELEGRAM_CHANNEL_ID` isn't already an `@handle` |
+| `TELEGRAM_FARSI_BOT_TOKEN` | publish.py -> Bot API token for the Farsi mirror channel. **Optional** - leave blank to disable Farsi posting |
+| `TELEGRAM_FARSI_CHANNEL_ID` | publish.py -> which Farsi channel to post to (e.g. `@ai_news_247_farsi` or a numeric chat id). Optional (see above) |
+| `TELEGRAM_FARSI_CHANNEL_USERNAME` | digest.py -> Farsi channel `@handle` for digest back-links. Optional - defaults to `TELEGRAM_FARSI_CHANNEL_ID` when that's an `@handle` |
 | `NEWSAPI_KEY` | fetch.py -> AI policy/politics keyword search (free "Developer" tier: 100 req/day) |
 
-The bot account behind `TELEGRAM_BOT_TOKEN` must be added to the channel as an
-admin with "Post messages" permission.
+Each bot account (`TELEGRAM_BOT_TOKEN`, and `TELEGRAM_FARSI_BOT_TOKEN` if used)
+must be added to its channel as an admin with "Post messages" permission. Farsi
+posting only kicks in when **both** `TELEGRAM_FARSI_BOT_TOKEN` and
+`TELEGRAM_FARSI_CHANNEL_ID` are set; otherwise the pipeline runs English-only.
 
 ## Adding or removing a source
 
@@ -87,9 +96,18 @@ DeepSeek writes each post as a headline + explanation, not one flat paragraph:
   involved, key numbers, why it matters), starting with a different emoji and
   weaving in 2-3 more near key facts.
 
-`publish.format_post` joins them as `title\n\nbody\n\n🔗 url`. If DeepSeek ever
-omits the leading emoji, `publish._with_leading_emoji` falls back to a
-per-category emoji from `config.CATEGORY_EMOJIS` so every post still gets one.
+DeepSeek also returns `post_title_fa` / `post_body_fa` - fluent Farsi
+translations that keep the same emojis and product names - used for the Farsi
+mirror channel. `publish.format_post(item, lang)` joins the chosen language's
+fields as `title\n\nbody\n\n🔗 url` (Farsi falls back to the English fields if a
+translation is missing). If DeepSeek ever omits the leading emoji,
+`publish._with_leading_emoji` falls back to a per-category emoji from
+`config.CATEGORY_EMOJIS` so every post still gets one.
+
+Each selected item is sent to every configured channel in the same run, and its
+`post_history.json` entry records a per-channel message id (`message_id` for
+English, `message_id_fa` for Farsi) so each channel's digest links to its own
+posts.
 
 ## Posting window
 
@@ -111,7 +129,8 @@ To bypass the window (e.g. testing manually outside daytime hours), either pass
 ## Digest posts
 
 On top of the regular news posts, two recap posts are built from
-`post_history.json`'s posted entries and sent to the same channel:
+`post_history.json`'s posted entries and sent to each configured channel (an
+English recap to the English channel, a Farsi recap to the Farsi channel):
 
 - **Daily top-3** - the day's best posts (by priority, newest first as a
   tiebreaker), fires once per local day at/after `config.DAILY_DIGEST_HOUR`
@@ -123,19 +142,22 @@ On top of the regular news posts, two recap posts are built from
   (3) were posted that week.
 
 Both link back to the channel's **own Telegram posts**
-(`https://t.me/<TELEGRAM_CHANNEL_USERNAME>/<message_id>`), not the original
-news URLs - the point is to resurface top stories inside the channel, not send
-readers elsewhere. This needs `TELEGRAM_CHANNEL_USERNAME` set (see above); if
-it isn't, digest entries fall back to a plain title line with no link.
+(`https://t.me/<channel username>/<message_id>`), not the original news URLs -
+the point is to resurface top stories inside the channel, not send readers
+elsewhere. This needs the channel's `..._USERNAME` set (see above); if it isn't,
+digest entries fall back to a plain title line with no link. The Farsi digest
+uses the Farsi title (`post_title_fa`) and only includes items that were
+actually posted to the Farsi channel (i.e. have a `message_id_fa`).
 
 Since these are time-triggered rather than tied to fresh news, `main.run()`
 checks them on every non-dry-run invocation, even when nothing new was fetched
-that hour. Idempotency (only firing once per day/week) is tracked in
-`post_history.json`'s `_digest_state` block, which - unlike `_meta` - persists
-across `ensure_today`'s daily reset:
+that hour. Idempotency (only firing once per day/week, per language) is tracked
+in `post_history.json`'s `_digest_state` block, which - unlike `_meta` -
+persists across `ensure_today`'s daily reset. The `_fa` keys track the Farsi
+mirror's digests independently:
 
 ```json
-"_digest_state": {"daily_digest_date": "2026-07-23", "weekly_digest_date": "2026-07-20"}
+"_digest_state": {"daily_digest_date": "2026-07-23", "weekly_digest_date": "2026-07-20", "daily_digest_date_fa": "2026-07-23", "weekly_digest_date_fa": "2026-07-20"}
 ```
 
 ## Testing a single feed locally before adding it to sources.json
