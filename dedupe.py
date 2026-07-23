@@ -11,6 +11,8 @@ State lives in post_history.json, keyed by url hash, plus a "_meta" entry that
 tracks the daily posting cap (see config.MAX_POSTS_PER_DAY).
 """
 
+from __future__ import annotations
+
 import json
 import logging
 import re
@@ -49,8 +51,18 @@ def normalize_title(title: str) -> str:
     return _WS_RE.sub(" ", _PUNCT_RE.sub("", title.lower())).strip()
 
 
+_RESERVED_KEYS = ("_meta", "_digest_state")
+
+
 def default_meta() -> dict:
     return {"date": None, "posts_today": 0, "posts_today_by_category": {}}
+
+
+def default_digest_state() -> dict:
+    """Tracks the last date each digest was posted, so a slow-fire hourly cron
+    doesn't repost it every run within the same day/week. Unlike "_meta", this
+    is never reset by ensure_today - it needs to persist across day changes."""
+    return {"daily_digest_date": None, "weekly_digest_date": None}
 
 
 def load_history(path=config.POST_HISTORY_PATH) -> dict:
@@ -60,6 +72,7 @@ def load_history(path=config.POST_HISTORY_PATH) -> dict:
     except (FileNotFoundError, json.JSONDecodeError):
         history = {}
     history.setdefault("_meta", default_meta())
+    history.setdefault("_digest_state", default_digest_state())
     ensure_today(history)
     return history
 
@@ -72,9 +85,9 @@ def ensure_today(history: dict) -> None:
 
 def save_history(history: dict, path=config.POST_HISTORY_PATH) -> None:
     cutoff = datetime.now(timezone.utc) - timedelta(days=config.HISTORY_RETENTION_DAYS)
-    pruned = {"_meta": history["_meta"]}
+    pruned = {"_meta": history["_meta"], "_digest_state": history["_digest_state"]}
     for key, entry in history.items():
-        if key == "_meta":
+        if key in _RESERVED_KEYS:
             continue
         try:
             seen_at = datetime.fromisoformat(entry["seen_at"])
@@ -90,7 +103,7 @@ def save_history(history: dict, path=config.POST_HISTORY_PATH) -> None:
 def _title_window_entries(history: dict):
     cutoff = datetime.now(timezone.utc) - timedelta(days=config.TITLE_DEDUPE_WINDOW_DAYS)
     for key, entry in history.items():
-        if key == "_meta":
+        if key in _RESERVED_KEYS:
             continue
         try:
             seen_at = datetime.fromisoformat(entry["seen_at"])
@@ -126,16 +139,45 @@ def filter_new_items(items: list[dict], history: dict) -> list[dict]:
     return new_items
 
 
-def add_history_entry(history: dict, item: dict, posted: bool) -> None:
-    history[url_hash(item["url"])] = {
+def add_history_entry(history: dict, item: dict, posted: bool, message_id: int | None = None) -> None:
+    seen_at = datetime.now(timezone.utc).isoformat()
+    entry = {
         "title": item["title"],
         "title_norm": normalize_title(item["title"]),
         "source": item["source"],
         "category": item["category"],
-        "seen_at": datetime.now(timezone.utc).isoformat(),
+        "seen_at": seen_at,
         "posted": posted,
     }
+    if posted:
+        # Extra fields only needed for digest posts (main.select_for_publishing
+        # already applied priority; message_id lets digests link back to the
+        # channel's own post instead of the original news URL).
+        entry["posted_at"] = seen_at
+        entry["message_id"] = message_id
+        entry["post_title"] = item.get("post_title")
+        entry["priority"] = item.get("priority")
+    history[url_hash(item["url"])] = entry
+
+
+def posted_entries_since(history: dict, cutoff: datetime) -> list[dict]:
+    """Posted entries with posted_at >= cutoff, for building digest posts."""
+    entries = []
+    for key, entry in history.items():
+        if key in _RESERVED_KEYS or not entry.get("posted"):
+            continue
+        try:
+            posted_at = datetime.fromisoformat(entry["posted_at"])
+        except (KeyError, ValueError):
+            continue
+        if posted_at >= cutoff:
+            entries.append(entry)
+    return entries
 
 
 def get_meta(history: dict) -> dict:
     return history["_meta"]
+
+
+def get_digest_state(history: dict) -> dict:
+    return history["_digest_state"]

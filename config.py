@@ -19,6 +19,14 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID", "")
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 
+# Public @handle (no "@") for building https://t.me/<handle>/<message_id>
+# links in digest posts. Defaults to TELEGRAM_CHANNEL_ID when that's already
+# an "@handle" (the common case); set explicitly if the channel is sent to by
+# numeric chat id but still has a public username.
+TELEGRAM_CHANNEL_USERNAME = os.environ.get("TELEGRAM_CHANNEL_USERNAME") or (
+    TELEGRAM_CHANNEL_ID.lstrip("@") if TELEGRAM_CHANNEL_ID.startswith("@") else ""
+)
+
 # --- DeepSeek ------------------------------------------------------------
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
 DEEPSEEK_MODEL = "deepseek-chat"  # cheaper non-reasoning tier; plenty for classify+write
@@ -50,6 +58,20 @@ TELEGRAM_SEND_DELAY_SECONDS = 2   # small pause between sends in the same run
 POSTING_TIMEZONE = "Europe/Berlin"
 POSTING_WINDOW_START_HOUR = 8    # inclusive, local time
 POSTING_WINDOW_END_HOUR = 23     # exclusive, local time
+
+# --- Digests -----------------------------------------------------------
+# Daily top-N recap, linking back to the channel's own posts (not the
+# original news links) - fires once per local day at/after this hour.
+DAILY_DIGEST_HOUR = 21           # local hour (POSTING_TIMEZONE)
+DAILY_DIGEST_TOP_N = 3
+DAILY_DIGEST_MIN_ITEMS = 2        # skip the recap on a very slow day
+
+# Weekly top-N recap over the trailing 7 days - fires once per week, on/after
+# this weekday+hour. Python weekday(): 0=Monday ... 6=Sunday.
+WEEKLY_DIGEST_WEEKDAY = 6         # Sunday
+WEEKLY_DIGEST_HOUR = 20           # local hour (POSTING_TIMEZONE)
+WEEKLY_DIGEST_TOP_N = 5
+WEEKLY_DIGEST_MIN_ITEMS = 3
 
 # --- Formatting --------------------------------------------------------------
 CATEGORY_EMOJIS = {

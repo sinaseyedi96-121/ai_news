@@ -2,8 +2,8 @@
 not a persistent process, since this is stateless polling.
 
 Flow: fetch -> dedupe -> classify+write (DeepSeek) -> select within daily cap
--> publish (Telegram) -> save updated post_history.json (committed back by
-the workflow).
+-> publish (Telegram) -> maybe post daily/weekly digests (see digest.py) ->
+save updated post_history.json (committed back by the workflow).
 """
 
 import argparse
@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 import classify_and_write
 import config
 import dedupe
+import digest
 import fetch
 import publish
 
@@ -75,38 +76,43 @@ def run(dry_run: bool = False, force: bool = False) -> None:
     new_items = dedupe.filter_new_items(raw_items, history)
     if not new_items:
         logger.info("Nothing new this run")
-        dedupe.save_history(history)
-        return
-
-    classified = classify_and_write.classify_items(new_items)
-
-    meta = dedupe.get_meta(history)
-    to_publish = select_for_publishing(classified, meta)
-    to_publish_ids = {id(item) for item in to_publish}
-
-    if dry_run:
-        logger.info("[dry-run] Would publish %d item(s):", len(to_publish))
-        for item in to_publish:
-            logger.info("[dry-run]   (%s/%s) %s -- %s", item["category"], item["priority"],
-                        item.get("post_title") or item["title"], item["url"])
-        results = [(item, False) for item in to_publish]
     else:
-        results = publish.publish_items(to_publish)
+        classified = classify_and_write.classify_items(new_items)
 
-    published_ok = {id(item) for item, ok in results if ok}
+        meta = dedupe.get_meta(history)
+        to_publish = select_for_publishing(classified, meta)
+        to_publish_ids = {id(item) for item in to_publish}
 
-    for item in classified:
-        posted = id(item) in published_ok
-        dedupe.add_history_entry(history, item, posted=posted)
-        if posted:
-            meta["posts_today"] += 1
-            meta["posts_today_by_category"][item["category"]] = (
-                meta["posts_today_by_category"].get(item["category"], 0) + 1
-            )
+        if dry_run:
+            logger.info("[dry-run] Would publish %d item(s):", len(to_publish))
+            for item in to_publish:
+                logger.info("[dry-run]   (%s/%s) %s -- %s", item["category"], item["priority"],
+                            item.get("post_title") or item["title"], item["url"])
+            results = [(item, False, None) for item in to_publish]
+        else:
+            results = publish.publish_items(to_publish)
+
+        published_ok = {id(item): message_id for item, ok, message_id in results if ok}
+
+        for item in classified:
+            posted = id(item) in published_ok
+            dedupe.add_history_entry(history, item, posted=posted, message_id=published_ok.get(id(item)))
+            if posted:
+                meta["posts_today"] += 1
+                meta["posts_today_by_category"][item["category"]] = (
+                    meta["posts_today_by_category"].get(item["category"], 0) + 1
+                )
+
+        logger.info("Run complete: %d classified, %d selected, %d actually posted",
+                    len(classified), len(to_publish_ids), len(published_ok))
+
+    # Digests are time-triggered (see digest.py), not tied to fresh news, so
+    # they run on every non-dry-run invocation regardless of the branch above.
+    if not dry_run:
+        digest.maybe_post_daily_digest(history)
+        digest.maybe_post_weekly_digest(history)
 
     dedupe.save_history(history)
-    logger.info("Run complete: %d classified, %d selected, %d actually posted",
-                len(classified), len(to_publish_ids), len(published_ok))
 
 
 if __name__ == "__main__":

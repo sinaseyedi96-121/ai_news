@@ -11,6 +11,7 @@ fetch.py               -> pulls raw items from sources.json (RSS) + NewsAPI (pol
 dedupe.py               -> drops items already seen (post_history.json)
 classify_and_write.py   -> DeepSeek: filter relevance + write the Telegram post
 publish.py              -> sends approved posts to the Telegram channel
+digest.py               -> builds/sends the daily top-3 and weekly top-5 recap posts
 main.py                 -> ties it all together, run once per invocation
 ```
 
@@ -25,6 +26,7 @@ so the workflow can inject them as env vars. Locally, copy `.env.example` to
 | `DEEPSEEK_API_KEY` | classify_and_write.py -> DeepSeek chat completions |
 | `TELEGRAM_BOT_TOKEN` | publish.py -> Telegram Bot API |
 | `TELEGRAM_CHANNEL_ID` | publish.py -> which channel to post to (e.g. `@your_channel` or a numeric chat id) |
+| `TELEGRAM_CHANNEL_USERNAME` | digest.py -> public `@handle` (no `@`) used to build `https://t.me/<handle>/<message_id>` links in digest posts. Optional - only needed if `TELEGRAM_CHANNEL_ID` isn't already an `@handle` |
 | `NEWSAPI_KEY` | fetch.py -> AI policy/politics keyword search (free "Developer" tier: 100 req/day) |
 
 The bot account behind `TELEGRAM_BOT_TOKEN` must be added to the channel as an
@@ -105,6 +107,36 @@ immediately without fetching, classifying, or posting anything.
 To bypass the window (e.g. testing manually outside daytime hours), either pass
 `--force` to `main.py` or trigger the workflow via `workflow_dispatch` with the
 `force` input set to `true`.
+
+## Digest posts
+
+On top of the regular news posts, two recap posts are built from
+`post_history.json`'s posted entries and sent to the same channel:
+
+- **Daily top-3** - the day's best posts (by priority, newest first as a
+  tiebreaker), fires once per local day at/after `config.DAILY_DIGEST_HOUR`
+  (21:00). Skipped if fewer than `DAILY_DIGEST_MIN_ITEMS` (2) were posted that
+  day.
+- **Weekly top-5** - the best posts over the trailing 7 days, fires once per
+  week on `config.WEEKLY_DIGEST_WEEKDAY` (Sunday) at/after
+  `WEEKLY_DIGEST_HOUR` (20:00). Skipped if fewer than `WEEKLY_DIGEST_MIN_ITEMS`
+  (3) were posted that week.
+
+Both link back to the channel's **own Telegram posts**
+(`https://t.me/<TELEGRAM_CHANNEL_USERNAME>/<message_id>`), not the original
+news URLs - the point is to resurface top stories inside the channel, not send
+readers elsewhere. This needs `TELEGRAM_CHANNEL_USERNAME` set (see above); if
+it isn't, digest entries fall back to a plain title line with no link.
+
+Since these are time-triggered rather than tied to fresh news, `main.run()`
+checks them on every non-dry-run invocation, even when nothing new was fetched
+that hour. Idempotency (only firing once per day/week) is tracked in
+`post_history.json`'s `_digest_state` block, which - unlike `_meta` - persists
+across `ensure_today`'s daily reset:
+
+```json
+"_digest_state": {"daily_digest_date": "2026-07-23", "weekly_digest_date": "2026-07-20"}
+```
 
 ## Testing a single feed locally before adding it to sources.json
 

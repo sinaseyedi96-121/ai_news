@@ -1,5 +1,7 @@
 """Publish layer: send approved items to the Telegram channel via the Bot API."""
 
+from __future__ import annotations
+
 import asyncio
 import logging
 import re
@@ -34,20 +36,20 @@ def format_post(item: dict) -> str:
     return f"{title}\n\n{body}\n\n🔗 {item['url']}"
 
 
-async def _send_one(bot: Bot, item: dict) -> bool:
+async def _send_one(bot: Bot, item: dict) -> tuple[bool, int | None]:
     try:
-        await bot.send_message(
+        message = await bot.send_message(
             chat_id=config.TELEGRAM_CHANNEL_ID,
             text=format_post(item),
             disable_web_page_preview=False,
         )
-        return True
+        return True, message.message_id
     except TelegramError:
         logger.warning("Failed to send Telegram message for '%s'", item["title"], exc_info=True)
-        return False
+        return False, None
 
 
-async def _publish_all(items: list[dict]) -> list[bool]:
+async def _publish_all(items: list[dict]) -> list[tuple[bool, int | None]]:
     bot = Bot(token=config.TELEGRAM_BOT_TOKEN)
     results = []
     for i, item in enumerate(items):
@@ -57,13 +59,35 @@ async def _publish_all(items: list[dict]) -> list[bool]:
     return results
 
 
-def publish_items(items: list[dict]) -> list[tuple[dict, bool]]:
-    """Send each item to the Telegram channel in order. Returns (item, success) pairs."""
+def publish_items(items: list[dict]) -> list[tuple[dict, bool, int | None]]:
+    """Send each item to the Telegram channel in order. Returns (item, success, message_id) triples."""
     if not items:
         return []
     if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHANNEL_ID:
         logger.warning("TELEGRAM_BOT_TOKEN/TELEGRAM_CHANNEL_ID not set - skipping publish")
-        return [(item, False) for item in items]
+        return [(item, False, None) for item in items]
 
     results = asyncio.run(_publish_all(items))
-    return list(zip(items, results))
+    return [(item, ok, message_id) for item, (ok, message_id) in zip(items, results)]
+
+
+async def _send_text(bot: Bot, text: str) -> int | None:
+    try:
+        message = await bot.send_message(
+            chat_id=config.TELEGRAM_CHANNEL_ID,
+            text=text,
+            disable_web_page_preview=True,
+        )
+        return message.message_id
+    except TelegramError:
+        logger.warning("Failed to send digest message", exc_info=True)
+        return None
+
+
+def send_text(text: str) -> int | None:
+    """Send a standalone message (e.g. a digest) not tied to a fetched item."""
+    if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHANNEL_ID:
+        logger.warning("TELEGRAM_BOT_TOKEN/TELEGRAM_CHANNEL_ID not set - skipping digest send")
+        return None
+    bot = Bot(token=config.TELEGRAM_BOT_TOKEN)
+    return asyncio.run(_send_text(bot, text))
