@@ -191,6 +191,14 @@
     "title": "CEO of Hugging face: Heading to San Francisco to have a little chat with that \u201crogue agent\u201d",
     "title_norm": "ceo of hugging face heading to san francisco to have a little chat with that rogue agent"
   },
+  "0135660efd079ca6fcb6c235f5b8b6aa9a356ba290dfe33161c049489ef231e5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824409+00:00",
+    "source": "Wired AI",
+    "title": "Some Kids Will Never Think AI Is Cool",
+    "title_norm": "some kids will never think ai is cool"
+  },
   "013f9c67aafcc41dc4cb4fbc7752b7f21e619365269565af3d0844a980bb98bb": {
     "category": "research",
     "posted": false,
@@ -1471,6 +1479,14 @@
     "title": "Monte Carlo Dropout Uncertainty and Entropy-Thresholded Selective Prediction for Architecture-Agnostic Brain Tumor MRI Triage",
     "title_norm": "monte carlo dropout uncertainty and entropythresholded selective prediction for architectureagnostic brain tumor mri triage"
   },
+  "09352e434b4514ae231967c172541c22c0086e0cba7f15c9b48c376ae42a9365": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824636+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Transept: AI translation workspace that puts humans first",
+    "title_norm": "show hn transept ai translation workspace that puts humans first"
+  },
   "0937e95db196f7a87216bfd812d978978541eecd1e08e41f930d245291fa4261": {
     "category": "research",
     "posted": false,
@@ -2542,6 +2558,14 @@
     "source": "Hacker News Frontpage",
     "title": "Quality non-fiction books are the antithesis of AI slop",
     "title_norm": "quality nonfiction books are the antithesis of ai slop"
+  },
+  "113011029cdba318948a286855511c90ff1de948b577ea1e4c91c9fdfc5329a7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824532+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: SaveAnswer \u2013 a local Chrome extension for keeping AI answers searchable",
+    "title_norm": "show hn saveanswer a local chrome extension for keeping ai answers searchable"
   },
   "113e579ce1226076940f8436a19c97ace93095ce3c07497d3ece9c7ca3cea54b": {
     "category": "research",
@@ -6533,6 +6557,14 @@
     "title": "GPT-5 and the future of mathematical discovery",
     "title_norm": "gpt5 and the future of mathematical discovery"
   },
+  "2cb9b93bea692e482f958133f72ceba5d841df6c89c748743a7f57e66cc63f87": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824890+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI, Rockets, and the Return of Hard Contracts (Part I)",
+    "title_norm": "ai rockets and the return of hard contracts part i"
+  },
   "2cc75063d0d1dfc19cfdb300ff96635440e6a8ce0b72d073c8c7cd5f9b0625e1": {
     "category": "research",
     "posted": false,
@@ -7404,6 +7436,14 @@
     "source": "arXiv cs.AI",
     "title": "Bridging the Information Gap: Semantic Densification and Hindsight Distillation for Cold-Start Prediction",
     "title_norm": "bridging the information gap semantic densification and hindsight distillation for coldstart prediction"
+  },
+  "31e8475b3ef69f99fe46f5c8d9193a41d17316eb8bfe2521bc467284ed1417fe": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824852+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Hive_review: Multi-agent AI code-review loop",
+    "title_norm": "hive_review multiagent ai codereview loop"
   },
   "31f053c94d55b1a41869d71b8ae243bcdfc522c761133e7064fb8289c91bea39": {
     "category": "other",
@@ -10212,6 +10252,14 @@
     "source": "Hugging Face Blog",
     "title": "Instruction-tuning Stable Diffusion with InstructPix2Pix",
     "title_norm": "instructiontuning stable diffusion with instructpix2pix"
+  },
+  "479db72d0541da6cfc1a8d821671e80f46ceeba4cf49f3e55afe6e92e5c71a96": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824797+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI-first development: Stories as a source of truth - by toby [video]",
+    "title_norm": "aifirst development stories as a source of truth by toby video"
   },
   "47bc9f91d570e73365d01dfb57b080b210b2286c4083bedbb25f219426d84f6a": {
     "category": "research",
@@ -16005,6 +16053,20 @@
     "title": "ChatGPT for finance teams",
     "title_norm": "chatgpt for finance teams"
   },
+  "6f49b150be5406e9c144aafd8e9955b05d676ae33dcf9b63f04096564ad331e0": {
+    "category": "model_release",
+    "message_id": 32,
+    "message_id_fa": 6,
+    "post_title": "\ud83d\ude80 Black Forest Labs releases FLUX 3 multimodal model",
+    "post_title_fa": "\ud83d\ude80 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0628\u0644\u06a9 \u0641\u0627\u0631\u0633\u062a \u0645\u062f\u0644 \u0686\u0646\u062f\u0648\u062c\u0647\u06cc FLUX 3 \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-07-24T10:55:53.824925+00:00",
+    "priority": "high",
+    "seen_at": "2026-07-24T10:55:53.824925+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence",
+    "title_norm": "flux 3 real world models towards multimodal flow models as the backbone of visual intelligence"
+  },
   "6f62003f83a30e96faec81f057bb94c926adf5e5c017c0f52ec790f3c37b07fe": {
     "category": "other",
     "posted": false,
@@ -20285,6 +20347,20 @@
     "title": "Enhancing news in ChatGPT with The Atlantic",
     "title_norm": "enhancing news in chatgpt with the atlantic"
   },
+  "9040c0b76688e3b8a9b7aabda6d7d055e205b0f43e977db015eeb783ae6fdf35": {
+    "category": "integration",
+    "message_id": 33,
+    "message_id_fa": 7,
+    "post_title": "\ud83e\udd1d Grok launches AI add-in for Excel",
+    "post_title_fa": "\ud83e\udd1d Grok \u0627\u0641\u0632\u0648\u0646\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0627\u06a9\u0633\u0644 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-07-24T10:55:53.824705+00:00",
+    "priority": "medium",
+    "seen_at": "2026-07-24T10:55:53.824705+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Grok muscles into Excel with an AI add-in of its own",
+    "title_norm": "grok muscles into excel with an ai addin of its own"
+  },
   "90665cf73b01d9aaf072321249a2fb567c929ad3b7d437f492befe1f973ec449": {
     "category": "research",
     "posted": false,
@@ -22483,9 +22559,10 @@
   },
   "_meta": {
     "date": "2026-07-24",
-    "posts_today": 4,
+    "posts_today": 6,
     "posts_today_by_category": {
-      "model_release": 2,
+      "integration": 1,
+      "model_release": 3,
       "policy": 1,
       "research": 1
     }
@@ -24376,6 +24453,14 @@
     "title": "Llama can now see and run on your device - welcome Llama 3.2",
     "title_norm": "llama can now see and run on your device welcome llama 32"
   },
+  "ad617459004f111572706ce1ea1d3fcf150ae572e99dfddb5e85c967cecff5a0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824672+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I'm So Tired of \"Is This AI?\"",
+    "title_norm": "im so tired of is this ai"
+  },
   "ad67257c7504b3c8e96eaef7417cc8701b5e9d6666d454ef72c3b49ab64ddb63": {
     "category": "other",
     "posted": false,
@@ -24671,6 +24756,14 @@
     "source": "Hugging Face Blog",
     "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
     "title_norm": "finetuning 20b llms with rlhf on a 24gb consumer gpu"
+  },
+  "af323c90f02152276fc9cb3ee9fdfcd35d1b59cd1977517ad729d09675c0c13a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824587+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Round-Trip Correctness: A New Metric for Generative AI-Based Process Modeling",
+    "title_norm": "roundtrip correctness a new metric for generative aibased process modeling"
   },
   "af6a1c13c380b6707a1f65afea2f7f9e3ed7c49c6afe5121c3774e685df0e2f0": {
     "category": "other",
@@ -27853,6 +27946,14 @@
     "source": "arXiv cs.AI",
     "title": "The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL",
     "title_norm": "the world model remembers the actor forgets dream rehearsal for continual modelbased rl"
+  },
+  "c558b75de5c89950e99f81f89db3f334093ee097c8c58ec7b79707d204a328c1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-24T10:55:53.824742+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Kitboga manipulates AI scam call into hallucination",
+    "title_norm": "kitboga manipulates ai scam call into hallucination"
   },
   "c562978dced065f0f98f270fc07a122010d71373408b00b044378c9a3212d92c": {
     "category": "research",
