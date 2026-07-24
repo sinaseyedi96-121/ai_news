@@ -95,7 +95,7 @@ def _top_entries(entries: list[dict], n: int) -> list[dict]:
 
 
 def _digest_line(rank: int, entry: dict, spec: _Lang) -> str:
-    title = _display_title(entry, spec)
+    title = publish.rtl_anchor(_display_title(entry, spec), spec.lang)
     link = _channel_link(spec.lang, entry.get(spec.message_id_key))
     if link is None:
         logger.warning("No %s channel username - digest entry has no link", spec.lang)

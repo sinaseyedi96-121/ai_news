@@ -47,21 +47,26 @@ For EACH item, decide:
     centers/chips, 🔬 research breakthroughs, 🎓 courses/certifications, 🤝
     partnerships/integrations).
   - post_body: 4-6 sentences of plain-text explanation covering what happened,
-    who's involved, key numbers/facts, and why it matters for the reader. MUST
-    start with a different emoji than the title's, and should naturally weave in
-    2-3 more emojis next to key facts, numbers, or outcomes (e.g. 📈 growth, 💵
-    dollar figures, ⚡ speed/performance, 🌍 global reach, 🔥 notable/big news) to
-    make it visually engaging - but don't force one into every sentence, and
-    never use more than one emoji in a row. No markdown headers, no hashtags, no
-    URLs (the code appends the link separately).
+    who's involved, key numbers/facts, and why it matters for the reader. Break
+    it into 1-3 short paragraphs separated by a blank line (a literal "\n\n"
+    between paragraphs, e.g. "what happened" as one paragraph and "why it
+    matters" as another) instead of one dense block, so it's easy to read on
+    mobile. MUST start with a different emoji than the title's, and should
+    naturally weave in 2-3 more emojis next to key facts, numbers, or outcomes
+    (e.g. 📈 growth, 💵 dollar figures, ⚡ speed/performance, 🌍 global reach, 🔥
+    notable/big news) to make it visually engaging - but don't force one into
+    every sentence, and never use more than one emoji in a row. No markdown
+    headers, no hashtags, no URLs (the code appends the link separately).
   - post_title_fa and post_body_fa: fluent, natural Farsi (Persian) translations
     of post_title and post_body, for a mirror channel. Same rules apply: keep the
     exact same leading emojis and inline emojis in the same spots, at most 12
-    words for the title with no trailing period, 4-6 sentences for the body, no
-    markdown/hashtags/URLs. Translate the meaning idiomatically (not word-for-word);
-    keep well-known product/company names (OpenAI, GPT-5, Nvidia, ...) in their
-    original Latin form rather than transliterating. If relevant=false or
-    duplicate_of is set, both are null (same as the English fields).
+    words for the title with no trailing period, 4-6 sentences for the body
+    broken into the same 1-3 paragraphs (same blank-line breaks) as post_body,
+    no markdown/hashtags/URLs. Translate the meaning idiomatically (not
+    word-for-word); keep well-known product/company names (OpenAI, GPT-5,
+    Nvidia, ...) in their original Latin form rather than transliterating. If
+    relevant=false or duplicate_of is set, both are null (same as the English
+    fields).
 
 Community-signal items (Hacker News/Reddit) are only relevant if they themselves
 report concrete news - general discussion/opinion threads are not relevant.

@@ -33,6 +33,25 @@ _EMOJI_START_RE = re.compile(
     "^[←-⯿️\U0001f000-\U0001ffff]"
 )
 
+# Right-to-left mark (zero-width, invisible): forced as the first character of
+# a Farsi line so the Unicode bidi algorithm anchors the whole line as RTL.
+# Without it, a line that starts with emoji + a Latin brand name (e.g. "🚀
+# GPT-5 ...", kept untranslated per the prompt) has its base direction
+# auto-detected from that first strong-direction character - Latin, since
+# emoji are direction-neutral - which flips the whole line to LTR and makes
+# the leading emoji visually jump to the end for an RTL reader.
+_RLM = "\u200f"
+
+
+def rtl_anchor(text: str, lang: str) -> str:
+    """Prefix every line of `text` with the RLM if lang is Farsi, so each
+    paragraph gets its own RTL anchor (bidi treats "\n" as a paragraph
+    separator, so a body with multiple paragraphs needs one per line, not
+    just one at the very start)."""
+    if lang != "fa":
+        return text
+    return "\n".join(f"{_RLM}{line}" if line else line for line in text.split("\n"))
+
 
 @dataclass(frozen=True)
 class Channel:
@@ -63,12 +82,12 @@ def channel_configured(lang: str) -> bool:
     return _channel(lang).configured
 
 
-def _with_leading_emoji(text: str, category: str) -> str:
+def _with_leading_emoji(text: str, category: str, lang: str = "en") -> str:
     text = (text or "").strip()
-    if text and _EMOJI_START_RE.match(text):
-        return text
-    emoji = config.CATEGORY_EMOJIS.get(category, config.DEFAULT_EMOJI)
-    return f"{emoji} {text}".strip()
+    if not (text and _EMOJI_START_RE.match(text)):
+        emoji = config.CATEGORY_EMOJIS.get(category, config.DEFAULT_EMOJI)
+        text = f"{emoji} {text}".strip()
+    return rtl_anchor(text, lang)
 
 
 def format_post(item: dict, lang: str = "en") -> str:
@@ -80,8 +99,8 @@ def format_post(item: dict, lang: str = "en") -> str:
     else:
         title_src = item["post_title"]
         body_src = item["post_body"]
-    title = _with_leading_emoji(title_src, item["category"])
-    body = _with_leading_emoji(body_src, item["category"])
+    title = _with_leading_emoji(title_src, item["category"], lang)
+    body = _with_leading_emoji(body_src, item["category"], lang)
     return f"{title}\n\n{body}\n\n🔗 {item['url']}"
 
 
