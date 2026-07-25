@@ -42,6 +42,11 @@ TELEGRAM_FARSI_CHANNEL_USERNAME = os.environ.get("TELEGRAM_FARSI_CHANNEL_USERNAM
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
 DEEPSEEK_MODEL = "deepseek-v4-flash"  # cheaper tier; plenty for classify+write ("deepseek-chat" was retired)
 DEEPSEEK_TEMPERATURE = 0.3
+# v4-flash reasons over every item before writing EN+FA post bodies, which is much
+# slower than the old non-reasoning deepseek-chat - a full 30-item batch with several
+# relevant stories can take well over REQUEST_TIMEOUT_SECONDS (20s, tuned for plain
+# GET calls elsewhere), so give it its own generous ceiling.
+DEEPSEEK_TIMEOUT_SECONDS = 90
 MAX_ITEMS_PER_CLASSIFY_BATCH = 30  # chunk size sent to DeepSeek per call
 CLASSIFY_SUMMARY_CHARS = 800  # source summary chars fed to DeepSeek as writing material
 

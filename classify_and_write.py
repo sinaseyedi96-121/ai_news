@@ -117,7 +117,7 @@ def call_deepseek(system_prompt: str, user_prompt: str) -> dict:
     try:
         resp = requests.post(
             config.DEEPSEEK_API_URL, headers=headers, json=body,
-            timeout=config.REQUEST_TIMEOUT_SECONDS,
+            timeout=config.DEEPSEEK_TIMEOUT_SECONDS,
         )
         resp.raise_for_status()
         content = resp.json()["choices"][0]["message"]["content"]
