@@ -5277,6 +5277,14 @@
     "title": "Codex now offers more flexible pricing for teams",
     "title_norm": "codex now offers more flexible pricing for teams"
   },
+  "22c7d32f3a97576de51b7b089950ce56990b1f864fa1bbd23fb79a5fdf753ce4": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608687+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Who ONLY use local models?",
+    "title_norm": "who only use local models"
+  },
   "22da3640cb185d4583cabc528002c02e30f84f2d5c29a8e548cfbbbf2ca848e1": {
     "category": "research",
     "posted": false,
@@ -7268,6 +7276,14 @@
     "source": "arXiv cs.AI",
     "title": "MoA-Structured Decode Attention DNF Derivation, KV-Cache Accumulation, GQA/MQA, and OpenACC Kernel",
     "title_norm": "moastructured decode attention dnf derivation kvcache accumulation gqamqa and openacc kernel"
+  },
+  "2fa49538389684a1f3ef7d07a99ae6b74232c49ba225ffa67ba669388b030307": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608523+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "title_norm": "case study ai trainer platform and job board months 16"
   },
   "2fa78cac156a7af8d0c643c15119eb516daf7a4a4cbf5b55d23c2cc2034fb809": {
     "category": "research",
@@ -20015,6 +20031,14 @@
     "title": "How Descript engineers multilingual video dubbing at scale",
     "title_norm": "how descript engineers multilingual video dubbing at scale"
   },
+  "878e5664a109441faba9856f407d7957b4eab83fac03b597e5fe14fafa1fb55c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608662+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "title_norm": "at the altar of ai capex google is sacrificing the golden goose"
+  },
   "879fd1c357492703ecedace91330833f48248003abcc1940b7bee5aa3c5afcf7": {
     "category": "research",
     "posted": false,
@@ -20214,6 +20238,14 @@
     "source": "arXiv cs.AI",
     "title": "When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation",
     "title_norm": "when are reasoningbased guardrails not efficient responseguard a fast visionlanguage guard for realtime moderation"
+  },
+  "895e7d145820704f6af62b807d20fb9b81d784714fd99be020084f609cea66e5": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608582+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
+    "title_norm": "why a philosopher turned down anthropic ai industry asking the wrong questions"
   },
   "8962d0289b59b12b8fab34feea9bc9ad3263eb10029fcee1d05ea0ae58ea48fb": {
     "category": "research",
@@ -24957,6 +24989,14 @@
     "title": "Getting started with ChatGPT",
     "title_norm": "getting started with chatgpt"
   },
+  "aa71858904da367416f1627b42b643e2488d53422cef89621618578960b81310": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608404+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "title_norm": "show hn i simulated closing the strait of hormuz on real oil trade data"
+  },
   "aa725438d590ef1e5657e6c9a42b4549fe0575cbbee5ff36a3be04de76f9784a": {
     "category": "research",
     "posted": false,
@@ -29331,6 +29371,14 @@
     "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
     "title_norm": "multimodal embedding reranker models with sentence transformers"
   },
+  "c7742d8de62cc691058f6d6f6466f533cba3b23fcd0edf2a952f175cd7b2883f": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608708+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Setup for always on assistant",
+    "title_norm": "setup for always on assistant"
+  },
   "c7866bf4d0809ad491d368e229e3f5bb5b8e9a2ef3345044ed9d36535de63c7e": {
     "category": "other",
     "posted": false,
@@ -33033,6 +33081,14 @@
     "title": "FormulaCode: Evaluating Agentic Optimization on Large Codebases",
     "title_norm": "formulacode evaluating agentic optimization on large codebases"
   },
+  "e1d3ae827a87819ee4b4cf730fafd9d11e2d82dc5b1b900b4d56f6e59f327ab5": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608611+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
+    "title_norm": "show hn ts compiler knowledge graph reducing ai tokens about 90"
+  },
   "e1e01da94ce9dd4d64f753fd87a194223c81bd6ef1b0a2dfd2ccbeb473d9f0d8": {
     "category": "research",
     "posted": false,
@@ -33969,6 +34025,14 @@
     "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
     "title_norm": "kiminaprover applying testtime rl search on large formal reasoning models"
   },
+  "e806b0f1adf83e3c5204fb0939efdb4f9a01428861b65d496bdbc4e29a37cac5": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608471+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+    "title_norm": "ask hn is neuromorphic computing going to replace traditional ai"
+  },
   "e8074f493edb9da41c8dfca37fe93c1d8c8993ae9cc54917d52c10403f2530bd": {
     "category": "other",
     "posted": false,
@@ -34448,6 +34512,14 @@
     "source": "arXiv cs.AI",
     "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation",
     "title_norm": "cggs consistencyaugmented geometric gaussian splatting for egocentric 3d scene generation"
+  },
+  "eb9177a6d33b54dbfde566040c1c1fdae408630ed57829bc1544d3b5de24fa9c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608638+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
+    "title_norm": "secretary wright announces first ai genesis mission projects"
   },
   "eb9a8702520abacbb9954f7be99ff4e620adc334656a11d90841a45216f0a6a5": {
     "category": "other",
@@ -35064,6 +35136,14 @@
     "source": "Hacker News AI keyword",
     "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
     "title_norm": "cisco antares a new family of cheap opensource compact security ai models"
+  },
+  "f068fd9bbf4850ef5ccfd925c7baa1e6f9d0232acbb35a082a4ed449212748c3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-07-25T09:29:27.608555+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: AI Toolbox supports Claude Opus 5",
+    "title_norm": "show hn ai toolbox supports claude opus 5"
   },
   "f06f004e2ec809790cc64456ecfb6e1c9502c494161c8f3c36164e755ffd9994": {
     "category": "model_release",
