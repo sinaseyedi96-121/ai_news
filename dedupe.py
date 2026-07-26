@@ -51,7 +51,7 @@ def normalize_title(title: str) -> str:
     return _WS_RE.sub(" ", _PUNCT_RE.sub("", title.lower())).strip()
 
 
-_RESERVED_KEYS = ("_meta", "_digest_state")
+_RESERVED_KEYS = ("_meta", "_digest_state", "_queue", "_publish_state")
 
 
 def default_meta() -> dict:
@@ -70,6 +70,13 @@ def default_digest_state() -> dict:
     }
 
 
+def default_publish_state() -> dict:
+    """Tracks the last publish slot (e.g. "2026-07-26-13") that was drained, so
+    a manual re-run (or a cron overlap) within the same hour doesn't send the
+    same slot's batch twice."""
+    return {"last_slot": None}
+
+
 def load_history(path=config.POST_HISTORY_PATH) -> dict:
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -78,6 +85,8 @@ def load_history(path=config.POST_HISTORY_PATH) -> dict:
         history = {}
     history.setdefault("_meta", default_meta())
     history.setdefault("_digest_state", default_digest_state())
+    history.setdefault("_queue", [])
+    history.setdefault("_publish_state", default_publish_state())
     ensure_today(history)
     return history
 
@@ -90,7 +99,12 @@ def ensure_today(history: dict) -> None:
 
 def save_history(history: dict, path=config.POST_HISTORY_PATH) -> None:
     cutoff = datetime.now(timezone.utc) - timedelta(days=config.HISTORY_RETENTION_DAYS)
-    pruned = {"_meta": history["_meta"], "_digest_state": history["_digest_state"]}
+    pruned = {
+        "_meta": history["_meta"],
+        "_digest_state": history["_digest_state"],
+        "_queue": history.get("_queue", []),
+        "_publish_state": history.get("_publish_state", default_publish_state()),
+    }
     for key, entry in history.items():
         if key in _RESERVED_KEYS:
             continue
@@ -190,3 +204,38 @@ def get_meta(history: dict) -> dict:
 
 def get_digest_state(history: dict) -> dict:
     return history["_digest_state"]
+
+
+def get_queue(history: dict) -> list[dict]:
+    """Items that passed classification and the daily cap but haven't been
+    sent to Telegram yet - drained a few at a time by main.publish_queue so
+    the day's posts land in evenly spaced bursts instead of all at once."""
+    return history.setdefault("_queue", [])
+
+
+def enqueue_for_publish(history: dict, item: dict) -> None:
+    get_queue(history).append(item)
+
+
+def get_publish_state(history: dict) -> dict:
+    return history.setdefault("_publish_state", default_publish_state())
+
+
+def mark_posted(history: dict, item: dict, message_id: int | None, message_id_fa: int | None) -> None:
+    """Flip a queued item's history entry to posted once it's actually been
+    sent (the entry itself was already created at classify time, posted=False,
+    so high-volume feeds don't get reclassified while an item waits in queue)."""
+    key = url_hash(item["url"])
+    entry = history.get(key)
+    if entry is None:
+        add_history_entry(history, item, posted=True, message_id=message_id, message_id_fa=message_id_fa)
+        return
+    entry.update({
+        "posted": True,
+        "posted_at": datetime.now(timezone.utc).isoformat(),
+        "message_id": message_id,
+        "message_id_fa": message_id_fa,
+        "post_title": item.get("post_title"),
+        "post_title_fa": item.get("post_title_fa"),
+        "priority": item.get("priority"),
+    })

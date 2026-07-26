@@ -75,6 +75,16 @@ POSTING_TIMEZONE = "Europe/Berlin"
 POSTING_WINDOW_START_HOUR = 8    # inclusive, local time
 POSTING_WINDOW_END_HOUR = 23     # exclusive, local time
 
+# --- Publish cadence -----------------------------------------------------
+# Items that pass classification + the daily cap are queued (post_history.json
+# "_queue") rather than sent immediately - main.publish_queue only drains the
+# queue during these local hours (POSTING_TIMEZONE), up to PUBLISH_BATCH_SIZE
+# items per slot, so the day's MAX_POSTS_PER_DAY posts land in evenly spaced
+# bursts across the day instead of all at once whenever news happens to break.
+# 4 slots x 2 posts = MAX_POSTS_PER_DAY on a full day.
+PUBLISH_HOURS = (9, 13, 17, 21)
+PUBLISH_BATCH_SIZE = 2
+
 # --- Digests -----------------------------------------------------------
 # Daily top-N recap, linking back to the channel's own posts (not the
 # original news links) - fires once per local day at/after this hour.

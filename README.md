@@ -12,7 +12,7 @@ DeepSeek writes each post in English **and** Farsi, so an optional second channe
 
 ```
 fetch.py               -> pulls raw items from sources.json (RSS) + NewsAPI (policy)
-dedupe.py               -> drops items already seen (post_history.json)
+dedupe.py               -> drops items already seen (post_history.json), holds the publish queue
 classify_and_write.py   -> DeepSeek: filter relevance + write the post (EN + FA)
 publish.py              -> sends approved posts to the Telegram channel(s)
 digest.py               -> builds/sends the daily top-3 and weekly top-5 recaps (per channel)
@@ -79,13 +79,14 @@ unbounded.
 "_meta": {"date": "2026-07-21", "posts_today": 3, "posts_today_by_category": {"policy": 1}}
 ```
 
-At most `MAX_POSTS_PER_DAY` (8, in `config.py`) items get posted per UTC day,
-selected by priority (high > medium > low, newest first as a tiebreaker) across
-all runs that day. `courses` is further capped at `MAX_COURSE_POSTS_PER_DAY` (1)
-since course/certification announcements are explicitly lower priority. Items
-that lose out to the cap are recorded as seen-but-not-posted and won't be
-retried later that day - the cap is a hard editorial limit on channel volume,
-not a delayed queue.
+At most `MAX_POSTS_PER_DAY` (8, in `config.py`) items get selected per UTC day,
+by priority (high > medium > low, newest first as a tiebreaker) across all runs
+that day. `courses` is further capped at `MAX_COURSE_POSTS_PER_DAY` (1) since
+course/certification announcements are explicitly lower priority. Items that
+lose out to the cap are recorded as seen-but-not-posted and won't be retried
+later that day - the cap is a hard editorial limit on channel volume. Items
+that *win* the cap aren't sent immediately either - they're enqueued and go out
+on the schedule described below (see "Publish cadence").
 
 ## Post format
 
@@ -125,6 +126,38 @@ immediately without fetching, classifying, or posting anything.
 To bypass the window (e.g. testing manually outside daytime hours), either pass
 `--force` to `main.py` or trigger the workflow via `workflow_dispatch` with the
 `force` input set to `true`.
+
+## Publish cadence: queue + fixed daily slots
+
+Fetching/classifying and actually sending to Telegram are decoupled on
+purpose. News breaks in bursts (a busy morning can fill the whole daily cap in
+one run), but we still want the day's posts spread evenly across the day
+instead of all landing in the same run.
+
+- Every hourly run that finds new, cap-approved items appends them to a
+  publish queue (`post_history.json`'s `_queue` list) instead of sending them.
+- Separately, every run checks whether the current local hour
+  (`config.POSTING_TIMEZONE`) is one of `config.PUBLISH_HOURS` (currently `9,
+  13, 17, 21`). If so, `main.publish_queue()` sends the oldest
+  `config.PUBLISH_BATCH_SIZE` (2) items in the queue to every configured
+  channel and marks them posted. 4 slots x 2 posts = `MAX_POSTS_PER_DAY` on a
+  full day.
+- Each slot only fires once (tracked in `post_history.json`'s `_publish_state`
+  block), so a manual re-run or overlapping cron trigger within the same hour
+  is a no-op. `--force` bypasses both the slot-hour check and the once-per-slot
+  guard, for manually testing a real send.
+- An item whose send fails (e.g. a transient Telegram error) is left at the
+  front of the queue to retry at the next slot rather than being dropped or
+  double-counted against the cap.
+
+This was a deliberate choice over trying to have Telegram itself hold and send
+messages later: the Bot API has no "send at a future time" parameter for bots
+- scheduled sending is a client-only feature of regular user accounts in the
+Telegram app, not something a bot account can invoke. A self-managed queue is
+also the better foundation if another platform (X, LinkedIn, ...) gets added
+later - it becomes another `publish`-style adapter that the same
+`publish_queue()` scheduler calls, rather than reimplementing pacing logic per
+platform.
 
 ## Digest posts
 
