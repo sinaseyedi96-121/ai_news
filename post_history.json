@@ -1335,6 +1335,14 @@
     "title": "GPT-5.5 Bio Bug Bounty",
     "title_norm": "gpt55 bio bug bounty"
   },
+  "07b1711932618e459df4db490d78a5103e0148fe73b9aca360aaf4bd9ea4d73f": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727520+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "ai-sage/GigaChat3.1-Audio-10B-A1.8B \u00b7 Hugging Face",
+    "title_norm": "aisagegigachat31audio10ba18b hugging face"
+  },
   "07bc83b7fb6be53ee31a79fe2fbf44604d2af0185314c44035df74d21b8f97f0": {
     "category": "research",
     "posted": false,
@@ -3574,6 +3582,14 @@
     "source": "Hugging Face Blog",
     "title": "LeRobot Community Datasets: The \u201cImageNet\u201d of Robotics \u2014 When and How?",
     "title_norm": "lerobot community datasets the imagenet of robotics when and how"
+  },
+  "174912bd2b865faf7e55e595d28bfa82f3b04142c2c2707283952ce3aa026994": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727536+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "POCKET-35B agentic model on cpu 59 t/s",
+    "title_norm": "pocket35b agentic model on cpu 59 ts"
   },
   "175f05b6e283a13cdb743fe6c66ae0462cad6ec603fb9e8e58c134efdf7b19a7": {
     "category": "integration",
@@ -6044,6 +6060,14 @@
     "source": "OpenAI News",
     "title": "Inside our approach to the Model Spec",
     "title_norm": "inside our approach to the model spec"
+  },
+  "264ec888baff15520028bdebe72959f43c32778b75705e83c65eabc4dfc69bfe": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727444+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI drove Shopify back to clean code",
+    "title_norm": "ai drove shopify back to clean code"
   },
   "26548497a1d6b333af916d8d1888e9018fca5d2d8483b5c6c479e16180ceda04": {
     "category": "other",
@@ -13609,6 +13633,14 @@
     "title": "Introducing Skops",
     "title_norm": "introducing skops"
   },
+  "5905d91041622085188725a4f13e0cc6fd9e9165424be26db822ad78eeb89174": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727548+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "16 bit better than lower quants for Qwen3.6-27B",
+    "title_norm": "16 bit better than lower quants for qwen3627b"
+  },
   "5910ae1d0e2876a5834fc1a7ddcfe0fad909540c5d07bcc6a75b84068bc19abb": {
     "category": "research",
     "posted": false,
@@ -14504,6 +14536,14 @@
     "source": "Hacker News AI keyword",
     "title": "BrainStem: Open\u2011source bio\u2011inspired AI with 12 neuromodulators for learning",
     "title_norm": "brainstem opensource bioinspired ai with 12 neuromodulators for learning"
+  },
+  "5dc162f15830429d99d626b2ff0927ef719f2506de212659f4a6854ff1c82180": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727315+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "title_norm": "no stack overflow no autocomplete what coding felt like in the 80s"
   },
   "5dc4bb23f117725396fd2138b7fb1a1ba9228d20b6f2538b327ceba6e4482fa8": {
     "category": "research",
@@ -15488,6 +15528,14 @@
     "source": "Hacker News AI keyword",
     "title": "Trump administration Announces $5B for the Genesis Mission (AI for Science)",
     "title_norm": "trump administration announces 5b for the genesis mission ai for science"
+  },
+  "6382a0911a131e86d1a0d76e998659293157e083988a7309aedd735fa85ebb39": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727459+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "When the AI bubble bursts, silver is Eric Sprott's play",
+    "title_norm": "when the ai bubble bursts silver is eric sprotts play"
   },
   "638c6183d30a70b3a777054069b205572cfd091878a61bda8fc26eb2aeb23d1d": {
     "category": "research",
@@ -21195,6 +21243,14 @@
     "title": "The PImpl idiom and the C++26 std:indirect type",
     "title_norm": "the pimpl idiom and the c26 stdindirect type"
   },
+  "8b5b8501b2163d2a03b833a0fbb887410cc2e23f33516a4c0d813d85021349bc": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727491+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+    "title_norm": "house ai kill switch bill unveiled as openai hack raises alarms"
+  },
   "8b68f8a49bcea05a3f711f4144864b8d63fe776c321e4822392cb4702b894e39": {
     "category": "policy",
     "posted": false,
@@ -21648,6 +21704,14 @@
     "source": "arXiv cs.AI",
     "title": "Estimating Rare Events in Language Models with Proper Evaluation",
     "title_norm": "estimating rare events in language models with proper evaluation"
+  },
+  "8e937a65353aaa34fe2284df5d9a337a1dfaae16b0040d31b26abfcf5fb62327": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727475+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "If you feel the need to tell me your answer is AI-based, work it more",
+    "title_norm": "if you feel the need to tell me your answer is aibased work it more"
   },
   "8ead13ac7549ef5ddc1d4e04fc056980921825c134dfd5e9c71c7433ff230ed6": {
     "category": "community_signal",
@@ -24257,6 +24321,10 @@
       "policy": 3
     }
   },
+  "_publish_state": {
+    "last_slot": null
+  },
+  "_queue": [],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
     "category": "research",
     "posted": false,
@@ -28677,6 +28745,14 @@
     "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
     "title_norm": "sair accelerating pharma rd with aipowered structural intelligence"
   },
+  "bd313e7fdc9f5123d5c327931af7558f35f1cb5b09e2295b335608800a1d3d5f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727506+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Anthropic secures its AI-native software development lifecycle",
+    "title_norm": "anthropic secures its ainative software development lifecycle"
+  },
   "bd328ae30fc3cf58d6c3ddce3561b3fb15b1060fdbaa9cb6023f5b497c70f01d": {
     "category": "research",
     "posted": false,
@@ -31520,6 +31596,14 @@
     "source": "Hugging Face Blog",
     "title": "My Journey to a serverless transformers pipeline on Google Cloud",
     "title_norm": "my journey to a serverless transformers pipeline on google cloud"
+  },
+  "cff80b044bf04bb5e590bcb9a3aab7c397b66663d139ae038e18f8fabfddb4dd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727401+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Elevated Errors for Opus 5",
+    "title_norm": "elevated errors for opus 5"
   },
   "d004f299b32a7f21dae289d111b88f11de43e55f747f5d88e5d46e9c0003f376": {
     "category": "research",
@@ -35974,6 +36058,14 @@
     "source": "Hacker News Frontpage",
     "title": "Everyone Should Know SIMD",
     "title_norm": "everyone should know simd"
+  },
+  "edc31ee88de60c468018130f74abea6675e792ffb0248caaeea57bae58a1deff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-26T10:30:59.727423+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "title_norm": "ruff v0160 significant new updates 413 default rules up from 59"
   },
   "edca3775ca0f14323728b395868decf24fa6337b6cdb7de15b1eecce1df33db0": {
     "category": "infrastructure",
