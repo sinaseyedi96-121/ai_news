@@ -2,11 +2,13 @@ name: Post AI News
 
 on:
   schedule:
-    # Hourly, 06:00-22:00 UTC. This is a superset of 08:00-23:00 Europe/Berlin
-    # local time across both CET (UTC+1) and CEST (UTC+2) - main.py's
-    # zoneinfo-based check (config.POSTING_TIMEZONE) does the precise,
-    # DST-correct daytime gating and skips any run outside that window.
-    - cron: "0 6-22 * * *"
+    # Every 15 min, 06:00-22:59 UTC. This is a superset of 08:00-23:00
+    # Europe/Berlin local time across both CET (UTC+1) and CEST (UTC+2) -
+    # main.py's zoneinfo-based check (config.POSTING_TIMEZONE) does the precise,
+    # DST-correct daytime gating and skips any run outside that window. Running
+    # often (rather than hourly) keeps each publish slot close to on-time and
+    # lets a run catch up a slot the frequently-late GitHub cron missed.
+    - cron: "*/15 6-22 * * *"
   workflow_dispatch:
     inputs:
       force:

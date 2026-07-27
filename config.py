@@ -76,14 +76,21 @@ POSTING_WINDOW_START_HOUR = 8    # inclusive, local time
 POSTING_WINDOW_END_HOUR = 23     # exclusive, local time
 
 # --- Publish cadence -----------------------------------------------------
-# Items that pass classification + the daily cap are queued (post_history.json
-# "_queue") rather than sent immediately - main.publish_queue only drains the
-# queue during these local hours (POSTING_TIMEZONE), up to PUBLISH_BATCH_SIZE
-# items per slot, so the day's MAX_POSTS_PER_DAY posts land in evenly spaced
-# bursts across the day instead of all at once whenever news happens to break.
-# 4 slots x 2 posts = MAX_POSTS_PER_DAY on a full day.
-PUBLISH_HOURS = (9, 13, 17, 21)
-PUBLISH_BATCH_SIZE = 2
+# Relevant items are queued (post_history.json "_queue") rather than sent
+# immediately; main.publish_queue drains the freshest one at each of these
+# local slot hours (POSTING_TIMEZONE), so the day's posts land evenly spread
+# instead of all at once whenever news happens to break. 8 slots x 1 post =
+# MAX_POSTS_PER_DAY on a full day. A run only has to happen *after* a slot hour
+# (not exactly on it) to serve it, so the often-late/dropped GitHub Actions
+# cron can't silently skip a slot - see main._due_publish_slot.
+PUBLISH_HOURS = (8, 10, 12, 14, 16, 18, 20, 22)
+PUBLISH_BATCH_SIZE = 1
+
+# The queue only ever holds the freshest/highest-priority candidates: after
+# each fetch it's sorted (priority, then newest) and trimmed to this depth, so
+# a busy morning can't bury genuinely fresh afternoon news, and the daily cap
+# (MAX_POSTS_PER_DAY) is spent at send time, not when items are queued.
+MAX_QUEUE_DEPTH = 12
 
 # --- Digests -----------------------------------------------------------
 # Daily top-N recap, linking back to the channel's own posts (not the

@@ -2,7 +2,7 @@
 
 A pipeline that fetches AI news from a curated set of sources, filters/dedupes it,
 uses DeepSeek to classify and write short posts, and publishes them to a Telegram
-channel. Runs hourly during daytime hours via GitHub Actions.
+channel. Runs every 15 minutes during daytime hours via GitHub Actions.
 
 DeepSeek writes each post in English **and** Farsi, so an optional second channel
 (the Farsi mirror) receives a translated copy of every post and digest. Leave the
@@ -79,14 +79,15 @@ unbounded.
 "_meta": {"date": "2026-07-21", "posts_today": 3, "posts_today_by_category": {"policy": 1}}
 ```
 
-At most `MAX_POSTS_PER_DAY` (8, in `config.py`) items get selected per UTC day,
-by priority (high > medium > low, newest first as a tiebreaker) across all runs
-that day. `courses` is further capped at `MAX_COURSE_POSTS_PER_DAY` (1) since
-course/certification announcements are explicitly lower priority. Items that
-lose out to the cap are recorded as seen-but-not-posted and won't be retried
-later that day - the cap is a hard editorial limit on channel volume. Items
-that *win* the cap aren't sent immediately either - they're enqueued and go out
-on the schedule described below (see "Publish cadence").
+At most `MAX_POSTS_PER_DAY` (8, in `config.py`) items are *sent* per UTC day.
+The cap is charged when an item is actually posted (not when it's queued), so a
+busy morning can't reserve the whole day's quota and then block genuinely fresh
+afternoon news - see "Publish cadence" below. `courses` is further capped at
+`MAX_COURSE_POSTS_PER_DAY` (1) since course/certification announcements are
+explicitly lower priority. Every relevant item is enqueued; the queue is held
+to the freshest `MAX_QUEUE_DEPTH` (12) candidates by priority (high > medium >
+low, newest first as a tiebreaker), and the rest are recorded as
+seen-but-not-posted. Items go out on the schedule described below.
 
 ## Post format
 
@@ -118,37 +119,43 @@ Posts only go out during local daytime hours, `config.POSTING_WINDOW_START_HOUR`
 `zoneinfo`, which tracks CET/CEST DST automatically - this is the precise gate.
 
 The GitHub Actions cron (`.github/workflows/post.yml`) only restricts runs to a
-UTC superset of that window (`06:00-22:00 UTC`) to cut down on wasted runs; a
-fixed cron can't track DST on its own, so the exact cutoff is always decided in
-code, not by the cron expression. Outside the window, `main.run()` returns
-immediately without fetching, classifying, or posting anything.
+UTC superset of that window (every 15 min, `06:00-22:59 UTC`); a fixed cron
+can't track DST on its own, so the exact cutoff is always decided in code, not
+by the cron expression. Outside the window, `main.run()` returns immediately
+without fetching, classifying, or posting anything.
 
 To bypass the window (e.g. testing manually outside daytime hours), either pass
 `--force` to `main.py` or trigger the workflow via `workflow_dispatch` with the
 `force` input set to `true`.
 
-## Publish cadence: queue + fixed daily slots
+## Publish cadence: queue + evenly-spaced daily slots
 
 Fetching/classifying and actually sending to Telegram are decoupled on
-purpose. News breaks in bursts (a busy morning can fill the whole daily cap in
-one run), but we still want the day's posts spread evenly across the day
+purpose. News breaks in bursts (a busy morning can produce many items at once),
+but we still want the day's posts spread evenly across the day, freshest first,
 instead of all landing in the same run.
 
-- Every hourly run that finds new, cap-approved items appends them to a
-  publish queue (`post_history.json`'s `_queue` list) instead of sending them.
-- Separately, every run checks whether the current local hour
-  (`config.POSTING_TIMEZONE`) is one of `config.PUBLISH_HOURS` (currently `9,
-  13, 17, 21`). If so, `main.publish_queue()` sends the oldest
-  `config.PUBLISH_BATCH_SIZE` (2) items in the queue to every configured
-  channel and marks them posted. 4 slots x 2 posts = `MAX_POSTS_PER_DAY` on a
-  full day.
+- Every run that finds new, relevant items appends them to a publish queue
+  (`post_history.json`'s `_queue` list) instead of sending them, then trims the
+  queue to the freshest `MAX_QUEUE_DEPTH` (12) candidates.
+- Separately, every run asks `main._due_publish_slot()` for the most recent
+  `config.PUBLISH_HOURS` slot (local `config.POSTING_TIMEZONE`, currently `8,
+  10, 12, 14, 16, 18, 20, 22`) that has **already passed** today. If that slot
+  hasn't been served yet, `main.publish_queue()` sends the freshest
+  `config.PUBLISH_BATCH_SIZE` (1) item to every configured channel, charging
+  the daily cap. 8 slots x 1 post = `MAX_POSTS_PER_DAY` on a full day.
+- Keying off "most recent slot that has passed" (not "the clock is exactly on a
+  slot hour") is deliberate: GitHub Actions' scheduled cron is routinely late
+  and sometimes drops runs entirely, so a slot whose on-the-hour run never
+  happened is still picked up by the next run that comes along. The 15-minute
+  cron keeps that catch-up tight.
 - Each slot only fires once (tracked in `post_history.json`'s `_publish_state`
-  block), so a manual re-run or overlapping cron trigger within the same hour
-  is a no-op. `--force` bypasses both the slot-hour check and the once-per-slot
-  guard, for manually testing a real send.
-- An item whose send fails (e.g. a transient Telegram error) is left at the
-  front of the queue to retry at the next slot rather than being dropped or
-  double-counted against the cap.
+  block), so extra runs within the same slot are a no-op. `--force` bypasses
+  both the passed-slot check and the once-per-slot guard, for manually testing
+  a real send.
+- An item whose send fails (e.g. a transient Telegram error) stays in the queue
+  and the slot is left unserved, so the very next run retries it rather than
+  waiting for the next slot - and nothing is double-counted against the cap.
 
 This was a deliberate choice over trying to have Telegram itself hold and send
 messages later: the Bot API has no "send at a future time" parameter for bots
@@ -223,8 +230,8 @@ too if you want to test a real (non-dry-run) post outside daytime hours.
 - Every RSS fetch is wrapped in its own try/except (see `fetch.fetch_rss_feed`)
   - one broken feed logs a warning and returns no items, it never kills the run.
 - NewsAPI's free tier only covers roughly the last month of articles and caps
-  at 100 requests/day; at one query per hourly run that's 24 requests/day, well
-  under the limit.
+  at 100 requests/day; at one query per run every 15 min across the 06:00-22:59
+  UTC window that's ~68 requests/day, still under the limit.
 - DeepSeek calls use the `deepseek-chat` model (the cheaper, non-reasoning
   tier) - this is high-volume, low-reasoning classification/formatting work,
   not something that needs `deepseek-reasoner`.
