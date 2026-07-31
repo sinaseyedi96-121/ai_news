@@ -407,6 +407,14 @@
     "title": "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
     "title_norm": "deepseekv4flash0731 is going to cause another market crash"
   },
+  "01ed4a6f5a92a9dcc433c9f22e872eccb4d9d2548efabcc82662802befdadb34": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038118+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL at around 30 t/s ?",
+    "title_norm": "minimum vram gpu to run deepseekv4flash0731 q4_k_xl at around 30 ts"
+  },
   "01ef00a4073b54b1b3b39248c3d8c1c1d483a38faadfbaba8199ee5828cf1951": {
     "category": "research",
     "posted": false,
@@ -1004,6 +1012,14 @@
     "source": "arXiv cs.AI",
     "title": "Reinforcement Learning for Code Optimization",
     "title_norm": "reinforcement learning for code optimization"
+  },
+  "04234651d216dc796ec0143b9bd651a6f4330971b7fcc4e127659822ffc5e271": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037645+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Golang proposal: container/: generic collection types",
+    "title_norm": "golang proposal container generic collection types"
   },
   "04261e89de85edeafb79e5fc010f31081dd9b44cbaf3c39349c730ff7e9c49f7": {
     "category": "other",
@@ -4331,6 +4347,14 @@
     "title": "ObsDriveBench: Benchmarking Multimodal Understanding under Adverse Weather with Observability Awareness",
     "title_norm": "obsdrivebench benchmarking multimodal understanding under adverse weather with observability awareness"
   },
+  "11db60e1d15e89ddf6e3230d65ca82f1b260676bb36387357971b7e687477844": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037720+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Severance",
+    "title_norm": "severance"
+  },
   "11f49bce2d7cc12592b26825529676e3976f3f55c6fb5763ea1c1bb0a313cd6b": {
     "category": "integration",
     "posted": false,
@@ -5586,6 +5610,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "POCKET-35B agentic model on cpu 59 t/s",
     "title_norm": "pocket35b agentic model on cpu 59 ts"
+  },
+  "174be5364221f21a58bae079a68091d6c34c9be6dc7b183798bd81bcdf538c8f": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037765+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+    "title_norm": "can we see ais contributions directly in the economy yet and by how much"
   },
   "17513843c0d56fc508cd473d4d1eb140ec647bc2de1f70475955f8721bc0964e": {
     "category": "research",
@@ -8129,6 +8161,14 @@
     "title": "Smart rings are looking like my kind of AI gadget",
     "title_norm": "smart rings are looking like my kind of ai gadget"
   },
+  "213a3930c4150aa6503d11169692b0e22eba036a436589d1e8c0e67e3b3d599c": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037988+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "World Models Are AI's Next Frontier",
+    "title_norm": "world models are ais next frontier"
+  },
   "213cd994aa9b7b953570e4ced3c52b900b9a7ebf2db96936df8684e3a794e4b0": {
     "category": "research",
     "posted": false,
@@ -8889,6 +8929,14 @@
     "title": "Make AI stop hallucinating by changing system design, not the model",
     "title_norm": "make ai stop hallucinating by changing system design not the model"
   },
+  "2415c92a08d1af7e5d626d3535a9cf4f8587e6fa1a6aef9c58eed4c922305473": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037451+00:00",
+    "source": "TechCrunch AI",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "title_norm": "google nixes its earth ai feature one day after launch amid criticism it would spread misinformation"
+  },
   "2417ca2bd37b8d214dfa826a1fc584d2d2cec79fd9e5977467cd37f88885e411": {
     "category": "research",
     "posted": false,
@@ -9401,6 +9449,14 @@
     "title": "HyCE-RAG: Hypergraph Chain-of-Evidence Retrieval-Augmented Generation for Explainable Multi-hop Question Answering",
     "title_norm": "hycerag hypergraph chainofevidence retrievalaugmented generation for explainable multihop question answering"
   },
+  "262e1808ad6a872594eedd7bb181238bf07e925855ff215cd83d1d0665c5a9d1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038091+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "title_norm": "with release of deepseek v4 i wanted see how the model sizes are trending over time the trend is that by this time next year we probably will have opus 45 level models on consumer grade laptops"
+  },
   "262e214eac3fe9597b0124f8084565da713da791dea1021f0f92ee57d30d22e7": {
     "category": "infrastructure",
     "posted": false,
@@ -9840,6 +9896,14 @@
     "source": "arXiv cs.AI",
     "title": "Efficient and Privacy Aware Edge Cloud Collaborative Inference for Large Language Models",
     "title_norm": "efficient and privacy aware edge cloud collaborative inference for large language models"
+  },
+  "280514ed0626105e8271646f813d9cd7fd9e226d5ad9e1962c4da90eb12d17be": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037836+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What's your monthly personal AI budget?",
+    "title_norm": "ask hn whats your monthly personal ai budget"
   },
   "2810357a3cb10bc4f078d52a8408d8bb1533272062f62c2d09a088e242d15ba2": {
     "category": "other",
@@ -10550,6 +10614,14 @@
     "source": "arXiv cs.AI",
     "title": "Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation",
     "title_norm": "same dangerous objective opposite advice direct exposure versus multiagent mediation"
+  },
+  "2ad781870854b5e10dcd07881f4af7d889bb25a5cf1b9676440a138708c02235": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037875+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+    "title_norm": "f16 thrustvectoring nozzle now being used for an aipiloted vtol fighter"
   },
   "2ada66b8b3a7314ee24ddc9cc1ec63970b4f3284244bd78bd1190ff53bdc78d4": {
     "category": null,
@@ -12172,6 +12244,14 @@
     "source": "arXiv cs.CL",
     "title": "Do Methods Support the Claims? Intra-Paper Verification for Peer Review",
     "title_norm": "do methods support the claims intrapaper verification for peer review"
+  },
+  "30a954bb352ddc9e7bdb197223e83f818a4c869aa02da391c2a15f370a680469": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038019+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI companies destroy rare and non recoverable physical books",
+    "title_norm": "ai companies destroy rare and non recoverable physical books"
   },
   "30ad9d46044f1d692d5eff577af413fc7457ac854e1b820725139213f5ff2064": {
     "category": "other",
@@ -22699,6 +22779,14 @@
     "title": "Recovering Clinical Utility Under Differential Privacy: Empirical Validation of Adaptive Federated Aggregation on Heterogeneous Cardiovascular Datasets",
     "title_norm": "recovering clinical utility under differential privacy empirical validation of adaptive federated aggregation on heterogeneous cardiovascular datasets"
   },
+  "5db7e5a774cc3d41fb72e955230c137b4f3f593e294663c4abfa4f4195707da3": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037822+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Sqlite.ai Pricing",
+    "title_norm": "sqliteai pricing"
+  },
   "5db9e0a8ef43c40de6a4f8d3cbbad24594e49e5355f97bb8d10ce533e17cb385": {
     "category": "research",
     "posted": false,
@@ -24425,6 +24513,14 @@
     "title": "BTL-3 27B agentic coding and tool-use model from Bad Theory Labs (fits in 8.39GB)",
     "title_norm": "btl3 27b agentic coding and tooluse model from bad theory labs fits in 839gb"
   },
+  "64568cb2d4cc63a7698d1c4bb6245580564fbbf9dba6d7d0d945819e2fa2cae5": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038050+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+    "title_norm": "google pauses ai satellite images after fears of deepfakes in the sky"
+  },
   "64581a995e0651245810e9aea6d82c8405f8e805276040b21970be2cd34b8f82": {
     "category": "research",
     "posted": false,
@@ -25329,6 +25425,14 @@
     "title": "HiBob turns 2,500 GPTs into product and team growth",
     "title_norm": "hibob turns 2500 gpts into product and team growth"
   },
+  "686a67b258bd8c40e72faa80be48f144a6a76e672b8aa164635a1ba04ba062d4": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037676+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Termixer (TUI DJ Mixer)",
+    "title_norm": "termixer tui dj mixer"
+  },
   "687339917cd34ab66175734ef5fa8012bf238bd04e30098726a55ab064759f29": {
     "category": "research",
     "posted": false,
@@ -25400,6 +25504,14 @@
     "source": "Hugging Face Blog",
     "title": "Welcome to Inference Providers on the Hub \ud83d\udd25",
     "title_norm": "welcome to inference providers on the hub"
+  },
+  "68a29c9da6c84ec88a2167f6308586a5a0888475fe0b5a86cf7581cb279ef1fa": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037911+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I use AI on this blog",
+    "title_norm": "i use ai on this blog"
   },
   "68ab8224881300e5f903af43e623e2348b95367f51a729760540c078e89ec1d4": {
     "category": "tech_news",
@@ -26846,6 +26958,14 @@
     "source": "Hugging Face Blog",
     "title": "Nystr\u00f6mformer: Approximating self-attention in linear time and memory via the Nystr\u00f6m method",
     "title_norm": "nystr\u00f6mformer approximating selfattention in linear time and memory via the nystr\u00f6m method"
+  },
+  "6ebb7155b6e9861520d3d8873a54ec9b10cf595426e4a1f4131a7ded260f02dd": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037732+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+    "title_norm": "why your ai startup dies at customer six and the threelayer fix"
   },
   "6ec55bcd3eabad6320fa39d0e432fbb73dac22cbd0ce168cd16f2fd538cc266b": {
     "category": "other",
@@ -29238,6 +29358,14 @@
     "source": "arXiv cs.CL",
     "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups",
     "title_norm": "sympathetic framing evaluating ai alignment across sociodemographic groups"
+  },
+  "793d1e28a9d4d499ea1bd763d20451ba0356d8de704a4a2f570ffae863aad79c": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037925+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "MCP is going stateless: What the new spec means for AI agents",
+    "title_norm": "mcp is going stateless what the new spec means for ai agents"
   },
   "7943fc60064e87ce3e51e6686ff39863ee0253725548f106c9a0c77315823523": {
     "category": "other",
@@ -31699,6 +31827,14 @@
     "title": "The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era",
     "title_norm": "the aura in the machine genealogy and the status of the work of art in the generative era"
   },
+  "8487038b8f991d8f74f2e65423d297ac19ff04d70d9572134a3038fe54a3f7ab": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037973+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI firms must answer for rogue bots, says boss of hacked company",
+    "title_norm": "ai firms must answer for rogue bots says boss of hacked company"
+  },
   "84874f97a49877f6e3f467b894489a2f6b45ad783d076863cdc049d04d3aa474": {
     "category": "research",
     "posted": false,
@@ -33496,6 +33632,14 @@
     "source": "Hacker News AI keyword",
     "title": "Chinese military researchers tap US AI models to train defense systems",
     "title_norm": "chinese military researchers tap us ai models to train defense systems"
+  },
+  "8c696d931d67a7df795a40ee2547a2c51a8359394acc616efbacda775c497123": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037689+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "title_norm": "june in servo real world compat media queries sharedworker and more"
   },
   "8c71b7a90e0649821173c206b83d149f7648b08fc14f03c17d48cdd927b435be": {
     "category": "research",
@@ -38175,6 +38319,14 @@
     "title": "Accelerating the next phase of AI",
     "title_norm": "accelerating the next phase of ai"
   },
+  "9f91ebf16f1c5320a526f805acefb96b7a1e2093098d949c604d59941e105b69": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038034+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The icons that might solve Hollywood's AI problem [video]",
+    "title_norm": "the icons that might solve hollywoods ai problem video"
+  },
   "9f9cd5d48a60b9d8a265ab275c683b2d29f822fb7f778316db3a8c6f9ce423a9": {
     "category": "research",
     "posted": false,
@@ -38272,23 +38424,23 @@
     "title_norm": "operation a2z multilingual influence activity"
   },
   "_digest_state": {
-    "daily_digest_date": "2026-07-30",
-    "daily_digest_date_fa": "2026-07-30",
+    "daily_digest_date": "2026-07-31",
+    "daily_digest_date_fa": "2026-07-31",
     "weekly_digest_date": "2026-07-26",
     "weekly_digest_date_fa": "2026-07-26"
   },
   "_meta": {
     "date": "2026-07-31",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
-      "infrastructure": 1,
+      "infrastructure": 2,
       "model_release": 1,
       "other": 2,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-07-31-20"
+    "last_slot": "2026-07-31-22"
   },
   "_queue": [
     {
@@ -39642,6 +39794,14 @@
     "title": "Teaching models to express their uncertainty in words",
     "title_norm": "teaching models to express their uncertainty in words"
   },
+  "a4aa72677cb42b92456f3682187fc6e68c060c934bbb94cbec78382a7bab716d": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037609+00:00",
+    "source": "Ars Technica AI",
+    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+    "title_norm": "would you get tattooed just to interview at a 7daysaweek ai startup"
+  },
   "a4ac6e4bb5252fecaa1bfd87f3b03f117a4332e7c50cbab348123117dd941e34": {
     "category": "research",
     "posted": false,
@@ -39697,6 +39857,14 @@
     "source": "arXiv cs.AI",
     "title": "Comparing RAG and GraphRAG for Page-Level Retrieval Question Answering on a Math Textbook",
     "title_norm": "comparing rag and graphrag for pagelevel retrieval question answering on a math textbook"
+  },
+  "a503f2e2beff190fe5c3ed8f60b4896ea72de9453b5c5ef6e216ace7a3830264": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037550+00:00",
+    "source": "The Verge AI",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "title_norm": "google earth8217s ai deepfake tool only lasted one day"
   },
   "a505eac8f113b65987d4c127d19c7c9ab82bd4d6f80a1f018c10d66ee2895b4c": {
     "category": "model_release",
@@ -40897,6 +41065,14 @@
     "source": "arXiv cs.CL",
     "title": "RepBench: Compiling Benchmarks into Capability Representations for Large Language Models",
     "title_norm": "repbench compiling benchmarks into capability representations for large language models"
+  },
+  "a9bc7126ac05498e4fe6574deb76f48f5e84cff7e934c67aac5ccc7fb9969d6b": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037782+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained \u2013 No AI",
+    "title_norm": "pygame tutorial for beginners game loop screen window fps explained no ai"
   },
   "a9c1baf80a8abcfda88fd90a8584e35427554f947f5b195436bacf04a98dd76a": {
     "category": "integration",
@@ -43908,6 +44084,14 @@
     "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
     "title_norm": "energy ipos surge as investors hunt for ways to play ai boom"
   },
+  "b64976db2aa32c3a034a253fe9e5144d551a33010052e2e1ac0e60eee9808aba": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037749+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+    "title_norm": "google withdraws new earth ai tool after warnings over misinformation risks"
+  },
   "b64a29fa1fa80cab17f82a94dfc31ec8f800524fbc1cee6db054075190841958": {
     "category": "community_signal",
     "posted": false,
@@ -43979,6 +44163,14 @@
     "source": "arXiv cs.AI",
     "title": "Not Forgotten: Implementation and Evaluation of a Personalized Episodic Memory for the Humanoid Robot Head Kim",
     "title_norm": "not forgotten implementation and evaluation of a personalized episodic memory for the humanoid robot head kim"
+  },
+  "b67dc1f2751529d3029cb00af37ced03f7f930e1b3ff197b46105c13d89e5e96": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037860+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Lookup Tables Could Cut AI Energy Costs",
+    "title_norm": "lookup tables could cut ai energy costs"
   },
   "b68785e0ad8b53a8b766a97451edf2f98f0319c2a31365111ad4153e3b709cbd": {
     "category": "other",
@@ -45015,6 +45207,14 @@
     "source": "arXiv cs.CL",
     "title": "Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL",
     "title_norm": "formally verified synthesizable floatingpoint data types in arch hdl"
+  },
+  "ba3c54cda6682d0374d94b6d9e7f23029e768f3cf66cfab15d4c5a573836651f": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037705+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "title_norm": "everyone is building llm routers we deprecated ours"
   },
   "ba3fb6d74c1a3df85fc6efe5fa4ac87cf20ade3f0c756817630b00fa4f724d29": {
     "category": "research",
@@ -49396,6 +49596,14 @@
     "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
     "title_norm": "a new role for relevance guiding corpus interaction in agentic search"
   },
+  "cc0713c478f0f3d37432b32629bbf7f48d4865d75ed34995294d342f13034cd2": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037941+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
+    "title_norm": "ai dominates the microsoft conversation but not the companys business"
+  },
   "cc0c0e89ac2a3f33cdc91ac66f5a64c94009b3dace000e8242e726e14dec4a4e": {
     "category": "model_release",
     "posted": false,
@@ -51093,6 +51301,20 @@
     "source": "arXiv cs.AI",
     "title": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning",
     "title_norm": "posttraining at the edge of detectability a gametheoretic approach to finetuning"
+  },
+  "d33e7e79d69670b3c740e650661e76d5faf9b500a1ed43620dd5923f58caa76f": {
+    "category": "infrastructure",
+    "message_id": 82,
+    "message_id_fa": 56,
+    "post_title": "\ud83d\udcb0 Big Tech locks in $2.4T in AI spending commitments",
+    "post_title_fa": "\ud83d\udcb0 \u062a\u0639\u0647\u062f\u0627\u062a \u0647\u0632\u06cc\u0646\u0647\u200c\u0627\u06cc \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0641\u0646\u0627\u0648\u0631\u06cc \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u06f2.\u06f4 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0631\u0633\u06cc\u062f",
+    "posted": true,
+    "posted_at": "2026-07-31T20:27:36.562364+00:00",
+    "priority": "high",
+    "seen_at": "2026-07-31T20:27:35.037894+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
+    "title_norm": "big tech holds 24t of spending commitments for ai boom"
   },
   "d3404bbf062bcf285272783e88d07491b89cbc9d8f1e32c0445ccaf8ad231330": {
     "category": "other",
@@ -57472,6 +57694,14 @@
     "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
     "title_norm": "introducing daggr chain apps programmatically inspect visually"
   },
+  "eec200e36b7c487a99560194a63f865951d11a90d749f61f28c17069b9b429da": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037957+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Claude vs. ChatGPT: Which AI Security Incident Was Worse",
+    "title_norm": "claude vs chatgpt which ai security incident was worse"
+  },
   "eeceaa062de5a5164ec913fbedcddc20bd2cddddc3687cd79d6127284fbb389a": {
     "category": "model_release",
     "posted": false,
@@ -57991,6 +58221,14 @@
     "source": "Hacker News Frontpage",
     "title": "LG to ban residential proxies from smart TV apps",
     "title_norm": "lg to ban residential proxies from smart tv apps"
+  },
+  "f129937fd242e52ab659d8027b23343372f5f98b67fdf99bbc88566d56bce50f": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037582+00:00",
+    "source": "Ars Technica AI",
+    "title": "Google Earth releases, swiftly retracts AI feature to make fake satellite images",
+    "title_norm": "google earth releases swiftly retracts ai feature to make fake satellite images"
   },
   "f13091196a60765fbbc9f71e1fd8deb846743fb7ca92d5aa16b9c27bd8c2144b": {
     "category": "research",
@@ -59080,6 +59318,14 @@
     "title": "Upskill your LLMs With Gradio MCP Servers",
     "title_norm": "upskill your llms with gradio mcp servers"
   },
+  "f5a126490d5862de79d9bcadb30e39f1ddf356bc1794512e63344ec6218d5699": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037629+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "title_norm": "tailscale didnt stop the hugging face intrusion"
+  },
   "f5aca0dcbebab494ab489c9da0e4b57133ebe6b30bf95671d8ed3ae43fd08b63": {
     "category": "policy",
     "posted": false,
@@ -59231,6 +59477,14 @@
     "source": "arXiv cs.CL",
     "title": "MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos",
     "title_norm": "mmrv whats left unsaid a benchmark for multimodal deep reasoning in videos"
+  },
+  "f67bd32db83a40cbcf9f005f862f0d2b0170f72a638cd9e384254371f9ee1f17": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038066+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Translation: We had to cut our price by 80% because a open waits model with 284B and 13B active parameter called DeepSeek v4 flash just price/performance mocked us again.",
+    "title_norm": "translation we had to cut our price by 80 because a open waits model with 284b and 13b active parameter called deepseek v4 flash just priceperformance mocked us again"
   },
   "f688037bba7de7edbeea6ecf08c5157ab25fa4878bfe49ecc92b49ba96ef74ae": {
     "category": "research",
@@ -59655,6 +59909,22 @@
     "source": "arXiv cs.AI",
     "title": "Interpretable Nanoporous Materials Design with Symmetry-Aware Networks",
     "title_norm": "interpretable nanoporous materials design with symmetryaware networks"
+  },
+  "f87f4c1c36b41518321f43966e71fcd23e35f9da47e9354c8001e0763739796a": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.038002+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Coal back in favour as US plant bidding war highlights rising demand to power AI",
+    "title_norm": "coal back in favour as us plant bidding war highlights rising demand to power ai"
+  },
+  "f880e162e748abada154888ea54832fbb36ed46c614e69aef9b5fbe7c748a8a1": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-07-31T20:27:35.037660+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "title_norm": "using the railway network as a flatbed scanner video"
   },
   "f88f90863f75b8ea9c18f7d9ba65925ab97a384edf9e81ba4fba7faf4f1517e7": {
     "category": "research",
