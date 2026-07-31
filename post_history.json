@@ -1357,6 +1357,14 @@
     "title": "RoboInspector: Unveiling the Unreliability of Policy Code for LLM-enabled Robotic Manipulation",
     "title_norm": "roboinspector unveiling the unreliability of policy code for llmenabled robotic manipulation"
   },
+  "0542da927a8f91624d933c6f513c05152071e15b97908cbddc2ac3d953ebebcf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736023+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "title_norm": "getting 25 gbps thunderbolt ethernet on my mac studio"
+  },
   "054af5e45195b19abfb90aa3c59d346295869124ece0e422a22524132bb61edd": {
     "category": "model_release",
     "posted": false,
@@ -7705,6 +7713,14 @@
     "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
     "title_norm": "sysadmin measuring instrumental powerseeking in frontier ai"
   },
+  "1f59f72a9b222d3d50524abed5d265b52bfe7b9525a9351d596397a6b61644f7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736133+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Is Getting Way Too Expensive",
+    "title_norm": "ai is getting way too expensive"
+  },
   "1f5d04003ad91e1e037f8f11578c03e5815a6533a5cd51576ece4dcc1d492039": {
     "category": "research",
     "posted": false,
@@ -8064,6 +8080,14 @@
     "source": "OpenAI News",
     "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
     "title_norm": "free chatgpt for transitioning us servicemembers and veterans"
+  },
+  "21225f52eb63eb9304185b500dbd25ec3f932745d85e2d632cd6bcd8d036680f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736121+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Building an Infinite Memory Local AI Stack on Fedora",
+    "title_norm": "building an infinite memory local ai stack on fedora"
   },
   "212a353b8729f56376b36beda5c93552a1d1d8ed975ad2f6dc3d9a572a3cc01d": {
     "category": "policy",
@@ -8768,6 +8792,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "The idea: on a CPU the decode speed depends on the active params per token, not the total. My objective is trying to run a 10B at 100tok/s on a mid level PC (No GPU).",
     "title_norm": "the idea on a cpu the decode speed depends on the active params per token not the total my objective is trying to run a 10b at 100toks on a mid level pc no gpu"
+  },
+  "23c221479d4d9ff6303363f1d163cbc80e3b2e766a2bce31a6075d0bb8e84670": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736235+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite with MTPs, Jamba2-Mini, Qwen3.5-9B-Nikusui-v1 with MTPs and Qwen3.5-27B-Nikusui-v1 with MTPs, Available in Safetensors and GGUF Formats!",
+    "title_norm": "uncensored multimodel releases longcatflashlite with mtps jamba2mini qwen359bnikusuiv1 with mtps and qwen3527bnikusuiv1 with mtps available in safetensors and gguf formats"
   },
   "23e5b188e3e6979776590d0bdedc2d4773d51c435e58f9f20e97945a857ecc7b": {
     "category": "other",
@@ -11916,6 +11948,14 @@
     "source": "arXiv cs.CL",
     "title": "PoLoRA: A Preconditioned Orthogonalized LoRA Optimizer",
     "title_norm": "polora a preconditioned orthogonalized lora optimizer"
+  },
+  "2fe762aec7f2f2cd93d119baab249d9166b2e751f030e3d1a7cf2a2fe42f52c9": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736210+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek V4 Flash unsloth quants are out!",
+    "title_norm": "deepseek v4 flash unsloth quants are out"
   },
   "2ff3b212f78258d5864c54475c726ef5bb2c7fe002d7b983da2e91b41014745d": {
     "category": "tech_news",
@@ -26899,6 +26939,20 @@
     "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence",
     "title_norm": "flux 3 real world models towards multimodal flow models as the backbone of visual intelligence"
   },
+  "6f5b92dae74208ab35a868c97aedcd876075003e80ea503c7870afa5291e079b": {
+    "category": "model_release",
+    "message_id": 81,
+    "message_id_fa": 55,
+    "post_title": "\ud83d\ude80 DeepSeek V4 Flash GA matches Sonnet 5 and Grok 4.5",
+    "post_title_fa": "\ud83d\ude80 \u062f\u06cc\u067e\u200c\u0633\u06cc\u06a9 V4 Flash \u0639\u0645\u0648\u0645\u06cc \u0634\u062f \u0648 \u0628\u0627 Sonnet 5 \u0648 Grok 4.5 \u0628\u0631\u0627\u0628\u0631\u06cc \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-07-31T18:50:27.287982+00:00",
+    "priority": "high",
+    "seen_at": "2026-07-31T18:50:25.736195+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "title_norm": "deepseek v4 flash ga ranks the same as sonnet 5 and grok 45 on deepswe"
+  },
   "6f62003f83a30e96faec81f057bb94c926adf5e5c017c0f52ec790f3c37b07fe": {
     "category": "other",
     "posted": false,
@@ -26946,6 +27000,14 @@
     "source": "Hugging Face Blog",
     "title": "\ud83c\udde8\ud83c\uddff\u00a0BenCzechMark - Can your LLM Understand Czech?",
     "title_norm": "benczechmark can your llm understand czech"
+  },
+  "6f9906419677ab940589111a38ce4ee1c81de44e8241a9bda5c8c6cf762f30c6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736108+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Graph Engineering: The Missing Skill in AI",
+    "title_norm": "graph engineering the missing skill in ai"
   },
   "6f99a6e1dd9c162f888cd7b150645309c7d990afe12cef48a84cbdfa91353dc1": {
     "category": "research",
@@ -27498,6 +27560,14 @@
     "source": "Google DeepMind Blog",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "title_norm": "introducing computer use in gemini 35 flash"
+  },
+  "7233e42a8be9bbef27539f03fd692d91a0979e654d28c2de5d610848fde7be80": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.735951+00:00",
+    "source": "Ars Technica AI",
+    "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+    "title_norm": "high school defends staying silent while boys made ai nudes of 59 classmates"
   },
   "72419031be63158dbce53d598d0c649c74ba3127a23d0ea64139a523f03d7888": {
     "category": "community_signal",
@@ -28792,6 +28862,14 @@
     "source": "arXiv cs.AI",
     "title": "Masked Autoencoders Learn Perception-Relevant Representations from Resting State Neural Data",
     "title_norm": "masked autoencoders learn perceptionrelevant representations from resting state neural data"
+  },
+  "77e9d4443374d8b58db6f08579991ade96fe9e9cbd05887a1bb18c1bf70cb894": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736010+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The great wealth transfer reality check",
+    "title_norm": "the great wealth transfer reality check"
   },
   "77f78ba0e8dc6fdce8b870a866a7cf9499aa325f43d5b956a84c1bd84303a38d": {
     "category": "other",
@@ -32229,6 +32307,14 @@
     "title": "Show HN: Reply Better AI \u2013 browser AI writing that runs on-device or your Ollama",
     "title_norm": "show hn reply better ai browser ai writing that runs ondevice or your ollama"
   },
+  "872178780cb4ed91da4b8b0c8263cf133d1c37e73264d31c0daf87708fd8f0d0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.735997+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "qm",
+    "title_norm": "qm"
+  },
   "873837d446bf7e78a1cf7a5cf38f2e8ded7b5c8f980e9bdbd758c13cf5858393": {
     "category": "community_signal",
     "posted": false,
@@ -33403,6 +33489,14 @@
     "title": "The Prompt Atlas: a map of the games people ask an AI to build",
     "title_norm": "the prompt atlas a map of the games people ask an ai to build"
   },
+  "8c66456717358ffc6cc030adad604a967df70d4e477602641ddb2a1bd9ec37b6": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736094+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Chinese military researchers tap US AI models to train defense systems",
+    "title_norm": "chinese military researchers tap us ai models to train defense systems"
+  },
   "8c71b7a90e0649821173c206b83d149f7648b08fc14f03c17d48cdd927b435be": {
     "category": "research",
     "posted": false,
@@ -34176,6 +34270,14 @@
     "source": "Hacker News AI keyword",
     "title": "'Igor, it's alive ' publicity stunts by the AI industry are becoming tedious",
     "title_norm": "igor its alive publicity stunts by the ai industry are becoming tedious"
+  },
+  "8fbd40fbd7cdc456d5c29d2f682eb418c2c1b430e0dffbc87a8741ab1784eaf4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.735977+00:00",
+    "source": "Wired AI",
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "title_norm": "chinese ai researchers are finding their voice on x"
   },
   "8fbeeb6493a153aaf5876e150bf7c98be4691a8b11d63338798fa3ccf4d99072": {
     "category": "research",
@@ -35764,6 +35866,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "I predict DeepSeek V4 Flash 0731's Artificial Analysis score to be 57 \u00b1 1 point (Kimi K3 Level)",
     "title_norm": "i predict deepseek v4 flash 0731s artificial analysis score to be 57 1 point kimi k3 level"
+  },
+  "958d9a94e709a7c448ceceecf7aa3738e57e0537a11382f315f6158fd0e37f0d": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736159+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Chinese military researchers tap US AI models to train defence systems",
+    "title_norm": "chinese military researchers tap us ai models to train defence systems"
   },
   "958fb2c086fd4db5fe5b2182bc8c27e570cb27bf6afbde6cbda5f976bd54accd": {
     "category": "other",
@@ -38169,17 +38279,34 @@
   },
   "_meta": {
     "date": "2026-07-31",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
       "infrastructure": 1,
+      "model_release": 1,
       "other": 2,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-07-31-18"
+    "last_slot": "2026-07-31-20"
   },
   "_queue": [
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udee1\ufe0f Chinese military researchers have been using US-made AI models to train defense systems, according to Reuters. The report raises alarm about export controls and the global reach of American AI tools \ud83c\udf0f.\n\nDespite restrictions, these models appear to have reached military use, potentially accelerating China's defense AI efforts \u26a0\ufe0f. Expect renewed pressure on governments to tighten access to frontier AI models \ud83d\udd25.",
+      "post_body_fa": "\ud83d\udee1\ufe0f \u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634 \u0631\u0648\u06cc\u062a\u0631\u0632\u060c \u0645\u062d\u0642\u0642\u0627\u0646 \u0646\u0638\u0627\u0645\u06cc \u0686\u06cc\u0646 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u0627\u062e\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0633\u0627\u0645\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u062f\u0641\u0627\u0639\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u06af\u0632\u0627\u0631\u0634 \u062f\u0631\u0628\u0627\u0631\u0647 \u06a9\u0646\u062a\u0631\u0644\u200c\u0647\u0627\u06cc \u0635\u0627\u062f\u0631\u0627\u062a\u06cc \u0648 \u062f\u0627\u0645\u0646\u0647 \u062c\u0647\u0627\u0646\u06cc \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0632\u0646\u06af \u062e\u0637\u0631 \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631\u0645\u06cc\u200c\u0622\u0648\u0631\u062f \ud83c\udf0f.\n\n\u0628\u0627 \u0648\u062c\u0648\u062f \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u060c \u0627\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627 \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u062f \u0646\u0638\u0627\u0645\u06cc \u0631\u0633\u06cc\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u062f\u0641\u0627\u0639\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06cc\u0646 \u0631\u0627 \u0634\u062a\u0627\u0628 \u062f\u0647\u0646\u062f \u26a0\ufe0f. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0641\u0634\u0627\u0631\u0647\u0627 \u0628\u0631 \u062f\u0648\u0644\u062a\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u0645\u062d\u062f\u0648\u062f \u06a9\u0631\u062f\u0646 \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0634\u0648\u062f \ud83d\udd25.",
+      "post_title": "\u2696\ufe0f Chinese military taps US AI models to train defense systems",
+      "post_title_fa": "\u2696\ufe0f \u0627\u0631\u062a\u0634 \u0686\u06cc\u0646 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0633\u0627\u0645\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u062f\u0641\u0627\u0639\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+      "priority": "high",
+      "published": "2026-07-31T17:12:57+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/\">https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125941\">https://news.ycombinator.com/item?id=49125941</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "Chinese military researchers tap US AI models to train defence systems",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-military-researchers-tap-us-ai-models-train-defence-systems-2026-07-31/"
+    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -38339,22 +38466,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble\">https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119284\">https://news.ycombinator.com/item?id=49119284</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
       "title": "Nvidia's $750B AI bet deepens fears of a circular tech bubble",
       "url": "https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfd7\ufe0f Big Tech companies have now committed over $1 trillion to AI, according to the Financial Times. The figure covers data centers, chips, and related infrastructure.\n\nThis spending spree is reshaping the tech economy and raising the stakes for AI dominance. But it also fuels questions about return on investment. \ud83d\udcc8",
-      "post_body_fa": "\ud83c\udfd7\ufe0f \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0641\u0646\u0627\u0648\u0631\u06cc \u0627\u06a9\u0646\u0648\u0646 \u0628\u06cc\u0634 \u0627\u0632 \u06cc\u06a9 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062e\u062a\u0635\u0627\u0635 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u0641\u0627\u06cc\u0646\u0646\u0634\u0627\u0644 \u062a\u0627\u06cc\u0645\u0632. \u0627\u06cc\u0646 \u0631\u0642\u0645 \u0634\u0627\u0645\u0644 \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647\u060c \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0648 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u0645\u0631\u062a\u0628\u0637 \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u062e\u0631\u062c\u200c\u06a9\u0631\u062f\u0646 \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u0627\u0642\u062a\u0635\u0627\u062f \u0641\u0646\u0627\u0648\u0631\u06cc \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 stakes \u0631\u0627 \u0628\u0631\u0627\u06cc \u0628\u0631\u062a\u0631\u06cc \u062f\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627\u0644\u0627 \u0645\u06cc\u200c\u0628\u0631\u062f. \u0627\u0645\u0627 \u067e\u0631\u0633\u0634\u200c\u0647\u0627\u06cc\u06cc \u0646\u06cc\u0632 \u062f\u0631\u0628\u0627\u0631\u0647 \u0628\u0627\u0632\u06af\u0634\u062a \u0633\u0631\u0645\u0627\u06cc\u0647 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83d\udcc8.",
-      "post_title": "\ud83d\udcb0 Big Tech AI spending tops $1 trillion",
-      "post_title_fa": "\ud83d\udcb0 \u0647\u0632\u06cc\u0646\u0647 \u0628\u0632\u0631\u06af \u0641\u0646\u0627\u0648\u0631\u06cc \u0628\u0631 AI \u0627\u0632 \u06cc\u06a9 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u06af\u0630\u0634\u062a",
-      "priority": "high",
-      "published": "2026-07-31T04:17:56+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996\">https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118949\">https://news.ycombinator.com/item?id=49118949</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Big Tech AI spending spree tops $1T",
-      "url": "https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -45289,6 +45400,14 @@
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "title_norm": "gemini robotics 2 brings whole body intelligence to robots"
   },
+  "bbb5a35f076d268b7916da371decca5513c0b50ce9f560d67ad3b93612e11f70": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736308+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Some deepseek-v4-flash 20260731 opinion review",
+    "title_norm": "some deepseekv4flash 20260731 opinion review"
+  },
   "bbc0fc0c1679c458277fd2f8c919af2f3616659ea3773256871cbb888b68afb0": {
     "category": "research",
     "posted": false,
@@ -45800,6 +45919,14 @@
     "source": "TechCrunch AI",
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "title_norm": "aegisai founded by former google security execs lands 36m to stop aidriven spear phishing"
+  },
+  "bddc7d311eb3167d20c37d7be4b748ff19198424effcf4409f2c8f91c7b37d75": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736065+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The market's big AI doubts are exposing the riskiest players",
+    "title_norm": "the markets big ai doubts are exposing the riskiest players"
   },
   "bddd948cbfa4933bdafd285a4960088d5d13fcd8fff2ab8688ee09e539d90b29": {
     "category": "research",
@@ -47181,6 +47308,14 @@
     "title": "PennySynth: RAG-Driven Data Synthesis for Automated Quantum Code Generation",
     "title_norm": "pennysynth ragdriven data synthesis for automated quantum code generation"
   },
+  "c30ca681ec92534b8211358333a2aed1d8e7687f1aec9f2e4771ff06c4a8eaa7": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.735841+00:00",
+    "source": "TechCrunch AI",
+    "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
+    "title_norm": "sam altman isnt the only one who wants to pump the brakes on ai"
+  },
   "c30e510fce4bea53d83dfade295b3f538f2aa8b1e954bbb4a927ff05a54ae367": {
     "category": "other",
     "posted": false,
@@ -47990,6 +48125,14 @@
     "source": "OpenAI News",
     "title": "Driving sales productivity and customer success at OpenAI",
     "title_norm": "driving sales productivity and customer success at openai"
+  },
+  "c68cef7a408d63d1b8ccb168705b5c262c3898f2ba03c7485112fd4dbd6a076b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736172+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Usage by Derek Sivers",
+    "title_norm": "ai usage by derek sivers"
   },
   "c699ef2ba4f2e8c896bb97474420fdbf57c795ca9b1471ba413a5ef17ea063c8": {
     "category": "research",
@@ -49125,6 +49268,14 @@
     "title": "Beyond Heavy Log Curation: Perplexity-Based APT Detection via Unsupervised, Context-Augmented Language Models",
     "title_norm": "beyond heavy log curation perplexitybased apt detection via unsupervised contextaugmented language models"
   },
+  "cb7ea049b6a2768d9dd2b031adf47e8ad113686432cdece429229cf98a2ee6cf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736079+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI bubble will burst if 10-year moves above 5%, says Breakout Capital's Sharma",
+    "title_norm": "ai bubble will burst if 10year moves above 5 says breakout capitals sharma"
+  },
   "cb8751e5ca5c566ab1b762e0bb3ee766a8dd21c17879567a9549f73f1539dfa7": {
     "category": "community_signal",
     "posted": false,
@@ -49952,6 +50103,14 @@
     "source": "Hugging Face Blog",
     "title": "Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)",
     "title_norm": "yes transformers are effective for time series forecasting autoformer"
+  },
+  "cf1dd1742dc5d881adc662e434d9c702e3d74998ebdd7412e858bae77c38b739": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736183+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Markets are getting the AI right",
+    "title_norm": "markets are getting the ai right"
   },
   "cf2f8cc6c520f7acd1729732a3adce93d8ae787b0f8fad707cdd5942193bdda2": {
     "category": "research",
@@ -51574,6 +51733,14 @@
     "source": "arXiv cs.CL",
     "title": "LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via State Proprioception",
     "title_norm": "llm agents are latent context managers eliciting selfmanaged context via state proprioception"
+  },
+  "d6cfb2eda47ef1ed36e6b2f413fd926d59d1268f846f3da0cd363ab70d1b358c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736037+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "title_norm": "run kimi k3 using 29 gb of ram at 050 toks"
   },
   "d6d79ec2a55198cfbbd229a52ff4ba2148e7e788d25ae520766f233a97c1b34f": {
     "category": "research",
@@ -56753,6 +56920,14 @@
     "title": "Which streaming service was that on again",
     "title_norm": "which streaming service was that on again"
   },
+  "ec6e9697557965522efed1fd22c826d953838298c587bb7185782bb8a200598c": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736223+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek-V4-Flash-0731 unsloth gguf on A100",
+    "title_norm": "deepseekv4flash0731 unsloth gguf on a100"
+  },
   "ec871ffc5d2a7f31ca2501c6f48c1530fd68517a6a941a2b5f7c8c4a869fc564": {
     "category": "model_release",
     "posted": false,
@@ -57089,6 +57264,14 @@
     "title": "Evaluating Prompt Scope and Demonstration Similarity in Local LLM Machine Translation",
     "title_norm": "evaluating prompt scope and demonstration similarity in local llm machine translation"
   },
+  "edf8c364d97cbd6d1d5acbf6d0b6c276754547b2d017a6dbaa0f9271e6f02ec0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736145+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why your company should (try to) build its own AI SRE",
+    "title_norm": "why your company should try to build its own ai sre"
+  },
   "ee06d2ec166baf156409cba8a715e4a4a01d805cd38aef883b309563d9d01139": {
     "category": "other",
     "posted": false,
@@ -57136,6 +57319,14 @@
     "source": "arXiv cs.AI",
     "title": "PD$^3$: A Project Duplication Detection Framework via Adapted Multi-Agent Debate",
     "title_norm": "pd3 a project duplication detection framework via adapted multiagent debate"
+  },
+  "ee29d7a0ffe06230af995187f72eb3e75a0fc4ebca2d37d9a0f012cb68106a74": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.735920+00:00",
+    "source": "TechCrunch AI",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "title_norm": "ai labs want to pump the brakes but amazon and spacex are still blasting off"
   },
   "ee2e0f2e26cb4173bba3f3b0d53ee1d58f292c280205f047a303248d2d8c7481": {
     "category": "community_signal",
@@ -59992,6 +60183,14 @@
     "source": "arXiv cs.AI",
     "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
     "title_norm": "atmospheric diffusionguided spatiotemporal transformer for nuclear radiation forecasting"
+  },
+  "fa8a62c40a694d6a3b04c59a0d252d4ebf77001e9b43b641defce90e1524c959": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-07-31T18:50:25.736051+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI's Wildest Spenders Are Hitting the Accelerator",
+    "title_norm": "ais wildest spenders are hitting the accelerator"
   },
   "fa8de9b946c1875036deedd019359c75a9efd3428f67898c5b22898b585068b4": {
     "category": "research",
