@@ -9097,6 +9097,14 @@
     "title": "Show HN: Protoai \u2013 an open source peer-to-peer network for sharing AI contexts",
     "title_norm": "show hn protoai an open source peertopeer network for sharing ai contexts"
   },
+  "245728a5cf64e3df7a772addbb246eed6dd802c78a6d5f26ccf34997bf03ef6c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.506980+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+    "title_norm": "scope of hacks on us water supply widens as evidence points to iran"
+  },
   "245f2369638eed068dc999f6d932e93cd2cebc52c515162b590e873ca5c492e6": {
     "category": "other",
     "posted": false,
@@ -17224,6 +17232,14 @@
     "source": "OpenAI News",
     "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
     "title_norm": "amd and openai announce strategic partnership to deploy 6 gigawatts of amd gpus"
+  },
+  "45dead230b697062d43dd624b1d3525370c10d4b1c58a81c444f63349b3baf04": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507122+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ask HN: Any tips for a college freshman enrolled in computer science?",
+    "title_norm": "ask hn any tips for a college freshman enrolled in computer science"
   },
   "45e0fc71cde2ca6c1b725b153b93478c727ff957d079f7247fc847466f5a1d7a": {
     "category": "research",
@@ -32769,6 +32785,14 @@
     "title": "QuickOn \u2013 Explainable AI for qualifying inbound B2B SaaS leads",
     "title_norm": "quickon explainable ai for qualifying inbound b2b saas leads"
   },
+  "86dce012d8a2da783d4bb2e67bc55c8efe0ef0dd3e45c6fb2c8e41faac03aebe": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507154+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Questions Spoil Book and Movie Heat on 'Call Me, I'll Hide the Body' Novel",
+    "title_norm": "ai questions spoil book and movie heat on call me ill hide the body novel"
+  },
   "86e15d8acecf1a11d43b1357fa475042aef692823f8c6c198fa9a41bada06d1d": {
     "category": "community_signal",
     "posted": false,
@@ -33820,6 +33844,14 @@
     "source": "Hacker News AI keyword",
     "title": "Japanese Firm to Train Robot with AI to Reproduce Runners' Movements",
     "title_norm": "japanese firm to train robot with ai to reproduce runners movements"
+  },
+  "8b3544c0aa0b7488263741846ad9f32f5f34c5f0a66699ae010dcfca0f12482e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507062+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Indexing the Data Lake for Online Point Queries",
+    "title_norm": "indexing the data lake for online point queries"
   },
   "8b3f9fa11e8b88015006b1ccc8e8aa2f62eef01321dcd76e4535ba7153d6a033": {
     "category": "community_signal",
@@ -36262,6 +36294,20 @@
     "source": "Hacker News AI keyword",
     "title": "Discernment: Fact-check an AI teaching you something you don't understand?",
     "title_norm": "discernment factcheck an ai teaching you something you dont understand"
+  },
+  "94ebb5b19b0d859d94a2709169263587d3cb751977a3bb858efc13e66b8c9403": {
+    "category": "policy",
+    "message_id": 88,
+    "message_id_fa": 62,
+    "post_title": "\u2696\ufe0f EU AI Act officially takes effect August 2, 2026",
+    "post_title_fa": "\u2696\ufe0f EU AI Act \u0627\u0632 \u06f2 \u0627\u0648\u062a \u06f2\u06f0\u06f2\u06f6 \u0631\u0633\u0645\u0627\u064b \u0627\u062c\u0631\u0627\u06cc\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f",
+    "posted": true,
+    "posted_at": "2026-08-01T16:40:51.444928+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-01T16:40:50.507182+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "EU AI Act takes effect tomorrow, August 2, 2026. \ud83e\udd21",
+    "title_norm": "eu ai act takes effect tomorrow august 2 2026"
   },
   "94ee437eab1cfed17b0603203d7be343f97dfe0a3a32669dc71a4da2f9e88b86": {
     "category": "research",
@@ -38907,14 +38953,14 @@
   },
   "_meta": {
     "date": "2026-08-01",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
-      "policy": 3,
+      "policy": 4,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-01-16"
+    "last_slot": "2026-08-01-18"
   },
   "_queue": [
     {
@@ -39092,22 +39138,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/\"> <img alt=\"New official weights for Laguna S 2.1 FP8 &amp; NVFP4 are now available\" src=\"https://external-preview.redd.it/pxdD67Tczx_FwUY4MQl6Fxr8We02ywCeJwxY1JvjFNc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=32c9301992a05fdfc8b0c995ab8495d5cc142bed\" title=\"New official weights for Laguna S 2.1 FP8 &amp; NVFP4 are now available\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Poolside have updated the FP8 and NVFP4 checkpoints for Laguna S 2.1, increasing the default context size to 1 million, and updating the configs.</p> <p>Here's hoping they fixed the looping issue, this model has been great in my development workflows, when not looping. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rmhubbert\"> /u/rmhubbert </a> <br /> <span><a href=\"https://huggingface.co/poolside/Laguna-S-2.1-FP8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/\">[comments]</a></span> </td></tr></table>",
       "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcn9uw/new_official_weights_for_laguna_s_21_fp8_nvfp4/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udf0d Google apparently launched a product called the Earth AI generator and then killed it within roughly 24 hours, according to its own news account. The quick reversal \ud83d\udd25 surprised the AI community and left users questioning what happened. There's no detailed public explanation yet, and the product already appears to be unavailable. For anyone building on Google's AI features, it's a reminder that experimental tools can disappear \u23f1\ufe0f as fast as they appear.",
-      "post_body_fa": "\ud83c\udf0d \u06af\u0648\u06af\u0644 \u0638\u0627\u0647\u0631\u0627\u064b \u0645\u062d\u0635\u0648\u0644\u06cc \u0628\u0647 \u0646\u0627\u0645 \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Earth \u0631\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f \u0648 \u0633\u067e\u0633 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u062f\u0631 \u0639\u0631\u0636 \u06f2\u06f4 \u0633\u0627\u0639\u062a \u0622\u0646 \u0631\u0627 \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f\u061b \u0637\u0628\u0642 \u062d\u0633\u0627\u0628 \u062e\u0628\u0631\u06cc \u062e\u0648\u062f \u06af\u0648\u06af\u0644. \u0627\u06cc\u0646 \u0628\u0627\u0632\u06af\u0634\u062a \u0633\u0631\u06cc\u0639 \ud83d\udd25 \u062c\u0627\u0645\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0634\u06af\u0641\u062a\u200c\u0632\u062f\u0647 \u06a9\u0631\u062f \u0648 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0631\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u062a\u0641\u0627\u0642 \u0631\u062e\u200c\u062f\u0627\u062f\u0647 \u0633\u0631\u062f\u0631\u06af\u0645 \u06af\u0630\u0627\u0634\u062a. \u0647\u0646\u0648\u0632 \u062a\u0648\u0636\u06cc\u062d \u0639\u0645\u0648\u0645\u06cc \u062f\u0642\u06cc\u0642\u06cc \u0627\u0631\u0627\u0626\u0647 \u0646\u0634\u062f\u0647 \u0648 \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0645\u062d\u0635\u0648\u0644 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0646\u06cc\u0633\u062a. \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u0631\u0648\u06cc \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06af\u0648\u06af\u0644 \u0628\u0631\u0646\u0627\u0645\u0647 \u0645\u06cc\u200c\u0633\u0627\u0632\u062f\u060c \u0627\u06cc\u0646 \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u0647\u0645\u0627\u0646 \u0633\u0631\u0639\u062a\u06cc \u06a9\u0647 \u0638\u0627\u0647\u0631 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u0646\u0627\u067e\u062f\u06cc\u062f \u0634\u0648\u0646\u062f \u23f1\ufe0f.",
-      "post_title": "\ud83d\uded1 Google pulls its Earth AI generator less than a day after launch",
-      "post_title_fa": "\ud83d\uded1 \u06af\u0648\u06af\u0644 \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Earth \u0631\u0627 \u06a9\u0645\u062a\u0631 \u0627\u0632 \u06cc\u06a9 \u0631\u0648\u0632 \u067e\u0633 \u0627\u0632 \u0639\u0631\u0636\u0647 \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f",
-      "priority": "medium",
-      "published": "2026-08-01T13:02:44+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/newsfromgoogle/status/2083249962150760610\">https://twitter.com/newsfromgoogle/status/2083249962150760610</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134079\">https://news.ycombinator.com/item?id=49134079</a></p>\n<p>Points: 48</p>\n<p># Comments: 65</p>",
-      "title": "Google kills Earth AI generator after one day",
-      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -41244,6 +41274,14 @@
     "title": "Universal Image Segmentation with Mask2Former and OneFormer",
     "title_norm": "universal image segmentation with mask2former and oneformer"
   },
+  "a843d24a3cf6c731aee2e084e4950c3d0d045bbc8177fdb756ddfa4278a47cab": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507199+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM \u2248 3.5 tok/s.",
+    "title_norm": "deepseek v4 flash 0731 iq2_m benchmark for dual 3060 and 96gb ram 35 toks"
+  },
   "a84733288b2dc674eb77fd26ef6ab6954f81012e3bc2823c176a80d619fb91ad": {
     "category": "other",
     "posted": false,
@@ -41907,6 +41945,14 @@
     "source": "arXiv cs.AI",
     "title": "When Does Knowledge Distillation Hurt? Reliability-Aware Distillation for Low-Resource Language Summarization",
     "title_norm": "when does knowledge distillation hurt reliabilityaware distillation for lowresource language summarization"
+  },
+  "ab2119482637f75b055c8ca622b20df2f3fabd28ea9f7ed5d438fa02f3fca108": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507096+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Cursor removed cost information from the usage page and CSV export",
+    "title_norm": "cursor removed cost information from the usage page and csv export"
   },
   "ab28c5ef74b476ea82e644f8368ab178216e817d9ff23d153ab54aaf98aee33e": {
     "category": "research",
@@ -43487,6 +43533,14 @@
     "source": "arXiv cs.AI",
     "title": "CADER: Confidence-Aware Dynamic Evidence Reasoning for Long-Video Understanding",
     "title_norm": "cader confidenceaware dynamic evidence reasoning for longvideo understanding"
+  },
+  "b1945688ad25f359cd4e40c63a9fd6193582e0610f7a843554487e7dfe2a8318": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507170+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Adoption Is Dividing Friends, Families and Co-Workers",
+    "title_norm": "ai adoption is dividing friends families and coworkers"
   },
   "b1969cd7e76cd75c6a7a4f8ebf92bf7bad04a9af6fad672961c6f52b82e0e524": {
     "category": "community_signal",
@@ -48773,6 +48827,14 @@
     "source": "arXiv cs.AI",
     "title": "Offline-to-Online Creative Optimization with Generative Models and Adaptive Testing",
     "title_norm": "offlinetoonline creative optimization with generative models and adaptive testing"
+  },
+  "c5aab9f0db0edcf5d1e4b89e9070b4d4209204232d5e3c139c578fcb01c06f87": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507081+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "GitHub has alternatives, but no replacement",
+    "title_norm": "github has alternatives but no replacement"
   },
   "c5b7679fadb25daaa5415aa84fc9549a7a863670e4e17ef6ebdedcfc81a3c4ef": {
     "category": "research",
@@ -56987,6 +57049,14 @@
     "source": "arXiv cs.CL",
     "title": "Guardians and Offenders: A Survey on Harmful Content Generation and Safety Mitigation of LLM",
     "title_norm": "guardians and offenders a survey on harmful content generation and safety mitigation of llm"
+  },
+  "e8fc34474770db73c5261393144314b2923e0e94790d9f3dd2ffc23eb8ac8a26": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-01T16:40:50.507109+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "title_norm": "explorative modeling train on the best of k guesses"
   },
   "e8fd8ffb18b8fedc9c6415e766ae6dac4b6b10d4d621c36ebd5153b9af367e7b": {
     "category": "community_signal",
