@@ -6079,6 +6079,14 @@
     "title": "Why I Am Not Going to Buy a Computer",
     "title_norm": "why i am not going to buy a computer"
   },
+  "187c4f9af1230b998327dcefc923bb33246eebc1d1ae8b58a6fe3b3422765944": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436850+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Research Topics in ML, AI and Deep Learning",
+    "title_norm": "research topics in ml ai and deep learning"
+  },
   "188d8c03cc19b44113e03ff667ef9d7e56300fdac70a5564fa0705048520ec53": {
     "category": "research",
     "posted": false,
@@ -24271,6 +24279,14 @@
     "title": "Laserbrain \u2013 the adaptive recursion harness for AI agents",
     "title_norm": "laserbrain the adaptive recursion harness for ai agents"
   },
+  "6154b70fb3158d03c1b2591a343458144f8ffe686602a214a55fbc94b0eb95d3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436866+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A daily estimation game where the crowd's answer fights an AI",
+    "title_norm": "a daily estimation game where the crowds answer fights an ai"
+  },
   "615e4b1c10d23f1ce2c528f586922f754967219e263e92ab8743f717afbe4292": {
     "category": "research",
     "posted": false,
@@ -27149,6 +27165,14 @@
     "title": "Physics-Informed Neural Operator for Warm-Starting Background-Decomposed and Preconditioned PSFD: Enabling Scalable 3-D EUV Mask Simulation",
     "title_norm": "physicsinformed neural operator for warmstarting backgrounddecomposed and preconditioned psfd enabling scalable 3d euv mask simulation"
   },
+  "6d3e19fd24713123df32f79160993ce2f991e376453ae173f73e4d6edf660550": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436790+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The time filter in Google Search broke a few days ago",
+    "title_norm": "the time filter in google search broke a few days ago"
+  },
   "6d3e594f776cec1164ff9fbcfb43109d5d66a7c593466ad5c8d59196590d294e": {
     "category": "other",
     "posted": false,
@@ -29981,7 +30005,13 @@
   },
   "78d1ddb7f4572678bec567db8861f48d308ec496f710ca1a6450e6bb5377bd27": {
     "category": "model_release",
-    "posted": false,
+    "message_id": 93,
+    "message_id_fa": 67,
+    "post_title": "\ud83d\ude80 ByteDance releases Seedance 2.5, a leap in AI video generation",
+    "post_title_fa": "\ud83d\ude80 \u0628\u0627\u06cc\u062a\u062f\u0646\u0633 \u0633\u06cc\u062f\u0646\u0633 2.5 \u0631\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f\u061b \u062c\u0647\u0634\u06cc \u062f\u0631 \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+    "posted": true,
+    "posted_at": "2026-08-02T10:22:16.360516+00:00",
+    "priority": "high",
     "seen_at": "2026-08-02T08:39:08.814336+00:00",
     "source": "Hacker News Frontpage",
     "title": "Seedance 2.5",
@@ -32134,6 +32164,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Gemma 4 26B A4B running on iPhone 17 Pro via model paging",
     "title_norm": "gemma 4 26b a4b running on iphone 17 pro via model paging"
+  },
+  "81f360f247831062a9b2fc319236f506c9eb5f600d5680df18cbd1779020af18": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436897+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "POV: An AI replaced your job this morning [video]",
+    "title_norm": "pov an ai replaced your job this morning video"
   },
   "8211cc0221ba3d830e789770e4d31137b35b382d4a79c5eb4534bfcbd6baa936": {
     "category": "research",
@@ -39439,31 +39477,16 @@
   },
   "_meta": {
     "date": "2026-08-02",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
+      "model_release": 1,
       "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-02-10"
+    "last_slot": "2026-08-02-12"
   },
   "_queue": [
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfac ByteDance has unveiled Seedance 2.5, its latest AI video-generation model, promising one-shot creation and flexible reference options. The update appears to push the boundaries of realism and control, letting creators generate clips from text, images, or existing footage. Early community reactions on Hacker News have been strong, with many calling it a major step forward.\n\n\u26a1 The model is available via the Seedance platform, signaling ByteDance\u2019s ambition to challenge OpenAI and other rivals in generative video. For content creators and marketers, this could mean faster, cheaper video production without a full production crew.",
-      "post_body_fa": "\ud83c\udfac \u0628\u0627\u06cc\u062a\u062f\u0646\u0633 \u0633\u06cc\u062f\u0646\u0633 2.5 \u0631\u0627 \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u062c\u062f\u06cc\u062f\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06a9\u0647 \u0633\u0627\u062e\u062a \u06cc\u06a9\u200c\u0645\u0631\u062d\u0644\u0647\u200c\u0627\u06cc \u0648 \u06af\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u0631\u062c\u0627\u0639 \u0627\u0646\u0639\u0637\u0627\u0641\u200c\u067e\u0630\u06cc\u0631 \u0631\u0627 \u0648\u0639\u062f\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0645\u0631\u0632\u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u200c\u06af\u0631\u0627\u06cc\u06cc \u0648 \u06a9\u0646\u062a\u0631\u0644 \u0631\u0627 \u062c\u0644\u0648 \u0645\u06cc\u200c\u0628\u0631\u062f \u0648 \u0628\u0647 \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0627\u0632 \u0645\u062a\u0646\u060c \u062a\u0635\u0648\u06cc\u0631 \u06cc\u0627 \u0641\u06cc\u0644\u0645 \u0645\u0648\u062c\u0648\u062f\u060c \u06a9\u0644\u06cc\u067e \u0628\u0633\u0627\u0632\u0646\u062f. \u0648\u0627\u06a9\u0646\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u062c\u0627\u0645\u0639\u0647 \u062f\u0631 \u0647\u06a9\u0631\u06cc\u0648\u0632 \u0642\u0648\u06cc \u0628\u0648\u062f\u0647 \u0648 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0622\u0646 \u0631\u0627 \u06cc\u06a9 \u06af\u0627\u0645 \u0628\u0632\u0631\u06af \u0628\u0647 \u062c\u0644\u0648 \u0645\u06cc\u200c\u062e\u0648\u0627\u0646\u0646\u062f.\n\n\u26a1 \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u0633\u06a9\u0648\u06cc Seedance \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a \u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u0627\u06cc\u062a\u062f\u0646\u0633 \u0642\u0635\u062f \u062f\u0627\u0631\u062f \u0628\u0627 OpenAI \u0648 \u062f\u06cc\u06af\u0631 \u0631\u0642\u0628\u0627 \u062f\u0631 \u062d\u0648\u0632\u0647 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0645\u0648\u0644\u062f \u0631\u0642\u0627\u0628\u062a \u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u062d\u062a\u0648\u0627 \u0648 \u0628\u0627\u0632\u0627\u0631\u06cc\u0627\u0628\u200c\u0647\u0627\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0648 \u0627\u0631\u0632\u0627\u0646\u200c\u062a\u0631 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u06cc\u06a9 \u06af\u0631\u0648\u0647 \u06a9\u0627\u0645\u0644 \u062a\u0648\u0644\u06cc\u062f.",
-      "post_title": "\ud83d\ude80 ByteDance releases Seedance 2.5, a leap in AI video generation",
-      "post_title_fa": "\ud83d\ude80 \u0628\u0627\u06cc\u062a\u062f\u0646\u0633 \u0633\u06cc\u062f\u0646\u0633 2.5 \u0631\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f\u061b \u062c\u0647\u0634\u06cc \u062f\u0631 \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
-      "priority": "high",
-      "published": "2026-08-01T20:45:12+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138302\">https://news.ycombinator.com/item?id=49138302</a></p>\n<p>Points: 315</p>\n<p># Comments: 162</p>",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -39623,6 +39646,22 @@
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.27197\">https://arxiv.org/abs/2607.27197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49121868\">https://news.ycombinator.com/item?id=49121868</a></p>\n<p>Points: 88</p>\n<p># Comments: 61</p>",
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
       "url": "https://arxiv.org/abs/2607.27197"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde9 Xberg v1 is here, the successor to Kreuzberg and a high-performance content intelligence framework. It processes 101 document formats, 367 code/data types, plus audio/video transcription and URLs.\n\n\ud83d\udd25 Native PDF parsing and multiple OCR engines rival Python libraries like docling and PaddleOCR. \u26a1 The Rust core keeps extraction fast, making it a strong fit for feeding LLM pipelines before RAG or fine-tuning.",
+      "post_body_fa": "\ud83e\udde9 Xberg v1 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u061b \u062c\u0627\u0646\u0634\u06cc\u0646 Kreuzberg \u0648 \u06cc\u06a9 \u0641\u0631\u06cc\u0645\u200c\u0648\u0631\u06a9 \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0647\u0648\u0634 \u0645\u062d\u062a\u0648\u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u06f1\u06f0\u06f1 \u0641\u0631\u0645\u062a \u0633\u0646\u062f\u060c \u06f3\u06f6\u06f7 \u0646\u0648\u0639 \u06a9\u062f \u0648 \u062f\u0627\u062f\u0647\u060c \u0648 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0631\u0648\u0646\u0648\u06cc\u0633\u06cc \u0635\u062f\u0627/\u0648\u06cc\u062f\u06cc\u0648 \u0648 URL\u0647\u0627 \u0631\u0627 \u067e\u0631\u062f\u0627\u0632\u0634 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83d\udd25 \u067e\u0631\u062f\u0627\u0632\u0634 PDF \u0628\u0648\u0645\u06cc \u0648 \u0686\u0646\u062f \u0645\u0648\u062a\u0648\u0631 OCR \u0622\u0646 \u0628\u0627 \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u067e\u0627\u06cc\u062a\u0648\u0646\u06cc \u0645\u062b\u0644 docling \u0648 PaddleOCR \u0631\u0642\u0627\u0628\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f. \u26a1 \u0647\u0633\u062a\u0647\u200c\u06cc Rust \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0631\u0627 \u0628\u0633\u06cc\u0627\u0631 \u0633\u0631\u06cc\u0639 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0622\u0646 \u0631\u0627 \u0628\u0647 \u06af\u0632\u06cc\u0646\u0647\u200c\u0627\u06cc \u0639\u0627\u0644\u06cc \u0628\u0631\u0627\u06cc \u062a\u063a\u0630\u06cc\u0647\u200c\u06cc \u062e\u0637\u0648\u0637 \u0644\u0648\u0644\u0647\u200c\u06cc LLM \u067e\u06cc\u0634 \u0627\u0632 RAG \u06cc\u0627 \u0641\u0627\u06cc\u0646\u200c\u062a\u06cc\u0648\u0646\u06cc\u0646\u06af \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Xberg v1 launches: an all-format content intelligence engine",
+      "post_title_fa": "\ud83d\ude80 \u0627\u0646\u062a\u0634\u0627\u0631 Xberg v1\u061b \u0645\u0648\u062a\u0648\u0631 \u0647\u0648\u0634\u0645\u0646\u062f \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0645\u062d\u062a\u0648\u0627 \u0627\u0632 \u0647\u0645\u0647 \u0641\u0631\u0645\u062a\u200c\u0647\u0627",
+      "priority": "medium",
+      "published": "2026-08-02T09:06:51+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I'm happy to announce that Xberg v1 is out.</p> <p>Xberg is the successor to Kreuzberg, equivalent to what would have been Kreuzberg v5. It's a content intelligence framework that handles a very wide range of inputs: documents (currently 101 formats), code and data formats (currently 367 types), audio/video transcription, and URLs (both static and JS-rendered content). It extracts and prepares that content for downstream processing.</p> <p>It's an extremely efficient, high-performance engine (see our PDF benchmarks below). For PDFs and images specifically, we handle native PDFs with very high performance and accuracy, and we ship multiple OCR engines that match the quality of the best Python libraries (e.g. docling, PaddleOCR, RapidOCR) at substantially better performance and stability.</p> <p>The changes between Kreuzberg v4 and Xberg v1 are substantial, and I invite you to read the <a href=\"https://github.com/xberg-io/xberg/blob/main/CHANGELOG.md#100---2026-07-27\">full changelog</a> for the complete picture. The highlights below give a sense of what's new:</p> <ul> <li>Pure-Rust PDF backend (<code>pdf_oxide</code>) replaces pdfium, with no native pdfium dependency.</li> <li>Layout-aware pipeline: reading order reconstructed with ONNX layout detection (PP-DocLayoutV3 / RT-DETR) and Docling-style predecessor-graph reordering.</li> <li>Per-page scanned-page detection with selective OCR, plus AcroForm/XFA form fields and outline-based headings.</li> <li>Across-the-board optimization of OCR and PDF extraction (memory discipline, pooled model sessions, streamed conversions).</li> <li>Native PaddleOCR backend (PP-OCRv6, with <code>medium</code> / <code>small</code> / <code>tiny</code> tiers) alongside Tesseract.</li> <li>Pure-Rust Candle OCR/VLM stack (TrOCR, GLM-OCR, GOT-OCR, DeepSeek-OCR, and PaddleOCR-VL) running without ONNX Runtime or native Tesseract.</li> <li>A second, ONNX-Runtime-free inference path via tract, which is what makes in-browser (WASM) and mobile inference possible.</li> <li>Named-entity recognition natively in Rust (GLiNER2), extensible to all bindings, including an in-browser WASM model with no server round-trip.</li> <li>Structured LLM extraction (<code>extract_structured</code> / <code>split_and_extract</code>) with rasterization, chunking, citations, caching, and configurable call/merge/VLM-fallback policies.</li> <li>Audio &amp; video transcription via a Whisper ONNX engine (<code>.mp3</code>, <code>.wav</code>, <code>.m4a</code>, <code>.mp4</code>, <code>.webm</code>).</li> <li>Retrieval building blocks: sparse embeddings (SPLADE), ColBERT late-interaction retrieval, and cross-encoder reranking alongside dense embeddings.</li> <li>Text intelligence: reversible redaction, summarization, translation, VLM image captioning, QR-code detection, document diffing, and page/chunk classification.</li> <li>URL &amp; web ingestion: sitemap discovery (<code>map_url</code>) and batched multi-URL crawling.</li> <li>New document formats: WordPerfect (<code>.wpd</code>/<code>.wp</code>/<code>.wp5</code>), HEIC/HEIF/AVIF, OpenDocument Presentation (<code>.odp</code>), Quarto / R Markdown, and configurable Jupyter cell rendering.</li> <li>Four new language bindings (Dart/Flutter, Swift, Kotlin/Android, and Zig) bring the total to 15 language bindings over one engine, with Android/iOS cross-compilation.</li> <li>Full mobile support (Flutter, Android, iOS).</li> <li>Candle backend alongside ONNX, plus ONNX-via-tract enabling ONNX on WASM and Android.</li> <li>Wider code intelligence: tree-sitter coverage grew substantially (248 to 367+ languages).</li> <li>Over 150 bugs fixed during the 1.0 cycle, plus security hardening (bounded RTF/PDF allocations, redaction leak fixes, Excel DDE warnings).</li> </ul> <p>The API surface was also simplified and reworked, making it more consistent.</p> <p>There's a migration guide in our docs explaining how to move from Kreuzberg to Xberg. Kreuzberg itself is in LTS mode until the end of this year and will continue to receive bug fixes and security updates.</p> <p>You're invited to check out the <a href=\"https://github.com/xberg-io/xberg/tree/main\">repo</a> and join our <a href=\"https://discord.gg/zy5W9tUxDb\">discord server</a>.</p> <hr /> <h2>Benchmarks</h2> <p>The benchmarks below are for PDFs and images only. There are extensive benchmarks on our website with per-format breakdowns, which you can see <a href=\"https://xberg.io/benchmarks\">here</a>. These numbers are measured in CI via our reproducible benchmark harness, and are specifically taken from the run for harness <code>1.0.8</code>, source <code>cf7fa0533d</code>. The data is publicly available in GitHub releases, and you can run the benchmark harness yourself.</p> <p>Composite quality (markdown pipeline, higher is better):</p> <table><thead> <tr> <th>Framework</th> <th align=\"right\">Native PDF</th> <th align=\"right\">Scanned PDF (OCR)</th> </tr> </thead><tbody> <tr> <td>Xberg (layout)</td> <td align=\"right\">0.958</td> <td align=\"right\">0.836</td> </tr> <tr> <td>Xberg (baseline)</td> <td align=\"right\">0.955</td> <td align=\"right\">0.687</td> </tr> <tr> <td>docling</td> <td align=\"right\">0.779</td> <td align=\"right\">0.762</td> </tr> <tr> <td>mineru</td> <td align=\"right\">0.408</td> <td align=\"right\">0.792</td> </tr> <tr> <td>liteparse</td> <td align=\"right\">0.837</td> <td align=\"right\">0.665</td> </tr> <tr> <td>markitdown</td> <td align=\"right\">0.689</td> <td align=\"right\">n/a</td> </tr> <tr> <td>pymupdf4llm</td> <td align=\"right\">0.448</td> <td align=\"right\">n/a</td> </tr> </tbody></table> <p>Structure and layout fidelity (SF1: tables and reading order, higher is better):</p> <table><thead> <tr> <th>Framework</th> <th align=\"right\">Native PDF</th> <th align=\"right\">Scanned PDF</th> </tr> </thead><tbody> <tr> <td>Xberg</td> <td align=\"right\">0.949</td> <td align=\"right\">0.531</td> </tr> <tr> <td>docling</td> <td align=\"right\">0.612</td> <td align=\"right\">0.366</td> </tr> <tr> <td>liteparse</td> <td align=\"right\">0.515</td> <td align=\"right\">0.142</td> </tr> <tr> <td>mineru</td> <td align=\"right\">0.077</td> <td align=\"right\">0.429</td> </tr> </tbody></table> <p>On native PDFs Xberg leads on quality (0.958 vs 0.837 for the next-best framework) and on table and reading-order fidelity by a wide margin (SF1 0.949 vs 0.612 for docling). On scanned PDFs it is #1 on both quality and raw text fidelity.</p> <p>Where we don't win yet: on pure image OCR we are currently #2 on the composite score, behind mineru (though still #1 on raw text accuracy). We are improving image OCR right now, and v1.1 should have us winning across the board.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Goldziher\"> /u/Goldziher </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vdd795/xberg_v1_is_out/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vdd795/xberg_v1_is_out/\">[comments]</a></span>",
+      "title": "Xberg v1 is out",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdd795/xberg_v1_is_out/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -42183,6 +42222,14 @@
     "title": "Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161",
     "title_norm": "oracle vm virtualbox bug discovered by ai cve202660161"
   },
+  "a9f0549ced6549a812b232f5ab0898e86d89a9c4096a89daed29302e2f8b9d13": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436988+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "[Release] WinterMix \u2014 Qwen3.5-122B-A10B in native MLX: an 82 GiB build that beats 94\u201395 GiB quants, plus a 68 GiB build for agent swarms",
+    "title_norm": "release wintermix qwen35122ba10b in native mlx an 82 gib build that beats 9495 gib quants plus a 68 gib build for agent swarms"
+  },
   "a9f369ccd067d7c41a6200dfe26c814cc9119515ee4a969e289a28ad28502eec": {
     "category": "research",
     "posted": false,
@@ -42302,6 +42349,14 @@
     "source": "OpenAI News",
     "title": "Getting started with ChatGPT",
     "title_norm": "getting started with chatgpt"
+  },
+  "aa696abd80b0f189efe6c4b823234d004dedf1d265b94555fe01d1a16ec2b6eb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436813+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+    "title_norm": "the prospects for 128 bit processors john mashey sgi 1995"
   },
   "aa6b8bbe0474ccae9a381892bb03764fc54848740136aa4275564de6aca13b68": {
     "category": "research",
@@ -47212,6 +47267,14 @@
     "source": "OpenAI News",
     "title": "Introducing ChatGPT search",
     "title_norm": "introducing chatgpt search"
+  },
+  "bd522fbdb53c1b71e459e020c54aa656f2b274658611cda645eea943627e2b5e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436714+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "title_norm": "show hn syncular offlinefirst sql sync with typescript and rust cores"
   },
   "bd547e421a45ce7eb1600e5eef5d44cbb1128231f6caff3b985c4133df5c8a72": {
     "category": "other",
@@ -55461,6 +55524,14 @@
     "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
     "title_norm": "trustbank uses ai agents to personalize furusato nozei gifts"
   },
+  "df880cb3743bf224dc62d5c9a5de9af3bafbba619fe2f4f7054d26a62f6f6647": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436832+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Drug reverses autism-like brain changes in adult mice within hours",
+    "title_norm": "drug reverses autismlike brain changes in adult mice within hours"
+  },
   "df8a67d55ba57500998b8239986da10f235d32fc0038d7442b2ec918562317dc": {
     "category": "research",
     "posted": false,
@@ -61866,6 +61937,14 @@
     "source": "arXiv cs.CL",
     "title": "SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads",
     "title_norm": "smart llmaugmented hybrid retrieval for dynamic product ads"
+  },
+  "f989fb854f984397b54015f1fd1949347cfbb4ebb1458b49a97fb7467be5dfcc": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T10:22:15.436922+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Xberg v1 is out",
+    "title_norm": "xberg v1 is out"
   },
   "f9962eb2c38a17b856678fb4f41239ff6e87bf0b1bcd8e3eae9b412c3eb5f819": {
     "category": "research",
