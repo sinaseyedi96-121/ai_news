@@ -1677,6 +1677,14 @@
     "title": "AI coding agents should optimize for less owned code",
     "title_norm": "ai coding agents should optimize for less owned code"
   },
+  "0651b9953801944e48ff8964995109fb00403c54b1d0cc529cbbf8e36716dd60": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920273+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Microsoft raises Xbox prices by up to 43%",
+    "title_norm": "microsoft raises xbox prices by up to 43"
+  },
   "0653fc4d0ad87fa1ee284718799d5abd273a307b99fd636b6c612b48aa3a80c8": {
     "category": "community_signal",
     "posted": false,
@@ -1700,6 +1708,14 @@
     "source": "arXiv cs.AI",
     "title": "Personalized Recommendation Tool Learning via Autonomous Language Agents",
     "title_norm": "personalized recommendation tool learning via autonomous language agents"
+  },
+  "066abde98a565a1a6f71a5472ea30eb9b6f2b0b5170ef9e14f73751cdaa7a294": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920480+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DSpark Benchmark Result on Deepseek v4 Flash 0731",
+    "title_norm": "dspark benchmark result on deepseek v4 flash 0731"
   },
   "066c4a0622357703ee67ccb3137af65a373f3e7cb17b386bdd2737dbf4adb4f6": {
     "category": "research",
@@ -14867,7 +14883,13 @@
   },
   "3a18f987585813c379dd58398e54bc53915525839c4537de90b24b232629887e": {
     "category": "policy",
-    "posted": false,
+    "message_id": 97,
+    "message_id_fa": 71,
+    "post_title": "\u2696\ufe0f US lawmakers grill DoorDash over Chinese AI model use",
+    "post_title_fa": "\u2696\ufe0f \u0642\u0627\u0646\u0648\u0646\u06af\u0630\u0627\u0631\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 DoorDash \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u062a\u0648\u0636\u06cc\u062d \u062e\u0648\u0627\u0633\u062a\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-02T19:24:35.883238+00:00",
+    "priority": "high",
     "seen_at": "2026-08-01T17:47:17.150523+00:00",
     "source": "Hacker News AI keyword",
     "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
@@ -20322,6 +20344,14 @@
     "source": "OpenAI News",
     "title": "Upgrading the Moderation API with our new multimodal moderation model",
     "title_norm": "upgrading the moderation api with our new multimodal moderation model"
+  },
+  "5170c8dac1b07b1a8d7b51be566d71a969e5995a8ea1160bb4ee7d2cb1d80a55": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920405+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI-assisted analytics now 10x cheaper",
+    "title_norm": "aiassisted analytics now 10x cheaper"
   },
   "5177cce29a4812a96bc1d825d9532a58088d7a6152a7adb004fb96a93abd8dd5": {
     "category": "policy",
@@ -38955,6 +38985,14 @@
     "title": "Domain Design for the Cops and Robbers Problem",
     "title_norm": "domain design for the cops and robbers problem"
   },
+  "9c636edf15cfea98ece969648347a5188fc957c540bec7a0d9889cc51cdd02cc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920432+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+    "title_norm": "show hn mapping jensen huangs fivelayer ai stack to engineering degrees"
+  },
   "9c63e33713e169c5d1a337c90ceceb6ae00eede8b39bc87028359e7fef5e9117": {
     "category": "research",
     "posted": false,
@@ -39828,40 +39866,24 @@
     "title_norm": "vacuum 16t"
   },
   "_digest_state": {
-    "daily_digest_date": "2026-08-01",
-    "daily_digest_date_fa": "2026-08-01",
-    "weekly_digest_date": "2026-07-26",
-    "weekly_digest_date_fa": "2026-07-26"
+    "daily_digest_date": "2026-08-02",
+    "daily_digest_date_fa": "2026-08-02",
+    "weekly_digest_date": "2026-08-02",
+    "weekly_digest_date_fa": "2026-08-02"
   },
   "_meta": {
     "date": "2026-08-02",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
       "infrastructure": 1,
       "model_release": 2,
-      "policy": 2
+      "policy": 3
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-02-18"
+    "last_slot": "2026-08-02-20"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfdb\ufe0f A group of U.S. lawmakers has sent a letter to DoorDash requesting details about its use of Chinese AI models. The inquiry signals growing Washington scrutiny over American companies relying on AI technology from geopolitical rivals like China. \ud83c\uddfa\ud83c\uddf8 Reports say the lawmakers want to know what data is shared and what safeguards are in place.\n\n\ud83d\udd0d This is part of a broader push to regulate AI supply chains and prevent sensitive user data from flowing overseas. For the AI industry, this could set a precedent for how U.S. companies use foreign models.",
-      "post_body_fa": "\ud83c\udfdb\ufe0f \u06af\u0631\u0648\u0647\u06cc \u0627\u0632 \u0642\u0627\u0646\u0648\u0646\u06af\u0630\u0627\u0631\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0646\u0627\u0645\u0647\u200c\u0627\u06cc \u0628\u0647 DoorDash \u0627\u0631\u0633\u0627\u0644 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u062e\u0648\u0627\u0647\u0627\u0646 \u062c\u0632\u0626\u06cc\u0627\u062a\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u062a\u062d\u0642\u06cc\u0642 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0646\u0638\u0627\u0631\u062a \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0628\u0631 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u0641\u0646\u0627\u0648\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0632 \u0631\u0642\u0628\u0627\u06cc \u0698\u0626\u0648\u067e\u0644\u06cc\u062a\u06cc\u06a9\u06cc \u0645\u0627\u0646\u0646\u062f \u0686\u06cc\u0646 \u062a\u06a9\u06cc\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \ud83c\uddfa\ud83c\uddf8 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u062d\u0627\u06a9\u06cc \u0627\u0632 \u0622\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0642\u0627\u0646\u0648\u0646\u06af\u0630\u0627\u0631\u0627\u0646 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f \u0628\u062f\u0627\u0646\u0646\u062f \u0686\u0647 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc\u06cc \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0634\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u0686\u0647 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u062d\u0641\u0627\u0638\u062a\u06cc \u062f\u0631 \u0646\u0638\u0631 \u06af\u0631\u0641\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\ud83d\udd0d \u0627\u06cc\u0646 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u062a\u0646\u0638\u06cc\u0645 \u0632\u0646\u062c\u06cc\u0631\u0647 \u062a\u0627\u0645\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u062c\u0644\u0648\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0627\u0646\u062a\u0642\u0627\u0644 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u062d\u0633\u0627\u0633 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0628\u0647 \u062e\u0627\u0631\u062c \u0627\u0632 \u06a9\u0634\u0648\u0631 \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0627\u0628\u0642\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u062e\u0627\u0631\u062c\u06cc \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u062f.",
-      "post_title": "\u2696\ufe0f US lawmakers grill DoorDash over Chinese AI model use",
-      "post_title_fa": "\u2696\ufe0f \u0642\u0627\u0646\u0648\u0646\u06af\u0630\u0627\u0631\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 DoorDash \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u062a\u0648\u0636\u06cc\u062d \u062e\u0648\u0627\u0633\u062a\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-01T17:29:14+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html\">https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136478\">https://news.ycombinator.com/item?id=49136478</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-      "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -40007,6 +40029,22 @@
       "url": "https://arxiv.org/abs/2607.27197"
     },
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde0 A new DeepSeek model, V4-Flash-0731, is making waves in community benchmarks, reportedly beating Fable-5, Sol, and Kimi-K3 in chess \ud83d\udd25.\n\nThe model is already on DeepSeek's official API and available as GGUF quants from Unsloth \u26a1, so local testers are digging in. Early reports highlight four reasoning-effort modes (none to max), and some users say 'low' can outperform 'high' on certain questions \ud83e\udd14. It's just one benchmark, but the buzz around this release is growing fast \ud83d\udcc8.",
+      "post_body_fa": "\ud83e\udde0 \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f DeepSeek \u0628\u0627 \u0646\u0627\u0645 V4-Flash-0731 \u062f\u0631 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u062c\u0627\u0645\u0639\u0647 \u062e\u0628\u0631\u0633\u0627\u0632 \u0634\u062f\u0647 \u0648 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u062f\u0631 \u0628\u0627\u0632\u06cc \u0634\u0637\u0631\u0646\u062c \u0627\u0632 Fable-5\u060c Sol \u0648 Kimi-K3 \u062c\u0644\u0648 \u0632\u062f\u0647 \u0627\u0633\u062a \ud83d\udd25.\n\n\u0627\u06cc\u0646 \u0645\u062f\u0644 \u0647\u0645\u200c\u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 API \u0631\u0633\u0645\u06cc DeepSeek \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a \u0648 \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc GGUF \u0622\u0646 \u0647\u0645 \u062a\u0648\u0633\u0637 Unsloth \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u26a1\u060c \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u062a\u0633\u062a\u200c\u06a9\u0646\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0645\u0634\u063a\u0648\u0644 \u0628\u0631\u0631\u0633\u06cc \u0622\u0646 \u0647\u0633\u062a\u0646\u062f. \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0627\u0632 \u0686\u0647\u0627\u0631 \u062d\u0627\u0644\u062a reasoning \u0627\u0632 \u00ab\u0628\u062f\u0648\u0646 \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u00bb \u062a\u0627 \u00ab\u062d\u062f\u0627\u06a9\u062b\u0631\u00bb \u062d\u06a9\u0627\u06cc\u062a \u062f\u0627\u0631\u0646\u062f \u0648 \u0628\u0631\u062e\u06cc \u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f \u062d\u0627\u0644\u062a \u00ab\u06a9\u0645\u00bb \u062f\u0631 \u0628\u0639\u0636\u06cc \u0633\u0624\u0627\u0644\u200c\u0647\u0627 \u0627\u0632 \u062d\u0627\u0644\u062a \u00ab\u0632\u06cc\u0627\u062f\u00bb \u0628\u0647\u062a\u0631 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83e\udd14. \u0627\u06cc\u0646 \u0641\u0642\u0637 \u06cc\u06a9 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0645\u0648\u062c \u062a\u0648\u062c\u0647 \u0628\u0647 \u0627\u06cc\u0646 \u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u0647\u200c\u0633\u0631\u0639\u062a \u062f\u0631 \u062d\u0627\u0644 \u0631\u0634\u062f \u0627\u0633\u062a \ud83d\udcc8.",
+      "post_title": "\ud83d\ude80 DeepSeek-V4-Flash-0731 beats Fable-5, Sol & Kimi-K3 on chess",
+      "post_title_fa": "\ud83d\ude80 DeepSeek-V4-Flash-0731 \u062f\u0631 \u0634\u0637\u0631\u0646\u062c \u0627\u0632 Fable-5\u060c Sol \u0648 Kimi-K3 \u062c\u0644\u0648 \u0632\u062f",
+      "priority": "medium",
+      "published": "2026-08-02T18:54:26+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/\"> <img alt=\"DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol &amp; Kimi-K3 on Chess Benchmark\" src=\"https://preview.redd.it/vvoei0u5d0hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30ff6ca76dac9cfbb331219be30797608747d864\" title=\"DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol &amp; Kimi-K3 on Chess Benchmark\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mrwang89\"> /u/mrwang89 </a> <br /> <span><a href=\"https://i.redd.it/vvoei0u5d0hh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/\">[comments]</a></span> </td></tr></table>",
+      "title": "DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol & Kimi-K3 on Chess Benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/"
+    },
+    {
       "category": "infrastructure",
       "duplicate_of": null,
       "post_body": "\ud83c\udf0e A new Financial Times analysis shows Mexico has quietly become a key pillar of the U.S. AI boom \u26a1. The country is hosting data centers, assembling AI hardware, and supplying energy to American tech giants. This nearshoring wave is turning Mexico into a critical node in the AI supply chain \ud83c\udfed.\n\nIt also raises questions about energy and labor conditions south of the border. For anyone watching AI infrastructure, Mexico is now a name to track.",
@@ -40021,22 +40059,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173\">https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146547\">https://news.ycombinator.com/item?id=49146547</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
       "title": "Mexico became a surprise cornerstone of America's AI boom",
       "url": "https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\u26a0\ufe0f Australian booksellers are sounding the alarm over rare and out-of-print titles being destroyed to train AI models. Publishers and data brokers are reportedly sourcing physical books for AI datasets, damaging or dismantling irreplaceable copies in the process. The trade warns that unique cultural works are being lost forever to feed AI's hunger for text.\n\n\ud83d\udcda This raises urgent questions about copyright, preservation, and the ethics of AI training data. It could push regulators to tighten rules on how books are sourced and used for machine learning. \ud83d\udd25 For authors and collectors, it's more evidence that the AI boom has collateral damage far beyond copyright lawsuits.",
-      "post_body_fa": "\u26a0\ufe0f \u06a9\u062a\u0627\u0628\u200c\u0641\u0631\u0648\u0634\u0627\u0646 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u0627\u0628\u0648\u062f\u06cc \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u0648 \u0686\u0627\u067e\u200c\u0647\u0627\u06cc \u062a\u0645\u0627\u0645\u200c\u0634\u062f\u0647 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f. \u0646\u0627\u0634\u0631\u0627\u0646 \u0648 \u0648\u0627\u0633\u0637\u0647\u200c\u0647\u0627\u06cc \u062f\u0627\u062f\u0647 \u0638\u0627\u0647\u0631\u0627\u064b \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u0641\u06cc\u0632\u06cc\u06a9\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u062c\u0645\u0648\u0639\u0647\u200c\u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc AI \u062a\u0647\u06cc\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u0648 \u062f\u0631 \u0627\u06cc\u0646 \u0641\u0631\u0622\u06cc\u0646\u062f \u0646\u0633\u062e\u0647\u200c\u0647\u0627\u06cc \u0628\u06cc\u200c\u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u0631\u0627 \u0622\u0633\u06cc\u0628 \u0645\u06cc\u200c\u0632\u0646\u0646\u062f \u06cc\u0627 \u0627\u0632 \u0628\u06cc\u0646 \u0645\u06cc\u200c\u0628\u0631\u0646\u062f. \u0627\u06cc\u0646 \u0635\u0646\u0639\u062a \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u0622\u062b\u0627\u0631 \u0641\u0631\u0647\u0646\u06af\u06cc \u0645\u0646\u062d\u0635\u0631\u0628\u0647\u200c\u0641\u0631\u062f \u0628\u0631\u0627\u06cc \u062a\u063a\u0630\u06cc\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0634\u0647 \u0627\u0632 \u062f\u0633\u062a \u0645\u06cc\u200c\u0631\u0648\u0646\u062f.\n\n\ud83d\udcda \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0633\u0648\u0627\u0644\u0627\u062a \u0641\u0648\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a\u060c \u062d\u0641\u0627\u0638\u062a \u0648 \u0627\u062e\u0644\u0627\u0642 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0631\u0627 \u0648\u0627\u062f\u0627\u0631 \u06a9\u0646\u062f \u0642\u0648\u0627\u0646\u06cc\u0646 \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u0647\u06cc\u0647 \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627 \u062f\u0631 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0645\u0627\u0634\u06cc\u0646 \u0648\u0636\u0639 \u06a9\u0646\u0646\u062f. \ud83d\udd25 \u0628\u0631\u0627\u06cc \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646 \u0648 \u06a9\u0644\u06a9\u0633\u06cc\u0648\u0646\u0631\u0647\u0627\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647 \u062f\u06cc\u06af\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0631\u0648\u0646\u0642 AI \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u062c\u0627\u0646\u0628\u06cc \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u062f\u0639\u0627\u0648\u06cc \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u062f\u0627\u0631\u062f.",
-      "post_title": "\ud83d\udcda Australian Booksellers Warn Rare Books Are Being Destroyed for AI",
-      "post_title_fa": "\ud83d\udcda \u0647\u0634\u062f\u0627\u0631 \u06a9\u062a\u0627\u0628\u200c\u0641\u0631\u0648\u0634\u0627\u0646 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u0627\u0628\u0648\u062f\u06cc \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u0628\u0631\u0627\u06cc \u062e\u0648\u0631\u0627\u06a9 AI",
-      "priority": "medium",
-      "published": "2026-08-02T16:12:40+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain\">https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145837\">https://news.ycombinator.com/item?id=49145837</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Australian booksellers raise alarm over destruction of rare titles to feed AI",
-      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -43299,6 +43321,14 @@
     "title": "When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs",
     "title_norm": "when a name is not a name a benchmark dataset and distilled reasoning for culturally entangled bangla homographs in lowresource llms"
   },
+  "ac76d91b313aa0147d34c0d3087c5bf8b5923ed7a950c603bcbba27378df6cca": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920419+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI and the iPod Test",
+    "title_norm": "ai and the ipod test"
+  },
   "ac867460f31ca33fb61a8a51aded99ae4b7ebbebbb5e6f3c1a65310d9f8ce09d": {
     "category": "integration",
     "posted": false,
@@ -43322,6 +43352,14 @@
     "source": "OpenAI News",
     "title": "How to use ChatGPT Work for everyday tasks",
     "title_norm": "how to use chatgpt work for everyday tasks"
+  },
+  "ac90e570648f3dc0c35f5dc74a28f5c47ce7b50203e355e4bf014660399cbd8f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920345+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+    "title_norm": "harvesting ssh credentials insights from my honeypot network"
   },
   "ac92f966b6f097e9ec9ec87edbb833dc8014fc7a01681b31f308eb9b60540f91": {
     "category": "community_signal",
@@ -44900,6 +44938,14 @@
     "source": "Hugging Face Blog",
     "title": "Hugging Face partners with Wiz Research to Improve AI Security",
     "title_norm": "hugging face partners with wiz research to improve ai security"
+  },
+  "b2df4c8006259b7ea7033484d13fb8128b2c61f41945dc5e63d4e129d96062d0": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920464+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol & Kimi-K3 on Chess Benchmark",
+    "title_norm": "deepseekv4flash0731 surpasses fable5 sol kimik3 on chess benchmark"
   },
   "b2f0e77a262d68468d8e7d338712dd49c9246777ad1ff1725e34257d582b5e4d": {
     "category": "other",
@@ -54047,6 +54093,14 @@
     "title": "We\u2019re running out of reasons to ignore AI safety",
     "title_norm": "were running out of reasons to ignore ai safety"
   },
+  "d6e59488e35ef11850b3264c19b9e3eeeeebcbae0f94bdfc2f00187b175540d4": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920367+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Kota \u2013 Bring AI agent CLIs into the same room",
+    "title_norm": "show hn kota bring ai agent clis into the same room"
+  },
   "d6f003ae6263063fa383f357efeab7eb51582956b64828a908e99e28a50fe9af": {
     "category": "other",
     "posted": false,
@@ -54903,6 +54957,14 @@
     "title": "Reducing health insurance costs and improving care",
     "title_norm": "reducing health insurance costs and improving care"
   },
+  "da7d8e3712e57e0cc5a0257bd4d9da88a3db94095fbddfe554586a351e931a58": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920389+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Is AI Progress Stalling? Or is it me?",
+    "title_norm": "is ai progress stalling or is it me"
+  },
   "da83b80fd0ac4d0e1ba20e596f0761fab0e6b06d078a9cc909eebe4929f4a49a": {
     "category": null,
     "posted": false,
@@ -55462,6 +55524,14 @@
     "source": "arXiv cs.AI",
     "title": "SportD: Can VLMs Physically Strategize?",
     "title_norm": "sportd can vlms physically strategize"
+  },
+  "dd4fcba8a106032e8feff079ec3910d4508f06b6bc453c7630579bcba789f96d": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920494+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek-V4-Flash-0731: When Low is higher than High",
+    "title_norm": "deepseekv4flash0731 when low is higher than high"
   },
   "dd5b932c2b45f8a740324b686c0c7096b512e62822288f57fdf4df2112b01ac0": {
     "category": "research",
@@ -63036,6 +63106,14 @@
     "source": "arXiv cs.AI",
     "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
     "title_norm": "tracerouter taskconsistent and adaptive online routing for agentic ai"
+  },
+  "faf6cafac0ab678cb2fc51f48d9bfb9cd038f0969b3c910ac09f008085f091df": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-02T19:24:34.920448+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+    "title_norm": "adopt ai or die the god test proposes ai is an opportunity and epochal threat"
   },
   "faf83466353b046dd71ef6d75a1898760ca04f43465a4f3c384a589486732f9d": {
     "category": "research",
