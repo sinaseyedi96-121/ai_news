@@ -415,6 +415,14 @@
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
     "title_norm": "agentic orchestration enterprise ai organizations have a deployment problem not a platform problem and most are calling chatbots agents"
   },
+  "01816a9beba266f62bdef306195809ea690d2b502950c63e4d90a13a42887f66": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222379+00:00",
+    "source": "TechCrunch AI",
+    "title": "Hark previews its browser use agent for completing tasks",
+    "title_norm": "hark previews its browser use agent for completing tasks"
+  },
   "0186ae4cd09c0117137241330fe345b8baad45e17d07cda09a02c8d6b946f318": {
     "category": "research",
     "posted": false,
@@ -1484,6 +1492,14 @@
     "source": "arXiv cs.AI",
     "title": "The production of meaning in the processing of natural language",
     "title_norm": "the production of meaning in the processing of natural language"
+  },
+  "04e4029106273585d13915066f4007f41c8bffaa2385fd90e2e9f2564ae756fd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222581+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Agent memory layers don't need an LLM deciding what to remember",
+    "title_norm": "agent memory layers dont need an llm deciding what to remember"
   },
   "04e6e916f9f8b82c8dd1966f8d4d284565c8738b6bbec70343eaddd2a78a3841": {
     "category": "research",
@@ -3323,6 +3339,20 @@
     "title": "2024 Security Feature Highlights",
     "title_norm": "2024 security feature highlights"
   },
+  "0b4e9b5e36534bbf75f7b5a192060f0021d3946b69f624799c8c448991bb1e5d": {
+    "category": "other",
+    "message_id": 117,
+    "message_id_fa": 91,
+    "post_title": "\ud83d\ude80 Jeff Dean and other Google AI leaders launch Discovery Loop",
+    "post_title_fa": "\ud83d\ude80 \u062c\u0641 \u062f\u06cc\u0646 \u0648 \u0647\u0645\u06a9\u0627\u0631\u0627\u0646\u0634 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e Discovery Loop \u0631\u0627 \u0631\u0627\u0647 \u0627\u0646\u062f\u0627\u062e\u062a\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-05T16:17:14.358680+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-05T16:17:13.222428+00:00",
+    "source": "Wired AI",
+    "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "title_norm": "googles top ai brains are leaving to launch discovery loop"
+  },
   "0b5622610d50018f4425e5756e8022624ffb1e664b03a0b87205a4d0f4028144": {
     "category": "other",
     "posted": false,
@@ -3963,6 +3993,14 @@
     "title": "SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions",
     "title_norm": "sechkan kolmogorovarnold networks with hyperbolic secant functions"
   },
+  "0d4b441f4176240654aff3b1c1a89283385f9e25da5d5fc5cfe5d106b855ac6a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222487+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The next chapter of our AI momentum",
+    "title_norm": "the next chapter of our ai momentum"
+  },
   "0d4d9e69668d347f3deae234bc5548505244c45879c766a23025c9e844afe7a6": {
     "category": "research",
     "posted": false,
@@ -4569,6 +4607,14 @@
     "title": "\"We have information that Moonshot distilled Fable for the development of K3\"",
     "title_norm": "we have information that moonshot distilled fable for the development of k3"
   },
+  "0f4153e576fc526d297156e447337fa35a38e84831e395361e68b1ee2fceead7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222513+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Inside the Long, AI-Powered Quest to Perfect Pringle-Making",
+    "title_norm": "inside the long aipowered quest to perfect pringlemaking"
+  },
   "0f49108ddeb8593b2bff5ea6c2cdfc38e136391875cbe86b9f1c987005e53fc5": {
     "category": "research",
     "posted": false,
@@ -4688,6 +4734,14 @@
     "source": "Hacker News AI keyword",
     "title": "Open Source AI Harness Profiler \u2013 discover where tf your tokens are going",
     "title_norm": "open source ai harness profiler discover where tf your tokens are going"
+  },
+  "0fd73cad38397e825b142b13ae37fc8067dd3e241db8a06bd3e8a8887ab94b6d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222479+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Oracle Just Halved Its Always Free ARM Limits",
+    "title_norm": "oracle just halved its always free arm limits"
   },
   "0fda1a1b5a24b71ccbe1c606278a414a90e6a6d06c559598303a2a3904d80550": {
     "category": "other",
@@ -5984,6 +6038,14 @@
     "source": "arXiv cs.AI",
     "title": "PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis",
     "title_norm": "pathscaler1 crossscale reasoning for pathological image analysis"
+  },
+  "14793543c678d41b71624335dc9e6fc93ac3d38703dc2398e4a77b871798a960": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222472+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Qwen 3.0 Image Pro",
+    "title_norm": "qwen 30 image pro"
   },
   "1479f16fea091e4acdf29c4644a8256ec71757fba54141579a75d0293e5b5abf": {
     "category": "integration",
@@ -7292,6 +7354,14 @@
     "source": "arXiv cs.CL",
     "title": "Calibrating Semantic Uncertainty from Observable Language-Model Probabilities",
     "title_norm": "calibrating semantic uncertainty from observable languagemodel probabilities"
+  },
+  "185ca0557cc546e03fb8dab919976994b1461cd87668585b550f13b5c11a22e1": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222550+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ledgerful \u2013 I built a local tool to catch when AI invents stuff in my code",
+    "title_norm": "ledgerful i built a local tool to catch when ai invents stuff in my code"
   },
   "186694ae6c660e57c3bafeb98dc1252c0ca0fe760364623c59b2a3e08789a251": {
     "category": "other",
@@ -8706,6 +8776,14 @@
     "source": "arXiv cs.CL",
     "title": "TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking",
     "title_norm": "timecapsule generative hallucination as a method for historical sensemaking"
+  },
+  "1ca2eb754759eaaa99938b501cc9cd3d2fbe4c5ac78feb0bcb06f481499cad17": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222285+00:00",
+    "source": "TechCrunch AI",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "title_norm": "shopify says ai search is driving more traffic and sales not replacing google"
   },
   "1ca6ad2e0d6c03bd600b4d607d545770668a021044d3a60564263856e19de85c": {
     "category": "research",
@@ -30671,6 +30749,22 @@
     "title": "Economic impacts research at OpenAI",
     "title_norm": "economic impacts research at openai"
   },
+  "6574a1168544dd51ca08cdcf375e087c8dd7a225b8a14fce04050f819bbd7076": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222455+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The Valley of Webhooks",
+    "title_norm": "the valley of webhooks"
+  },
+  "6577ca7f211e6b3948262a0062fb2c9d57ffdece40bcf4995ed002d871e13c67": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222505+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Rainy Day Thoughts on AI",
+    "title_norm": "rainy day thoughts on ai"
+  },
   "65a1502d4b9ffd8af07d44b03546d5e2af73df5e52f27dfc2a75b1b3dae7cf48": {
     "category": "research",
     "posted": false,
@@ -31222,6 +31316,14 @@
     "source": "arXiv cs.AI",
     "title": "Token-Region Guided Cross-Attention Fusion for Multimodal Affect Interpretation",
     "title_norm": "tokenregion guided crossattention fusion for multimodal affect interpretation"
+  },
+  "677ec8bbe6022f9cc4a5be441bf8a79d8ca3a169dd6458640cf3c8f5df6ceafa": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222462+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+    "title_norm": "cops used flock to track a man across state lines for a pretextual weed search"
   },
   "6784bf6e0d525a5dfb33597139ff54815757308a4ca9168360b94c368813c232": {
     "category": "research",
@@ -31895,6 +31997,14 @@
     "title": "Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model",
     "title_norm": "towards cultural bridge by bahnaricvietnamese translation using transfer learning of sequencetosequence pretraining language model"
   },
+  "699af5527614f3729f91fca88255f16c8e21c166365915e3c2fa7a4b667bfdf8": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222494+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Everfree -AI cowriter note app on GitHub backend & Evernote migration",
+    "title_norm": "show hn everfree ai cowriter note app on github backend evernote migration"
+  },
   "699ff66f39358a41fe945ac293dc141ac221077270fcf2498ada54f6897a2829": {
     "category": "research",
     "posted": false,
@@ -32134,6 +32244,14 @@
     "source": "OpenAI News",
     "title": "Frontier Model Forum updates",
     "title_norm": "frontier model forum updates"
+  },
+  "6a5cc6c74b77300f610c91a2b5d5ef480ec3c430b0bd03ac7f5d89caf1e03c76": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222563+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Wikipedia: AI or Not Quiz",
+    "title_norm": "wikipedia ai or not quiz"
   },
   "6a60501e0e2e431f797498dba17afad15b538d1e44e1899f29090b3fc9c52b3f": {
     "category": "research",
@@ -48135,16 +48253,32 @@
   },
   "_meta": {
     "date": "2026-08-05",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
-      "other": 1,
+      "other": 2,
       "policy": 3
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-05-16"
+    "last_slot": "2026-08-05-18"
   },
   "_queue": [
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udd01 Google is officially shutting down the Assistant app on phones on September 4, leaving Gemini as the only voice assistant on Android. The company has been nudging users toward Gemini for over a year, and this marks the end of the Assistant era.\n\n\u26a1 Users who still have Assistant will be upgraded or prompted to switch to Gemini during the transition. \ud83d\udcf1 The move simplifies Google's voice AI strategy but also forces millions to adapt to a new assistant. \ud83d\udd25 It's a clear signal that Google is all-in on Gemini as its default AI across devices.",
+      "post_body_fa": "\ud83d\udd01 \u06af\u0648\u06af\u0644 \u0631\u0633\u0645\u0627\u064b \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u062f\u0631 \u06f4 \u0633\u067e\u062a\u0627\u0645\u0628\u0631 \u0627\u067e \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u0631\u0627 \u0631\u0648\u06cc \u06af\u0648\u0634\u06cc\u200c\u0647\u0627 \u0627\u0632 \u06a9\u0627\u0631 \u0628\u06cc\u0646\u062f\u0627\u0632\u062f \u0648 \u062c\u0645\u06cc\u0646\u0627\u06cc \u0631\u0627 \u062a\u0646\u0647\u0627 \u062f\u0633\u062a\u06cc\u0627\u0631 \u0635\u0648\u062a\u06cc \u0627\u0646\u062f\u0631\u0648\u06cc\u062f \u0628\u0627\u0642\u06cc \u0628\u06af\u0630\u0627\u0631\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0628\u06cc\u0634 \u0627\u0632 \u06cc\u06a9 \u0633\u0627\u0644 \u0627\u0633\u062a \u06a9\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0631\u0627 \u0628\u0647 \u0633\u0645\u062a \u062c\u0645\u06cc\u0646\u0627\u06cc \u0647\u0644 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642 \u0639\u0645\u0644\u0627\u064b \u067e\u0627\u06cc\u0627\u0646 \u062f\u0648\u0631\u0627\u0646 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u0627\u0633\u062a.\n\n\u26a1 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646\u06cc \u06a9\u0647 \u0647\u0646\u0648\u0632 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u062c\u0645\u06cc\u0646\u0627\u06cc \u0627\u0631\u062a\u0642\u0627 \u0645\u06cc\u200c\u06cc\u0627\u0628\u0646\u062f \u06cc\u0627 \u06af\u0632\u06cc\u0646\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0627 \u0645\u06cc\u200c\u0628\u06cc\u0646\u0646\u062f. \ud83d\udcf1 \u0627\u06cc\u0646 \u062a\u0635\u0645\u06cc\u0645 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc \u0635\u0648\u062a\u06cc \u06af\u0648\u06af\u0644 \u0631\u0627 \u0633\u0627\u062f\u0647\u200c\u062a\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u0646\u0641\u0631 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u0628\u0647 \u0633\u0627\u0632\u06af\u0627\u0631\u06cc \u0628\u0627 \u062f\u0633\u062a\u06cc\u0627\u0631 \u062c\u062f\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd25 \u0627\u06cc\u0646 \u06cc\u06a9 \u0646\u0634\u0627\u0646\u0647 \u0648\u0627\u0636\u062d \u0627\u0633\u062a \u06a9\u0647 \u06af\u0648\u06af\u0644 \u0647\u0645\u0647 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u0631\u0648\u06cc \u062c\u0645\u06cc\u0646\u0627\u06cc \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06af\u0630\u0627\u0634\u062a\u0647 \u0627\u0633\u062a.",
+      "post_title": "\u26b0\ufe0f Google will replace Assistant with Gemini on September 4",
+      "post_title_fa": "\u26b0\ufe0f \u06af\u0648\u06af\u0644 \u062f\u0631 \u06f4 \u0633\u067e\u062a\u0627\u0645\u0628\u0631 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u06af\u0648\u0634\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u062c\u0645\u06cc\u0646\u0627\u06cc \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+      "priority": "high",
+      "published": "2026-08-05T15:30:02+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Ars Technica AI",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
+    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -48304,22 +48438,6 @@
       "summary": "Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.",
       "title": "Texas halts data center connections to power grid amid overwhelming demand",
       "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfd7\ufe0f Anthropic has reportedly signed a $10 billion compute deal with AI cloud startup Volta, adding to a string of recent cloud partnerships. The multi-year agreement is meant to secure infrastructure for training and serving Anthropic models, and positions Volta as a major AI-native cloud player.\n\n\ud83d\udcb0 The commitment is one of the largest of its kind, underlining how much capital frontier AI labs are pouring into computing capacity. For the industry, it shows that winning the AI race increasingly comes down to access to energy and chips. \ud83c\udf0d Expect more big-ticket cloud deals as labs race to scale.",
-      "post_body_fa": "\ud83c\udfd7\ufe0f \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u060c Anthropic \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u06cc \u06f1\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0628\u0627 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0627\u0628\u0631\u06cc Volta \u0627\u0645\u0636\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u062a\u0648\u0627\u0641\u0642 \u0686\u0646\u062f\u0633\u0627\u0644\u0647 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0648 \u0627\u062c\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc Anthropic \u0627\u0633\u062a \u0648 Volta \u0631\u0627 \u0628\u0647 \u06cc\u06a9 \u0628\u0627\u0632\u06cc\u06af\u0631 \u0628\u0632\u0631\u06af \u0627\u0628\u0631\u06cc\u0650 \u0645\u062e\u0635\u0648\u0635 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83d\udcb0 \u0627\u06cc\u0646 \u062a\u0639\u0647\u062f \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0647\u0627\u06cc \u0627\u0632 \u0627\u06cc\u0646 \u062f\u0633\u062a \u0627\u0633\u062a \u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0648\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u0633\u0631\u0645\u0627\u06cc\u0647 \u0635\u0631\u0641 \u0638\u0631\u0641\u06cc\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0634 \u0627\u0632 \u067e\u06cc\u0634 \u0628\u0647 \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0627\u0646\u0631\u0698\u06cc \u0648 \u062a\u0631\u0627\u0634\u0647 \u0648\u0627\u0628\u0633\u062a\u0647 \u0627\u0633\u062a. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0628\u0627 \u0634\u062a\u0627\u0628 \u0631\u0642\u0627\u0628\u062a\u060c \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0647\u0627\u06cc \u06a9\u0644\u0627\u0646 \u0627\u0628\u0631\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u0628\u0628\u06cc\u0646\u06cc\u0645.",
-      "post_title": "\ud83d\udcb0 Anthropic signs $10B cloud deal with AI startup Volta",
-      "post_title_fa": "\ud83d\udcb0 Anthropic \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u06f1\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0627\u0628\u0631\u06cc \u0628\u0627 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e Volta \u0627\u0645\u0636\u0627 \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-04T19:48:40+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "TechCrunch AI",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -49733,6 +49851,14 @@
     "source": "arXiv cs.AI",
     "title": "Where Is the Cost of Third-Party API Routers in Agentic Software Development?",
     "title_norm": "where is the cost of thirdparty api routers in agentic software development"
+  },
+  "a467697eca0fb0d5fac8639e74d0796ebfd87f48538ab4c7e88ab4b2d9560904": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222523+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What paid tools have you now replaced with personalized AI-coded tools?",
+    "title_norm": "ask hn what paid tools have you now replaced with personalized aicoded tools"
   },
   "a46f8396280dd005d344de62105c1da48fb81594389e8cf9ad9114b84e191ddb": {
     "category": "research",
@@ -56452,6 +56578,14 @@
     "title": "SweetSpecter: China-linked cyber activity",
     "title_norm": "sweetspecter chinalinked cyber activity"
   },
+  "b9e30a9a59bd5415d3b60fff53b41fcb692f270b36403754f705899bbbcb92a8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222444+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
+    "title_norm": "feds kashkari says now is the time to start slowly moving rates up"
+  },
   "b9f9db68c799349fae977fd45250eb2e8b0c910959d852fb6d3cecb89bba9ee6": {
     "category": "community_signal",
     "posted": false,
@@ -57219,6 +57353,14 @@
     "source": "arXiv cs.AI",
     "title": "Two Views, One Voice: Evidence-Grounded Conversational Music Recommendation",
     "title_norm": "two views one voice evidencegrounded conversational music recommendation"
+  },
+  "bc5ed6484b462efb110dc5c4fcf75395b664e135fdcc65c066a9df9fa8cacefa": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222414+00:00",
+    "source": "Ars Technica AI",
+    "title": "Google plans to kill Assistant on your phone on September 4",
+    "title_norm": "google plans to kill assistant on your phone on september 4"
   },
   "bc6466fca4768872f11b9916b3a40a0abd45f7407bbd0f659266c62dd7d60ccb": {
     "category": "integration",
@@ -64432,6 +64574,14 @@
     "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
     "title_norm": "an honestyfirst pipeline for aitranscribing a small letter archive"
   },
+  "d4140e9b4946b4d777749826b9beee65364bccf9ca89ecbeb1b602ac707e239a": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222571+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Ling-3.0-flash MXFP4 released and running locally on one DGX Spark.",
+    "title_norm": "ling30flash mxfp4 released and running locally on one dgx spark"
+  },
   "d4162a31dab7c36b9a0124102703e862dcfbe100714517530664e4b33ef192bc": {
     "category": "research",
     "posted": false,
@@ -69975,6 +70125,14 @@
     "source": "arXiv cs.CL",
     "title": "Chemical Chain-of-Thought Functions as a Hallucination-Prone Molecular Scratchpad",
     "title_norm": "chemical chainofthought functions as a hallucinationprone molecular scratchpad"
+  },
+  "e67c805c5c0fca39e9a0af0044acb82f33ba2ad5195b33c172da9823a0fa5194": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-05T16:17:13.222399+00:00",
+    "source": "The Verge AI",
+    "title": "Reddit is introducing a new moderator: AI",
+    "title_norm": "reddit is introducing a new moderator ai"
   },
   "e67d406dd3c83e4393d57d6786ef1cee921652fea2bb2e64b553eacee250e7e3": {
     "category": "research",
