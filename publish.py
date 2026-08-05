@@ -53,6 +53,36 @@ def rtl_anchor(text: str, lang: str) -> str:
     return "\n".join(f"{_RLM}{line}" if line else line for line in text.split("\n"))
 
 
+# Sentence-boundary heuristic used only to find where the visible preview ends:
+# punctuation immediately followed by whitespace. Covers Farsi's "؟" too.
+# Misses abbreviations like "U.S." (no space right after the period there
+# would just mean the split lands one word later), which is an acceptable
+# tradeoff for a lightweight preview cut.
+_SENTENCE_END_RE = re.compile(r"(?<=[.!?؟])\s+")
+
+
+def _split_preview(body: str) -> tuple[str, str]:
+    """Split a post_body into (preview, hidden): preview is the first
+    sentence of the first paragraph; hidden is everything else (the rest of
+    that paragraph plus any further paragraphs), destined for an expandable
+    blockquote. Returns hidden="" when there's nothing left to hide."""
+    body = (body or "").strip()
+    if not body:
+        return "", ""
+    first_para, *rest_paragraphs = body.split("\n\n")
+    sentences = _SENTENCE_END_RE.split(first_para.strip())
+    preview = sentences[0]
+    remainder = " ".join(sentences[1:]).strip()
+    hidden_parts = ([remainder] if remainder else []) + rest_paragraphs
+    hidden = "\n\n".join(p for p in hidden_parts if p)
+    return preview, hidden
+
+
+def _escape_html(text: str) -> str:
+    """Escape the characters Telegram's HTML parse mode treats as markup."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 @dataclass(frozen=True)
 class Channel:
     """A Telegram destination: which bot token, which chat, which language."""
@@ -91,25 +121,40 @@ def _with_leading_emoji(text: str, category: str, lang: str = "en") -> str:
 
 
 def format_post(item: dict, lang: str = "en") -> str:
-    """Render an item for a channel. Farsi falls back to the English fields if
-    the model didn't return a translation for some reason."""
+    """Render an item for a channel as Telegram HTML. Farsi falls back to the
+    English fields if the model didn't return a translation for some reason.
+
+    Only the title and the first sentence of the body are shown up front;
+    the rest (remainder of the first paragraph + any further paragraphs) is
+    wrapped in an expandable blockquote so the channel feed stays scannable
+    while the full text is one tap away."""
     if lang == "fa":
         title_src = item.get("post_title_fa") or item.get("post_title")
         body_src = item.get("post_body_fa") or item.get("post_body")
     else:
         title_src = item["post_title"]
         body_src = item["post_body"]
+
     title = _with_leading_emoji(title_src, item["category"], lang)
-    body = _with_leading_emoji(body_src, item["category"], lang)
-    return f"{title}\n\n{body}\n\n🔗 {item['url']}"
+    preview_raw, hidden_raw = _split_preview(body_src)
+    preview = _with_leading_emoji(preview_raw, item["category"], lang)
+    hidden = rtl_anchor(hidden_raw, lang)
+
+    lines = [_escape_html(title), "", _escape_html(preview)]
+    if hidden:
+        lines += ["", f"<blockquote expandable>{_escape_html(hidden)}</blockquote>"]
+    lines += ["", f"🔗 {_escape_html(item['url'])}"]
+    return "\n".join(lines)
 
 
-async def _send(bot: Bot, chat_id: str, text: str, *, disable_preview: bool) -> tuple[bool, int | None]:
+async def _send(bot: Bot, chat_id: str, text: str, *, disable_preview: bool,
+                 parse_mode: str | None = None) -> tuple[bool, int | None]:
     try:
         message = await bot.send_message(
             chat_id=chat_id,
             text=text,
             disable_web_page_preview=disable_preview,
+            parse_mode=parse_mode,
         )
         return True, message.message_id
     except TelegramError:
@@ -139,7 +184,8 @@ async def _publish_all(items: list[dict]) -> list[dict[str, tuple[bool, int | No
                 per_lang[ch.lang] = (False, None)
                 continue
             text = format_post(item, ch.lang)
-            per_lang[ch.lang] = await _send(bots[ch.token], ch.chat_id, text, disable_preview=False)
+            per_lang[ch.lang] = await _send(bots[ch.token], ch.chat_id, text,
+                                             disable_preview=False, parse_mode="HTML")
         results.append(per_lang)
     return results
 
