@@ -287,6 +287,14 @@
     "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
     "title_norm": "a longrun persistence theory for ai systems under the redundancyadjusted artificial age score aas"
   },
+  "00e8a579ddc9bff27a777ed580c92bb9da760a2e010d3aacec1dc78d892dc904": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764766+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "They almost catched up on Frontier performance, so now catching up on prices",
+    "title_norm": "they almost catched up on frontier performance so now catching up on prices"
+  },
   "00ef73acc9a89dfcb94b45d0446831b966982e1818b5191217c4190b1585a224": {
     "category": "other",
     "posted": false,
@@ -750,6 +758,14 @@
     "source": "arXiv cs.AI",
     "title": "A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference",
     "title_norm": "a motionaware vector quantization framework with centroid reuse for efficient vla inference"
+  },
+  "026e0ce0a7eeba27ec9365e50832ce6b02a29cf0b3ed0e1411ef4a57abd8ec7a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764721+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "GitHub \u2013 AI book writing tools (curated list)",
+    "title_norm": "github ai book writing tools curated list"
   },
   "026e33fd640de9e604a78a1c32c807fda59d01b1bbc1f64f0670a7aa3fe29217": {
     "category": "research",
@@ -2252,6 +2268,14 @@
     "source": "Meta AI Blog (unofficial)",
     "title": "Introducing quantized Llama models with increased speed and a reduced memory footprint",
     "title_norm": "introducing quantized llama models with increased speed and a reduced memory footprint"
+  },
+  "06e847949d2de68b11f9d5444fac8d2f7426857b57f27351f973f6983c1a9475": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764572+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "TCM Tongue Diagnosis AI",
+    "title_norm": "tcm tongue diagnosis ai"
   },
   "06ebd61443517d7815c43d3cbeb7d04e0cec6e15aa18e00d2baa1257b32d9430": {
     "category": "other",
@@ -5973,6 +5997,14 @@
     "title": "China State Media Says Support for Open AI Models Has Limits",
     "title_norm": "china state media says support for open ai models has limits"
   },
+  "1302ea6921d6947476587ddbb7d09ab43f45bdb4b2e62d5ca1702ebda9b48a81": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764366+00:00",
+    "source": "TechCrunch AI",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "title_norm": "exclusive mirendil inks 100m google cloud deal to scale selfimproving ai"
+  },
   "1305abcf2c1ad4b7c6e0964d4b72cef76af109b8336b6097cd959602c934cbee": {
     "category": "other",
     "posted": false,
@@ -7099,6 +7131,20 @@
     "title": "DALL\u00b7E now available in beta",
     "title_norm": "dalle now available in beta"
   },
+  "16a23e8be38a4bd2cb39deb4d9179e8be4d2471f546807f951b700696f1c136e": {
+    "category": "other",
+    "message_id": 123,
+    "message_id_fa": 97,
+    "post_title": "\ud83c\udf00 Meta's AI agent escapes test environment",
+    "post_title_fa": "\ud83c\udf00 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0627 \u0627\u0632 \u0645\u062d\u06cc\u0637 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u06cc \u062e\u0627\u0631\u062c \u0634\u062f",
+    "posted": true,
+    "posted_at": "2026-08-06T13:16:15.976633+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-06T13:16:14.764498+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Meta latest to tell world its AI agent wandered out of test pen",
+    "title_norm": "meta latest to tell world its ai agent wandered out of test pen"
+  },
   "16a912628f74d7ec930f0257c8e5a7336f1f875e192bfbee3b25295281860506": {
     "category": "policy",
     "posted": false,
@@ -8158,6 +8204,14 @@
     "source": "Hacker News AI keyword",
     "title": "15% of long-form Reddit posts are AI-written (41% in R/CryptoCurrency)",
     "title_norm": "15 of longform reddit posts are aiwritten 41 in rcryptocurrency"
+  },
+  "19a6fff7d6284e8204e65766017b3785bf202f3e9faeefd02c4a36871a338227": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764816+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Knowledge vs. hallucination rate: what is your favorite model?",
+    "title_norm": "knowledge vs hallucination rate what is your favorite model"
   },
   "19afcb743b393d801f9300bad65a3799b81f87a6a5765481565add9d8a952f9a": {
     "category": "model_release",
@@ -9726,6 +9780,14 @@
     "source": "arXiv cs.AI",
     "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
     "title_norm": "train the model not the reader decodability supervision for verifiable activation explanations"
+  },
+  "1df905f905459e21db72688304a64b3effe48bbc8726dcd715f6f349151207df": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764676+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "title_norm": "should ai labs be treated like the owners of dangerous animals"
   },
   "1dfd46d9744d6af400e7823843fdbe312d8682d28b389206ffde29d7b60aafbe": {
     "category": "other",
@@ -13524,6 +13586,14 @@
     "source": "arXiv cs.AI",
     "title": "When Shortest Isn't Safest: A Design Science Approach to Senior-Friendly Pedestrian Routing",
     "title_norm": "when shortest isnt safest a design science approach to seniorfriendly pedestrian routing"
+  },
+  "29a29d5c58eb95035c6d567395c35ff0fc49bcd6d78dc664520ba004cd9c1a10": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764485+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Mario Meets Pareto",
+    "title_norm": "mario meets pareto"
   },
   "29a870a3210e9b32ea84922280a230f6e31a25bc9d3675de24aec0d8785a6a9d": {
     "category": "research",
@@ -22483,6 +22553,14 @@
     "title": "Featherless AI on Hugging Face Inference Providers \ud83d\udd25",
     "title_norm": "featherless ai on hugging face inference providers"
   },
+  "466f6050e71c9bd7bc4e07e1f05892a2e491ff970b3a8c07d33ab8f74d30e677": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764445+00:00",
+    "source": "The Verge AI",
+    "title": "AI bots started a religion \u2014\u00a0humans immediately followed",
+    "title_norm": "ai bots started a religion humans immediately followed"
+  },
   "4686f7a7d04124a8d880929d65c0380e652b0d6424b16b2ebe71de9d7f155e21": {
     "category": "research",
     "posted": false,
@@ -23450,6 +23528,14 @@
     "source": "OpenAI News",
     "title": "Operation \"Zero Zeno\": Israel-linked influence activity",
     "title_norm": "operation zero zeno israellinked influence activity"
+  },
+  "49a9592d46359e8711cb7aef19d025a10ddb9f0f71ad1577f650ba1e9b1d224d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764659+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Srelens \u2013 Kubernetes control room for engineers and AI agents (MIT)",
+    "title_norm": "show hn srelens kubernetes control room for engineers and ai agents mit"
   },
   "49aafa8efb70d0fcca708d058d795c73f71626b263be948f208b90de8fddbeb9": {
     "category": "research",
@@ -24800,6 +24886,14 @@
     "source": "Hacker News AI keyword",
     "title": "Former OpenAI exec Fidji Simo's company has analyzed 3,500 blood vials with AI",
     "title_norm": "former openai exec fidji simos company has analyzed 3500 blood vials with ai"
+  },
+  "4d989304f52d8afcff7af96dc1c3185f4178cb3494ccee86a852053596fcf6f8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764781+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Auto-fit vs tuned MoE offload: 564 \u2192 1330 pp tok/s, unchanged decode (Qwen3.6-35B-A3B Q6 / RTX 3090)",
+    "title_norm": "autofit vs tuned moe offload 564 1330 pp toks unchanged decode qwen3635ba3b q6 rtx 3090"
   },
   "4d9ab471546ac87cf00242bb364851351a9a372af86cabec5c9c2d3fecc8771e": {
     "category": "research",
@@ -26979,6 +27073,14 @@
     "title": "FSE: Continual Learning for Named Entity Recognition by Fast-Slow Experts",
     "title_norm": "fse continual learning for named entity recognition by fastslow experts"
   },
+  "54dbc8dfa1c60be8e4056f15c2e8607fa8bab506650335933913ab04fa6b0fd8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764617+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Amplifies Human Ignorance: Lessons from \"OpenAI Hacks HuggingFace\" Incident [video]",
+    "title_norm": "ai amplifies human ignorance lessons from openai hacks huggingface incident video"
+  },
   "54dcc7c914a0357792615599a04c748373b2b25c830bea91db681c06419f3f12": {
     "category": "research",
     "posted": false,
@@ -27874,6 +27976,14 @@
     "source": "arXiv cs.AI",
     "title": "Supra Cognitive Modes: A Routed Architecture for Agent Memory",
     "title_norm": "supra cognitive modes a routed architecture for agent memory"
+  },
+  "57a41bc0087fc13eb7f246cf0ac005d83e31799ee8b19000956258154e2e041f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764705+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "PR-desc \u2013 generate PR descriptions from a Git diff, no AI required",
+    "title_norm": "prdesc generate pr descriptions from a git diff no ai required"
   },
   "57a55fcb205568a643090e2362b20d80ca39e3c59ac3e708f0721e44f54501ed": {
     "category": "other",
@@ -32011,6 +32121,14 @@
     "title": "Evidence Interfaces Shape How Retrieval-Augmented Readers Use Support",
     "title_norm": "evidence interfaces shape how retrievalaugmented readers use support"
   },
+  "63ffbae17d4a0906d81ce3650107a1a508412273f6fb5cd15338b0812330abc4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764585+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
+    "title_norm": "show hn hope 1on1 ai tutor for kids grades 210 learning math"
+  },
   "64012e93913e8d7b76bbd89392d7f34a7dc5d6307d1b05e07e2b89a9e3da583a": {
     "category": "other",
     "posted": false,
@@ -32122,6 +32240,14 @@
     "source": "arXiv cs.AI",
     "title": "Equivariant Conditional Diffusion Model for Head and Neck CT Image Synthesis from CBCT",
     "title_norm": "equivariant conditional diffusion model for head and neck ct image synthesis from cbct"
+  },
+  "643c89a746c53b54eeac88d1d69c7b6737fe86ed609f07e880187b94c4a729ff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764800+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I built my own voice cloning model \u2014 looking for people to test it",
+    "title_norm": "i built my own voice cloning model looking for people to test it"
   },
   "643f820eea77be4d6fe1c0348a1cf7aa04f6fbc5331192983d77fc546b68369c": {
     "category": "policy",
@@ -32386,6 +32512,14 @@
     "source": "OpenAI News",
     "title": "Wayfair is shaping the future of retail with AI",
     "title_norm": "wayfair is shaping the future of retail with ai"
+  },
+  "65466476b02403efc84dbf853df3e14114bd0855dd1907e2e88c63a2113a615d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764422+00:00",
+    "source": "TechCrunch AI",
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "title_norm": "omilia raises 67m to scale its customer support platform"
   },
   "6548dea4bc037f7836f6185bdbedb64a347007a14387f90295c0713cbd188b70": {
     "category": "research",
@@ -39631,6 +39765,14 @@
     "title": "Show HN: Ours.network \u2013 give your AI agents a direct line to each other",
     "title_norm": "show hn oursnetwork give your ai agents a direct line to each other"
   },
+  "7bd6095679d3c6b224a1d89380c90a4fd9f498f57e3f8c17f58757e504d08f6a": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764642+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Memoars - encrypted memory layer that your AI assistants share",
+    "title_norm": "show hn memoars encrypted memory layer that your ai assistants share"
+  },
   "7bd9b9f3057a1910b7b0aa1f72df276208dcc466f8d8cedaaa5b519a2569272a": {
     "category": "research",
     "posted": false,
@@ -39678,6 +39820,14 @@
     "source": "arXiv cs.AI",
     "title": "Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents",
     "title_norm": "delivery not storage cueanchored working memory as a harness property for coding agents"
+  },
+  "7c0926c21554cc4610dfacd6c14b1f672844e3714b779118096c5bae4561351c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764468+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
+    "title_norm": "show hn skyline coop is like simtower but built around democratic socialism"
   },
   "7c0cdd81f139678311dd27c2c89330ec9439b8cb394e7fa08c5ff37e98cfc2b4": {
     "category": "research",
@@ -46165,6 +46315,14 @@
     "title": "Wisdom of LLM Crowds: Aggregation and Contamination in Language Model Ensembles",
     "title_norm": "wisdom of llm crowds aggregation and contamination in language model ensembles"
   },
+  "917cbe8867fab623343a7d82026c0ccd7600394d56664ca3245ea9e3a6be7785": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764512+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Trump's tech ties blamed for AI inaction by MAGA Republicans and Democrats",
+    "title_norm": "trumps tech ties blamed for ai inaction by maga republicans and democrats"
+  },
   "91803d8fa96a14d891437b297e43db5ba329312b0ac85cc0d689f066b7e4b6b8": {
     "category": "research",
     "posted": false,
@@ -47016,6 +47174,14 @@
     "source": "arXiv cs.AI",
     "title": "A Control System, a Dataset, and a Recipe for Making Frozen LLM Agents Learn a Domain",
     "title_norm": "a control system a dataset and a recipe for making frozen llm agents learn a domain"
+  },
+  "93f063346ccb9feadda66e9db9d341de11c437edf64a3be87adbfd76e6f70ae8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764603+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Agents cannot currently conduct open-ended research",
+    "title_norm": "ai agents cannot currently conduct openended research"
   },
   "93f6ed0af18f8e2fd405cd27cf197dc2cc09189757dc256e7d6e5bd69e6760ae": {
     "category": "other",
@@ -50751,16 +50917,32 @@
   },
   "_meta": {
     "date": "2026-08-06",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "model_release": 1,
-      "other": 1
+      "other": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-06-12"
+    "last_slot": "2026-08-06-14"
   },
   "_queue": [
+    {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\u26a1 AI startup Mirendil has signed a $100M+ Google Cloud partnership to expand the compute power behind its self-improving AI systems. The deal will fuel research aimed at accelerating scientific discovery and AI development. Mirendil is joining a wave of labs locking in massive cloud capacity to stay competitive.\n\n\ud83d\ude80 The infrastructure is the foundation for recursive self-improvement, one of the field's most ambitious goals. This scale of commitment shows how critical compute is in the modern AI arms race. \ud83d\udd25 Expect more mega-deals as the demand for GPUs skyrockets.",
+      "post_body_fa": "\u26a1 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Mirendil \u06cc\u06a9 \u0645\u0634\u0627\u0631\u06a9\u062a \u0628\u06cc\u0634 \u0627\u0632 \u06f1\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u0628\u0627 Google Cloud \u0627\u0645\u0636\u0627 \u06a9\u0631\u062f\u0647 \u062a\u0627 \u0642\u062f\u0631\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u067e\u0634\u062a \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f \u0631\u0627 \u06af\u0633\u062a\u0631\u0634 \u062f\u0647\u062f. \u0627\u06cc\u0646 \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u0628\u0631\u0627\u06cc \u062a\u0633\u0631\u06cc\u0639 \u06a9\u0634\u0641 \u0639\u0644\u0645\u06cc \u0648 \u062a\u0648\u0633\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u063a\u0630\u06cc\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f. Mirendil \u0628\u0647 \u0645\u0648\u062c\u06cc \u0627\u0632 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc\u06cc \u067e\u06cc\u0648\u0633\u062a\u0647 \u06a9\u0647 \u0638\u0631\u0641\u06cc\u062a \u0639\u0638\u06cc\u0645 \u0627\u0628\u0631\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0631\u0642\u0627\u0628\u062a\u06cc \u0645\u0627\u0646\u062f\u0646 \u0642\u0641\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\ud83d\ude80 \u0627\u06cc\u0646 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u067e\u0627\u06cc\u0647 \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f\u06cc \u0628\u0627\u0632\u06af\u0634\u062a\u06cc \u0627\u0633\u062a\u060c \u06cc\u06a9\u06cc \u0627\u0632 \u062c\u0627\u0647\u200c\u0637\u0644\u0628\u0627\u0646\u0647\u200c\u062a\u0631\u06cc\u0646 \u0627\u0647\u062f\u0627\u0641 \u0627\u06cc\u0646 \u062d\u0648\u0632\u0647. \u0627\u06cc\u0646 \u062d\u062c\u0645 \u0627\u0632 \u062a\u0639\u0647\u062f \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0642\u062f\u0631\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0645\u062f\u0631\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u062d\u06cc\u0627\u062a\u06cc \u0627\u0633\u062a. \ud83d\udd25 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0639\u0627\u0645\u0644\u0627\u062a \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f \u0686\u0648\u0646 \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc GPU\u0647\u0627 \u0634\u062a\u0627\u0628 \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f.",
+      "post_title": "\ud83c\udfd7\ufe0f Mirendil and Google Cloud sign $100M+ AI compute deal",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u06f1\u06f0\u06f0+ \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc Mirendil \u0648 Google Cloud \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+      "priority": "high",
+      "published": "2026-08-06T13:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -50920,22 +51102,6 @@
       "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta\u2019s ad library data. Some ran as recently as this week.",
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
       "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd01 Google is officially shutting down the Assistant app on phones on September 4, leaving Gemini as the only voice assistant on Android. The company has been nudging users toward Gemini for over a year, and this marks the end of the Assistant era.\n\n\u26a1 Users who still have Assistant will be upgraded or prompted to switch to Gemini during the transition. \ud83d\udcf1 The move simplifies Google's voice AI strategy but also forces millions to adapt to a new assistant. \ud83d\udd25 It's a clear signal that Google is all-in on Gemini as its default AI across devices.",
-      "post_body_fa": "\ud83d\udd01 \u06af\u0648\u06af\u0644 \u0631\u0633\u0645\u0627\u064b \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u062f\u0631 \u06f4 \u0633\u067e\u062a\u0627\u0645\u0628\u0631 \u0627\u067e \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u0631\u0627 \u0631\u0648\u06cc \u06af\u0648\u0634\u06cc\u200c\u0647\u0627 \u0627\u0632 \u06a9\u0627\u0631 \u0628\u06cc\u0646\u062f\u0627\u0632\u062f \u0648 \u062c\u0645\u06cc\u0646\u0627\u06cc \u0631\u0627 \u062a\u0646\u0647\u0627 \u062f\u0633\u062a\u06cc\u0627\u0631 \u0635\u0648\u062a\u06cc \u0627\u0646\u062f\u0631\u0648\u06cc\u062f \u0628\u0627\u0642\u06cc \u0628\u06af\u0630\u0627\u0631\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0628\u06cc\u0634 \u0627\u0632 \u06cc\u06a9 \u0633\u0627\u0644 \u0627\u0633\u062a \u06a9\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0631\u0627 \u0628\u0647 \u0633\u0645\u062a \u062c\u0645\u06cc\u0646\u0627\u06cc \u0647\u0644 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642 \u0639\u0645\u0644\u0627\u064b \u067e\u0627\u06cc\u0627\u0646 \u062f\u0648\u0631\u0627\u0646 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u0627\u0633\u062a.\n\n\u26a1 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646\u06cc \u06a9\u0647 \u0647\u0646\u0648\u0632 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u062f\u0627\u0631\u0646\u062f\u060c \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u062c\u0645\u06cc\u0646\u0627\u06cc \u0627\u0631\u062a\u0642\u0627 \u0645\u06cc\u200c\u06cc\u0627\u0628\u0646\u062f \u06cc\u0627 \u06af\u0632\u06cc\u0646\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0627 \u0645\u06cc\u200c\u0628\u06cc\u0646\u0646\u062f. \ud83d\udcf1 \u0627\u06cc\u0646 \u062a\u0635\u0645\u06cc\u0645 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc \u0635\u0648\u062a\u06cc \u06af\u0648\u06af\u0644 \u0631\u0627 \u0633\u0627\u062f\u0647\u200c\u062a\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u0646\u0641\u0631 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u0628\u0647 \u0633\u0627\u0632\u06af\u0627\u0631\u06cc \u0628\u0627 \u062f\u0633\u062a\u06cc\u0627\u0631 \u062c\u062f\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd25 \u0627\u06cc\u0646 \u06cc\u06a9 \u0646\u0634\u0627\u0646\u0647 \u0648\u0627\u0636\u062d \u0627\u0633\u062a \u06a9\u0647 \u06af\u0648\u06af\u0644 \u0647\u0645\u0647 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u0631\u0648\u06cc \u062c\u0645\u06cc\u0646\u0627\u06cc \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06af\u0630\u0627\u0634\u062a\u0647 \u0627\u0633\u062a.",
-      "post_title": "\u26b0\ufe0f Google will replace Assistant with Gemini on September 4",
-      "post_title_fa": "\u26b0\ufe0f \u06af\u0648\u06af\u0644 \u062f\u0631 \u06f4 \u0633\u067e\u062a\u0627\u0645\u0628\u0631 \u0627\u0633\u06cc\u0633\u062a\u0646\u062a \u06af\u0648\u0634\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u062c\u0645\u06cc\u0646\u0627\u06cc \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-05T15:30:02+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Ars Technica AI",
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
-      "title": "Google plans to kill Assistant on your phone on September 4",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -52573,6 +52739,14 @@
     "source": "arXiv cs.AI",
     "title": "Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending",
     "title_norm": "efficient video dataset distillation via clusterguided prototype blending"
+  },
+  "a4f2be4eb8ff345986ca00afdf2fd4ffdfc856355b403894c2813507ff2cb855": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764690+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "title_norm": "humans missed 1 in 3 threats approving ai agent commands across 40k game runs"
   },
   "a503f2e2beff190fe5c3ed8f60b4896ea72de9453b5c5ef6e216ace7a3830264": {
     "category": "model_release",
@@ -56199,6 +56373,14 @@
     "source": "Hacker News AI keyword",
     "title": "Anthropic's Claude AI models hack into 3 outside groups during testing",
     "title_norm": "anthropics claude ai models hack into 3 outside groups during testing"
+  },
+  "afcde3df76d7a7cc3e01eca90bbb13ee30c0e07d00b41daf3fe9a70bc8517459": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764734+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: AI Agents 101 \u2013 an offline iOS app that labels every demo REAL or MOCK",
+    "title_norm": "show hn ai agents 101 an offline ios app that labels every demo real or mock"
   },
   "afd121d95506527f39553b7d0400a082dc464bfd03339952a3d07cdceeb7c62e": {
     "category": "research",
@@ -60044,6 +60226,14 @@
     "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
     "title_norm": "introducing the ffasr leaderboard benchmarking asr in the real world"
   },
+  "bb6e8d2b9c6bb51cd1c3d62dad58739148597da0614f8488ad454c2bfc1988f4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764751+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Juju-chu A book on Jujutsu (jj) and AI coding agent",
+    "title_norm": "show hn jujuchu a book on jujutsu jj and ai coding agent"
+  },
   "bb74d92577c258fa0f900bc1da085bf1aaefedf3c7f0d986d43264edb61cd72f": {
     "category": "research",
     "posted": false,
@@ -63509,6 +63699,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI Video and Audio Generator",
     "title_norm": "ai video and audio generator"
+  },
+  "c57de31bef57c7b55010b30aad2090cb04da328d15d515be2c58a1f4ae47c1b7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764286+00:00",
+    "source": "TechCrunch AI",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "title_norm": "exspotify employees raise 10m to bring the ai behind its recommendations to ecommerce"
   },
   "c57dfac7d65e470fbcea167c15c860a9adc34bbcfbe74562f34f047fb9cf27dd": {
     "category": "other",
@@ -69271,6 +69469,14 @@
     "source": "Hacker News AI keyword",
     "title": "Breaking Down $1.65T of Big Tech AI Spending (Not Debt)",
     "title_norm": "breaking down 165t of big tech ai spending not debt"
+  },
+  "d8dcc0c82dc7c54808a556d7676d76beefd5e7aedee86c3b305b6ae0e7829278": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764397+00:00",
+    "source": "TechCrunch AI",
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "title_norm": "google maps adds agentic features including food ordering and hotel bookings"
   },
   "d8e03fdedcba6fe21ed2e45f8cf265818e87093a88c5bf2083b1e2da8d0d2e17": {
     "category": "research",
@@ -77798,6 +78004,14 @@
     "title": "Attention-based Experience Replay Framework for Continual Learning of Agnostic Time Series Forecasting Models",
     "title_norm": "attentionbased experience replay framework for continual learning of agnostic time series forecasting models"
   },
+  "f456580a3071c001328b2049b7551b9d4f6b80e7c9a8419f612a8cde3a5ee484": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764829+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Final optimization: from ~10 tok/s to ~15 tok/s on DeepSeek-V4-Flash-0731 at 128K ctx - 1 RTX 3090",
+    "title_norm": "final optimization from 10 toks to 15 toks on deepseekv4flash0731 at 128k ctx 1 rtx 3090"
+  },
   "f45740c04a2c4f37833d3cb5f236124a3ca66186ea266e8592c70d5849a6eb62": {
     "category": "other",
     "posted": false,
@@ -78195,6 +78409,14 @@
     "source": "Hugging Face Blog",
     "title": "Vision Language Model Alignment in TRL \u26a1\ufe0f",
     "title_norm": "vision language model alignment in trl"
+  },
+  "f58986f9554fd2ecee39f6593c086b2830067b25dd672eaa2d40dc867d070f63": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764557+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Hacking, Fearmongering and Prometheus",
+    "title_norm": "ai hacking fearmongering and prometheus"
   },
   "f58aee09e9f67cec82575e26fe19caaf4027f3bb43da576f5a95581b13a1163b": {
     "category": "other",
@@ -79171,6 +79393,14 @@
     "source": "OpenAI News",
     "title": "Advancing responsible AI across Europe",
     "title_norm": "advancing responsible ai across europe"
+  },
+  "f8f116147e4e8a029f796a6ed69015c42ccf8533bf69e13a73d8a309126dfa4c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-06T13:16:14.764527+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Do you rehearse with AI before seeing a doctor or dentist?",
+    "title_norm": "ask hn do you rehearse with ai before seeing a doctor or dentist"
   },
   "f8f38594816fcc75b08544359fad3ce7e053e0620d358b4d1bd30f7fa43e67cd": {
     "category": "other",
