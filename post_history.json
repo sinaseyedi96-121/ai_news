@@ -11789,6 +11789,20 @@
     "title": "Update: Expanding access to Meta Segment Anything 2.1 on Amazon SageMaker JumpStart",
     "title_norm": "update expanding access to meta segment anything 21 on amazon sagemaker jumpstart"
   },
+  "228d4f0ae8037f7defde19be3ecbe79644cad67635125b112e3dc479aaf6be8a": {
+    "category": "model_release",
+    "message_id": 127,
+    "message_id_fa": 101,
+    "post_title": "\ud83d\ude80 Moonshot's Kimi K3 Open-Weight Model Joins the Race",
+    "post_title_fa": "\ud83d\ude80 \u0645\u062f\u0644 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 Kimi K3 \u0645\u0648\u0646\u200c\u0634\u0627\u062a \u0628\u0647 \u0631\u0642\u0627\u0628\u062a \u067e\u06cc\u0648\u0633\u062a",
+    "posted": true,
+    "posted_at": "2026-08-07T10:39:31.558349+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-07T10:39:30.203204+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "An open-weight model too, Moonshot joins the race (gently this time)",
+    "title_norm": "an openweight model too moonshot joins the race gently this time"
+  },
   "228e45b4ed9fa5b57c339668f995372322e57f35c5639d16ee19f7be5c8c8fa2": {
     "category": "model_release",
     "posted": false,
@@ -16291,6 +16305,14 @@
     "title": "Orchard: An Open-Source Agentic Modeling Framework",
     "title_norm": "orchard an opensource agentic modeling framework"
   },
+  "2f03b34a60799c074e4f3649121f170a783d094cc036e613fc823ff34e500f12": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203168+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: I built a local multi-agent AI for Android on my phone",
+    "title_norm": "show hn i built a local multiagent ai for android on my phone"
+  },
   "2f0da5e5fed715472bb8229c96b9fe7e1dec32bfaa5a6dde0e7e61357e23d9ee": {
     "category": "research",
     "posted": false,
@@ -18544,6 +18566,14 @@
     "source": "arXiv cs.AI",
     "title": "A Survey on Semantic Modeling for Building Energy Management",
     "title_norm": "a survey on semantic modeling for building energy management"
+  },
+  "359e8e10191f153b3fc77a1bf9a26d4929ada28159772321edb2125468ca7ca3": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203187+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Runtime instances: persistent compute for production AI agents",
+    "title_norm": "runtime instances persistent compute for production ai agents"
   },
   "35a86c98a9823935d8a43a54d30af7ba6b31f165135ddbb405ecc09d9e214521": {
     "category": "other",
@@ -23928,6 +23958,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Doubt \u2013 Source-grounded evidence maps for AI research",
     "title_norm": "show hn doubt sourcegrounded evidence maps for ai research"
+  },
+  "47362ac660345d404be103d1ff68b5f4eab9b035f0e0c1318397c89feb8afa0b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203220+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Gemma 4 QAT could be improved further by Google aligning the QAT model to modern q4_k instead of q4_0",
+    "title_norm": "gemma 4 qat could be improved further by google aligning the qat model to modern q4_k instead of q4_0"
   },
   "4738d471e74327a6558401d5ed6edd86df64719e79d5bf254ac50fdd59925a91": {
     "category": "research",
@@ -38459,6 +38497,14 @@
     "title": "X relaunches a rebuilt Android app after year-long effort",
     "title_norm": "x relaunches a rebuilt android app after yearlong effort"
   },
+  "71ebcdbe6018b4ef2c1cbc01c5e099c40a2547436c8946938b65d9c2880f7954": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.202983+00:00",
+    "source": "Wired AI",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "title_norm": "the hottest new ai chatbot is just a guy answering your questions"
+  },
   "71fc4a34c18c38858086d501eaf044073c522a68728ff779ba00192bad0fadfb": {
     "category": "other",
     "posted": false,
@@ -43112,6 +43158,14 @@
     "source": "OpenAI News",
     "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
     "title_norm": "addendum to gpt52 system card gpt52codex"
+  },
+  "7fdc7772007fa09082d788fef05aa49bd7070570ee98a6750a3a1dcc64ad4ebe": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203136+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Anthropic AI Mandatory Employee Stock Trading Plans for IPO \u2013 This Will Not Go W [video]",
+    "title_norm": "anthropic ai mandatory employee stock trading plans for ipo this will not go w video"
   },
   "7fe60cef6118fb3f5c3e6703bbbb703cd0026fe0067ce9dca9f66a10768897e2": {
     "category": "community_signal",
@@ -53433,14 +53487,15 @@
   },
   "_meta": {
     "date": "2026-08-07",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "infrastructure": 1,
+      "model_release": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-07-10"
+    "last_slot": "2026-08-07-12"
   },
   "_queue": [
     {
@@ -53618,22 +53673,6 @@
       "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfb5 In a landmark ruling, AI music generator Suno has lost its copyright infringement case. The court found the company liable for using copyrighted recordings to train its models without permission.\n\n\ud83c\udfb5 This is a major setback for generative music startups and a win for record labels. \ud83d\udcb0 Suno could face significant damages and licensing requirements. \u2696\ufe0f The decision may force other AI music tools to rethink how they source training data.",
-      "post_body_fa": "\ud83c\udfb5 \u062f\u0631 \u06cc\u06a9 \u062d\u06a9\u0645 \u0645\u0647\u0645\u060c \u0633\u0648\u0646\u0648\u060c \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0645\u0648\u0633\u06cc\u0642\u06cc \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u067e\u0631\u0648\u0646\u062f\u0647 \u0646\u0642\u0636 \u062d\u0642 \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u0631\u0627 \u0628\u0627\u062e\u062a. \u062f\u0627\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0631\u0627 \u0628\u0647\u200c\u062e\u0627\u0637\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0622\u0647\u0646\u06af\u200c\u0647\u0627\u06cc \u062f\u0627\u0631\u0627\u06cc \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u062f\u0631 \u0622\u0645\u0648\u0632\u0634 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc\u0634 \u0628\u062f\u0648\u0646 \u0627\u062c\u0627\u0632\u0647\u060c \u0645\u0633\u0626\u0648\u0644 \u0634\u0646\u0627\u062e\u062a.\n\n\ud83c\udfb5 \u0627\u06cc\u0646 \u0634\u06a9\u0633\u062a \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627\u06cc \u0645\u0648\u0633\u06cc\u0642\u06cc \u0645\u0648\u0644\u062f \u0648 \u067e\u06cc\u0631\u0648\u0632\u06cc \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u0636\u0628\u0637 \u0627\u0633\u062a. \ud83d\udcb0 \u0633\u0648\u0646\u0648 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0627 \u062e\u0633\u0627\u0631\u0627\u062a \u0633\u0646\u06af\u06cc\u0646 \u0648 \u0627\u0644\u0632\u0627\u0645 \u0628\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a \u0645\u062c\u0648\u0632 \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u062a\u0635\u0645\u06cc\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0627\u06cc\u0631 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0645\u0648\u0633\u06cc\u0642\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u06a9\u0646\u062f \u062f\u0631 \u0646\u062d\u0648\u0647 \u062a\u0623\u0645\u06cc\u0646 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u062a\u062c\u062f\u06cc\u062f\u0646\u0638\u0631 \u06a9\u0646\u0646\u062f.",
-      "post_title": "\u2696\ufe0f AI music startup Suno loses copyright infringement case",
-      "post_title_fa": "\u2696\ufe0f \u0633\u0648\u0646\u0648\u060c \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0645\u0648\u0633\u06cc\u0642\u06cc \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u067e\u0631\u0648\u0646\u062f\u0647 \u0646\u0642\u0636 \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u0631\u0627 \u0628\u0627\u062e\u062a",
-      "priority": "high",
-      "published": "2026-08-06T10:01:45+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.nme.com/news/music/ai-music-generator-suno-loses-copyright-infringement-legal-case-3960760\">https://www.nme.com/news/music/ai-music-generator-suno-loses-copyright-infringement-legal-case-3960760</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49194676\">https://news.ycombinator.com/item?id=49194676</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "AI music generator Suno loses copyright infringement legal case",
-      "url": "https://www.nme.com/news/music/ai-music-generator-suno-loses-copyright-infringement-legal-case-3960760"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -63350,6 +63389,14 @@
     "title": "Introducing the Chatbot Guardrails Arena",
     "title_norm": "introducing the chatbot guardrails arena"
   },
+  "bbf08a8e5d845f91996e912853dc5f59dc62e5e2aab865386c84fa361c119b2c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203103+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What observability stack are you using for AI agents in production?",
+    "title_norm": "ask hn what observability stack are you using for ai agents in production"
+  },
   "bbfb3adbffde89ae1d1ccb38b8a99d9dc8f020d412e4169ff013adc2f0838069": {
     "category": "research",
     "posted": false,
@@ -70179,6 +70226,14 @@
     "source": "arXiv cs.AI",
     "title": "Trustworthy Privacy-Preserving Multimodal Federated Learning for Personalised Breast Cancer Prediction",
     "title_norm": "trustworthy privacypreserving multimodal federated learning for personalised breast cancer prediction"
+  },
+  "d04b61ce407fa0bb5cd276fa2d0fb4b3f7c057a11ba94d27e296b2527ee9a6f5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T10:39:30.203076+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI danger explained for people who don't understand full sentences",
+    "title_norm": "ai danger explained for people who dont understand full sentences"
   },
   "d04c7a5059a5cbc0218a802ba09ac25f443f1b05e5f31c1d7d956e77e756479c": {
     "category": null,
