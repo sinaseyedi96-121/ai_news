@@ -2309,6 +2309,14 @@
     "title": "AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering",
     "title_norm": "autoproteinengine a large language model driven agent framework for multimodal automl in protein engineering"
   },
+  "06a660412d5911aa04d4a4d25e8ece0c7aede13237dff4cc1e66131daad2a7b3": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918217+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "LFM2.5-2.6B model+KV cache quantization report",
+    "title_norm": "lfm2526b modelkv cache quantization report"
+  },
   "06b2864aaa7d8bc3e12c29c09a765b7e481780bf3fded7094bfe4020d1f004ab": {
     "category": "model_release",
     "posted": false,
@@ -5380,6 +5388,14 @@
     "source": "arXiv cs.AI",
     "title": "What Makes Linguistic Representations Good Models of High-Level Visual Perception in the Human Brain?",
     "title_norm": "what makes linguistic representations good models of highlevel visual perception in the human brain"
+  },
+  "100ed9cce536ccbf5d3715154a4f61f8691ea83c256126d9276decb6f05e3c16": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918231+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks.",
+    "title_norm": "labyrinthbench a localfocused judgefree llm benchmark that measures context recall under interference for multistep agentic tasks"
   },
   "100f4d6e6e60557821b4597a073a6028be79b882c2a16d858691c6eeff3af0eb": {
     "category": "research",
@@ -13282,6 +13298,14 @@
     "source": "Hugging Face Blog",
     "title": "Transformer-based Encoder-Decoder Models",
     "title_norm": "transformerbased encoderdecoder models"
+  },
+  "266d32cabdecb09c8c7638c6945b413af4f803fba538f8d7a8aff4da70f08671": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918195+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "A llama.cpp PR makes Q2_0 3.0\u20133.6x faster on x86 CPUs, 8B decode goes 2.39 \u2192 8.20 tok/s",
+    "title_norm": "a llamacpp pr makes q2_0 3036x faster on x86 cpus 8b decode goes 239 820 toks"
   },
   "2679b99e9be718d36778287137032d41605d07a2b858369aa289df38e0b502af": {
     "category": "other",
@@ -22129,6 +22153,14 @@
     "title": "White House to review AI cybersecurity framework with top labs",
     "title_norm": "white house to review ai cybersecurity framework with top labs"
   },
+  "40f5467ebbabf387c83fc8e85a05973faef1d0a503fabb8bebc1020390d3b93e": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918180+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "title_norm": "kitesurf agentfirst browser that runs in v8 isolates"
+  },
   "410710a341e76d01ab4e1a8a6ada0ce2af96d2bca20717affb149d4b8569a211": {
     "category": "research",
     "posted": false,
@@ -26913,6 +26945,14 @@
     "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
     "title_norm": "europe ev sales bevs jump 50 reach 26 market share"
   },
+  "4fad8f89db5e075b17cd0c3d885e102dad74dc0b540de869af3dcdb404882463": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.917951+00:00",
+    "source": "Ars Technica AI",
+    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "title_norm": "ai chatbots have failed people in crisis can that be fixed"
+  },
   "4fb0aa23031601e19b944e7aaa4accc78c64e74043849b4be2d8da07901bfd21": {
     "category": "research",
     "posted": false,
@@ -27248,6 +27288,20 @@
     "source": "Hacker News AI keyword",
     "title": "Cisco releases Antares: open weight AI for vulnerability research",
     "title_norm": "cisco releases antares open weight ai for vulnerability research"
+  },
+  "50d8c339199a059cdb4e0f24350858e24785ae2affcf807625c6605b9ed99887": {
+    "category": "model_release",
+    "message_id": 129,
+    "message_id_fa": 103,
+    "post_title": "\ud83d\ude80 ByteDance trains 10-trillion-parameter model to rival Anthropic",
+    "post_title_fa": "\ud83d\ude80 ByteDance \u0645\u062f\u0644 \u06f1\u06f0 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u067e\u0627\u0631\u0627\u0645\u062a\u0631\u06cc \u0628\u0631\u0627\u06cc \u0631\u0642\u0627\u0628\u062a \u0628\u0627 Anthropic \u0645\u06cc\u200c\u0633\u0627\u0632\u062f",
+    "posted": true,
+    "posted_at": "2026-08-07T14:04:39.803636+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-07T14:04:38.918042+00:00",
+    "source": "Ars Technica AI",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "title_norm": "bytedance trains massive ai model in bid to rival anthropic"
   },
   "50e210ee028855a1e8e8d12152e9f029af535bdad8d44fb40e815945fa050765": {
     "category": "policy",
@@ -31529,6 +31583,14 @@
     "title": "OpenAI Campus Network: Student club interest form",
     "title_norm": "openai campus network student club interest form"
   },
+  "5d4a40a5913456e4bde7c720be0b842d6849b2262dd58783fbe36dac1d3b9b73": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918151+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Wyzer Programming Language",
+    "title_norm": "show hn wyzer programming language"
+  },
   "5d511c551ea5123236d1522ecdf866f235c210fcb8077f7a1d5bbe6e34cbce33": {
     "category": "other",
     "posted": false,
@@ -32070,6 +32132,14 @@
     "source": "Hacker News Frontpage",
     "title": "Waymo \u2013 Dallas Open to All",
     "title_norm": "waymo dallas open to all"
+  },
+  "5ecb5c618800492d2a7f6ab26ab48fbdf203ac8e9997d429197d1c239d243677": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918072+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "AI psychosis is the new leadership blind spot",
+    "title_norm": "ai psychosis is the new leadership blind spot"
   },
   "5ecc4206aedafe0254d9eaee2733cc3831a2beb987c4edef005dbec0e4d8958a": {
     "category": "other",
@@ -40213,6 +40283,14 @@
     "title": "MiniMax-H3 now on huggingface",
     "title_norm": "minimaxh3 now on huggingface"
   },
+  "7708182891f7251f6f4aff4cbaededc197f561148ca43da421956b85c9c3dba1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918120+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+    "title_norm": "us economy lost 23000 jobs in july a sudden reversal"
+  },
   "770b565132155c1db52689d3c7e2d15606664e9befb1c7883da4b49711696a0e": {
     "category": "policy",
     "posted": false,
@@ -41569,6 +41647,14 @@
     "title": "On the Expressive Power of Sparse Geometric MPNNs",
     "title_norm": "on the expressive power of sparse geometric mpnns"
   },
+  "7ad8cb377920a40dc4cc8f75ffaaa11292f41325204faa0fe629ef5064028f0e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918138+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Why is Everyone in Tech so sad?",
+    "title_norm": "why is everyone in tech so sad"
+  },
   "7aea1a6b4ede65f74ed2dc21a4e3576383090a467b53ec041cafaab3b5b72337": {
     "category": "courses",
     "posted": false,
@@ -42742,6 +42828,14 @@
     "source": "arXiv cs.AI",
     "title": "GSBF: Gaussian Splatting for Environment-Aware Beamforming",
     "title_norm": "gsbf gaussian splatting for environmentaware beamforming"
+  },
+  "7e5c4509a247c33b21a4837d8282c3b36362e5923183c3c6b42672a7d5b233d4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918106+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "title_norm": "radical study suggests life on earth arose twice"
   },
   "7e5f26b6b3895cea923797c11774fda8b4f395981d2cb642ea05580784781f90": {
     "category": "other",
@@ -45740,6 +45834,14 @@
     "source": "Hacker News AI keyword",
     "title": "Wan 3.0 Best AI Video Generator",
     "title_norm": "wan 30 best ai video generator"
+  },
+  "88029bacb83d2aa3b852efd75daba1dedb557db56b49966b52d1121c141ab4e4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918163+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "title_norm": "making postgres 300x faster for analytics batching operator fusion and simd"
   },
   "880638aa77e3a8eefa341b023e332dd0f4e70087fc9b56b17c0233459360dc1f": {
     "category": "integration",
@@ -53557,15 +53659,15 @@
   },
   "_meta": {
     "date": "2026-08-07",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "model_release": 1,
+      "model_release": 2,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-07-14"
+    "last_slot": "2026-08-07-16"
   },
   "_queue": [
     {
@@ -53731,18 +53833,18 @@
     {
       "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Akintu is out as an open-source platform for building AI agents on your own knowledge bases using retrieval-augmented generation (RAG). Its creators introduced it on Hacker News, positioning it as a self-hosted, API-first alternative to hosted AI assistants. You can upload your documents and get agents that answer from your data instead of generic model knowledge.\n\n\ud83e\udde0 That matters for organizations with sensitive data that can't be sent to external chatbots. It's an early-stage launch, but it fits the growing trend of customizable, private RAG agents. \u26a1 If you've been waiting for a simpler way to deploy domain-specific assistants, this is worth a look.",
-      "post_body_fa": "\ud83e\udd16 \u0622\u06a9\u06cc\u0646\u062a\u0648 \u0628\u0647\u0639\u0646\u0648\u0627\u0646 \u06cc\u06a9 \u067e\u0644\u062a\u0641\u0631\u0645 \u0645\u062a\u0646\u0628\u0627\u0632 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0627\u06cc\u062c\u0646\u062a\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0648\u06cc \u067e\u0627\u06cc\u06af\u0627\u0647 \u062f\u0627\u0646\u0634 \u0634\u062e\u0635\u06cc \u0634\u0645\u0627 \u0628\u0627 \u062a\u06a9\u0646\u06cc\u06a9 RAG \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a. \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646\u0634 \u0622\u0646 \u0631\u0627 \u062f\u0631 Hacker News \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647\u0627\u0646\u062f \u0648 \u0622\u0646 \u0631\u0627 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc self-hosted \u0648 API-first \u0628\u0631\u0627\u06cc \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u0627\u0628\u0631\u06cc \u0645\u0639\u0631\u0641\u06cc \u0645\u06cc\u06a9\u0646\u0646\u062f. \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0627\u0633\u0646\u0627\u062f\u062a\u0627\u0646 \u0631\u0627 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u06a9\u0646\u06cc\u062f \u0648 \u0627\u06cc\u062c\u0646\u062a\u0647\u0627\u06cc\u06cc \u0628\u06af\u06cc\u0631\u06cc\u062f \u06a9\u0647 \u0628\u0647\u062c\u0627\u06cc \u062f\u0627\u0646\u0634 \u0639\u0645\u0648\u0645\u06cc \u0645\u062f\u0644\u060c \u0627\u0632 \u062f\u0627\u062f\u0647\u0647\u0627\u06cc \u062e\u0648\u062f\u062a\u0627\u0646 \u067e\u0627\u0633\u062e \u0645\u06cc\u062f\u0647\u0646\u062f.\n\n\ud83e\udde0 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0628\u0631\u0627\u06cc \u0633\u0627\u0632\u0645\u0627\u0646\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u062f\u0627\u062f\u0647\u0647\u0627\u06cc \u062d\u0633\u0627\u0633 \u062f\u0627\u0631\u0646\u062f \u0648 \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u0686\u062a\u0628\u0627\u062a\u0647\u0627\u06cc \u0628\u06cc\u0631\u0648\u0646\u06cc \u0627\u0631\u0633\u0627\u0644\u0634\u0627\u0646 \u06a9\u0646\u0646\u062f\u060c \u0645\u0647\u0645 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06cc\u06a9 \u0639\u0631\u0636\u0647 \u0627\u0648\u0644\u06cc\u0647 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0628\u0627 \u0631\u0648\u0646\u062f \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0627\u06cc\u062c\u0646\u062a\u0647\u0627\u06cc RAG \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0648 \u062e\u0635\u0648\u0635\u06cc \u0647\u0645\u0627\u0647\u0646\u06af \u0627\u0633\u062a. \u26a1 \u0627\u06af\u0631 \u0645\u0646\u062a\u0638\u0631 \u0631\u0627\u0647\u06cc \u0633\u0627\u062f\u0647\u062a\u0631 \u0628\u0631\u0627\u06cc \u0631\u0627\u0647\u0627\u0646\u062f\u0627\u0632\u06cc \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u062a\u062e\u0635\u0635\u06cc \u0628\u0648\u062f\u06cc\u062f\u060c \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0627\u0631\u0632\u0634 \u062f\u06cc\u062f\u0646 \u062f\u0627\u0631\u062f.",
-      "post_title": "\ud83d\ude80 Akintu launches AI agents trained on your knowledge with RAG",
-      "post_title_fa": "\ud83d\ude80 Akintu \u0628\u0647\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u062a\u0627\u0646 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u06cc\u06a9\u0646\u062f",
-      "priority": "low",
-      "published": "2026-08-07T11:43:25+00:00",
+      "post_body": "\ud83e\uddea LiquidAI's new LFM2.5-2.6B is a 2.6-billion-parameter model that, according to benchmarks, competes with much larger models. \ud83d\udcca A detailed community quantization report tested many GGUF and KV cache quants to find the best memory/quality trade-offs.\n\n\ud83d\udcbe This makes the model especially interesting for local and edge deployments where memory is tight. \u26a1 The tiny size combined with strong performance is a sign of how far efficient language models have come. \ud83d\udd25 For self-hosters, this could be a new sweet spot.",
+      "post_body_fa": "\ud83e\uddea \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f LFM2.5-2.6B \u0634\u0631\u06a9\u062a LiquidAI \u06cc\u06a9 \u0645\u062f\u0644 \u0628\u0627 \u06f2.\u06f6 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u0627\u0633\u062a \u06a9\u0647 \u0637\u0628\u0642 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0628\u0627 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0633\u06cc\u0627\u0631 \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0631\u0642\u0627\u0628\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udcca \u06cc\u06a9 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0648\u0627\u0646\u062a\u06cc\u0632\u0627\u0633\u06cc\u0648\u0646 \u062c\u0627\u0645\u0639\u0647\u060c \u06a9\u0648\u0627\u0646\u062a\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 GGUF \u0648 KV cache \u0631\u0627 \u0628\u0631\u0627\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0628\u0647\u062a\u0631\u06cc\u0646 \u062a\u0639\u0627\u062f\u0644 \u0628\u06cc\u0646 \u062d\u0627\u0641\u0638\u0647 \u0648 \u06a9\u06cc\u0641\u06cc\u062a \u0622\u0632\u0645\u0627\u06cc\u0634 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.\n\n\ud83d\udcbe \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u062f\u0644 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0645\u062d\u0644\u06cc \u0648 \u0644\u0628\u0647\u200c\u0627\u06cc \u06a9\u0647 \u062d\u0627\u0641\u0638\u0647 \u0645\u062d\u062f\u0648\u062f \u0627\u0633\u062a\u060c \u0628\u0633\u06cc\u0627\u0631 \u062c\u0627\u0644\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u26a1 \u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0648\u0686\u06a9 \u0647\u0645\u0631\u0627\u0647 \u0628\u0627 \u0639\u0645\u0644\u06a9\u0631\u062f \u0642\u0648\u06cc\u060c \u0646\u0634\u0627\u0646\u0647\u200c\u0627\u06cc \u0627\u0632 \u067e\u06cc\u0634\u0631\u0641\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u06a9\u0627\u0631\u0622\u0645\u062f \u0627\u0633\u062a. \ud83d\udd25 \u0628\u0631\u0627\u06cc \u06a9\u0633\u0627\u0646\u06cc \u06a9\u0647 \u0645\u062f\u0644 \u0631\u0627 \u062e\u0648\u062f\u0634\u0627\u0646 \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06cc\u06a9 \u0646\u0642\u0637\u0647 \u0634\u06cc\u0631\u06cc\u0646 \u062c\u062f\u06cc\u062f \u0628\u0627\u0634\u062f.",
+      "post_title": "\ud83d\ude80 LiquidAI releases LFM2.5-2.6B, a tiny model with big benchmarks",
+      "post_title_fa": "\ud83d\ude80 LiquidAI \u0645\u062f\u0644 \u06a9\u0648\u0686\u06a9 LFM2.5-2.6B \u0631\u0627 \u0628\u0627 \u0639\u0645\u0644\u06a9\u0631\u062f \u0628\u0632\u0631\u06af \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-07T13:15:48+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://akintu.ai\">https://akintu.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208933\">https://news.ycombinator.com/item?id=49208933</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Show HN: Akintu \u2013 AI agents trained on custom knowledge bases using RAG",
-      "url": "https://akintu.ai"
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/\"> <img alt=\"LFM2.5-2.6B model+KV cache quantization report\" src=\"https://preview.redd.it/3lr47ialdyhh1.png?width=140&amp;height=92&amp;auto=webp&amp;s=e5244ac0f6576c041fa23dd663bb60e6609ec4e9\" title=\"LFM2.5-2.6B model+KV cache quantization report\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.liquid.ai/blog/lfm2-5-2-6b\">LFM2.5-2.6B</a> is a new tiny model by LiquidAI, with benchmarks that put it head to head with much larger models.</p> <p>I've run llama-perplexity on many model GGUF quants, crossed with many KV cache quants, to understand the model's best overall quantization for any given amount of memory.</p> <p>I also show how different quantization metrics show (or hide) model degradation.</p> <p><a href=\"https://github.com/crusaderky/pixi-llm-recipes/blob/main/perplexity/LFM2.5-2.6B/README.md\">Full report and commentary</a></p> <p><a href=\"https://htmlpreview.github.io/?https://raw.githubusercontent.com/crusaderky/pixi-llm-recipes/main/perplexity/LFM2.5-2.6B/report.html\">Interactive HTML plots</a></p> <h1>If you don't have time to read</h1> <p><a href=\"https://github.com/crusaderky/pixi-llm-recipes/blob/main/perplexity/LFM2.5-2.6B/README.md#if-you-dont-have-time-to-read\"></a></p> <ul> <li>The model fits on an 8GB Raspberry Pi with no material degradation and on a 4GB Raspberry Pi with contained degradation.</li> <li>DO NOT use Q4_K_M.</li> <li><em>On this model,</em> model quant quality degrades faster than KV cache quant.</li> <li>Abliteration comes with a flat cost of ~0.075 KLD.</li> <li>Logarithmic KLD and Top-1% plots lie to you by telling you that quality degradation is smooth, while it's actually a cliff.</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/crusaderky\"> /u/crusaderky </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vi0d4i\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/\">[comments]</a></span> </td></tr></table>",
+      "title": "LFM2.5-2.6B model+KV cache quantization report",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi0d4i/lfm2526b_modelkv_cache_quantization_report/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -61462,6 +61564,14 @@
     "source": "arXiv cs.AI",
     "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
     "title_norm": "llm framework for discovering major mathematical conjectures ais quest for the next riemann hypothesis"
+  },
+  "b65e75ea5598e0fe7957e965a75bdb3039f764c01cf8e84caf420a9dd6487e87": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T14:04:38.918090+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The web server deployment model breaks at hobby scale",
+    "title_norm": "the web server deployment model breaks at hobby scale"
   },
   "b66030875e09d0690dc09dc3e98e4042cc4250f80a2346713b09729db25e030d": {
     "category": "research",
