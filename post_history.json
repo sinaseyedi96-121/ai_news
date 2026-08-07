@@ -17583,6 +17583,14 @@
     "title": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
     "title_norm": "selfplay meets skill evolution selfevolving search agents that pose solve and remember"
   },
+  "324e08eaf6c66b61ed70ad63ae6268c8ef4daf9d10fcb3879bab736e0ef283f1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T20:09:45.962707+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Reassign.ai",
+    "title_norm": "reassignai"
+  },
   "3251ea2b39bbf477d7e153c99c4c8c21edfd237c8ffb3482331f8172db221a7f": {
     "category": "other",
     "posted": false,
@@ -26762,6 +26770,14 @@
     "source": "Hacker News Frontpage",
     "title": "Design Is Compromise",
     "title_norm": "design is compromise"
+  },
+  "4eaba70bca37cb57e64b173e1a86ea5fa11e702c7291d2a899c966fc34b51b84": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T20:09:45.962687+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Zaivern Code \u2013 a Rust cockpit for parallel AI coding agents",
+    "title_norm": "show hn zaivern code a rust cockpit for parallel ai coding agents"
   },
   "4ec028b44ef3936047bc3d1d2203c721b2ead502390fc42f6cbd44a2fc09b314": {
     "category": "research",
@@ -46793,6 +46809,20 @@
     "title": "Solving (some) formal math olympiad problems",
     "title_norm": "solving some formal math olympiad problems"
   },
+  "89f3cc6ca145a3cae788bb9053d8b9106e07d470b648a87e4ac5f993da41fcc3": {
+    "category": "model_release",
+    "message_id": 133,
+    "message_id_fa": 107,
+    "post_title": "\ud83d\ude80 Gemini Robotics 2 brings Google AI to humanoid robots",
+    "post_title_fa": "\ud83d\ude80 \u06af\u0648\u06af\u0644 Gemini Robotics 2 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0631\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u200c\u0646\u0645\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-07T20:09:47.235365+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-07T20:09:45.962722+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
+    "title_norm": "gemini robotics 2 expands googles ai capabilities for humanoid robots"
+  },
   "89f49cc1e81cb2d983069013f03fb08b0b879600d96bec1dd70b568c8ef12c47": {
     "category": "research",
     "posted": false,
@@ -48236,6 +48266,14 @@
     "source": "Hacker News AI keyword",
     "title": "Why AI Agents Need Databases That Branch Like Git",
     "title_norm": "why ai agents need databases that branch like git"
+  },
+  "8e88f94d8072960642fa8a649f359239dff8f0ec35c0bad73bd8e0d348145264": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T20:09:45.962665+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "App Store Rejection of the Week: Dark Hours",
+    "title_norm": "app store rejection of the week dark hours"
   },
   "8e8a0a48a25e16e4b4e618e773e25895d2d120ccdd2cf93d0d364290b5f2b539": {
     "category": "community_signal",
@@ -54089,16 +54127,16 @@
   },
   "_meta": {
     "date": "2026-08-07",
-    "posts_today": 7,
+    "posts_today": 8,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "model_release": 3,
+      "model_release": 4,
       "other": 1,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-07-20"
+    "last_slot": "2026-08-07-22"
   },
   "_queue": [
     {
@@ -54276,22 +54314,6 @@
       "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
       "title": "One of China\u2019s Most Powerful AI Models Has Also Escaped Containment",
       "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\u26a1 AMD is acquiring AI-chip startup Taalas to speed up inference by etching trained models directly into silicon. Taalas uses a compiler that turns neural networks into specialized hardware circuits, bypassing the overhead of general-purpose GPUs. The deal gives AMD a differentiated way to cut latency and power costs for LLM inference in data centers. \ud83d\udd25 It also intensifies the race with Nvidia, which still dominates AI inference.\n\n\ud83d\udcb5 Financial terms were not disclosed, but the move signals that custom-hardware design is becoming a key battleground as AI compute demand keeps soaring.",
-      "post_body_fa": "\u26a1 AMD \u062f\u0631 \u062d\u0627\u0644 \u062e\u0631\u06cc\u062f \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0631\u0627\u0634\u0647\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Taalas \u0627\u0633\u062a \u062a\u0627 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0631\u0627 \u0628\u0627 \u062d\u06a9 \u06a9\u0631\u062f\u0646 \u0645\u062f\u0644\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u062f\u06cc\u062f\u0647 \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u062f\u0631 \u0633\u06cc\u0644\u06cc\u06a9\u0648\u0646 \u0633\u0631\u0639\u062a \u0628\u0628\u062e\u0634\u062f. Taalas \u0627\u0632 \u06cc\u06a9 \u06a9\u0627\u0645\u067e\u0627\u06cc\u0644\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u06a9\u0646\u062f \u06a9\u0647 \u0634\u0628\u06a9\u0647\u0647\u0627\u06cc \u0639\u0635\u0628\u06cc \u0631\u0627 \u0628\u0647 \u0645\u062f\u0627\u0631\u0647\u0627\u06cc \u0633\u062e\u062a\u0627\u0641\u0632\u0627\u0631\u06cc \u062a\u062e\u0635\u0635\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f \u0648 \u0633\u0631\u0628\u0627\u0631 \u067e\u0631\u062f\u0627\u0632\u0646\u062f\u0647\u0647\u0627\u06cc \u06af\u0631\u0627\u0641\u06cc\u06a9\u06cc \u0639\u0645\u0648\u0645\u06cc \u0631\u0627 \u062d\u0630\u0641 \u0645\u06cc\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0645\u0639\u0627\u0645\u0644\u0647 \u0628\u0647 AMD \u0645\u0633\u06cc\u0631\u06cc \u0645\u062a\u0641\u0627\u0648\u062a \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u062a\u0623\u062e\u06cc\u0631 \u0648 \u0647\u0632\u06cc\u0646\u0647 \u0628\u0631\u0642 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0645\u062f\u0644\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0628\u0632\u0631\u06af \u062f\u0631 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0645\u06cc\u062f\u0647\u062f. \ud83d\udd25 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0631\u0642\u0627\u0628\u062a \u0628\u0627 Nvidia \u0631\u0627 \u06a9\u0647 \u0647\u0646\u0648\u0632 \u062f\u0631 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u063a\u0627\u0644\u0628 \u0627\u0633\u062a\u060c \u062a\u0634\u062f\u06cc\u062f \u0645\u06cc\u06a9\u0646\u062f.\n\n\ud83d\udcb5 \u062c\u0632\u0626\u06cc\u0627\u062a \u0645\u0627\u0644\u06cc \u0627\u0639\u0644\u0627\u0645 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u0637\u0631\u0627\u062d\u06cc \u0633\u062e\u062a\u0627\u0641\u0632\u0627\u0631 \u0633\u0641\u0627\u0631\u0634\u06cc \u0628\u0647 \u06cc\u06a9 \u0645\u06cc\u062f\u0627\u0646 \u0631\u0642\u0627\u0628\u062a\u06cc \u06a9\u0644\u06cc\u062f\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u060c \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0647\u0645\u0686\u0646\u0627\u0646 \u062f\u0631 \u062d\u0627\u0644 \u0631\u0634\u062f \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udfd7\ufe0f AMD acquires Taalas to etch AI models into silicon",
-      "post_title_fa": "\ud83c\udfd7\ufe0f AMD \u0634\u0631\u06a9\u062a Taalas \u0631\u0627 \u0628\u0631\u0627\u06cc \u062d\u06a9 \u06a9\u0631\u062f\u0646 \u0645\u062f\u0644\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0633\u06cc\u0644\u06cc\u06a9\u0648\u0646 \u062e\u0631\u06cc\u062f",
-      "priority": "high",
-      "published": "2026-08-06T20:23:11+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 584</p>\n<p># Comments: 441</p>",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -78494,6 +78516,14 @@
     "title": "Attentions Under the Microscope: A Comparative Study of Resource Utilization for Variants of Self-Attention",
     "title_norm": "attentions under the microscope a comparative study of resource utilization for variants of selfattention"
   },
+  "e7082108221b67be30dad8df237d7b991cc894f125d376532d7627b0e15d2ba0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-07T20:09:45.962576+00:00",
+    "source": "The Verge AI",
+    "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
+    "title_norm": "fenix flexin isnt even denying using ai to make rubberz anymore"
+  },
   "e7088ad17fbe2ed547f6a7a1d97d307a6179a0da7e3ed42a8a4531f92f4ab704": {
     "category": "research",
     "posted": false,
@@ -84259,6 +84289,14 @@
     "source": "arXiv cs.AI",
     "title": "MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding",
     "title_norm": "moon30 reasoningaware multimodal representation learning for ecommerce product understanding"
+  },
+  "f914e15cbc29f59914fef5d5a4337332d9df4db0c767d986cf814abb1eb77ef0": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-07T20:09:45.962739+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
+    "title_norm": "deepseek v4 flash 0731 arcagi results"
   },
   "f919334cfdf54de8235e3d4bd80891518c18064f0ccfbf6554e5add8524b039b": {
     "category": "model_release",
