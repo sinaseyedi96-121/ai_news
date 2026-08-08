@@ -20445,6 +20445,14 @@
     "title": "Amiga Graphics Archive",
     "title_norm": "amiga graphics archive"
   },
+  "39b28d95fcbaaeae7e256dc0ae4ec98139c48d1424394113e5ff25a5c48dc6cf": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-08T20:06:08.019629+00:00",
+    "source": "TechCrunch AI",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "title_norm": "openai acquires presentation startup nextslide"
+  },
   "39b4a84adc8a3b8475d19526f88ef024f6e0dd29cd9c92d908ef8e90a9e0ebf2": {
     "category": "other",
     "posted": false,
@@ -26752,6 +26760,14 @@
     "source": "Hacker News AI keyword",
     "title": "FelonyBench \u2013 The leading benchmark for AI in cybersecurity",
     "title_norm": "felonybench the leading benchmark for ai in cybersecurity"
+  },
+  "4d7669341cc48f7eef3609a3069c8614f356347198179c24516e611ca11aecef": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T20:06:08.019732+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "What a California License Plate Taught Me About How AI \"Knows\"",
+    "title_norm": "what a california license plate taught me about how ai knows"
   },
   "4d7bef17cf6e8e88f9981e25ad7328222ee30c988765584a2740c8181b71a64f": {
     "category": "other",
@@ -49841,6 +49857,14 @@
     "title": "One Rewrite to Fix Them All? Type-Aware Repair Allocation for Text-to-Image Prompt Optimization",
     "title_norm": "one rewrite to fix them all typeaware repair allocation for texttoimage prompt optimization"
   },
+  "90ee76df68d8eab993044de12c1c3f40b040ee26d1eb59ac376b21b466ee95dc": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-08T20:06:08.019711+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Message your other Claude Code sessions",
+    "title_norm": "message your other claude code sessions"
+  },
   "90f8cc0546ceff0f4e2a30b95263fa4ab85881246c569a955b657a04e61b11c9": {
     "category": "other",
     "posted": false,
@@ -54919,17 +54943,17 @@
   },
   "_meta": {
     "date": "2026-08-08",
-    "posts_today": 7,
+    "posts_today": 8,
     "posts_today_by_category": {
       "infrastructure": 3,
       "model_release": 1,
       "other": 1,
-      "policy": 1,
+      "policy": 2,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-08-20"
+    "last_slot": "2026-08-08-22"
   },
   "_queue": [
     {
@@ -55107,22 +55131,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/\">https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49210554\">https://news.ycombinator.com/item?id=49210554</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
       "title": "Alibaba plans to charge big users of its next open-source AI model",
       "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcdd Denmark is making oral defenses a required part of student assessment, so pupils must explain their written work in person to prove they actually produced it.\n\nThe move is a direct response to the rise of AI-generated essays, with teachers unable to trust submitted text alone. It shifts evaluation from final documents to live questioning \ud83c\udf93, forcing students to demonstrate understanding on the spot. For anyone relying on AI to do the homework, the new rule changes the game \u2014 Denmark's approach could become a template for other education systems wrestling with AI cheating.",
-      "post_body_fa": "\ud83d\udcdd \u062f\u0627\u0646\u0645\u0627\u0631\u06a9 \u062f\u0641\u0627\u0639 \u0634\u0641\u0627\u0647\u06cc \u0631\u0627 \u0628\u0647 \u0628\u062e\u0634 \u0627\u0644\u0632\u0627\u0645\u06cc \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u062f\u0627\u0646\u0634\u062c\u0648\u06cc\u0627\u0646 \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u062a\u0627 \u062f\u0627\u0646\u0634\u062c\u0648\u06cc\u0627\u0646 \u0622\u062b\u0627\u0631 \u0646\u0648\u0634\u062a\u0627\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u062d\u0636\u0648\u0631\u06cc \u062a\u0648\u0636\u06cc\u062d \u062f\u0647\u0646\u062f \u0648 \u062b\u0627\u0628\u062a \u06a9\u0646\u0646\u062f \u062e\u0648\u062f\u0634\u0627\u0646 \u0622\u0646 \u0631\u0627 \u062a\u0648\u0644\u06cc\u062f \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u067e\u0627\u0633\u062e\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645 \u0628\u0647 \u06af\u0633\u062a\u0631\u0634 \u0645\u0642\u0627\u0644\u0647\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a\u060c \u062c\u0627\u06cc\u06cc \u06a9\u0647 \u0645\u0639\u0644\u0645\u0627\u0646 \u062f\u06cc\u06af\u0631 \u0646\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u0645\u062a\u0646 \u0627\u0631\u0633\u0627\u0644\u200c\u0634\u062f\u0647 \u0627\u0639\u062a\u0645\u0627\u062f \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631\u060c \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0631\u0627 \u0627\u0632 \u0633\u0646\u062f \u0646\u0647\u0627\u06cc\u06cc \u0628\u0647 \u067e\u0631\u0633\u0634\u200c\u0648\u067e\u0627\u0633\u062e \u0632\u0646\u062f\u0647 \u0645\u0646\u062a\u0642\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83c\udf93 \u0648 \u062f\u0627\u0646\u0634\u062c\u0648\u06cc\u0627\u0646 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u062f\u0631\u06a9 \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u0644\u062d\u0638\u0647 \u0646\u0634\u0627\u0646 \u062f\u0647\u0646\u062f. \u0628\u0631\u0627\u06cc \u0647\u0631\u06a9\u0633\u06cc \u06a9\u0647 \u0628\u0631\u0627\u06cc \u0627\u0646\u062c\u0627\u0645 \u062a\u06a9\u0644\u06cc\u0641 \u0631\u0648\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062d\u0633\u0627\u0628 \u06a9\u0631\u062f\u0647\u060c \u0627\u06cc\u0646 \u0642\u0627\u0646\u0648\u0646 \u062c\u062f\u06cc\u062f \u0647\u0645\u0647\u200c\u0686\u06cc\u0632 \u0631\u0627 \u0639\u0648\u0636 \u0645\u06cc\u200c\u06a9\u0646\u062f \u2014 \u0631\u0648\u06cc\u06a9\u0631\u062f \u062f\u0627\u0646\u0645\u0627\u0631\u06a9 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0627\u0644\u06af\u0648\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0633\u0627\u06cc\u0631 \u0646\u0638\u0627\u0645\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u06a9\u0647 \u0628\u0627 \u062a\u0642\u0644\u0628 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0633\u062a\u200c\u0648\u067e\u0646\u062c\u0647 \u0646\u0631\u0645 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f.",
-      "post_title": "\u2696\ufe0f Denmark Fights AI Cheating with Mandatory Oral Defenses",
-      "post_title_fa": "\u2696\ufe0f \u062f\u0627\u0646\u0645\u0627\u0631\u06a9 \u062f\u0641\u0627\u0639 \u0634\u0641\u0627\u0647\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u0642\u0627\u0628\u0644\u0647 \u0628\u0627 \u062a\u0642\u0644\u0628 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062c\u0628\u0627\u0631\u06cc \u06a9\u0631\u062f",
-      "priority": "medium",
-      "published": "2026-08-08T18:09:31+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224294\">https://news.ycombinator.com/item?id=49224294</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -87284,6 +87292,20 @@
     "source": "arXiv cs.AI",
     "title": "Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts",
     "title_norm": "polibias understanding and measuring large language model biases in international political conflicts"
+  },
+  "fe5ca6d9e02c334f50ecfbd89696738b68d2449513099834ad61332a143d06f6": {
+    "category": "policy",
+    "message_id": 142,
+    "message_id_fa": 116,
+    "post_title": "\u2696\ufe0f OpenAI pauses Astra work over security concerns",
+    "post_title_fa": "\u2696\ufe0f OpenAI \u06a9\u0627\u0631 \u0631\u0648\u06cc Astra \u0631\u0627 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-08T20:06:09.402510+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-08T20:06:08.019752+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+    "title_norm": "openai to pause some work on ai model astra due to security concerns"
   },
   "fe5f02c81d61cba21badd0a747acf88e8d31b75150d8da3c25397f09b46187d0": {
     "category": "research",
