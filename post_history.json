@@ -7999,6 +7999,14 @@
     "title": "Human Preference aligned Tabular Similarity",
     "title_norm": "human preference aligned tabular similarity"
   },
+  "17be1746188d923f8941abe96defb1d0197990f9e872d9d3fd0ef6b527dab7d4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569425+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Repeated generation is worth it and self-evaluation is effective",
+    "title_norm": "repeated generation is worth it and selfevaluation is effective"
+  },
   "17bf9cbe1f8c9d0a417e22473c17d5749a7463a12c06cf1379f7cf816d69d2bf": {
     "category": "policy",
     "posted": false,
@@ -22548,6 +22556,14 @@
     "source": "arXiv cs.AI",
     "title": "DiffImaginE: Imagine to Verify Entity Types with Diffusio",
     "title_norm": "diffimagine imagine to verify entity types with diffusio"
+  },
+  "410eedc4885aece93222b6a7bd50aeab224ca01604738a746164c53ae1d4f181": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569348+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
+    "title_norm": "ai layoffs at oracle amazon and cloudflare all have one thing in common"
   },
   "411305e97bfb063bcab0ff4c318ebd8c8b8b295d7f590a559ca99b1453f5ca80": {
     "category": "other",
@@ -39873,6 +39889,14 @@
     "title": "DeepLook: Deeper Thinking with Lookahead",
     "title_norm": "deeplook deeper thinking with lookahead"
   },
+  "73cb793df526549b26535b64236165251366700d26bb35efe17792c1328ae934": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569406+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+    "title_norm": "building a zerodependency c inference engine for bitnet 158bit lessons from hitting 36 toks on a xeon cpu"
+  },
   "73cb9b2b5fd00c81eef70baa8e08e2fd3f24cba1e34927d92ec1442957ed046a": {
     "category": "research",
     "posted": false,
@@ -50773,6 +50797,14 @@
     "title": "Credit Cards, Confusion, Computation, and Consequences: What Can We Uncover About Language Model Reasoning?",
     "title_norm": "credit cards confusion computation and consequences what can we uncover about language model reasoning"
   },
+  "94497b36e1aa10b4996b4aaee01e84429eaa51406164f4b9e65962e324353596": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569265+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by",
+    "title_norm": "cruise ship helps stranded skiff crew in alaska as zuckerberg yacht stands by"
+  },
   "94510d6c553512d4c7f296fc81eb146ce51d9e5b97490ef6067fe60c8d213674": {
     "category": "research",
     "posted": false,
@@ -54781,6 +54813,22 @@
       "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c5y3j3ngevmo\">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206642\">https://news.ycombinator.com/item?id=49206642</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
       "title": "Artificial Intelligence used to design new viruses",
       "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
+    },
+    {
+      "category": "research",
+      "duplicate_of": null,
+      "post_body": "\u26a1 A developer built a CPU-only inference engine for BitNet 1.58-bit models from scratch in pure C99 \u2014 no CUDA, no BLAS, no Python. It hits 36.25 tokens/s on a Xeon CPU using just 4 threads, thanks to native ternary SIMD with AVX2/AVX-512 VNNI instructions. Weights are packed 4-per-byte and accumulated directly in integer registers, avoiding float32 overhead.\n\nThe project shows ternary models can run efficiently on ordinary servers and laptops, making local AI cheaper and more accessible. \ud83e\udde0 It's a low-level optimization win for the 1-bit model trend \u2014 no GPU required, just GCC and make.",
+      "post_body_fa": "\u26a1 \u06cc\u06a9 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u0645\u0648\u062a\u0648\u0631 \u0627\u0633\u062a\u0646\u062a\u0627\u062c CPU-\u0641\u0642\u0637 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc BitNet 1.58-bit \u0631\u0627 \u0627\u0632 \u0635\u0641\u0631 \u0628\u0627 C99 \u062e\u0627\u0644\u0635 \u0633\u0627\u062e\u062a\u0647 \u0627\u0633\u062a \u2014 \u0628\u062f\u0648\u0646 CUDA\u060c \u0628\u062f\u0648\u0646 BLAS\u060c \u0628\u062f\u0648\u0646 \u067e\u0627\u06cc\u062a\u0648\u0646. \u0627\u06cc\u0646 \u0645\u0648\u062a\u0648\u0631 \u0628\u0627 \u0641\u0642\u0637 \u06f4 \u0631\u0634\u062a\u0647\u060c \u06f3\u06f6.\u06f2\u06f5 \u062a\u0648\u06a9\u0646 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc Xeon \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f\u060c \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 SIMD \u0633\u0647\u200c\u062a\u0627\u06cc\u06cc \u0628\u0648\u0645\u06cc \u0648 \u062f\u0633\u062a\u0648\u0631\u0627\u0644\u0639\u0645\u0644\u200c\u0647\u0627\u06cc AVX2/AVX-512 VNNI. \u0648\u0632\u0646\u200c\u0647\u0627 \u06f4-\u062a\u0627\u06cc\u06cc \u062f\u0631 \u0647\u0631 \u0628\u0627\u06cc\u062a \u0641\u0634\u0631\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u0648 \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u062f\u0631 \u062b\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0635\u062d\u06cc\u062d \u062c\u0645\u0639 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u0648 \u0633\u0631\u0628\u0627\u0631 float32 \u062d\u0630\u0641 \u0645\u06cc\u200c\u0634\u0648\u062f.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0633\u0647\u200c\u062a\u0627\u06cc\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647\u200c\u0637\u0648\u0631 \u06a9\u0627\u0631\u0622\u0645\u062f \u0631\u0648\u06cc \u0633\u0631\u0648\u0631\u0647\u0627 \u0648 \u0644\u067e\u200c\u062a\u0627\u067e\u200c\u0647\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u062c\u0631\u0627 \u0634\u0648\u0646\u062f \u0648 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062d\u0644\u06cc \u0631\u0627 \u0627\u0631\u0632\u0627\u0646\u200c\u062a\u0631 \u0648 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633\u200c\u062a\u0631 \u06a9\u0646\u0646\u062f. \ud83e\udde0 \u0627\u06cc\u0646 \u06cc\u06a9 \u0628\u0647\u06cc\u0646\u0647\u200c\u0633\u0627\u0632\u06cc \u0633\u0637\u062d \u067e\u0627\u06cc\u06cc\u0646 \u0628\u0631\u0627\u06cc \u0631\u0648\u0646\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u06f1-\u0628\u06cc\u062a\u06cc \u0627\u0633\u062a \u2014 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 GPU\u060c \u0641\u0642\u0637 \u0628\u0627 GCC \u0648 make.",
+      "post_title": "\ud83d\udd2c Hand-built C engine runs BitNet at 36 tok/s on CPU",
+      "post_title_fa": "\ud83d\udd2c \u0645\u0648\u062a\u0648\u0631 C \u062f\u0633\u062a\u200c\u0633\u0627\u0632\u060c \u0628\u06cc\u062a\u200c\u0646\u062a \u0631\u0627 \u0628\u0627 \u06f3\u06f6 \u062a\u0648\u06a9/\u062b \u0631\u0648\u06cc CPU \u0627\u062c\u0631\u0627 \u06a9\u0631\u062f",
+      "priority": "low",
+      "published": "2026-08-08T17:09:18+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Over the past few months I have been building a CPU-first inference engine from scratch in pure C99 (no Python, no CUDA, no BLAS, just GCC and make). The focus has been running 1.58-bit ternary models natively without heavy runtime overhead.</p> <p>Currently it hits 36.25 tok/s on BitNet b1.58-2B-4T on an Intel Xeon using 4 threads.</p> <p>A few technical details from the build:</p> <ol> <li>Native ternary SIMD: BitNet weights are packed 4 per byte (values -1, 0, +1). Instead of unpacking to float32 before math, we use custom AVX2 and AVX-512 routines to accumulate directly into integer registers using VNNI instructions (vpdpbusds).</li> <li>Minimal runtime overhead: The thread pool uses C11 atomics with spin-then-yield backoff rather than heavy mutex contention, so thread sync overhead is basically zero during token generation.</li> <li>Zero dependencies: Compiles into a single standalone binary that serves an OpenAI-compatible API endpoint directly.</li> </ol> <p>The biggest takeaway so far has been the DRAM ceiling. We spent weeks optimizing low-level matrix multiplication kernels, but decode speed at batch size 1 is kind of stuck at memory bandwidth. On our Xeon test box, we are running at roughly 95% of theoretical memory bandwidth, so faster compute kernels do not actually move end-to-end token latency until you batch across multiple sequences.</p> <p>Repo: <a href=\"https://github.com/shifulegend/project-zero\">https://github.com/shifulegend/project-zero</a></p> <p>Curious what token rates others are seeing on different CPU architectures (especially AMD Zen or ARM NEON), or how folks are handling the memory bandwidth ceiling for local ternary inference.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/shifu_legend\"> /u/shifu_legend </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/\">[comments]</a></span>",
+      "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/"
     },
     {
       "category": "model_release",
@@ -64930,6 +64978,14 @@
     "source": "Hacker News AI keyword",
     "title": "(Updated) Project Phoenix- Autonomous AI Agents",
     "title_norm": "updated project phoenix autonomous ai agents"
+  },
+  "bc72b021fab0d32de8bc719856a4cdbabb7c29700b255918a4e6c9d737714d96": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569373+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why every AI model tells Japanese voters to vote for the Communist Party",
+    "title_norm": "why every ai model tells japanese voters to vote for the communist party"
   },
   "bc74da72472b7915b8282c247c7cf4b7e0ee256f156f6cbc9d64ede9a8be0cd4": {
     "category": "other",
@@ -82576,6 +82632,14 @@
     "source": "arXiv cs.AI",
     "title": "Reward-Driven LLM Agent Workflows: Synthesizing POMDP Routing and Self-Correction for Autonomous Decision-Making",
     "title_norm": "rewarddriven llm agent workflows synthesizing pomdp routing and selfcorrection for autonomous decisionmaking"
+  },
+  "f19ffa937d40fe7b1a71f96fbd6f184d0c31e16a01a65b5d44bbc1387fea46f6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T17:17:19.569390+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Showoff Saturday: Local 4x 6000 Pro (multi-year progression)",
+    "title_norm": "showoff saturday local 4x 6000 pro multiyear progression"
   },
   "f1a2d11a9c207cd08b672af85593f8c8e9314940ddc5b33951eeae40fe0fb3aa": {
     "category": "research",
