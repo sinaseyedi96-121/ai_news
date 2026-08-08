@@ -14495,6 +14495,14 @@
     "title": "Expanding data residency access to business customers worldwide",
     "title_norm": "expanding data residency access to business customers worldwide"
   },
+  "29345387e5a1637e5c8bff15a67a87816378f83919a74ac58bf26073022d19dc": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.315049+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Offline AI Search Engine",
+    "title_norm": "offline ai search engine"
+  },
   "293c4cfc5722eb6df75a6edc57f417f9565930a449e63da2691f1837fc06c0da": {
     "category": "research",
     "posted": false,
@@ -26569,6 +26577,14 @@
     "title": "SAAG: Structured Agent Assessment and Grounding",
     "title_norm": "saag structured agent assessment and grounding"
   },
+  "4d1d43809b9a4c7f578a6a430099f035ded89188b73f180f70ad6075be1eaf22": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.315060+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "How AI Layoffs Can Trigger an Economic Spiral",
+    "title_norm": "how ai layoffs can trigger an economic spiral"
+  },
   "4d239c5420a4cd96633926139b53f531c33c440a3e199eff9300525d9dd56c42": {
     "category": "research",
     "posted": false,
@@ -29974,6 +29990,14 @@
     "source": "OpenAI News",
     "title": "DALL\u00b7E 2: Extending creativity",
     "title_norm": "dalle 2 extending creativity"
+  },
+  "5794545de534bae540fd5f99f5aa7b0d365e32971a4e0b8bfe957b339e9471d4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.315038+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI alignment is a red herring",
+    "title_norm": "ai alignment is a red herring"
   },
   "57962f97d08744153bc5fd17b0041de772333b4563f2eb63961e8cc7bc71289c": {
     "category": "research",
@@ -40211,7 +40235,13 @@
   },
   "74aa63caee4580f64f27dc27d9d28a5d31f5036d45bd9ff4d57f62ab2e209701": {
     "category": "policy",
-    "posted": false,
+    "message_id": 139,
+    "message_id_fa": 113,
+    "post_title": "\u2696\ufe0f DOE launches Genesis Open Models Initiative with Arcee",
+    "post_title_fa": "\u2696\ufe0f \u0648\u0632\u0627\u0631\u062a \u0627\u0646\u0631\u0698\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0637\u0631\u062d Genesis \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0631\u0627 \u0628\u0627 Arcee \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-08T16:44:39.451253+00:00",
+    "priority": "high",
     "seen_at": "2026-08-08T07:08:51.516025+00:00",
     "source": "Hacker News Frontpage",
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
@@ -47947,6 +47977,14 @@
     "title": "Clarify Before Executing: A Self-Evolving Agent for Resolving Intent Asymmetry in 3D Tool Orchestration",
     "title_norm": "clarify before executing a selfevolving agent for resolving intent asymmetry in 3d tool orchestration"
   },
+  "8c256fbfd0b1d160e0e9acd030334ba8f68e1e8c347ed384674db8d41969583e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.315072+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "My first run of Kimi K3 locally.",
+    "title_norm": "my first run of kimi k3 locally"
+  },
   "8c25bf7740b6f7d930a538cac9fa9b2889afa67a9807c7d62cea408c44ce3f08": {
     "category": "research",
     "posted": false,
@@ -54587,34 +54625,19 @@
   },
   "_meta": {
     "date": "2026-08-08",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
       "infrastructure": 2,
       "model_release": 1,
       "other": 1,
+      "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-08-16"
+    "last_slot": "2026-08-08-18"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83e\uddec The U.S. Department of Energy launched the Genesis Open Models Initiative, a government push for open-weight AI models. Its first release, Genesis-Science-1, was built with Arcee for scientific research \ud83d\udd2c.\n\n\ud83c\udfd7\ufe0f The initiative aims to make AI models more accessible and transparent for researchers and marks a notable federal move into open-source AI. For scientists, this could speed up discovery using government-backed models.",
-      "post_body_fa": "\ud83e\uddec \u0648\u0632\u0627\u0631\u062a \u0627\u0646\u0631\u0698\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0637\u0631\u062d \u00abGenesis Open Models Initiative\u00bb \u0631\u0627 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u06a9\u0631\u062f. \u0627\u0648\u0644\u06cc\u0646 \u0645\u062f\u0644 \u0627\u06cc\u0646 \u0637\u0631\u062d\u060c Genesis-Science-1\u060c \u0628\u0627 \u0647\u0645\u06a9\u0627\u0631\u06cc Arcee \u0628\u0631\u0627\u06cc \u067e\u0698\u0648\u0647\u0634\u200c\u0647\u0627\u06cc \u0639\u0644\u0645\u06cc \u0633\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a \ud83d\udd2c.\n\n\ud83c\udfd7\ufe0f \u0627\u06cc\u0646 \u0637\u0631\u062d \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u067e\u0698\u0648\u0647\u0634\u06af\u0631\u0627\u0646 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633\u200c\u062a\u0631 \u0648 \u0634\u0641\u0627\u0641\u200c\u062a\u0631 \u06a9\u0646\u062f \u0648 \u06af\u0627\u0645\u06cc \u0645\u0647\u0645 \u062f\u0631 \u062d\u0631\u06a9\u062a \u062f\u0648\u0644\u062a \u0628\u0647 \u0633\u0645\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646\u060c \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06a9\u0634\u0641\u200c\u0647\u0627\u06cc \u0639\u0644\u0645\u06cc \u0631\u0627 \u0628\u0627 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a\u06cc \u0633\u0631\u0639\u062a \u0628\u0628\u062e\u0634\u062f.",
-      "post_title": "\u2696\ufe0f DOE launches Genesis Open Models Initiative with Arcee",
-      "post_title_fa": "\u2696\ufe0f \u0648\u0632\u0627\u0631\u062a \u0627\u0646\u0631\u0698\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0637\u0631\u062d Genesis \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0631\u0627 \u0628\u0627 Arcee \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-07T22:24:27+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 199</p>\n<p># Comments: 66</p>",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -54760,20 +54783,36 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
     },
     {
-      "category": "other",
+      "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\u26a0\ufe0f Gentoo has temporarily closed its Bugzilla bug tracker after an onslaught of AI bot traffic overwhelmed the system. Developer Micha\u0142 G\u00f3rny shared the update on Mastodon, noting that scraping bots\u2014likely training on public issue data\u2014made the tracker unusable. \ud83d\udc1b The project is now evaluating stricter bot filtering and access rules.\n\n\ud83c\udf10 For maintainers, it's another sign that AI data harvesting is becoming a real operational burden, not just a privacy concern. Expect more open-source projects to add bot-blocking measures if the trend continues.",
-      "post_body_fa": "\u26a0\ufe0f \u06af\u0646\u062a\u0648 \u0628\u0647 \u0637\u0648\u0631 \u0645\u0648\u0642\u062a \u0628\u0627\u06af\u0632\u06cc\u0644\u0627 \u0631\u0627 \u0628\u0633\u062a\u061b \u0686\u0648\u0646 \u0645\u0648\u062c \u0631\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u06cc\u0633\u062a\u0645 \u0631\u0627 \u0627\u0632 \u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u062e\u062a. \u0645\u06cc\u062e\u0627\u0626\u06cc\u0644 \u06af\u0648\u0631\u0646\u06cc\u060c \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647\u060c \u062f\u0631 \u0645\u0627\u0633\u062a\u0648\u062f\u0648\u0646 \u06af\u0641\u062a \u0631\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0627\u0633\u06a9\u0631\u0627\u067e\u0631 \u2014 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0631\u0648\u06cc \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc \u2014 \u062a\u0631\u06a9\u0631 \u0631\u0627 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \ud83d\udc1b \u067e\u0631\u0648\u0698\u0647 \u062d\u0627\u0644\u0627 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0641\u06cc\u0644\u062a\u0631 \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u0631\u0628\u0627\u062a\u200c\u0647\u0627 \u0648 \u0645\u062d\u062f\u0648\u062f\u0633\u0627\u0632\u06cc \u062f\u0633\u062a\u0631\u0633\u06cc \u0627\u0633\u062a.\n\n\ud83c\udf10 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u0654 \u062f\u06cc\u06af\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u062f\u0627\u062f\u0647 \u062a\u0648\u0633\u0637 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u06cc\u06a9 \u0628\u0627\u0631 \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc \u0648\u0627\u0642\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u060c \u0646\u0647 \u0641\u0642\u0637 \u06cc\u06a9 \u0646\u06af\u0631\u0627\u0646\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u067e\u0631\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u0627\u062f\u0627\u0645\u0647 \u06cc\u0627\u0628\u062f\u060c \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0645\u0633\u062f\u0648\u062f\u0633\u0627\u0632\u06cc \u0631\u0628\u0627\u062a \u0631\u0627 \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u0646\u062f.",
-      "post_title": "\ud83e\udd16 Gentoo Bugzilla Shuts Down After AI Scraper Overload",
-      "post_title_fa": "\ud83e\udd16 \u0628\u0633\u062a\u0647 \u0634\u062f\u0646 \u0628\u0627\u06af\u0632\u06cc\u0644\u0627 \u06af\u0646\u062a\u0648 \u0628\u0631 \u0627\u062b\u0631 \u0647\u062c\u0648\u0645 \u0631\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+      "post_body": "\ud83d\udcf1 FencingVision AI Coach is a new iOS app that uses on-device AI \ud83e\udd16 to analyze fencing bouts in real time, overlaying skeleton tracking and movement metrics onto video. The app is aimed at fencers and coaches looking for instant feedback without special hardware. It processes footage locally, which helps with privacy and latency.\n\nWhile it's a niche tool, it's a good example of on-device computer vision becoming accessible to hobbyists. \u26a1 The app is available now on the App Store.",
+      "post_body_fa": "\ud83d\udcf1 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 FencingVision AI Coach \u06cc\u06a9 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u062c\u062f\u06cc\u062f iOS \u0627\u0633\u062a \u06a9\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0648\u06cc \u062f\u0633\u062a\u06af\u0627\u0647 \ud83e\udd16 \u062d\u0631\u06a9\u0627\u062a \u0634\u0645\u0634\u06cc\u0631\u0628\u0627\u0632\u06cc \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0632\u0646\u062f\u0647 \u062a\u062d\u0644\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0627\u0633\u06a9\u0644\u062a \u0648 \u0645\u0639\u06cc\u0627\u0631\u0647\u0627\u06cc \u062d\u0631\u06a9\u062a\u06cc \u0631\u0627 \u0631\u0648\u06cc \u0648\u06cc\u062f\u06cc\u0648 \u0646\u0645\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u0627\u067e \u0628\u0631\u0627\u06cc \u0634\u0645\u0634\u06cc\u0631\u0628\u0627\u0632\u0627\u0646 \u0648 \u0645\u0631\u0628\u06cc\u0627\u0646\u06cc \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u06a9\u0647 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u062e\u0627\u0635\u060c \u0628\u0627\u0632\u062e\u0648\u0631\u062f \u0641\u0648\u0631\u06cc \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f. \u0648\u06cc\u062f\u06cc\u0648 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u067e\u0631\u062f\u0627\u0632\u0634 \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0628\u0647 \u062d\u0641\u0638 \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u06a9\u0627\u0647\u0634 \u062a\u0623\u062e\u06cc\u0631 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0647\u0631\u0686\u0646\u062f \u062e\u0627\u0635 \u0627\u0633\u062a\u060c \u0645\u062b\u0627\u0644 \u062e\u0648\u0628\u06cc \u0627\u0632 \u062f\u0633\u062a\u0631\u0633\u200c\u067e\u0630\u06cc\u0631\u06cc \u0628\u06cc\u0646\u0627\u06cc\u06cc \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u0631\u0648\u06cc \u062f\u0633\u062a\u06af\u0627\u0647 \u0628\u0631\u0627\u06cc \u0639\u0645\u0648\u0645 \u0627\u0633\u062a. \u26a1 \u0627\u06cc\u0646 \u0627\u067e \u0647\u0645\u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 App Store \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a.",
+      "post_title": "\ud83e\udd3a AI fencing coach app tracks bouts in real time",
+      "post_title_fa": "\ud83e\udd3a \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0645\u0631\u0628\u06cc \u0634\u0645\u0634\u06cc\u0631\u0628\u0627\u0632\u06cc \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u062a\u062d\u0644\u06cc\u0644 \u0632\u0646\u062f\u0647",
       "priority": "low",
-      "published": "2026-08-08T13:55:42+00:00",
+      "published": "2026-08-08T16:33:35+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://social.treehouse.systems/@mgorny/117058483039362779"
+      "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462\">https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223335\">https://news.ycombinator.com/item?id=49223335</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "An AI-powered iOS app for real-time fencing analysis (tracking/skeletons)",
+      "url": "https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde0 Wazzup.im is a new AI search engine designed to run fully offline, letting users query their own data without cloud connectivity. The tool aims to combine local embeddings with on-device inference for private, fast search. It appears to be an early-stage product, with the website serving as the main announcement.\n\nOffline AI tools are a growing trend as models become efficient enough to run on consumer hardware. \ud83d\udd12 This could appeal to privacy-focused users and organizations with strict data regulations. \u26a1 No pricing or technical details have been released yet.",
+      "post_body_fa": "\ud83e\udde0 Wazzup.im \u06cc\u06a9 \u0645\u0648\u062a\u0648\u0631 \u062c\u0633\u062a\u062c\u0648\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062c\u062f\u06cc\u062f \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631 \u06a9\u0627\u0645\u0644\u0627\u064b \u0622\u0641\u0644\u0627\u06cc\u0646 \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0648 \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u062f\u0648\u0646 \u0627\u062a\u0635\u0627\u0644 \u0628\u0647 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a\u060c \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u062c\u0633\u062a\u062c\u0648 \u06a9\u0646\u0646\u062f. \u0647\u062f\u0641 \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u062a\u0631\u06a9\u06cc\u0628 \u062a\u0639\u0628\u06cc\u0647\u200c\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0628\u0627 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0631\u0648\u06cc \u062f\u0633\u062a\u06af\u0627\u0647 \u0628\u0631\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u062e\u0635\u0648\u0635\u06cc \u0648 \u0633\u0631\u06cc\u0639 \u0627\u0633\u062a. \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u062f\u0631 \u0645\u0631\u0627\u062d\u0644 \u0627\u0648\u0644\u06cc\u0647 \u0627\u0633\u062a \u0648 \u0648\u0628\u200c\u0633\u0627\u06cc\u062a \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u0627\u0639\u0644\u0627\u0645\u06cc\u0647 \u0627\u0635\u0644\u06cc \u0622\u0646 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0622\u0641\u0644\u0627\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0648\u0646\u062f\u06cc \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0647\u0633\u062a\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0645\u062f\u0644\u200c\u0647\u0627 \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u0627\u06cc \u06a9\u0627\u0631\u0622\u0645\u062f \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u06a9\u0647 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0635\u0631\u0641\u200c\u06a9\u0646\u0646\u062f\u0647 \u0627\u062c\u0631\u0627 \u0634\u0648\u0646\u062f. \ud83d\udd12 \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0645\u062a\u0645\u0631\u06a9\u0632 \u0628\u0631 \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u0633\u0627\u0632\u0645\u0627\u0646\u200c\u0647\u0627\u06cc\u06cc \u0628\u0627 \u0645\u0642\u0631\u0631\u0627\u062a \u0633\u062e\u062a \u062f\u0627\u062f\u0647 \u062c\u0630\u0627\u0628 \u0628\u0627\u0634\u062f. \u26a1 \u0647\u0646\u0648\u0632 \u062c\u0632\u0626\u06cc\u0627\u062a \u0642\u06cc\u0645\u062a\u200c\u06af\u0630\u0627\u0631\u06cc \u06cc\u0627 \u0641\u0646\u06cc \u0645\u0646\u062a\u0634\u0631 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 Offline AI search engine runs locally without internet",
+      "post_title_fa": "\ud83d\ude80 \u0645\u0648\u062a\u0648\u0631 \u062c\u0633\u062a\u062c\u0648\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0622\u0641\u0644\u0627\u06cc\u0646 \u06a9\u0647 \u0628\u062f\u0648\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+      "priority": "low",
+      "published": "2026-08-08T16:25:40+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.wazzup.im\">https://www.wazzup.im</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223271\">https://news.ycombinator.com/item?id=49223271</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "Offline AI Search Engine",
+      "url": "https://www.wazzup.im"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -66727,6 +66766,14 @@
     "source": "Hacker News Frontpage",
     "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
     "title_norm": "judge rejects googles attempt to dmca its way out of being scraped"
+  },
+  "c1523efff15faab25f166dc2c9616c1bb641fc54944787bb3f6518212e7adc62": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.314948+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Triton: DirectX 11 Driver for QEMU",
+    "title_norm": "triton directx 11 driver for qemu"
   },
   "c160326c7818fb7422d3ae84dd0b988d96fe6bfb13d25eeb92280367fe05dad6": {
     "category": "other",
@@ -82881,6 +82928,14 @@
     "source": "arXiv cs.AI",
     "title": "Multimodal Hybrid Retrieval-Augmented Generation for Scientific Document Understanding using Open-Source SLMs",
     "title_norm": "multimodal hybrid retrievalaugmented generation for scientific document understanding using opensource slms"
+  },
+  "f2aee1c27614d8e1dec751d566e00619491f5508f6ee95fab4ffd6f3ddb2a049": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-08T16:44:38.315020+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "An AI-powered iOS app for real-time fencing analysis (tracking/skeletons)",
+    "title_norm": "an aipowered ios app for realtime fencing analysis trackingskeletons"
   },
   "f2b3bdbe275b04ec063571d9dcde7819ec45c7f393a01e773e570adfd7a59c74": {
     "category": "other",
