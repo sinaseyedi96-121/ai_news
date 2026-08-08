@@ -2701,7 +2701,13 @@
   },
   "07c8fd08b0156bf92974074d6f4d12b4ac4ba35bb411f85999c8e4636c86766d": {
     "category": "model_release",
-    "posted": false,
+    "message_id": 135,
+    "message_id_fa": 109,
+    "post_title": "\ud83d\udee1\ufe0f OpenAI slows Astra model development over cyberattack risk",
+    "post_title_fa": "\ud83d\udee1\ufe0f OpenAI \u062a\u0648\u0633\u0639\u0647 \u0645\u062f\u0644 \u0622\u0633\u062a\u0631\u0627 \u0631\u0627 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062e\u0637\u0631 \u062d\u0645\u0644\u0627\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc \u06a9\u0646\u062f \u0645\u06cc\u06a9\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-08T08:01:58.709950+00:00",
+    "priority": "high",
     "seen_at": "2026-08-08T07:08:51.515853+00:00",
     "source": "TechCrunch AI",
     "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -16297,6 +16303,14 @@
     "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
     "title_norm": "introducing muse spark scaling towards personal superintelligence"
   },
+  "2e5b68b0bd69a0c01e300f893aad60e034901b9b4916b25e8f236a5603c7fc97": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T08:01:57.787600+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "title_norm": "hardware backdoors in some x86 cpus"
+  },
   "2e5e3819f45b087cbaa6d6ddc9bb184c19204928a2bb1a72167b26e608390364": {
     "category": "research",
     "posted": false,
@@ -26076,6 +26090,14 @@
     "source": "arXiv cs.AI",
     "title": "LeanMem: Simple and Efficient Long-Term Memory for LLM Agents",
     "title_norm": "leanmem simple and efficient longterm memory for llm agents"
+  },
+  "4c0740b081b0176548560f88aeb2d277a91e58fa3d13554bff1794a1e46cb20d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T08:01:57.787698+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.6 27B + 35B on vLLM, single R9700 (gfx1201)",
+    "title_norm": "qwen36 27b 35b on vllm single r9700 gfx1201"
   },
   "4c0b63a3cb0b06e5f9e52f9b6a6e48f2d50b54c88e1512b8886432a0d20d6b2e": {
     "category": null,
@@ -54335,31 +54357,16 @@
   },
   "_meta": {
     "date": "2026-08-08",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
-      "infrastructure": 1
+      "infrastructure": 1,
+      "model_release": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-08-08"
+    "last_slot": "2026-08-08-10"
   },
   "_queue": [
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 OpenAI says its in-development Astra model hit a 'critical cybersecurity threshold': it could independently identify and carry out attacks on protected systems. The company deliberately slowed Astra's development to address that risk.\n\n\u26a0\ufe0f The disclosure shows frontier models are edging closer to real offensive cyber capabilities. It raises urgent questions about safety review in AI labs and what controls should exist before such models ship. For users, it's a sign that cutting-edge AI can come with serious security trade-offs \ud83d\udee1\ufe0f.",
-      "post_body_fa": "\ud83e\udd16 OpenAI \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0645\u062f\u0644 \u062f\u0631 \u062f\u0633\u062a \u062a\u0648\u0633\u0639\u0647 \u0622\u0633\u062a\u0631\u0627 \u0628\u0647 \u00ab\u0622\u0633\u062a\u0627\u0646\u0647 \u0628\u062d\u0631\u0627\u0646\u06cc \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc\u00bb \u0631\u0633\u06cc\u062f\u0647 \u0627\u0633\u062a: \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0628\u0647\u200c\u0637\u0648\u0631 \u0645\u0633\u062a\u0642\u0644 \u062d\u0645\u0644\u0627\u062a\u06cc \u0631\u0627 \u0639\u0644\u06cc\u0647 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0634\u062f\u0647 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0648 \u0627\u062c\u0631\u0627 \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0639\u0645\u062f\u0627\u064b \u0633\u0631\u0639\u062a \u062a\u0648\u0633\u0639\u0647 \u0622\u0633\u062a\u0631\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0647\u0634 \u0627\u06cc\u0646 \u062e\u0637\u0631 \u06a9\u0645 \u06a9\u0631\u062f.\n\n\u26a0\ufe0f \u0627\u06cc\u0646 \u0627\u0641\u0634\u0627\u06af\u0631\u06cc \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0628\u0647 \u062a\u0648\u0627\u0646\u0627\u06cc\u06cc \u062a\u0647\u0627\u062c\u0645\u06cc \u0648\u0627\u0642\u0639\u06cc \u062f\u0631 \u0641\u0636\u0627\u06cc \u0633\u0627\u06cc\u0628\u0631\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f. \u0633\u0648\u0627\u0644\u0627\u062a \u062c\u062f\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0641\u0631\u0622\u06cc\u0646\u062f\u0647\u0627\u06cc \u0628\u0627\u0632\u0628\u06cc\u0646\u06cc \u0627\u06cc\u0645\u0646\u06cc \u062f\u0631 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u06a9\u0646\u062a\u0631\u0644\u200c\u0647\u0627\u06cc \u0644\u0627\u0632\u0645 \u067e\u06cc\u0634 \u0627\u0632 \u0639\u0631\u0636\u0647 \u0686\u0646\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc\u06cc \u0645\u0637\u0631\u062d \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u200c\u0627\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u062c\u062f\u06cc \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u062f \ud83d\udee1\ufe0f.",
-      "post_title": "\ud83d\udee1\ufe0f OpenAI slows Astra model development over cyberattack risk",
-      "post_title_fa": "\ud83d\udee1\ufe0f OpenAI \u062a\u0648\u0633\u0639\u0647 \u0645\u062f\u0644 \u0622\u0633\u062a\u0631\u0627 \u0631\u0627 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u062e\u0637\u0631 \u062d\u0645\u0644\u0627\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc \u06a9\u0646\u062f \u0645\u06cc\u06a9\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-07T22:48:24+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -64454,6 +64461,14 @@
     "source": "arXiv cs.CL",
     "title": "Where Detectors Fail: Closing the Tail-Domain Gap with Expert-Guided Mutual Distillation",
     "title_norm": "where detectors fail closing the taildomain gap with expertguided mutual distillation"
+  },
+  "bc1f1729da3049dc13b8d320f80e930e9b1afb97c005722f1a6224988eeb65c6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-08T08:01:57.787670+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "model: support Longcat-Flash (need testing) by ngxson \u00b7 Pull Request #19182 \u00b7 ggml-org/llama.cpp",
+    "title_norm": "model support longcatflash need testing by ngxson pull request 19182 ggmlorgllamacpp"
   },
   "bc26c6075482b6eb4228e3fa3bbcdf9836cc021a1be3965eac47539ae92e31fa": {
     "category": "other",
