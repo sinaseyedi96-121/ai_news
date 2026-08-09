@@ -6987,6 +6987,14 @@
     "title": "Look Twice: Training-Free Evidence Highlighting for Knowledge-based Visual Question Answering",
     "title_norm": "look twice trainingfree evidence highlighting for knowledgebased visual question answering"
   },
+  "149168c021dc359aee77ede7921c202b9cca85705a6612717e517c981bda0aa8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T12:17:42.078342+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "70% of AI revenue comes from OpenAI and Anthropic",
+    "title_norm": "70 of ai revenue comes from openai and anthropic"
+  },
   "149330be11ba97ce3d25b73a72a4f5c2febc4f47929a8595c414192ade5e4023": {
     "category": "research",
     "posted": false,
@@ -22379,7 +22387,13 @@
   },
   "3fa81885b90271b8a4cdcd972283af8f67ea4e9015453b530684e8a273fbe8aa": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 146,
+    "message_id_fa": 120,
+    "post_title": "\ud83c\udfd7\ufe0f Amazon's Texas data center may crown US polluters",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0622\u0645\u0627\u0632\u0648\u0646 \u062f\u0631 \u062a\u06af\u0632\u0627\u0633 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0622\u0644\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0648\u062f",
+    "posted": true,
+    "posted_at": "2026-08-09T12:17:43.059100+00:00",
+    "priority": "high",
     "seen_at": "2026-08-09T07:11:51.374655+00:00",
     "source": "TechCrunch AI",
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -27892,6 +27906,14 @@
     "source": "Hacker News AI keyword",
     "title": "QVAC \u2013 Decentralized, Local AI in a Single API",
     "title_norm": "qvac decentralized local ai in a single api"
+  },
+  "502c9bbe0a9d243502c2c3ea280fcbfdf33ff394f48c2a7d8a3cc37a68841ce7": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-09T12:17:42.078403+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Tencent announce WorldClaw",
+    "title_norm": "tencent announce worldclaw"
   },
   "502ff67dd6ef8b9043e1e0edf6ed976e2d9e149cf7a7b50a352d05bac497a8ae": {
     "category": "research",
@@ -37796,6 +37818,14 @@
     "source": "arXiv cs.AI",
     "title": "Symbol Grounding in Neuro-Symbolic AI: A Gentle Introduction to Reasoning Shortcuts",
     "title_norm": "symbol grounding in neurosymbolic ai a gentle introduction to reasoning shortcuts"
+  },
+  "6c46341c2c04272db4d9641cc4f9ecf3c311a9b53c1d9f409ece035dbe357ddb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T12:17:42.078376+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization [video]",
+    "title_norm": "yuval noah harari on ai human stupidity and the future of civilization video"
   },
   "6c478793ad50e2d4bb9292a2422f2254d909a89b68aaf1c7ef7236b8d5b6b662": {
     "category": "research",
@@ -55319,32 +55349,17 @@
   },
   "_meta": {
     "date": "2026-08-09",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
+      "infrastructure": 1,
       "integration": 1,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-09-12"
+    "last_slot": "2026-08-09-14"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "Amazon is investing in an on-site power plant for a planned Texas data center that could reportedly become the largest source of climate pollution in the U.S. \u26a1 The facility is designed to power the AI-heavy data center directly, bypassing the grid. \ud83c\udf0d Environmental groups warn the move could lock in decades of fossil-fuel emissions.\n\nThis underscores the growing tension between AI's massive energy appetite and climate commitments. \ud83d\udca8 As data center demand skyrockets, this could set a worrying precedent for the industry.",
-      "post_body_fa": "\u0622\u0645\u0627\u0632\u0648\u0646 \u062f\u0631 \u062d\u0627\u0644 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0631\u0648\u06cc \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647\u200c\u0627\u06cc \u062f\u0631 \u062a\u06af\u0632\u0627\u0633 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u06af\u0641\u062a\u0647 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0645\u0646\u0628\u0639 \u0622\u0644\u0648\u062f\u06af\u06cc \u0627\u0642\u0644\u06cc\u0645\u06cc \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f. \u26a1 \u0627\u06cc\u0646 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0633\u062a\u0642\u06cc\u0645 \u0628\u0631\u0642 \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0627\u0646\u0628\u0648\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0648 \u0627\u0632 \u0634\u0628\u06a9\u0647 \u0633\u0631\u0627\u0633\u0631\u06cc \u0639\u0628\u0648\u0631 \u0646\u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83c\udf0d \u06af\u0631\u0648\u0647\u200c\u0647\u0627\u06cc \u0632\u06cc\u0633\u062a\u200c\u0645\u062d\u06cc\u0637\u06cc \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062f\u0647\u0647\u200c\u0647\u0627 \u0627\u0646\u062a\u0634\u0627\u0631 \u0633\u0648\u062e\u062a \u0641\u0633\u06cc\u0644\u06cc \u0631\u0627 \u062a\u062b\u0628\u06cc\u062a \u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u062a\u0646\u0634 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u06cc\u0646 \u0627\u0634\u062a\u063a\u0627\u0644 \u0639\u0638\u06cc\u0645 \u0627\u0646\u0631\u0698\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u062a\u0639\u0647\u062f\u0627\u062a \u0627\u0642\u0644\u06cc\u0645\u06cc \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83d\udca8 \u0628\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0634\u062f\u06cc\u062f \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647\u060c \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0631\u0648\u06cc\u0647\u200c\u0627\u06cc \u0646\u06af\u0631\u0627\u0646\u200c\u06a9\u0646\u0646\u062f\u0647 \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u062f.",
-      "post_title": "\ud83c\udfd7\ufe0f Amazon's Texas data center may crown US polluters",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0622\u0645\u0627\u0632\u0648\u0646 \u062f\u0631 \u062a\u06af\u0632\u0627\u0633 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0622\u0644\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0634\u0648\u062f",
-      "priority": "high",
-      "published": "2026-08-08T21:24:02+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "TechCrunch AI",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -55490,6 +55505,22 @@
       "url": "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
     },
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfa8 Tencent\u2019s Hunyuan team has announced WorldClaw, a new 3D generation model with an impressive project page. The model is part of the Hunyuan3D family and appears aimed at high-quality 3D content creation.\n\n\ud83c\udf0d Early reactions on Reddit are enthusiastic, with many hoping Tencent will release open weights so developers can run it locally. \u2728 If that happens, WorldClaw could lower the barrier to generating detailed 3D assets for games, film, and design.",
+      "post_body_fa": "\ud83c\udfa8 \u062a\u06cc\u0645 Hunyuan \u0634\u0631\u06a9\u062a Tencent \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u062a\u0648\u0644\u06cc\u062f \u0633\u0647\u200c\u0628\u0639\u062f\u06cc WorldClaw \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0635\u0641\u062d\u0647 \u067e\u0631\u0648\u0698\u0647\u200c\u0627\u0634 \u0686\u0634\u0645\u06af\u06cc\u0631 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 Hunyuan3D \u0627\u0633\u062a \u0648 \u0638\u0627\u0647\u0631\u0627\u064b \u0647\u062f\u0641\u0634 \u062a\u0648\u0644\u06cc\u062f \u0645\u062d\u062a\u0648\u0627\u06cc \u0633\u0647\u200c\u0628\u0639\u062f\u06cc \u0628\u0627\u06a9\u06cc\u0641\u06cc\u062a \u0628\u0627\u0644\u0627 \u0627\u0633\u062a.\n\n\ud83c\udf0d \u0648\u0627\u06a9\u0646\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u062f\u0631 Reddit \u067e\u0631\u0634\u0648\u0631 \u0628\u0648\u062f\u0647 \u0648 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0645\u06cc\u062f\u0648\u0627\u0631\u0646\u062f Tencent \u0648\u0632\u0646\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0646\u062f \u062a\u0627 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0628\u062a\u0648\u0627\u0646\u0646\u062f \u0622\u0646 \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f. \u2728 \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642 \u0628\u06cc\u0641\u062a\u062f\u060c WorldClaw \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0627\u062e\u062a \u062f\u0627\u0631\u0627\u06cc\u06cc\u200c\u0647\u0627\u06cc \u0633\u0647\u200c\u0628\u0639\u062f\u06cc \u062f\u0642\u06cc\u0642 \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u06cc\u060c \u0641\u06cc\u0644\u0645 \u0648 \u0637\u0631\u0627\u062d\u06cc \u0631\u0627 \u0622\u0633\u0627\u0646\u200c\u062a\u0631 \u06a9\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Tencent unveils WorldClaw, a new 3D generation model",
+      "post_title_fa": "\ud83d\ude80 Tencent \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u062a\u0648\u0644\u06cc\u062f \u0633\u0647\u200c\u0628\u0639\u062f\u06cc WorldClaw \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-09T11:42:28+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p> <p>Looks impressive from that site, hopefully they open weight this so we can all play with it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Uncle___Marty\"> /u/Uncle___Marty </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjnqmh/tencent_announce_worldclaw/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjnqmh/tencent_announce_worldclaw/\">[comments]</a></span>",
+      "title": "Tencent announce WorldClaw",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjnqmh/tencent_announce_worldclaw/"
+    },
+    {
       "category": "infrastructure",
       "duplicate_of": null,
       "post_body": "\ud83d\udcc8 For the first time ever, South Korea and Taiwan have outpaced Japan in export growth, fueled by booming demand for AI chips and servers.\n\nGlobal AI infrastructure buildouts are supercharging their semiconductor sales, with TSMC and Samsung leading the charge \ud83c\udf0d. Japan's exports rose too, but more slowly, as it plays a smaller role in the AI hardware supply chain \u2699\ufe0f. The milestone shows how AI is redrawing trade maps, concentrating critical chip supply in East Asia. For companies building AI capacity, it's a reminder of how much the industry depends on a handful of suppliers.",
@@ -55504,22 +55535,6 @@
       "summary": "<p>Article URL: <a href=\"https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom\">https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229918\">https://news.ycombinator.com/item?id=49229918</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\u2699\ufe0f Argonix is a new AI-powered platform for SRE, security, and cloud operations, launched on Hacker News by its solo developer. It connects to Kubernetes, AWS, GCP, Azure, and MCP servers, and offers workflows, health notebooks, and periodic jobs for automation.\n\nThe tool publishes daily health reports to Slack or Confluence and can auto-create tickets when issues arise. \ud83d\udee0\ufe0f By consolidating monitoring, FinOps, and incident investigation into one console, it aims to cut tool sprawl and speed up incident response. \ud83d\udcc8 Early users can try it via argonix.io.",
-      "post_body_fa": "\u2699\ufe0f Argonix \u06cc\u06a9 \u067e\u0644\u062a\u0641\u0631\u0645 \u062c\u062f\u06cc\u062f \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc SRE\u060c \u0627\u0645\u0646\u06cc\u062a \u0648 \u0639\u0645\u0644\u06cc\u0627\u062a \u0627\u0628\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0648\u0633\u0637 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647\u200c\u0627\u06cc \u0645\u0633\u062a\u0642\u0644 \u0633\u0627\u062e\u062a\u0647 \u0648 \u062f\u0631 \u0647\u06a9\u0631 \u0646\u06cc\u0648\u0632 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647. \u0627\u06cc\u0646 \u067e\u0644\u062a\u0641\u0631\u0645 \u0628\u0647 Kubernetes\u060c AWS\u060c GCP\u060c Azure \u0648 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc MCP \u0645\u062a\u0635\u0644 \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631\u060c \u062f\u0641\u062a\u0631\u0686\u0647\u200c\u0647\u0627\u06cc \u0633\u0644\u0627\u0645\u062a \u0648 \u0648\u0638\u0627\u06cc\u0641 \u0632\u0645\u0627\u0646\u200c\u0628\u0646\u062f\u06cc\u200c\u0634\u062f\u0647 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0633\u0644\u0627\u0645\u062a \u0631\u0648\u0632\u0627\u0646\u0647 \u0631\u0627 \u062f\u0631 Slack \u06cc\u0627 Confluence \u0645\u0646\u062a\u0634\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u062f\u0631 \u0635\u0648\u0631\u062a \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u062a\u06cc\u06a9\u062a \u0645\u06cc\u200c\u0633\u0627\u0632\u062f. \ud83d\udee0\ufe0f \u0628\u0627 \u0627\u062f\u063a\u0627\u0645 \u0645\u0627\u0646\u06cc\u062a\u0648\u0631\u06cc\u0646\u06af\u060c FinOps \u0648 \u0628\u0631\u0631\u0633\u06cc \u062d\u0648\u0627\u062f\u062b \u062f\u0631 \u06cc\u06a9 \u06a9\u0646\u0633\u0648\u0644 \u0648\u0627\u062d\u062f\u060c \u0647\u062f\u0641\u0634 \u06a9\u0627\u0647\u0634 \u067e\u0631\u0627\u06a9\u0646\u062f\u06af\u06cc \u0627\u0628\u0632\u0627\u0631\u0647\u0627 \u0648 \u0633\u0631\u0639\u062a \u0628\u062e\u0634\u06cc\u062f\u0646 \u0628\u0647 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062d\u0648\u0627\u062f\u062b \u0627\u0633\u062a. \ud83d\udcc8 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0648\u0644\u06cc\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0632 argonix.io \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u0646\u062f.",
-      "post_title": "\ud83d\ude80 Argonix: AI-powered platform for SRE and cloud operations",
-      "post_title_fa": "\ud83d\ude80 Argonix: \u067e\u0644\u062a\u0641\u0631\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0639\u0645\u0644\u06cc\u0627\u062a SRE \u0648 \u0627\u0628\u0631",
-      "priority": "low",
-      "published": "2026-08-09T10:50:18+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Hi everybody,<p>I built <a href=\"https://argonix.io\" rel=\"nofollow\">https://argonix.io</a>.<p>Argonix is an AI-powered platform for SRE, security and cloud operations.<p>The idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation.<p>A few things you can do with it:<p>Connectors: Connect Argonix to your existing stack: Kubernetes, AWS, GCP, Azure, your own MCP servers, etc.<p>Workflows:  Build automation flows using the connectors.<p>Health notebooks: Get a daily overview of the health of your platforms. Argonix can publish the report to Slack, Confluence, etc., and create tickets when something needs attention.<p>Periodic jobs: Schedule recurring checks, analysis and automation.<p>Security: Scan of your connectors infras, your code also (new feature), analyse network logs, and look for  vulnerabilities and threats. It can also consume data from tools such as Falco, Wazuh, Wiz, SonarQube, etc.\nFinOps \u2013 Analyse cloud costs across AWS, GCP and \nAzure.<p>Monitoring: Monitor works just like UptimeKuma or others, plus automatically discover and monitor Kubernetes ingresses/gateways, run synthetic tests, and analyse logs.<p>Alert investigatio: You can send alerts from Datadog, Grafana and others to Argonix. The AI can investigate the alert, read the KB  and provide recommendations or even propose a PR.<p>Conversational AI: Talk to your infrastructure and connected tools through a conversational interface.<p>Under the hood, Argonix is built with Python/DRF, Vue.js and PostgreSQL.<p>Argonix is available as both a SaaS and a self-hosted version.<p>You also choose which AI model you want to use. You can connect your own AI provider/account, and with the self-hosted version you can run a local model. I've been testing it locally with Qwen.<p>You can create an account for free and start playing with it.<p>It's still a work in progress and there are definitely some bugs, so I'd really appreciate feedback from people working in the field.<p>I would love to hear what you think, what you would change, and what would make it genuinely useful in your day-to-day work.<p>Thanks,\nDavid.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230251\">https://news.ycombinator.com/item?id=49230251</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Show HN: Argonix \u2013 One AI-powered platform for SRE and cloud operations",
-      "url": "https://argonix.io/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -58349,6 +58364,14 @@
     "source": "Hacker News Frontpage",
     "title": "US citizen charged after GrapheneOS phone wipes during airport search",
     "title_norm": "us citizen charged after grapheneos phone wipes during airport search"
+  },
+  "a7ea8d8987888ba468ea38d025a55958c81fd2442ce5d2e89c601ef13db9fa97": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-09T12:17:42.078315+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
+    "title_norm": "show hn airy free fast and simple voice content creation"
   },
   "a7f3d797d2fe102a7b19bd436c692698b74a6a8815ba962b9fa2ee63b187e90c": {
     "category": "research",
@@ -63019,6 +63042,14 @@
     "source": "OpenAI News",
     "title": "OpenAI\u2019s API now available with no waitlist",
     "title_norm": "openais api now available with no waitlist"
+  },
+  "b50d6b452ff33e031ccbab406a9c5c98c699672189305963b4b314d7643fa9b5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T12:17:42.078237+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Everything You Do Is Being Recorded",
+    "title_norm": "everything you do is being recorded"
   },
   "b50e3d195c6e850f753f8544c4801e5245d6f4ade61b5272cf01bc58ce50328d": {
     "category": "policy",
