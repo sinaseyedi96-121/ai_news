@@ -31359,6 +31359,14 @@
     "title": "FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing",
     "title_norm": "fasr1 a unified multitask mllm for reasoning face antispoofing"
   },
+  "594758e9ea8692e36def6ea24c6ebeeef5698646949c589c7540fbfd69ac2b97": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629484+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "[2606.05682] Beyond Output Matching: Preserving Internal Geometry in NVFP4 LLM Distillation",
+    "title_norm": "260605682 beyond output matching preserving internal geometry in nvfp4 llm distillation"
+  },
   "59556e1716ebab4edd290c7312a9e335cd055638fee124c78ec7d687bdd2a680": {
     "category": "research",
     "posted": false,
@@ -31956,6 +31964,14 @@
     "source": "Hacker News AI keyword",
     "title": "Vibe-Coding Gone Wrong: Debugging AI-Generated Code",
     "title_norm": "vibecoding gone wrong debugging aigenerated code"
+  },
+  "5ad21a2c22ecdf540b0bb74782177ea3c7b789ace7dd98f7b85246bc99d3c1eb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629469+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Employees Do Not Want Your AI",
+    "title_norm": "employees do not want your ai"
   },
   "5ad334f5d790aa510f8e8bbbb5ae1d2e66d41fdf1f0f73f0cc07a7dd9baf95c8": {
     "category": "community_signal",
@@ -35974,6 +35990,14 @@
     "source": "OpenAI News",
     "title": "Analyzing data with ChatGPT",
     "title_norm": "analyzing data with chatgpt"
+  },
+  "662ed4b6d1d6b6481fc4670e3eaf30a83b6d7b4dec8dd03c138082a5547dcdd5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629452+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
+    "title_norm": "the argument against ai writing is at least 2400 years old"
   },
   "662f3a7721b2fd1272bebd7adcb537a95fba3339032ef67dc5189cf311f19c31": {
     "category": "other",
@@ -55849,9 +55873,9 @@
   },
   "_meta": {
     "date": "2026-08-09",
-    "posts_today": 7,
+    "posts_today": 8,
     "posts_today_by_category": {
-      "infrastructure": 2,
+      "infrastructure": 3,
       "integration": 1,
       "other": 1,
       "policy": 1,
@@ -55859,7 +55883,7 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-09-20"
+    "last_slot": "2026-08-09-22"
   },
   "_queue": [
     {
@@ -56037,22 +56061,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/\">https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234270\">https://news.ycombinator.com/item?id=49234270</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
       "title": "Anti-AI Populism Is Reshaping American Politics",
       "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udf00 Google has released WeatherNext 2 as an open model after a Nature paper showed it predicts cyclones with unprecedented accuracy. On average, it gives forecasters a full extra day of lead time \ud83d\udd50 compared with existing models.\n\nIts three-day forecasts are reportedly as accurate as past models' two-day forecasts. The model and repository are now on GitHub, opening it up for researchers and weather agencies. That extra day can mean the difference between timely evacuations and missed warnings. \ud83c\udf0d",
-      "post_body_fa": "\ud83c\udf00 \u06af\u0648\u06af\u0644 \u0645\u062f\u0644 WeatherNext 2 \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u060c \u067e\u0633 \u0627\u0632 \u0622\u0646\u06a9\u0647 \u0645\u0642\u0627\u0644\u0647\u200c\u0627\u06cc \u062f\u0631 Nature \u0646\u0634\u0627\u0646 \u062f\u0627\u062f \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0637\u0648\u0641\u0627\u0646\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a\u06cc \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0628\u0647\u200c\u0637\u0648\u0631 \u0645\u06cc\u0627\u0646\u06af\u06cc\u0646\u060c \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0647 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u06cc\u06a9 \u0631\u0648\u0632 \u06a9\u0627\u0645\u0644 \u0632\u0645\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \ud83d\udd50 \u0646\u0633\u0628\u062a \u0628\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u0648\u062c\u0648\u062f.\n\n\u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u200c\u0647\u0627\u06cc \u0633\u0647\u200c\u062f\u0648\u0631\u0647\u200c\u06cc \u0622\u0646 \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u06cc \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u200c\u0647\u0627\u06cc \u062f\u0648 \u062f\u0648\u0631\u0647\u200c\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc \u062f\u0642\u06cc\u0642 \u0627\u0633\u062a. \u0645\u062f\u0644 \u0648 \u0645\u062e\u0632\u0646 \u0622\u0646 \u0627\u06a9\u0646\u0648\u0646 \u0631\u0648\u06cc \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a \u0648 \u0622\u0646 \u0631\u0627 \u0628\u0647 \u0631\u0648\u06cc \u067e\u0698\u0648\u0647\u0634\u06af\u0631\u0627\u0646 \u0648 \u0633\u0627\u0632\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0627\u0634\u0646\u0627\u0633\u06cc \u0645\u06cc\u200c\u06af\u0634\u0627\u06cc\u062f. \u0647\u0645\u0627\u0646 \u06cc\u06a9 \u0631\u0648\u0632 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0641\u0627\u0648\u062a \u0628\u06cc\u0646 \u062a\u062e\u0644\u06cc\u0647\u200c\u06cc \u0628\u0647\u200c\u0645\u0648\u0642\u0639 \u0648 \u0647\u0634\u062f\u0627\u0631 \u0627\u0632 \u062f\u0633\u062a \u0631\u0641\u062a\u0647 \u0628\u0627\u0634\u062f. \ud83c\udf0d",
-      "post_title": "\ud83c\udf26\ufe0f Google Open-Sources WeatherNext 2 with a Day of Extra Forecast Lead Time",
-      "post_title_fa": "\ud83c\udf26\ufe0f \u06af\u0648\u06af\u0644 WeatherNext 2 \u0631\u0627 \u0628\u0627 \u06cc\u06a9 \u0631\u0648\u0632 \u0632\u0645\u0627\u0646 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u06a9\u0631\u062f",
-      "priority": "medium",
-      "published": "2026-08-09T18:12:01+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am not a meteorologist, but I just read a very interesting article: <a href=\"https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/\">https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</a> </p> <p><em>In a paper published on Thursday in Nature, researchers show that the WeatherNext AI model can predict cyclones with unprecedented accuracy. On average, it gives forecasters a day more lead time than existing models; this means its predictions three days out are as accurate as previous models\u2019 predictions two days out. On the ground, that extra day can mean a lot.</em></p> <p>What I really find interesting here is that Google has a repository for it on GitHub: <a href=\"https://github.com/google-deepmind/weathernext\">https://github.com/google-deepmind/weathernext</a></p> <p>My non-informed understanding is that you need a supercomputer to forecast meteo. Apparently now an H100 can also do something.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rick_06\"> /u/Rick_06 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/\">[comments]</a></span>",
-      "title": "Open Model: Google Weather Next 2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -59106,6 +59114,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Will prices finally go down?",
     "title_norm": "will prices finally go down"
+  },
+  "a86b3af71366bb95ae5de1d1003d9b57cdb86bdbeee44efadfeb22b0aed5cc04": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629408+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
+    "title_norm": "poland now 6thlargest eu economy ahead of switzerland and belgium"
   },
   "a87ebfa7418d5589ce2248c59a42b3147ed7373d9d5d454c272ea647c91cb07f": {
     "category": "other",
@@ -74339,6 +74355,20 @@
     "title": "CT Open: An Open-Access, Uncontaminated, Live Platform for the Open Challenge of Clinical Trial Outcome Prediction",
     "title_norm": "ct open an openaccess uncontaminated live platform for the open challenge of clinical trial outcome prediction"
   },
+  "d2f68b094d4668e52a95ed3fd82414fef410efe0347f8f15e10695f1ff79ba8c": {
+    "category": "infrastructure",
+    "message_id": 152,
+    "message_id_fa": 126,
+    "post_title": "\ud83d\udcb0 AI hedge fund invests $400M in chip startup Source Foundry",
+    "post_title_fa": "\ud83d\udcb0 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u06f4\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646\u06cc \u0635\u0646\u062f\u0648\u0642 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0631\u0627\u0634\u0647 Source Foundry",
+    "posted": true,
+    "posted_at": "2026-08-09T20:43:16.526740+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-09T20:43:15.629316+00:00",
+    "source": "TechCrunch AI",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "title_norm": "embattled hedge fund situational awareness invests 400m in chip startup source foundry"
+  },
   "d30457f571ff8505e920914468ad3a77a89738f3abea8a37f9abdb0f00ea031a": {
     "category": "integration",
     "posted": false,
@@ -78880,6 +78910,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI Has a Hidden Agenda",
     "title_norm": "ai has a hidden agenda"
+  },
+  "e0ae2ada7f397c6dc58c40c83dc46a57d7c57e0394fa94492caec8fe29e2b808": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629432+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+    "title_norm": "deletes all instances of microsofts gdid and prevents minting of new ones"
   },
   "e0b0c777a2cc25f8ada4e9a365a665172f6714e7f8bff26d5de31ad821328830": {
     "category": "research",
@@ -86462,6 +86500,14 @@
     "source": "arXiv cs.AI",
     "title": "Ordering-based Causal Discovery via Generalized Score Matching",
     "title_norm": "orderingbased causal discovery via generalized score matching"
+  },
+  "f7758d9986bc2b1e09f7220d71d58bfa5e83fd9d674453ff0fc1318befd3313f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T20:43:15.629502+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "The Gemma team will host a special event on August 20",
+    "title_norm": "the gemma team will host a special event on august 20"
   },
   "f776cb351afc12d4e94dfed4522cf82d61c2e9a2c21cf4c6d6c40172ffa2b46e": {
     "category": "research",
