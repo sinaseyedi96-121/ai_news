@@ -823,6 +823,14 @@
     "title": "If AI Outputs Aren't Speech, Who Has to Prove They're Human?",
     "title_norm": "if ai outputs arent speech who has to prove theyre human"
   },
+  "025d7c494c866036982482745f7ccf499d2560a8d6166bd72c54e0ddf63cf6c3": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.052085+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "A local-first CLI over your own notes: the model never sees a document id, so it can't fabricate a citation (MIT)",
+    "title_norm": "a localfirst cli over your own notes the model never sees a document id so it cant fabricate a citation mit"
+  },
   "025f1550daf2b062121cdd14a4372374ec67972a1deaaa5764e56c89b84ef706": {
     "category": "research",
     "posted": false,
@@ -11313,6 +11321,14 @@
     "title": "Agents Rule of Two: A Practical Approach to AI Agent Security",
     "title_norm": "agents rule of two a practical approach to ai agent security"
   },
+  "1fb4cf75b3020e09e5760005a5ec1965da24dbf30ee89ddd4870730e035ccb21": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.052021+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "If experience is the goal, then you always win",
+    "title_norm": "if experience is the goal then you always win"
+  },
   "1fb5c81284388c5f9ea17dacfb8d340fbca368049431565523ecbe4ff5c57cd6": {
     "category": "other",
     "posted": false,
@@ -19986,6 +20002,14 @@
     "source": "OpenAI News",
     "title": "From asking to doing: How the world is putting ChatGPT to work",
     "title_norm": "from asking to doing how the world is putting chatgpt to work"
+  },
+  "376488ff2fcc585b1d77913457e21d7748568bc70a3ba2006e9ee1f96ac82b27": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.051938+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+    "title_norm": "plugin solar panels starting to sprout in us backyards"
   },
   "37656533cd36960a4545073a6f4a6e07a40addf2f38c6a291599ddd447e50f65": {
     "category": "research",
@@ -39351,6 +39375,14 @@
     "title": "Neural Global Optimization via Iterative Refinement from Noisy Samples",
     "title_norm": "neural global optimization via iterative refinement from noisy samples"
   },
+  "6f9acfefa6b57f19190f724a14afc0ff71ad4f4ca62793911fb17241739ab1dd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.052057+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
+    "title_norm": "as ai guzzles water and energy we are facing a choice datacentres or homes"
+  },
   "6fb03f27903efaf6236038fc0cfff20c9b272ca3655a29e28f86b88370fb9463": {
     "category": "other",
     "posted": false,
@@ -55489,6 +55521,14 @@
     "title": "Could we all crowdsource a dataset/model/finetune?",
     "title_norm": "could we all crowdsource a datasetmodelfinetune"
   },
+  "9f31a3d6701c78726f5f1d1762c502e52f8af50f695e4ff886ab20ca588cfd8f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.052073+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Speculative decoding in a tools call",
+    "title_norm": "speculative decoding in a tools call"
+  },
   "9f340727232d898a6ead94d0d9b36cc11221be190f17bbdaf2fbe89bfc9de7ec": {
     "category": "other",
     "posted": false,
@@ -55786,8 +55826,8 @@
     "title_norm": "vacuum 16t"
   },
   "_digest_state": {
-    "daily_digest_date": "2026-08-08",
-    "daily_digest_date_fa": "2026-08-08",
+    "daily_digest_date": "2026-08-09",
+    "daily_digest_date_fa": "2026-08-09",
     "weekly_digest_date": "2026-08-09",
     "weekly_digest_date_fa": "2026-08-09"
   },
@@ -55949,6 +55989,22 @@
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/\">https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211274\">https://news.ycombinator.com/item?id=49211274</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
       "title": "Moonshot's AI model Kimi k3 breaks out of testing environment, researchers say",
       "url": "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
+    },
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfdb\ufe0f A new Mother Jones report says anti-AI sentiment has become a serious force in U.S. elections, with candidates on both sides using fears of job losses and data-center burdens to rally voters. The movement is pushing states to consider tougher rules on AI expansion and data-center siting.\n\n\ud83d\udcc9 Polls suggest a growing share of voters worry AI will hit their communities, especially around large data centers. For AI companies, this means political risk is now part of the cost of doing business, not just a technical detail. \ud83c\udf0d The trend could slow AI infrastructure buildouts and make U.S. policy more unpredictable.",
+      "post_body_fa": "\ud83c\udfdb\ufe0f \u06cc\u06a9 \u06af\u0632\u0627\u0631\u0634 \u062c\u062f\u06cc\u062f \u0627\u0632 Mother Jones \u0645\u06cc\u06af\u0648\u06cc\u062f \u06a9\u0647 \u0627\u062d\u0633\u0627\u0633\u0627\u062a \u0636\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0646\u06cc\u0631\u0648\u06cc \u062c\u062f\u06cc \u062f\u0631 \u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647 \u0648 \u0646\u0627\u0645\u0632\u062f\u0647\u0627\u06cc \u0647\u0631 \u062f\u0648 \u0637\u0631\u0641 \u0627\u0632 \u062a\u0631\u0633 \u0627\u0632 \u062f\u0633\u062a \u0631\u0641\u062a\u0646 \u0634\u063a\u0644 \u0648 \u0641\u0634\u0627\u0631 \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0628\u0631\u0627\u06cc \u062c\u0644\u0628 \u0631\u0623\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u062c\u0646\u0628\u0634 \u0627\u06cc\u0627\u0644\u062a\u0647\u0627 \u0631\u0627 \u0628\u0647 \u0633\u0645\u062a \u0648\u0636\u0639 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u062a\u0631 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0627\u062d\u062f\u0627\u062b \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0633\u0648\u0642 \u0645\u06cc\u062f\u0647\u062f.\n\n\ud83d\udcc9 \u0646\u0638\u0631\u0633\u0646\u062c\u06cc\u0647\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u0633\u0647\u0645 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647\u0627\u06cc \u0627\u0632 \u0631\u0623\u06cc\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0646\u06af\u0631\u0627\u0646 \u062a\u0623\u062b\u06cc\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631 \u062c\u0648\u0627\u0645\u0639 \u062e\u0648\u062f\u060c \u0628\u0647\u0648\u06cc\u0698\u0647 \u062f\u0631 \u0646\u0632\u062f\u06cc\u06a9\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0628\u0632\u0631\u06af\u060c \u0647\u0633\u062a\u0646\u062f. \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0631\u06cc\u0633\u06a9 \u0633\u06cc\u0627\u0633\u06cc \u0627\u06a9\u0646\u0648\u0646 \u0628\u062e\u0634\u06cc \u0627\u0632 \u0647\u0632\u06cc\u0646\u0647 \u06a9\u0633\u0628\u0648\u06a9\u0627\u0631 \u0627\u0633\u062a\u060c \u0646\u0647 \u0641\u0642\u0637 \u06cc\u06a9 \u062c\u0632\u0626\u06cc\u0627\u062a \u0641\u0646\u06cc. \ud83c\udf0d \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u06af\u0633\u062a\u0631\u0634 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u06a9\u0646\u062f\u062a\u0631 \u06a9\u0646\u062f \u0648 \u0633\u06cc\u0627\u0633\u062a\u06af\u0630\u0627\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644\u067e\u06cc\u0634\u0628\u06cc\u0646\u06cc\u062a\u0631 \u0633\u0627\u0632\u062f.",
+      "post_title": "\u2696\ufe0f Anti-AI Populism Reshapes American Politics",
+      "post_title_fa": "\u2696\ufe0f \u067e\u0648\u067e\u0648\u0644\u06cc\u0633\u0645 \u0636\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u06cc\u0627\u0633\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u0645\u06cc\u06a9\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-09T18:41:30+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/\">https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234270\">https://news.ycombinator.com/item?id=49234270</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "title": "Anti-AI Populism Is Reshaping American Politics",
+      "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/"
     },
     {
       "category": "model_release",
@@ -75984,6 +76040,14 @@
     "source": "arXiv cs.AI",
     "title": "Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records",
     "title_norm": "annotationassisted learning of treatment policies from multimodal electronic health records"
+  },
+  "d884b960c215d8faaf0510a76775956ae46c1f9f85efe5eccbf4321dfa084a01": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-09T19:14:50.052041+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Anti-AI Populism Is Reshaping American Politics",
+    "title_norm": "antiai populism is reshaping american politics"
   },
   "d886461d7134a1fc519320eac058eef7b55ea94ccd7fc8d157127346694565f4": {
     "category": "research",
