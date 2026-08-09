@@ -10259,6 +10259,14 @@
     "title": "Falsifiable Commitment Planning for Self-Correcting Web Agents",
     "title_norm": "falsifiable commitment planning for selfcorrecting web agents"
   },
+  "1d3f1dfb2a66ffa1ca36aa8323e663aab3fb23e8a3bcd22650682921a3d818a6": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262852+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+    "title_norm": "runware squeezes a 1mw ai data center into a 20foot shipping container"
+  },
   "1d407b8637c1380ebc118228cd8058c28dd565a222f9f844e4919ce303899209": {
     "category": "other",
     "posted": false,
@@ -50345,6 +50353,14 @@
     "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
     "title_norm": "why dna damage from smoking and uv rays cause cancer in some but not others"
   },
+  "91ad171deae90329238f2a5b4c559875a1acdd975578821c76e71fa6a8f7e8c8": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262836+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+    "title_norm": "swarmforge a simple tool for coordinating several ai agents"
+  },
   "91b7e7f870d98e490986f9b0d465847115b441588eacf72bdae650bf72128d1f": {
     "category": "research",
     "posted": false,
@@ -55410,20 +55426,20 @@
       "url": "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/"
     },
     {
-      "category": "model_release",
+      "category": "infrastructure",
       "duplicate_of": null,
-      "post_body": "\ud83d\udcca An independent public-harness run using Ante confirms DeepSeek V4 Flash 0731 hits 82.7% accuracy on Terminal-Bench 2.1, exactly matching the lab's reported score. The test used 445 trials across 89 tasks, with max reasoning effort and no skills enabled. \u26a1 This opens the door for reproducible benchmarking of agentic models without vendor-controlled harnesses. \ud83d\udd0d The full run, including pinned config, is public via OpenRouter. Such verification matters because it builds confidence in AI performance claims that increasingly drive product decisions.",
-      "post_body_fa": "\ud83d\udcca \u06cc\u06a9 \u0627\u062c\u0631\u0627\u06cc \u0645\u0633\u062a\u0642\u0644 \u0628\u0627 \u0647\u0627\u0631\u0646\u0633 \u0639\u0645\u0648\u0645\u06cc \u0622\u0646\u062a\u0647 \u062a\u0623\u06cc\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u062f\u06cc\u067e\u200c\u0633\u06cc\u06a9 \u0648\u06cc\u06f4 \u0641\u0644\u0634 \u06f0\u06f7\u06f3\u06f1 \u062f\u0642\u062a \u06f8\u06f2.\u06f7 \u062f\u0631\u0635\u062f \u0631\u0627 \u062f\u0631 Terminal-Bench 2.1 \u0628\u0647 \u062f\u0633\u062a \u0622\u0648\u0631\u062f\u0647 \u0648 \u062f\u0642\u06cc\u0642\u0627\u064b \u0628\u0627 \u0646\u0645\u0631\u0647 \u06af\u0632\u0627\u0631\u0634\u200c\u0634\u062f\u0647 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0645\u0637\u0627\u0628\u0642\u062a \u062f\u0627\u0631\u062f. \u0627\u06cc\u0646 \u0622\u0632\u0645\u0648\u0646 \u0634\u0627\u0645\u0644 \u06f4\u06f4\u06f5 \u062a\u0644\u0627\u0634 \u062f\u0631 \u06f8\u06f9 \u0648\u0638\u06cc\u0641\u0647 \u0628\u0627 \u062d\u062f\u0627\u06a9\u062b\u0631 \u062a\u0644\u0627\u0634 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u0648 \u0628\u062f\u0648\u0646 \u0645\u0647\u0627\u0631\u062a\u200c\u0647\u0627\u06cc \u0641\u0639\u0627\u0644 \u0628\u0648\u062f. \u26a1 \u0627\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u067e\u0630\u06cc\u0631\u06cc \u0642\u0627\u0628\u0644 \u062a\u06a9\u0631\u0627\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0627\u0645\u0644\u200c\u06af\u0631\u0627 \u0628\u062f\u0648\u0646 \u0647\u0627\u0631\u0646\u0633\u200c\u0647\u0627\u06cc \u062a\u062d\u062a \u06a9\u0646\u062a\u0631\u0644 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u0628\u0627\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd0d \u06a9\u0644 \u0627\u062c\u0631\u0627\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u06a9\u0627\u0646\u0641\u06cc\u06af \u062a\u0639\u06cc\u06cc\u0646\u200c\u0634\u062f\u0647\u060c \u0627\u0632 \u0637\u0631\u06cc\u0642 OpenRouter \u0639\u0645\u0648\u0645\u06cc \u0627\u0633\u062a. \u0686\u0646\u06cc\u0646 \u062a\u0623\u06cc\u06cc\u062f \u0645\u0633\u062a\u0642\u0644\u06cc \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0647 \u0627\u062f\u0639\u0627\u0647\u0627\u06cc \u0639\u0645\u0644\u06a9\u0631\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u06a9\u0647 \u0628\u0647 \u0637\u0648\u0631 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647\u200c\u0627\u06cc \u062a\u0635\u0645\u06cc\u0645\u200c\u0647\u0627\u06cc \u0645\u062d\u0635\u0648\u0644 \u0631\u0627 \u0647\u062f\u0627\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f.",
-      "post_title": "\ud83d\ude80 DeepSeek V4 Flash 0731 Scores 82.7% in Independent Test",
-      "post_title_fa": "\ud83d\ude80 \u062f\u06cc\u067e\u200c\u0633\u06cc\u06a9 \u0648\u06cc\u06f4 \u0641\u0644\u0634 \u06f0\u06f7\u06f3\u06f1 \u062f\u0631 \u0622\u0632\u0645\u0648\u0646 \u0645\u0633\u062a\u0642\u0644 \u0628\u0647 \u0627\u0645\u062a\u06cc\u0627\u0632 \u06f8\u06f2.\u06f7 \u0631\u0633\u06cc\u062f",
+      "post_body": "\ud83d\udcc8 For the first time ever, South Korea and Taiwan have outpaced Japan in export growth, fueled by booming demand for AI chips and servers.\n\nGlobal AI infrastructure buildouts are supercharging their semiconductor sales, with TSMC and Samsung leading the charge \ud83c\udf0d. Japan's exports rose too, but more slowly, as it plays a smaller role in the AI hardware supply chain \u2699\ufe0f. The milestone shows how AI is redrawing trade maps, concentrating critical chip supply in East Asia. For companies building AI capacity, it's a reminder of how much the industry depends on a handful of suppliers.",
+      "post_body_fa": "\ud83d\udcc8 \u0628\u0631\u0627\u06cc \u0627\u0648\u0644\u06cc\u0646 \u0628\u0627\u0631 \u062f\u0631 \u062a\u0627\u0631\u06cc\u062e\u060c \u0631\u0634\u062f \u0635\u0627\u062f\u0631\u0627\u062a \u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc \u0648 \u062a\u0627\u06cc\u0648\u0627\u0646 \u0627\u0632 \u0698\u0627\u067e\u0646 \u067e\u06cc\u0634\u06cc \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a\u061b \u0631\u0634\u062f\u06cc \u06a9\u0647 \u0645\u062f\u06cc\u0648\u0646 \u062a\u0642\u0627\u0636\u0627\u06cc \u0639\u0638\u06cc\u0645 \u0628\u0631\u0627\u06cc \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0648 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.\n\n\u062a\u0648\u0633\u0639\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062c\u0647\u0627\u0646 \u0641\u0631\u0648\u0634 \u0646\u06cc\u0645\u0647\u200c\u0647\u0627\u062f\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0634\u062a\u0627\u0628 \u062f\u0627\u062f\u0647 \u0648 TSMC \u0648 \u0633\u0627\u0645\u0633\u0648\u0646\u06af \u062f\u0631 \u062e\u0637 \u0645\u0642\u062f\u0645 \u0622\u0646 \u0647\u0633\u062a\u0646\u062f \ud83c\udf0d. \u0635\u0627\u062f\u0631\u0627\u062a \u0698\u0627\u067e\u0646 \u0647\u0645 \u0628\u0627\u0644\u0627 \u0631\u0641\u062a\u0647\u060c \u0627\u0645\u0627 \u0628\u0627 \u0633\u0631\u0639\u062a\u06cc \u06a9\u0645\u062a\u0631\u060c \u0686\u0648\u0646 \u0633\u0647\u0645 \u06a9\u0648\u0686\u06a9\u200c\u062a\u0631\u06cc \u062f\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647 \u062a\u0623\u0645\u06cc\u0646 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u0631\u062f \u2699\ufe0f. \u0627\u06cc\u0646 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0637\u0648\u0631 \u0646\u0642\u0634\u0647 \u062a\u062c\u0627\u0631\u062a \u062c\u0647\u0627\u0646\u06cc \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u062a\u0623\u0645\u06cc\u0646 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u062d\u06cc\u0627\u062a\u06cc \u0631\u0627 \u062f\u0631 \u0634\u0631\u0642 \u0622\u0633\u06cc\u0627 \u0645\u062a\u0645\u0631\u06a9\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u062a\u0648\u0627\u0646 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0645\u06cc\u200c\u0633\u0627\u0632\u0646\u062f\u060c \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0635\u0646\u0639\u062a \u0686\u0642\u062f\u0631 \u0628\u0647 \u0686\u0646\u062f \u062a\u0623\u0645\u06cc\u0646\u200c\u06a9\u0646\u0646\u062f\u0647 \u0645\u062d\u062f\u0648\u062f \u0648\u0627\u0628\u0633\u062a\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83c\udfd7\ufe0f South Korea, Taiwan Exports Top Japan for First Time on AI Boom",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0628\u0631\u0627\u06cc \u0646\u062e\u0633\u062a\u06cc\u0646 \u0628\u0627\u0631 \u0635\u0627\u062f\u0631\u0627\u062a \u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc \u0648 \u062a\u0627\u06cc\u0648\u0627\u0646 \u0628\u0627 \u0631\u0648\u0646\u0642 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0632 \u0698\u0627\u067e\u0646 \u067e\u06cc\u0634\u06cc \u06af\u0631\u0641\u062a",
       "priority": "medium",
-      "published": "2026-08-09T08:39:12+00:00",
+      "published": "2026-08-09T09:47:45+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I\u2019m the author of Ante.</p> <p>DeepSeek recently reported an 82.7% score on Terminal-Bench 2.1 for DeepSeek V4 Flash 0731. Its evaluation used \u201cDeepSeek Harness minimal mode,\u201d which hasn\u2019t been released yet.</p> <p>We wanted to see whether the reported result could be independently matched using a public, downloadable harness.</p> <p>With Ante 0.preview.71, we got:</p> <ul> <li><strong>368 successful trials out of 445</strong></li> <li><strong>82.7% accuracy (\u00b11.79 SE)</strong></li> <li>89 Terminal-Bench 2.1 tasks</li> <li>5 trials per task</li> <li>max reasoning effort</li> <li>no skills enabled</li> <li><code>deepseek/deepseek-v4-flash-0731</code> through OpenRouter</li> </ul> <p>The complete Harbor job is public. It includes the pinned configuration and all 445 trial records, with rewards, exceptions, durations, and token usage.</p> <p>Deep seek v4 seems to be sensitive to harness and this is probably useful data for anyone who is interested </p> <p>Sources:</p> <ul> <li>DeepSeek\u2019s reported result: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></li> <li>Public Harbor run and configuration: <a href=\"https://hub.harborframework.com/jobs/b2a14e4b-a422-45f2-832e-cf2eec5c8bff\">https://hub.harborframework.com/jobs/b2a14e4b-a422-45f2-832e-cf2eec5c8bff</a></li> <li>Ante benchmark page: <a href=\"https://antigma.ai/eval\">https://antigma.ai/eval</a></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Exciting-Camera3226\"> /u/Exciting-Camera3226 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/\">[comments]</a></span>",
-      "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/"
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom\">https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229918\">https://news.ycombinator.com/item?id=49229918</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -72210,6 +72226,14 @@
     "title": "Simulating everything, sort of: The promise and limits of world models",
     "title_norm": "simulating everything sort of the promise and limits of world models"
   },
+  "cf6dcd54db25e653e56eca03acf8f6a439283fe80060be99226b6e9e3f21eed8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262795+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "There Are Magic Hexagons of Every Order",
+    "title_norm": "there are magic hexagons of every order"
+  },
   "cf6df663c16c169e3639300cef73efae936f0523ac8175110cf98f83d0236beb": {
     "category": "research",
     "posted": false,
@@ -73589,6 +73613,14 @@
     "source": "arXiv cs.CL",
     "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
     "title_norm": "expertchoice routing enables adaptive computation in diffusion language models"
+  },
+  "d361608c05349008e2d7aa0552b590e89d32bce8fd308cc5941d995e3eacb079": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262722+00:00",
+    "source": "Wired AI",
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "title_norm": "these ai barons are ready to give away their fortunes"
   },
   "d3679ddbadc110ef9b4c4a45fdb88642f6a876355e71f41de1ed5252a3325520": {
     "category": "other",
@@ -75045,6 +75077,14 @@
     "source": "Hacker News Frontpage",
     "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
     "title_norm": "frances anssi will block pqcfree products from certification starting 2027"
+  },
+  "d849a1dbf9173e6676630fee0265ac856039ae8e175e4f789c937653d3e502f1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262869+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DSv4-0731 on 32gb RAM - 70tok/s prefill, 1.5tok/s decode",
+    "title_norm": "dsv40731 on 32gb ram 70toks prefill 15toks decode"
   },
   "d84e9833b32d803660d9306b15328c69b99b861cbe2ff1602d0654274b629dbe": {
     "category": "research",
@@ -88171,6 +88211,14 @@
     "source": "arXiv cs.AI",
     "title": "A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability",
     "title_norm": "a systematic benchmark of intensity normalisation methods for 3d knee mri segmentation and crossdomain generalisability"
+  },
+  "ff3ee53d7696edc219b036a974b88b5e0e4317b476448e7d7af19cd4ea2859b0": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-09T09:59:45.262817+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+    "title_norm": "south korea taiwan top japan in exports for first time on ai boom"
   },
   "ff43f2a87523f2484ba59306b03b9c56eb01a21a0b4819b0745eca122e17fb11": {
     "category": "tech_news",
