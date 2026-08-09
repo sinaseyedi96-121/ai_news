@@ -4645,6 +4645,14 @@
     "title": "Built a system with four P100 GPUs.",
     "title_norm": "built a system with four p100 gpus"
   },
+  "0d5d0cf1ad5e873765bdc4cf1098cdc5f617a96685e1020cd4ec9b4f2184aa68": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248137+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Add a amd 9700 ai pro to a 3x5090 system vs buy a 5070ti for general useage.",
+    "title_norm": "add a amd 9700 ai pro to a 3x5090 system vs buy a 5070ti for general useage"
+  },
   "0d5fa7cf3b198c3d559bd485bea1e268f8c4276ac367d5ad9307e254de73100e": {
     "category": "research",
     "posted": false,
@@ -14655,6 +14663,14 @@
     "title": "DFlash made Laguna S 2.1 (71 GB Q4) 2.5x slower on 2x RTX 5090. I tuned it from 23 to 64 tok/s, benchmarked on Spec-Bench, and I'm still running without it",
     "title_norm": "dflash made laguna s 21 71 gb q4 25x slower on 2x rtx 5090 i tuned it from 23 to 64 toks benchmarked on specbench and im still running without it"
   },
+  "28c2b411c287475abfaa42e3ffa5339ce80d4fdefd083b4e421d8e3680d7c9a5": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248095+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
+    "title_norm": "ai workers ask us government for tools to slow ai before a crisis"
+  },
   "28cb7e1c2d0200dd003eaf7155042eb3d78cd7ca42ec85fa85700f80a32b4237": {
     "category": null,
     "posted": false,
@@ -17843,6 +17859,14 @@
     "title": "Infrastructure Patterns for Agentic Applications",
     "title_norm": "infrastructure patterns for agentic applications"
   },
+  "319200ccc29a3cf0b472c498f0f317b89e54a280b44ab75969037707eaa7c8ae": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248109+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs",
+    "title_norm": "pathways bdhposttransformer arch matches gpt2 scaling from 10m to 1b params trained from scratch runs on normal gpus"
+  },
   "3195c21565172d485493eccf5b802ba873f18ea1a62669da6fd2fd2a08596e86": {
     "category": "other",
     "posted": false,
@@ -18922,6 +18946,14 @@
     "source": "arXiv cs.AI",
     "title": "Artificial Intelligence for Understanding and Managing Transportation Behavior in Sustainable Smart Cities",
     "title_norm": "artificial intelligence for understanding and managing transportation behavior in sustainable smart cities"
+  },
+  "347ab21637b2c6e16a0f8fad55d81e9b6d123cfe98f4bdc5c54ddbebabca256b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248043+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "title_norm": "unyolo agent credential broker and policy engine for your github account"
   },
   "347cccd7e6347d99863e03922fbaf70947809ebd08718ccdd7cc604ab3a0e04f": {
     "category": "integration",
@@ -26757,6 +26789,14 @@
     "title": "Cross-Domain Hybrid OPD for Generalizable Search Agents",
     "title_norm": "crossdomain hybrid opd for generalizable search agents"
   },
+  "4c13c43108a2ac3818ec1624abd0ba35213cb4217ef8590acdc2bce2acde3c2a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248008+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+    "title_norm": "production imminent 40 solarcharging aptera evs coming soon"
+  },
   "4c18cdf6057029eb1cdedef124f363cb995318023da248bd37e1a117e28c3298": {
     "category": "other",
     "posted": false,
@@ -32415,7 +32455,13 @@
   },
   "5c3939494e7dc0170a9f9a038fa7f2de6cad69cc0a495cd2e2d721a0e7c7a30d": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 149,
+    "message_id_fa": 123,
+    "post_title": "\ud83c\udfd7\ufe0f Amazon circumvents Gilroy community vote for massive AI data center",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0622\u0645\u0627\u0632\u0648\u0646 \u0631\u0623\u06cc \u062c\u0627\u0645\u0639\u0647 \u06af\u06cc\u0644\u0631\u0648\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u0628\u0632\u0631\u06af \u062f\u0648\u0631 \u0632\u062f",
+    "posted": true,
+    "posted_at": "2026-08-09T18:17:51.137995+00:00",
+    "priority": "high",
     "seen_at": "2026-08-09T13:33:47.357317+00:00",
     "source": "Hacker News Frontpage",
     "title": "Amazon circumvents Gilroy community vote for AI data center",
@@ -41011,6 +41057,14 @@
     "title": "Six Problems When You Try to Build an AI Therapist",
     "title_norm": "six problems when you try to build an ai therapist"
   },
+  "747705bc65701fdf6ab6c47f2270ed4dde0da18bbbba0b39532e7d4f25083889": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248082+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Large-Scale Code Refactoring with AI",
+    "title_norm": "largescale code refactoring with ai"
+  },
   "747b3fb91f7e0240e490924c917128f2d13faa872b9605e6a263e549e1182d30": {
     "category": "other",
     "posted": false,
@@ -41784,6 +41838,14 @@
     "source": "arXiv cs.AI",
     "title": "Visible to the Court: How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions",
     "title_norm": "visible to the court how ai is and isnt litigated in us federal court opinions"
+  },
+  "76c3a3f4cc294533443ffb2799292333afe27b3dad26eadc104de801a7db99df": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.247970+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ask HN: What are you working on? (August 2026)",
+    "title_norm": "ask hn what are you working on august 2026"
   },
   "76c3ffc39206f1947e9d307dfb83063119cdffcb6f27931f84ef151db44fc682": {
     "category": "research",
@@ -55726,14 +55788,14 @@
   "_digest_state": {
     "daily_digest_date": "2026-08-08",
     "daily_digest_date_fa": "2026-08-08",
-    "weekly_digest_date": "2026-08-02",
-    "weekly_digest_date_fa": "2026-08-02"
+    "weekly_digest_date": "2026-08-09",
+    "weekly_digest_date_fa": "2026-08-09"
   },
   "_meta": {
     "date": "2026-08-09",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
-      "infrastructure": 1,
+      "infrastructure": 2,
       "integration": 1,
       "other": 1,
       "policy": 1,
@@ -55741,25 +55803,9 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-09-18"
+    "last_slot": "2026-08-09-20"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udccd Amazon has reportedly circumvented a community vote in Gilroy, California, to build a massive AI data center. As Tom's Hardware reports, a 45-year-old rule locked residents out of the public comment window \ud83e\udd10. The move lets the project advance without direct community approval.\n\nThe center is part of Amazon's massive AI infrastructure buildout. Local residents are concerned about transparency, land use, and environmental effects \ud83c\udf0d. This case is a flashpoint in the growing clash between big tech and communities over AI data centers.",
-      "post_body_fa": "\ud83d\udccd \u0622\u0645\u0627\u0632\u0648\u0646 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 Tom's Hardware \u0628\u0627 \u062f\u0648\u0631 \u0632\u062f\u0646 \u0631\u0623\u06cc \u062c\u0627\u0645\u0639\u0647 \u062f\u0631 \u06af\u06cc\u0644\u0631\u0648\u06cc \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627\u060c \u06cc\u06a9 \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u0628\u0632\u0631\u06af \u0645\u06cc\u200c\u0633\u0627\u0632\u062f. \u06cc\u06a9 \u0642\u0627\u0646\u0648\u0646 \u06f4\u06f5 \u0633\u0627\u0644\u0647 \u0633\u0627\u06a9\u0646\u0627\u0646 \u0631\u0627 \u0627\u0632 \u067e\u0646\u062c\u0631\u0647 \u0646\u0638\u0631\u0627\u062a \u0639\u0645\u0648\u0645\u06cc \u0642\u0641\u0644 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \ud83e\udd10. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0628\u0647 \u067e\u0631\u0648\u0698\u0647 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u062f\u0648\u0646 \u062a\u0623\u06cc\u06cc\u062f \u0645\u0633\u062a\u0642\u06cc\u0645 \u062c\u0627\u0645\u0639\u0647 \u067e\u06cc\u0634 \u0628\u0631\u0648\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0631\u06a9\u0632 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0648\u0633\u0639\u0647 \u0639\u0638\u06cc\u0645 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a AI \u0622\u0645\u0627\u0632\u0648\u0646 \u0627\u0633\u062a. \u0633\u0627\u06a9\u0646\u0627\u0646 \u0645\u062d\u0644\u06cc \u0646\u06af\u0631\u0627\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a\u060c \u06a9\u0627\u0631\u0628\u0631\u06cc \u0632\u0645\u06cc\u0646 \u0648 \u062a\u0623\u062b\u06cc\u0631\u0627\u062a \u0632\u06cc\u0633\u062a\u200c\u0645\u062d\u06cc\u0637\u06cc \u0647\u0633\u062a\u0646\u062f \ud83c\udf0d. \u0627\u06cc\u0646 \u0645\u0648\u0631\u062f \u0646\u0642\u0637\u0647\u200c\u0627\u06cc \u062d\u0633\u0627\u0633 \u062f\u0631 \u062a\u0639\u0627\u0631\u0636 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u06cc\u0646 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0641\u0646\u0627\u0648\u0631\u06cc \u0648 \u062c\u0648\u0627\u0645\u0639 \u0645\u062d\u0644\u06cc \u0628\u0631 \u0633\u0631 \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udfd7\ufe0f Amazon circumvents Gilroy community vote for massive AI data center",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0622\u0645\u0627\u0632\u0648\u0646 \u0631\u0623\u06cc \u062c\u0627\u0645\u0639\u0647 \u06af\u06cc\u0644\u0631\u0648\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u0628\u0632\u0631\u06af \u062f\u0648\u0631 \u0632\u062f",
-      "priority": "high",
-      "published": "2026-08-09T12:52:10+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window\">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230954\">https://news.ycombinator.com/item?id=49230954</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
-      "title": "Amazon circumvents Gilroy community vote for AI data center",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -55907,34 +55953,34 @@
     {
       "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\u26a1 MiniMax's H3 model, released as open weights on HuggingFace this week, is generating serious buzz among local-AI enthusiasts. The omni-modal video model handles text, image, video, and native stereo audio in a single context \u2014 and audio can actually drive the video output. Early hands-on reports show 2K resolution at 24fps with 5\u201315 second clips, and support for up to 9 reference images, 3 videos, and 3 audio clips per generation.\n\n\ud83d\udd25 The catch: running it on consumer GPUs is painfully slow, and failed generations can be costly in time. It's still an impressive leap for open-weight AI video.",
-      "post_body_fa": "\u26a1 \u0645\u062f\u0644 H3 \u0645\u06cc\u0646\u06cc\u200c\u0645\u0627\u06a9\u0633 \u06a9\u0647 \u0627\u06cc\u0646 \u0647\u0641\u062a\u0647 \u0628\u0627 \u0648\u0632\u0646\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0631\u0648\u06cc \u0647\u0627\u0641\u06cc\u0646\u06af\u200c\u0641\u06cc\u0633 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647\u060c \u062a\u0648\u062c\u0647 \u0632\u06cc\u0627\u062f\u06cc \u0631\u0627 \u062f\u0631 \u0628\u06cc\u0646 \u0639\u0644\u0627\u0642\u0647\u200c\u0645\u0646\u062f\u0627\u0646 \u0628\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062d\u0644\u06cc \u062c\u0644\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0647\u0645\u0647\u200c\u0648\u062c\u0647\u06cc \u0645\u062a\u0646\u060c \u062a\u0635\u0648\u06cc\u0631\u060c \u0648\u06cc\u062f\u06cc\u0648 \u0648 \u0635\u062f\u0627\u06cc \u0627\u0633\u062a\u0631\u06cc\u0648 \u0637\u0628\u06cc\u0639\u06cc \u0631\u0627 \u062f\u0631 \u06cc\u06a9 \u0628\u0627\u0641\u062a \u0648\u0627\u062d\u062f \u067e\u0631\u062f\u0627\u0632\u0634 \u0645\u06cc\u200c\u06a9\u0646\u062f \u2014 \u0648 \u0635\u062f\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648 \u0631\u0627 \u0647\u062f\u0627\u06cc\u062a \u06a9\u0646\u062f. \u0628\u0631\u0631\u0633\u06cc\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648\u06cc\u062f\u06cc\u0648\u0647\u0627\u06cc 2K \u0628\u0627 24 \u0641\u0631\u06cc\u0645 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0648 \u06a9\u0644\u06cc\u067e\u200c\u0647\u0627\u06cc \u06f5 \u062a\u0627 \u06f1\u06f5 \u062b\u0627\u0646\u06cc\u0647\u200c\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u062a\u0627 \u06f9 \u062a\u0635\u0648\u06cc\u0631 \u0645\u0631\u062c\u0639\u060c \u06f3 \u0648\u06cc\u062f\u06cc\u0648 \u0648 \u06f3 \u0641\u0627\u06cc\u0644 \u0635\u0648\u062a\u06cc \u062f\u0631 \u0647\u0631 \u062a\u0648\u0644\u06cc\u062f \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f.\n\n\ud83d\udd25 \u0646\u06a9\u062a\u0647 \u0645\u0646\u0641\u06cc \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0627\u062c\u0631\u0627\u06cc \u0622\u0646 \u0631\u0648\u06cc GPU\u0647\u0627\u06cc \u0645\u0635\u0631\u0641\u06cc \u0628\u0633\u06cc\u0627\u0631 \u06a9\u0646\u062f \u0627\u0633\u062a \u0648 \u062a\u0648\u0644\u06cc\u062f \u0646\u0627\u0645\u0648\u0641\u0642 \u0632\u0645\u0627\u0646 \u0632\u06cc\u0627\u062f\u06cc \u0645\u06cc\u200c\u0628\u0631\u062f. \u0628\u0627 \u0627\u06cc\u0646 \u062d\u0627\u0644\u060c \u0627\u06cc\u0646 \u06cc\u06a9 \u062c\u0647\u0634 \u0686\u0634\u0645\u06af\u06cc\u0631 \u0628\u0631\u0627\u06cc \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udfac MiniMax H3 open weights bring audio-driven video generation",
-      "post_title_fa": "\ud83c\udfac \u0648\u0632\u0646\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 MiniMax H3 \u062a\u0648\u0644\u06cc\u062f \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0635\u0648\u062a\u0645\u062d\u0648\u0631 \u0631\u0627 \u0628\u0647 \u0627\u0631\u0645\u063a\u0627\u0646 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f",
+      "post_body": "\ud83c\udf00 Google has released WeatherNext 2 as an open model after a Nature paper showed it predicts cyclones with unprecedented accuracy. On average, it gives forecasters a full extra day of lead time \ud83d\udd50 compared with existing models.\n\nIts three-day forecasts are reportedly as accurate as past models' two-day forecasts. The model and repository are now on GitHub, opening it up for researchers and weather agencies. That extra day can mean the difference between timely evacuations and missed warnings. \ud83c\udf0d",
+      "post_body_fa": "\ud83c\udf00 \u06af\u0648\u06af\u0644 \u0645\u062f\u0644 WeatherNext 2 \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u060c \u067e\u0633 \u0627\u0632 \u0622\u0646\u06a9\u0647 \u0645\u0642\u0627\u0644\u0647\u200c\u0627\u06cc \u062f\u0631 Nature \u0646\u0634\u0627\u0646 \u062f\u0627\u062f \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0637\u0648\u0641\u0627\u0646\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a\u06cc \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0628\u0647\u200c\u0637\u0648\u0631 \u0645\u06cc\u0627\u0646\u06af\u06cc\u0646\u060c \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0647 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u06cc\u06a9 \u0631\u0648\u0632 \u06a9\u0627\u0645\u0644 \u0632\u0645\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \ud83d\udd50 \u0646\u0633\u0628\u062a \u0628\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u0648\u062c\u0648\u062f.\n\n\u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u200c\u0647\u0627\u06cc \u0633\u0647\u200c\u062f\u0648\u0631\u0647\u200c\u06cc \u0622\u0646 \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u06cc \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc\u200c\u0647\u0627\u06cc \u062f\u0648 \u062f\u0648\u0631\u0647\u200c\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc \u062f\u0642\u06cc\u0642 \u0627\u0633\u062a. \u0645\u062f\u0644 \u0648 \u0645\u062e\u0632\u0646 \u0622\u0646 \u0627\u06a9\u0646\u0648\u0646 \u0631\u0648\u06cc \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a \u0648 \u0622\u0646 \u0631\u0627 \u0628\u0647 \u0631\u0648\u06cc \u067e\u0698\u0648\u0647\u0634\u06af\u0631\u0627\u0646 \u0648 \u0633\u0627\u0632\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0627\u0634\u0646\u0627\u0633\u06cc \u0645\u06cc\u200c\u06af\u0634\u0627\u06cc\u062f. \u0647\u0645\u0627\u0646 \u06cc\u06a9 \u0631\u0648\u0632 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0641\u0627\u0648\u062a \u0628\u06cc\u0646 \u062a\u062e\u0644\u06cc\u0647\u200c\u06cc \u0628\u0647\u200c\u0645\u0648\u0642\u0639 \u0648 \u0647\u0634\u062f\u0627\u0631 \u0627\u0632 \u062f\u0633\u062a \u0631\u0641\u062a\u0647 \u0628\u0627\u0634\u062f. \ud83c\udf0d",
+      "post_title": "\ud83c\udf26\ufe0f Google Open-Sources WeatherNext 2 with a Day of Extra Forecast Lead Time",
+      "post_title_fa": "\ud83c\udf26\ufe0f \u06af\u0648\u06af\u0644 WeatherNext 2 \u0631\u0627 \u0628\u0627 \u06cc\u06a9 \u0631\u0648\u0632 \u0632\u0645\u0627\u0646 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u06a9\u0631\u062f",
       "priority": "medium",
-      "published": "2026-08-09T17:08:52+00:00",
+      "published": "2026-08-09T18:12:01+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Reddit r/LocalLLaMA",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>H3 weights went live on HuggingFace August 3rd and I started pulling them immediately. An omni-modal video model with native stereo audio in the same forward pass, where audio can actually drive the video generation? On open weights? I had to try it.</p> <p>Five days in, the quality is legit. 2K at 24fps, 5 to 15 second clips, text and image and video and audio all in one shared context. You can throw 9 reference images, 3 videos, 3 audio clips at it per generation. The audio-driven mode where you feed it a track and it generates video that moves to the sound is genuinely unlike anything I've run from open weights before. But here's the catch: running this locally on a consumer GPU means your iteration speed is painful. Every failed generation costs you real time and power, and you will need retakes. Motion consistency is much better than I expected, but complex camera moves and longer clips still need multiple attempts to get right.</p> <p>What actually saved my workflow is that APOB AI is self-hosting MiniMax H3 unlimited and free right now since the weights are open. I stopped grinding my local card for every test run. I prototype on their hosted H3, figure out which prompts and references produce clean results, then switch back to my own hardware when I want full control or need to run something custom.</p> <p>For comparison, Seedance 2.5 from ByteDance also launched July 31st. Completely different approach: up to 30 seconds in a single pass at 4K with native audio, 50 multimodal references, and region-level editing to fix part of a shot without regenerating the whole clip. But API-only through BytePlus ModelArk, no published weights. If you actually want to run the model yourself, H3 is the one. Having open-weight video gen at this quality level sitting on HuggingFace is a real milestone for local inference.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Binary_orchid\"> /u/Binary_orchid </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjvafx/openweight_video_gen_that_actually_delivers_five/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjvafx/openweight_video_gen_that_actually_delivers_five/\">[comments]</a></span>",
-      "title": "Open-weight video gen that actually delivers. Five days with MiniMax H3 on local hardware.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjvafx/openweight_video_gen_that_actually_delivers_five/"
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am not a meteorologist, but I just read a very interesting article: <a href=\"https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/\">https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/</a> </p> <p><em>In a paper published on Thursday in Nature, researchers show that the WeatherNext AI model can predict cyclones with unprecedented accuracy. On average, it gives forecasters a day more lead time than existing models; this means its predictions three days out are as accurate as previous models\u2019 predictions two days out. On the ground, that extra day can mean a lot.</em></p> <p>What I really find interesting here is that Google has a repository for it on GitHub: <a href=\"https://github.com/google-deepmind/weathernext\">https://github.com/google-deepmind/weathernext</a></p> <p>My non-informed understanding is that you need a supercomputer to forecast meteo. Apparently now an H100 can also do something.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rick_06\"> /u/Rick_06 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/\">[comments]</a></span>",
+      "title": "Open Model: Google Weather Next 2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwwrs/open_model_google_weather_next_2/"
     },
     {
       "category": "research",
       "duplicate_of": null,
-      "post_body": "\ud83e\udd16 DeepMind has developed an AI system that predicts cyclone landfalls a full day earlier than current state-of-the-art models. The extra lead time gives communities more opportunity to evacuate and prepare, which could substantially reduce deaths in vulnerable regions. Details of the system and its evaluation are covered in a New Scientist report.\n\n\u23f1\ufe0f Weather forecasting is becoming one of AI's clearest real-world wins, alongside protein folding and materials discovery. The work isn't a product launch, but it shows how quickly AI is moving from chatbots into life-saving applications.",
-      "post_body_fa": "\ud83e\udd16 \u062f\u06cc\u067e\u200c\u0645\u0627\u06cc\u0646\u062f \u06cc\u06a9 \u0633\u06cc\u0633\u062a\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u0627\u062e\u062a\u0647 \u06a9\u0647 \u0631\u0633\u06cc\u062f\u0646 \u0637\u0648\u0641\u0627\u0646 \u0631\u0627 \u06cc\u06a9 \u0631\u0648\u0632 \u06a9\u0627\u0645\u0644 \u0632\u0648\u062f\u062a\u0631 \u0627\u0632 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0641\u0639\u0644\u06cc \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0632\u0645\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u0628\u0647 \u062c\u0648\u0627\u0645\u0639 \u0641\u0631\u0635\u062a \u0628\u06cc\u0634\u062a\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u062e\u0644\u06cc\u0647 \u0648 \u0622\u0645\u0627\u062f\u0647\u200c\u0633\u0627\u0632\u06cc \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u0631\u06af\u200c\u0648\u0645\u06cc\u0631 \u0631\u0627 \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631 \u0628\u0647\u200c\u0637\u0648\u0631 \u0642\u0627\u0628\u0644 \u062a\u0648\u062c\u0647\u06cc \u06a9\u0627\u0647\u0634 \u062f\u0647\u062f. \u062c\u0632\u0626\u06cc\u0627\u062a \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0648 \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0622\u0646 \u062f\u0631 \u06af\u0632\u0627\u0631\u0634 \u0646\u06cc\u0648\u0633\u0627\u06cc\u0646\u062a\u06cc\u0633\u062a \u0622\u0645\u062f\u0647 \u0627\u0633\u062a.\n\n\u23f1\ufe0f \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0622\u0628\u200c\u0648\u0647\u0648\u0627 \u0628\u0647 \u06cc\u06a9\u06cc \u0627\u0632 \u0648\u0627\u0636\u062d\u200c\u062a\u0631\u06cc\u0646 \u062f\u0633\u062a\u0627\u0648\u0631\u062f\u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u060c \u062f\u0631 \u06a9\u0646\u0627\u0631 \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u0633\u0627\u062e\u062a\u0627\u0631 \u067e\u0631\u0648\u062a\u0626\u06cc\u0646 \u0648 \u06a9\u0634\u0641 \u0645\u0648\u0627\u062f. \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u06cc\u06a9 \u0639\u0631\u0636\u0647 \u0645\u062d\u0635\u0648\u0644 \u0646\u06cc\u0633\u062a\u060c \u0627\u0645\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u0633\u0631\u06cc\u0639 \u0627\u0632 \u0686\u062a\u200c\u0628\u0627\u062a\u200c\u0647\u0627 \u0628\u0647 \u0633\u0645\u062a \u06a9\u0627\u0631\u0628\u0631\u062f\u0647\u0627\u06cc \u0646\u062c\u0627\u062a\u200c\u0628\u062e\u0634 \u062d\u0631\u06a9\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f.",
-      "post_title": "\ud83c\udf2a\ufe0f DeepMind AI buys an extra day of cyclone warning",
-      "post_title_fa": "\ud83c\udf2a\ufe0f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc DeepMind \u06cc\u06a9 \u0631\u0648\u0632 \u0647\u0634\u062f\u0627\u0631 \u0628\u06cc\u0634\u062a\u0631 \u0628\u0631\u0627\u06cc \u0637\u0648\u0641\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f",
+      "post_body": "\ud83e\udde0 Pathway's BDH architecture reportedly matches GPT-2 scaling from 10M to 1B parameters when trained from scratch. The novel part: it's a post-transformer design that runs on ordinary GPUs \ud83d\udcbb, not specialized hardware.\n\nIf the results hold up, it could make efficient small-model training much more accessible. The claim is currently shared as a Reddit post with charts \ud83d\udcca rather than a peer-reviewed paper. It's an early signal, but one worth watching for efficiency-focused researchers. \u26a1",
+      "post_body_fa": "\ud83e\udde0 \u0645\u0639\u0645\u0627\u0631\u06cc BDH \u0627\u0632 Pathway \u0638\u0627\u0647\u0631\u0627\u064b \u0645\u0642\u06cc\u0627\u0633\u200c\u067e\u0630\u06cc\u0631\u06cc GPT-2 \u0631\u0627 \u0627\u0632 \u06f1\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062a\u0627 \u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u0627\u0632 \u0635\u0641\u0631 \u062a\u06a9\u0631\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0646\u06a9\u062a\u0647\u200c\u06cc \u062a\u0627\u0632\u0647 \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0627\u06cc\u0646 \u06cc\u06a9 \u0637\u0631\u0627\u062d\u06cc \u067e\u0633\u0627\u062a\u0631\u0646\u0633\u0641\u0648\u0631\u0645\u0631 \u0627\u0633\u062a \u06a9\u0647 \u0631\u0648\u06cc GPU\u0647\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \ud83d\udcbb \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0646\u0647 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u062a\u062e\u0635\u0635\u06cc.\n\n\u0627\u06af\u0631 \u0646\u062a\u0627\u06cc\u062c \u062a\u0623\u06cc\u06cc\u062f \u0634\u0648\u0646\u062f\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0622\u0645\u0648\u0632\u0634 \u06a9\u0627\u0631\u0622\u0645\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u06a9\u0648\u0686\u06a9 \u0631\u0627 \u0628\u0633\u06cc\u0627\u0631 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633\u200c\u062a\u0631 \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u062f\u0639\u0627 \u0641\u0639\u0644\u0627\u064b \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u06cc\u06a9 \u067e\u0633\u062a \u0631\u062f\u06cc\u062a \u0628\u0627 \u0646\u0645\u0648\u062f\u0627\u0631\u0647\u0627\u06cc\u06cc \ud83d\udcca \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647\u060c \u0646\u0647 \u06cc\u06a9 \u0645\u0642\u0627\u0644\u0647\u200c\u06cc \u062f\u0627\u0648\u0631\u06cc\u200c\u0647\u0645\u062a\u0627. \u0627\u06cc\u0646 \u06cc\u06a9 \u0646\u0634\u0627\u0646\u0647\u200c\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0627\u0645\u0627 \u062c\u0627\u0644\u0628 \u0628\u0631\u0627\u06cc \u067e\u0698\u0648\u0647\u0634\u06af\u0631\u0627\u0646 \u062d\u0648\u0632\u0647\u200c\u06cc \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0627\u0633\u062a. \u26a1",
+      "post_title": "\ud83d\udd2c Post-Transformer Architecture Matches GPT-2 Scaling on Normal GPUs",
+      "post_title_fa": "\ud83d\udd2c \u0645\u0639\u0645\u0627\u0631\u06cc \u067e\u0633\u0627\u062a\u0631\u0646\u0633\u0641\u0648\u0631\u0645\u0631 \u0645\u0642\u06cc\u0627\u0633 GPT-2 \u0631\u0627 \u0631\u0648\u06cc GPU \u0645\u0639\u0645\u0648\u0644\u06cc \u062a\u06a9\u0631\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f",
       "priority": "medium",
-      "published": "2026-08-09T16:56:47+00:00",
+      "published": "2026-08-09T18:05:34+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/\">https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233162\">https://news.ycombinator.com/item?id=49233162</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
-      "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/"
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwqpf/pathways_bdhposttransformer_arch_matches_gpt2/\"> <img alt=\"Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs\" src=\"https://preview.redd.it/ee8lxjm73eih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4a9209892c6d06304ea8b2b05dfbefbeb0def902\" title=\"Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Candid-Tackle-9061\"> /u/Candid-Tackle-9061 </a> <br /> <span><a href=\"https://i.redd.it/ee8lxjm73eih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjwqpf/pathways_bdhposttransformer_arch_matches_gpt2/\">[comments]</a></span> </td></tr></table>",
+      "title": "Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjwqpf/pathways_bdhposttransformer_arch_matches_gpt2/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -67113,6 +67159,14 @@
     "title": "CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment",
     "title_norm": "core a celllevel coarsetofine image registration engine for multistain image alignment"
   },
+  "bea42141b5130584332ae12cc559029f0fd1fa7d8540b978e9ed1e7dab1027f4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.247892+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "OpenChamber: An Agentic Development Environment",
+    "title_norm": "openchamber an agentic development environment"
+  },
   "beaeb77d7bb00eebbadf737ec710fd572f73a30d54c3e0bd53ca44b92e18408a": {
     "category": "research",
     "posted": false,
@@ -68478,6 +68532,14 @@
     "source": "Hacker News AI keyword",
     "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
     "title_norm": "why the legendary erd\u0151s problems are falling to ai"
+  },
+  "c23e2349441aad7579c451d4b0b67ff43832d3c3239c75f0f3737673f07ffd1b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248058+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Is on Its Last Legs [video]",
+    "title_norm": "ai is on its last legs video"
   },
   "c23f9ff58a5cc819c9dde5ccb5125933475918f4275a2c2c17824d6f3f682b97": {
     "category": "research",
@@ -70222,6 +70284,14 @@
     "source": "Hacker News Frontpage",
     "title": "The Birth of the American 12-string Guitar",
     "title_norm": "the birth of the american 12string guitar"
+  },
+  "c71cb36e3219090537c5c8f7342263bbe75ddba9bde034114217b5937f3a3e6d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248027+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "title_norm": "show hn a replayable a2a jury for tracing how agents influence decisions"
   },
   "c71e3e296a8c1f26be619d9cb191a5e44cbca6011803c3facbe840d2d604d987": {
     "category": null,
@@ -87840,6 +87910,14 @@
     "source": "Ars Technica AI",
     "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
     "title_norm": "google announces gemini 36 flash and cybersecurity ai teases 35 pro and gemini 4"
+  },
+  "fbad6ec5ab7dc3d68e9fada3d28ce3c4b79f20a1ce7a7964b56cdfc1f5fb0f6c": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-09T18:17:50.248126+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Open Model: Google Weather Next 2",
+    "title_norm": "open model google weather next 2"
   },
   "fbbed3d5d826624a8635931a5df30a79924e806dc38793e4801a1c2de1b2beda": {
     "category": "research",
