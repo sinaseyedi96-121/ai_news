@@ -3279,6 +3279,14 @@
     "title": "How many people in this sub try to train their own AI from scratch on their systems just for fun and to test out techniques from research papers?",
     "title_norm": "how many people in this sub try to train their own ai from scratch on their systems just for fun and to test out techniques from research papers"
   },
+  "0990d35d81c3e6be8168a5d45f0e60775cf72d06241c19c72e8ddd89f96ba663": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880618+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Argonix \u2013 One AI-powered platform for SRE and cloud operations",
+    "title_norm": "show hn argonix one aipowered platform for sre and cloud operations"
+  },
   "0994470e140d8368d06204670b3aa375e8f58ecefa1a6b58ea3be84b908f3cb6": {
     "category": "other",
     "posted": false,
@@ -23437,6 +23445,14 @@
     "title": "Codeberg Bans Cryptocurrency Projects",
     "title_norm": "codeberg bans cryptocurrency projects"
   },
+  "42f517204bdd96fa5f327e8065611380fde0b71a3a3d7764eb9993fdfef96bd5": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880547+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "title_norm": "the alpha 21264 cpu nts greatest risc 1998"
+  },
   "42fbf8734333d2129bdac14214ed5f5b58c31af9d5c71e2bb37831b25c814582": {
     "category": "tech_news",
     "posted": false,
@@ -27310,6 +27326,14 @@
     "source": "arXiv cs.AI",
     "title": "TimeRFT: Stimulating Generalizable Time Series Forecasting for TSFMs via Reinforcement Finetuning",
     "title_norm": "timerft stimulating generalizable time series forecasting for tsfms via reinforcement finetuning"
+  },
+  "4e66465608230b0fc6b0c271d855b7288b688e06f2c5894474a9f3431d8826ef": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880586+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Should AI's tell you they're AI?",
+    "title_norm": "ask hn should ais tell you theyre ai"
   },
   "4e673196cb530c8fd0df606e4a7e1f8520ff19b49b02c6343fd6c92559f9659f": {
     "category": "research",
@@ -40757,6 +40781,14 @@
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "title_norm": "us department of energy launches the genesis open models initiative"
   },
+  "74afbb4899ce6ab1d9e810c3e6e7cf15d38b6ff7ae8e439326509744fdaa028b": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880460+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "CSS: The bomb inside your inbox",
+    "title_norm": "css the bomb inside your inbox"
+  },
   "74b6887c3bfb47e4f74d0c15d9c50b812416044330365e0c7658af98edc130ed": {
     "category": "other",
     "posted": false,
@@ -46476,6 +46508,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
     "title_norm": "openai and hugging face partner to address security incident during model evaluation"
+  },
+  "85fff2d8e38cacfd1afe2be0f6c6b63b99e356c63a4c420910bc518eaaa0926a": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880571+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Analytic Monopoly on AI Philosophy",
+    "title_norm": "the analytic monopoly on ai philosophy"
   },
   "8609368c08c9241c37004b356a5bc412d5e09a248a15a394de5b80c46d3ddfca": {
     "category": "research",
@@ -55464,6 +55504,22 @@
       "summary": "<p>Article URL: <a href=\"https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom\">https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229918\">https://news.ycombinator.com/item?id=49229918</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\u2699\ufe0f Argonix is a new AI-powered platform for SRE, security, and cloud operations, launched on Hacker News by its solo developer. It connects to Kubernetes, AWS, GCP, Azure, and MCP servers, and offers workflows, health notebooks, and periodic jobs for automation.\n\nThe tool publishes daily health reports to Slack or Confluence and can auto-create tickets when issues arise. \ud83d\udee0\ufe0f By consolidating monitoring, FinOps, and incident investigation into one console, it aims to cut tool sprawl and speed up incident response. \ud83d\udcc8 Early users can try it via argonix.io.",
+      "post_body_fa": "\u2699\ufe0f Argonix \u06cc\u06a9 \u067e\u0644\u062a\u0641\u0631\u0645 \u062c\u062f\u06cc\u062f \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc SRE\u060c \u0627\u0645\u0646\u06cc\u062a \u0648 \u0639\u0645\u0644\u06cc\u0627\u062a \u0627\u0628\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0648\u0633\u0637 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647\u200c\u0627\u06cc \u0645\u0633\u062a\u0642\u0644 \u0633\u0627\u062e\u062a\u0647 \u0648 \u062f\u0631 \u0647\u06a9\u0631 \u0646\u06cc\u0648\u0632 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647. \u0627\u06cc\u0646 \u067e\u0644\u062a\u0641\u0631\u0645 \u0628\u0647 Kubernetes\u060c AWS\u060c GCP\u060c Azure \u0648 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc MCP \u0645\u062a\u0635\u0644 \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631\u060c \u062f\u0641\u062a\u0631\u0686\u0647\u200c\u0647\u0627\u06cc \u0633\u0644\u0627\u0645\u062a \u0648 \u0648\u0638\u0627\u06cc\u0641 \u0632\u0645\u0627\u0646\u200c\u0628\u0646\u062f\u06cc\u200c\u0634\u062f\u0647 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0633\u0644\u0627\u0645\u062a \u0631\u0648\u0632\u0627\u0646\u0647 \u0631\u0627 \u062f\u0631 Slack \u06cc\u0627 Confluence \u0645\u0646\u062a\u0634\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u062f\u0631 \u0635\u0648\u0631\u062a \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u062a\u06cc\u06a9\u062a \u0645\u06cc\u200c\u0633\u0627\u0632\u062f. \ud83d\udee0\ufe0f \u0628\u0627 \u0627\u062f\u063a\u0627\u0645 \u0645\u0627\u0646\u06cc\u062a\u0648\u0631\u06cc\u0646\u06af\u060c FinOps \u0648 \u0628\u0631\u0631\u0633\u06cc \u062d\u0648\u0627\u062f\u062b \u062f\u0631 \u06cc\u06a9 \u06a9\u0646\u0633\u0648\u0644 \u0648\u0627\u062d\u062f\u060c \u0647\u062f\u0641\u0634 \u06a9\u0627\u0647\u0634 \u067e\u0631\u0627\u06a9\u0646\u062f\u06af\u06cc \u0627\u0628\u0632\u0627\u0631\u0647\u0627 \u0648 \u0633\u0631\u0639\u062a \u0628\u062e\u0634\u06cc\u062f\u0646 \u0628\u0647 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062d\u0648\u0627\u062f\u062b \u0627\u0633\u062a. \ud83d\udcc8 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0648\u0644\u06cc\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0632 argonix.io \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Argonix: AI-powered platform for SRE and cloud operations",
+      "post_title_fa": "\ud83d\ude80 Argonix: \u067e\u0644\u062a\u0641\u0631\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0639\u0645\u0644\u06cc\u0627\u062a SRE \u0648 \u0627\u0628\u0631",
+      "priority": "low",
+      "published": "2026-08-09T10:50:18+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Hi everybody,<p>I built <a href=\"https://argonix.io\" rel=\"nofollow\">https://argonix.io</a>.<p>Argonix is an AI-powered platform for SRE, security and cloud operations.<p>The idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation.<p>A few things you can do with it:<p>Connectors: Connect Argonix to your existing stack: Kubernetes, AWS, GCP, Azure, your own MCP servers, etc.<p>Workflows:  Build automation flows using the connectors.<p>Health notebooks: Get a daily overview of the health of your platforms. Argonix can publish the report to Slack, Confluence, etc., and create tickets when something needs attention.<p>Periodic jobs: Schedule recurring checks, analysis and automation.<p>Security: Scan of your connectors infras, your code also (new feature), analyse network logs, and look for  vulnerabilities and threats. It can also consume data from tools such as Falco, Wazuh, Wiz, SonarQube, etc.\nFinOps \u2013 Analyse cloud costs across AWS, GCP and \nAzure.<p>Monitoring: Monitor works just like UptimeKuma or others, plus automatically discover and monitor Kubernetes ingresses/gateways, run synthetic tests, and analyse logs.<p>Alert investigatio: You can send alerts from Datadog, Grafana and others to Argonix. The AI can investigate the alert, read the KB  and provide recommendations or even propose a PR.<p>Conversational AI: Talk to your infrastructure and connected tools through a conversational interface.<p>Under the hood, Argonix is built with Python/DRF, Vue.js and PostgreSQL.<p>Argonix is available as both a SaaS and a self-hosted version.<p>You also choose which AI model you want to use. You can connect your own AI provider/account, and with the self-hosted version you can run a local model. I've been testing it locally with Qwen.<p>You can create an account for free and start playing with it.<p>It's still a work in progress and there are definitely some bugs, so I'd really appreciate feedback from people working in the field.<p>I would love to hear what you think, what you would change, and what would make it genuinely useful in your day-to-day work.<p>Thanks,\nDavid.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230251\">https://news.ycombinator.com/item?id=49230251</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Show HN: Argonix \u2013 One AI-powered platform for SRE and cloud operations",
+      "url": "https://argonix.io/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -74133,6 +74189,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing the Hugging Face Embedding Container for Amazon SageMaker",
     "title_norm": "introducing the hugging face embedding container for amazon sagemaker"
+  },
+  "d55261d584da685c22f636e4763fbc882a5e3b4f03b3aeccd6f78bf5675ae305": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-09T11:37:45.880641+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "What a deal. Thanks newegg",
+    "title_norm": "what a deal thanks newegg"
   },
   "d5563a6da2349367427d956202d577d23e7e65768915dafd281de64306baabe8": {
     "category": "research",
