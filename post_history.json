@@ -4469,6 +4469,14 @@
     "title": "Ask HN: How are you handling production risks from AI generated code?",
     "title_norm": "ask hn how are you handling production risks from ai generated code"
   },
+  "0d16b5c04c4ebc49b09653cfa0cbf1e352bfb4588ba4f4e13f322309af67363c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T14:20:45.050893+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Mea Culpa \u2013 Dark Hours",
+    "title_norm": "mea culpa dark hours"
+  },
   "0d182f45151aba342beb9666ab556d29ea17e3b859dfef4b571d7e91ba975b4a": {
     "category": "research",
     "posted": false,
@@ -10525,7 +10533,13 @@
   },
   "1dcefd8f9de9d223e42aaed27665864d4b4c1e2b47280c2672eda4140f8a18e8": {
     "category": "other",
-    "posted": false,
+    "message_id": 147,
+    "message_id_fa": 121,
+    "post_title": "\ud83d\udd13 Israeli startup linked to rogue AI hacks at OpenAI, Anthropic, Meta",
+    "post_title_fa": "\ud83d\udd13 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0628\u0647 \u0647\u06a9\u200c\u0647\u0627\u06cc AI \u062f\u0631 OpenAI\u060c Anthropic \u0648 \u0645\u062a\u0627 \u0645\u0631\u062a\u0628\u0637 \u0634\u062f",
+    "posted": true,
+    "posted_at": "2026-08-09T14:20:46.109373+00:00",
+    "priority": "high",
     "seen_at": "2026-08-09T13:33:47.357294+00:00",
     "source": "Hacker News Frontpage",
     "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
@@ -23810,6 +23824,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Why we don\u2019t have kickstarter for the models?",
     "title_norm": "why we dont have kickstarter for the models"
+  },
+  "43c9989ce2729a1b419f03a0330216e09da4346162c0de0891413c87fec8adb8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T14:20:45.051026+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Captaining your AI: new human-agent UX paradigm",
+    "title_norm": "captaining your ai new humanagent ux paradigm"
   },
   "43cb7efd66ff2048a246186cea5be7fe3fa9327f2cb87c83176039fe04d9082b": {
     "category": "other",
@@ -53861,6 +53883,14 @@
     "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
     "title_norm": "openenv in practice evaluating toolusing agents in realworld environments"
   },
+  "9b8beb7ed0715bc56f241291d44b17db6efc2b01c47e89bc846f0bf7851cd9cb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T14:20:45.050992+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+    "title_norm": "why wall street is ignoring big techs debt"
+  },
   "9b94b1a96013c2a03eada3d268deeb88452db179e3b88e97a550feafa2c0900d": {
     "category": "other",
     "posted": false,
@@ -55429,33 +55459,18 @@
   },
   "_meta": {
     "date": "2026-08-09",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
       "infrastructure": 1,
       "integration": 1,
+      "other": 1,
       "research": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-09-14"
+    "last_slot": "2026-08-09-16"
   },
   "_queue": [
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd75\ufe0f An Israeli startup called Irregular is reportedly behind rogue AI hacks that hit OpenAI, Anthropic and Meta. The attacks exploited weaknesses in the companies' AI systems, according to a CNBC report. This incident underscores the growing threat of AI-powered cyberattacks \u26a0\ufe0f.\n\nLaw enforcement and the affected firms are now investigating, but details remain limited. For the AI community, it's a wake-up call to harden security around large language models \ud83d\udd10.",
-      "post_body_fa": "\ud83d\udd75\ufe0f \u06cc\u06a9 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0628\u0647 \u0646\u0627\u0645 Irregular \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 CNBC \u067e\u0634\u062a \u0647\u06a9\u200c\u0647\u0627\u06cc AI \u0639\u0644\u06cc\u0647 OpenAI\u060c Anthropic \u0648 \u0645\u062a\u0627 \u0642\u0631\u0627\u0631 \u062f\u0627\u0631\u062f. \u0627\u06cc\u0646 \u062d\u0645\u0644\u0627\u062a \u0627\u0632 \u0636\u0639\u0641\u200c\u0647\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0633\u0648\u0621\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u062d\u0627\u062f\u062b\u0647 \u062a\u0647\u062f\u06cc\u062f \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062d\u0645\u0644\u0627\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 AI \u0631\u0627 \u0628\u0631\u062c\u0633\u062a\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f \u26a0\ufe0f.\n\n\u0645\u0642\u0627\u0645\u0627\u062a \u0648 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0622\u0633\u06cc\u0628\u200c\u062f\u06cc\u062f\u0647 \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631\u0633\u06cc \u0647\u0633\u062a\u0646\u062f\u060c \u0627\u0645\u0627 \u062c\u0632\u0626\u06cc\u0627\u062a \u0647\u0646\u0648\u0632 \u0645\u062d\u062f\u0648\u062f \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u062c\u0627\u0645\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u06a9 \u0632\u0646\u06af \u0628\u06cc\u062f\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u0642\u0648\u06cc\u062a \u0627\u0645\u0646\u06cc\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0628\u0632\u0631\u06af \u0627\u0633\u062a \ud83d\udd10.",
-      "post_title": "\ud83d\udd13 Israeli startup linked to rogue AI hacks at OpenAI, Anthropic, Meta",
-      "post_title_fa": "\ud83d\udd13 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0628\u0647 \u0647\u06a9\u200c\u0647\u0627\u06cc AI \u062f\u0631 OpenAI\u060c Anthropic \u0648 \u0645\u062a\u0627 \u0645\u0631\u062a\u0628\u0637 \u0634\u062f",
-      "priority": "high",
-      "published": "2026-08-09T13:03:49+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231022\">https://news.ycombinator.com/item?id=49231022</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
-      "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html"
-    },
     {
       "category": "infrastructure",
       "duplicate_of": null,
@@ -69090,6 +69105,14 @@
     "source": "arXiv cs.AI",
     "title": "Evidence-Grounded AI for Musculoskeletal Care",
     "title_norm": "evidencegrounded ai for musculoskeletal care"
+  },
+  "c4b2356a11fe096c2c5499a9e8f1a318cd2e95d931e2e6aea55693fd90aebba4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-09T14:20:45.050967+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "title_norm": "show hn a project oberon system version running on riscv instead of risc5"
   },
   "c4b36408fd9507a6a54246ee655ba90529c70b39a9546c089a41f8cd7bec9765": {
     "category": "policy",
