@@ -2787,6 +2787,14 @@
     "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real",
     "title_norm": "a zipper patent sat in a garage for 40 years now its real"
   },
+  "078d3b0de5984d133332773bbf201fc151170de4371fa0acec9d7b71a669abfb": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873809+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Wan 3.0 AI \u2013 multimodal video generation",
+    "title_norm": "wan 30 ai multimodal video generation"
+  },
   "078f0d540d88f110b4f16f86e19db8a70c6e022c548629ba4fc925f38b10d80e": {
     "category": "model_release",
     "posted": false,
@@ -35463,6 +35471,14 @@
     "title": "CODENS: Transforming Code Changes into Living, Accessible, and Queryable Documentation",
     "title_norm": "codens transforming code changes into living accessible and queryable documentation"
   },
+  "6147d1e8b0bf5b115fb98e52482fca0f861e3797e739a753816243936f897b94": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873751+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "How should we evaluate memory for AI agents?",
+    "title_norm": "how should we evaluate memory for ai agents"
+  },
   "6148aa28b40edbcce6affdb048773b177af63743820b2bb45bfe2d40ef649ef2": {
     "category": "courses",
     "posted": false,
@@ -36460,6 +36476,14 @@
     "source": "arXiv cs.AI",
     "title": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
     "title_norm": "identifying informative environments for cognition parameter inference via bayesian experimental design"
+  },
+  "63f20b25f3db1c8317cbb9347c717eaa06c0bc3785182b84c4089502505aa9fd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873728+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI won't kill the PM role. Same job, better tools",
+    "title_norm": "ai wont kill the pm role same job better tools"
   },
   "63feaabdd6ab71d5f28a8fd24185134c5b7e254f87feee151eee2112c86391df": {
     "category": "research",
@@ -53013,6 +53037,14 @@
     "title": "Using Machine Learning to Aid Survivors and Race through Time",
     "title_norm": "using machine learning to aid survivors and race through time"
   },
+  "92d59adf014d4fe7ae530598d745f5356a7070bdb989ca5ae4faad8511ec5ba4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873608+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "An alias-based formulation of the borrow checker (2018)",
+    "title_norm": "an aliasbased formulation of the borrow checker 2018"
+  },
   "92d63a1380819ff6cd172bf18fccbd1436e4f773b9fc85b810411e7f27502db6": {
     "category": "research",
     "posted": false,
@@ -57592,6 +57624,22 @@
     "last_slot": "2026-08-10-10"
   },
   "_queue": [
+    {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\u26a1 Amazon is building a gigantic natural-gas power plant to support a new AI data center, according to a report from heise. The plant is designed to provide dedicated, reliable electricity for the facility, reflecting the enormous energy demands of AI workloads.\n\n\ud83d\udcc8 With hyperscalers racing to expand AI capacity, this marks another shift toward on-site power generation. \ud83c\udf0d The project also raises environmental questions, as natural gas is a fossil fuel. \ud83d\udd25 It shows how critical energy infrastructure has become for the AI boom.",
+      "post_body_fa": "\u26a1 \u0622\u0645\u0627\u0632\u0648\u0646 \u062f\u0631 \u062d\u0627\u0644 \u0633\u0627\u062e\u062a \u06cc\u06a9 \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0639\u0638\u06cc\u0645 \u06af\u0627\u0632 \u0637\u0628\u06cc\u0639\u06cc \u0628\u0631\u0627\u06cc \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u06cc\u06a9 \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062c\u062f\u06cc\u062f \u0627\u0633\u062a\u060c \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 heise. \u0627\u06cc\u0646 \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0628\u0631\u0642 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0648 \u0642\u0627\u0628\u0644 \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0645\u0631\u06a9\u0632 \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0645\u0646\u0639\u06a9\u0633\u200c\u06a9\u0646\u0646\u062f\u0647 \u062a\u0642\u0627\u0636\u0627\u06cc \u0639\u0638\u06cc\u0645 \u0627\u0646\u0631\u0698\u06cc \u0628\u0631\u0627\u06cc \u0628\u0627\u0631\u0647\u0627\u06cc \u06a9\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.\n\n\ud83d\udcc8 \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0641\u0646\u0627\u0648\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647 \u0638\u0631\u0641\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0642\u0627\u0628\u062a \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0646\u0634\u0627\u0646\u0647\u200c\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0627\u0632 \u062a\u063a\u06cc\u06cc\u0631 \u0628\u0647 \u0633\u0645\u062a \u062a\u0648\u0644\u06cc\u062f \u0628\u0631\u0642 \u062f\u0631 \u0645\u062d\u0644 \u0627\u0633\u062a. \ud83c\udf0d \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0633\u0624\u0627\u0644\u0627\u062a \u0632\u06cc\u0633\u062a\u200c\u0645\u062d\u06cc\u0637\u06cc \u0631\u0627 \u0645\u0637\u0631\u062d \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u06af\u0627\u0632 \u0637\u0628\u06cc\u0639\u06cc \u06cc\u06a9 \u0633\u0648\u062e\u062a \u0641\u0633\u06cc\u0644\u06cc \u0627\u0633\u062a. \ud83d\udd25 \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0627\u0646\u0631\u0698\u06cc \u0628\u0631\u0627\u06cc \u0631\u0648\u0646\u0642 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u062d\u06cc\u0627\u062a\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83c\udfd7\ufe0f Amazon plans massive gas power plant for AI data center",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0622\u0645\u0627\u0632\u0648\u0646 \u0628\u0631\u0627\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u06af\u0627\u0632\u06cc \u0639\u0638\u06cc\u0645 \u0645\u06cc\u200c\u0633\u0627\u0632\u062f",
+      "priority": "high",
+      "published": "2026-08-10T08:20:58+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html\">https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49240853\">https://news.ycombinator.com/item?id=49240853</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+      "title": "Amazon plans gigantic gas power plant for new AI data center",
+      "url": "https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html"
+    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -72847,6 +72895,14 @@
     "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
     "title_norm": "ransomware gangs skip the ceo head straight for the 40something it manager"
   },
+  "c81c9702aa92212809bde5621edf034da0bab8ef3902f46788afcc495c64b18f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873828+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Why Speculative Decoding went mature in 2026?",
+    "title_norm": "why speculative decoding went mature in 2026"
+  },
   "c81e27573514281e6fa9f5a04012db706150faed2efebd0c5a54cb0cd78575a7": {
     "category": "research",
     "posted": false,
@@ -78657,6 +78713,14 @@
     "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
     "title_norm": "jaxbench benchmarking autonomous tpu kernel optimization"
   },
+  "d9091aca48e2d7d03d7d96632098ed7ae47469a47b1ad11015076ebc50dc25ab": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873694+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: OptiQra \u2013 Open-source AI website optimization and intelligence platform",
+    "title_norm": "show hn optiqra opensource ai website optimization and intelligence platform"
+  },
   "d90ac5ab01e065ba2c6e635f94341f1a2690fa71a0b968651967fc486b7117a5": {
     "category": "community_signal",
     "posted": false,
@@ -79242,6 +79306,14 @@
     "source": "Hacker News AI keyword",
     "title": "Custom AI development often qualifies for the federal R&D tax credit",
     "title_norm": "custom ai development often qualifies for the federal rd tax credit"
+  },
+  "dacb3608543ad2e5ce953c056505c7559edbe1f8a896c8f13f86c67e3be19fd6": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873771+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Amazon plans gigantic gas power plant for new AI data center",
+    "title_norm": "amazon plans gigantic gas power plant for new ai data center"
   },
   "dae4395f1bcd22ea59370bce6c4f868f9f284e5566b1a71e257f3abee5ac6544": {
     "category": "other",
@@ -89375,6 +89447,14 @@
     "title": "Understanding BigBird's Block Sparse Attention",
     "title_norm": "understanding bigbirds block sparse attention"
   },
+  "f7cba404fa35b7f2b0e4920cb6471b5ea9569e1135b1f8d6f9f2db1c33d9334d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873790+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "My AI story begins in 2018",
+    "title_norm": "my ai story begins in 2018"
+  },
   "f7d881da542cd8520299048d3c54b247ee09a2d4a2d03a09118af418396c0238": {
     "category": "research",
     "posted": false,
@@ -91638,6 +91718,14 @@
     "source": "OpenAI News",
     "title": "Corrupt Comment: Anti-corruption foundation criticism",
     "title_norm": "corrupt comment anticorruption foundation criticism"
+  },
+  "fe1e1e732d733451054002dfaa98c78869013f4562cef871029e124604f7c161": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T09:43:15.873846+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Chat UIs with native audio input for multimodal models?",
+    "title_norm": "chat uis with native audio input for multimodal models"
   },
   "fe2837178ed1bc7892d0a460fa0b6457934b47024ff9ca53687ca6264f6cc09f": {
     "category": "research",
