@@ -2993,6 +2993,14 @@
     "title": "DeepLoop: Depth Scaling for Looped Transformers",
     "title_norm": "deeploop depth scaling for looped transformers"
   },
+  "081601c279be28d3ef5aa58c1540b9bc9f0ea3d8209b55f9f8aeb4a2083ecf36": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127156+00:00",
+    "source": "OpenAI News",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "title_norm": "expanding daybreak as the cyber defense window narrows"
+  },
   "081bd90834d4c30d73b5ea34d37a60e9801b32e1a65b2e40b3184d88851616b8": {
     "category": "model_release",
     "posted": false,
@@ -5633,6 +5641,14 @@
     "title": "Monitoring Post-Disaster Urban Recovery Using High-Resolution SAR Time Series and Unsupervised Learning: Evidence from the 2023 T\\\"urkiye-Syria Earthquake",
     "title_norm": "monitoring postdisaster urban recovery using highresolution sar time series and unsupervised learning evidence from the 2023 turkiyesyria earthquake"
   },
+  "0f33ab48454636d24e38f6c660f3e4127cee8c59bf5b495ff37595b6816889b6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127335+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI didn't break open source. It removed a filter nobody designed",
+    "title_norm": "ai didnt break open source it removed a filter nobody designed"
+  },
   "0f3a6bd221a68210e6a878ddf48549e3fadb7ea266b18979790b0c43fd6ef2b4": {
     "category": "other",
     "posted": false,
@@ -7758,6 +7774,14 @@
     "source": "arXiv cs.AI",
     "title": "FormBharo: Designing and Evaluating a Voice Agent for Conversational Form Filling in Rural India",
     "title_norm": "formbharo designing and evaluating a voice agent for conversational form filling in rural india"
+  },
+  "156604e0ee95a8d56a64740cb2cf39909e8b9a113e099a35f142f853deca706a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127435+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I compared GGUF quants of Qwen3.6 27B to NVFP4, AWQ, AutoRound, and FP8",
+    "title_norm": "i compared gguf quants of qwen36 27b to nvfp4 awq autoround and fp8"
   },
   "157257b7e616fb06d925b9fdbd9ec32f05bf175fbfac7f12a3b419e5c00debb4": {
     "category": "other",
@@ -19991,6 +20015,14 @@
     "title": "MIDI-LLM: Improving Text-to-MIDI Music Generation via Adapting Large Language Models",
     "title_norm": "midillm improving texttomidi music generation via adapting large language models"
   },
+  "34cff0d9aef15f1354236367030a0a70a866b5547c7b08d7388bdbff90508d1c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127396+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Meta wants to create a personal super intelligence for free that runs on your Maschine. Meanwhile at anthropic: How can we get our (fake) image back of the \"Humanity\" Lab? ReleaseFreeOpenSourceModels Now let's just double the price on all our users, and tax our plan with 50% Fable weekly usages",
+    "title_norm": "meta wants to create a personal super intelligence for free that runs on your maschine meanwhile at anthropic how can we get our fake image back of the humanity lab releasefreeopensourcemodels now lets just double the price on all our users and tax our plan with 50 fable weekly usages"
+  },
   "34e1ab3086ba9da26c38b3944a49b0fb3b0f98cddde0e51a8857c439ef083d6a": {
     "category": "research",
     "posted": false,
@@ -29994,6 +30026,14 @@
     "source": "arXiv cs.AI",
     "title": "HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising",
     "title_norm": "hoba hierarchical onpolicy bidding agents for adaptive online advertising"
+  },
+  "518ffd2b0cf34d32ed9fdce9545aeb839baa6a930bde425d12a517d06c486109": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127307+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Humanising LLM Outputs Is Dumb",
+    "title_norm": "humanising llm outputs is dumb"
   },
   "51938481827fbd58c30a0aeed31c1598582e64cada0e334d402ec46bb9ea4e2e": {
     "category": "research",
@@ -41299,7 +41339,13 @@
   },
   "6fc8c32ddd26fc7b787eaae3ea3691eba35263ee3efbfc3b86bee4cbffc371f4": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 158,
+    "message_id_fa": 132,
+    "post_title": "\ud83c\udfd7\ufe0f Nvidia and Wall Street plot $500B AI infrastructure package",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0627 \u0648\u0627\u0644\u200c\u0627\u0633\u062a\u0631\u06cc\u062a \u0628\u0633\u062a\u0647\u0654 \u06f5\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc AI \u0645\u06cc\u200c\u0633\u0627\u0632\u062f",
+    "posted": true,
+    "posted_at": "2026-08-10T18:37:38.213515+00:00",
+    "priority": "high",
     "seen_at": "2026-08-10T17:42:09.617414+00:00",
     "source": "Hacker News AI keyword",
     "title": "Nvidia to Team with Wall Street on $500 AI Infrastructure Billion Package \u2013 FT",
@@ -44126,6 +44172,14 @@
     "source": "arXiv cs.AI",
     "title": "Soft Guidance Starts to Outperform CoT Prompting as LLMs Improve",
     "title_norm": "soft guidance starts to outperform cot prompting as llms improve"
+  },
+  "7799b508d6d1a342266ad2ddb0b5a5831721a1bfc731dbab6a0b0c34ee3eb635": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127425+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Glimmer: 233.4 tps on 5090 with Dflash",
+    "title_norm": "glimmer 2334 tps on 5090 with dflash"
   },
   "779e5ea89d8c2864ea7e4bb4f267737663a19ff9fd4ec00a8ca43506bca63feb": {
     "category": "research",
@@ -48416,6 +48470,14 @@
     "source": "OpenAI News",
     "title": "Deepening our collaboration with the U.S. Department of Energy",
     "title_norm": "deepening our collaboration with the us department of energy"
+  },
+  "83bf2c08695b8d6e4faf5e5e555377b597468b28e7b403854566df70858c7c3a": {
+    "category": "courses",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127375+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
+    "title_norm": "ai boot camps surge as workers race to learn new skills"
   },
   "83d2634fc8065c92cd09d0d474b5a072e9b96fd0b7c8c9384f7538bc3e3a0dcc": {
     "category": "other",
@@ -55945,6 +56007,14 @@
     "title": "Blackmail Fail (2013)",
     "title_norm": "blackmail fail 2013"
   },
+  "993a611a18efafc27cc907c697151db7a29ba3f7483383a78e7a89d4c06f8e23": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127360+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Hi HN Rune \u2013 A software intelligence runtime for AI coding assistants",
+    "title_norm": "hi hn rune a software intelligence runtime for ai coding assistants"
+  },
   "99407c270f013cfaf3f55c9938680c5c854ef540db94da94253fc3a13b3e315a": {
     "category": "research",
     "posted": false,
@@ -58259,6 +58329,14 @@
     "title": "AutoNeural: Co-Designing Vision-Language Models for NPU Inference",
     "title_norm": "autoneural codesigning visionlanguage models for npu inference"
   },
+  "9fdbaaac485f05da5f34d27cddbbd427f35b52fd7d35267b5912d7ed8c0aba5e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127386+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Cloudflare Tools Secure Autonomous AI Payments",
+    "title_norm": "cloudflare tools secure autonomous ai payments"
+  },
   "9fdee160281489f338f41265b2a741fd9e5339ae3cc7651d84a06f5fcc33decc": {
     "category": "research",
     "posted": false,
@@ -58291,34 +58369,18 @@
   },
   "_meta": {
     "date": "2026-08-10",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
-      "infrastructure": 2,
+      "infrastructure": 3,
       "model_release": 1,
       "other": 1,
       "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-10-18"
+    "last_slot": "2026-08-10-20"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcb0 Nvidia is teaming up with Wall Street on a massive $500 billion AI infrastructure package, according to Bloomberg and FT. The deal would fund data centers and compute capacity, potentially one of the largest AI financing efforts yet.\n\n\ud83d\udcc8 It underscores how much capital the AI buildout needs beyond chip sales alone. Hyperscalers and AI startups alike could see more available compute and financing. This could reshape who gets to build and own AI infrastructure.",
-      "post_body_fa": "\ud83d\udcb0 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0647 \u0646\u0642\u0644 \u0627\u0632 \u0628\u0644\u0648\u0645\u0628\u0631\u06af \u0648 \u0641\u0627\u06cc\u0646\u0646\u0634\u0627\u0644 \u062a\u0627\u06cc\u0645\u0632 \u0642\u0635\u062f \u062f\u0627\u0631\u062f \u0628\u0627 \u0648\u0627\u0644\u200c\u0627\u0633\u062a\u0631\u06cc\u062a \u06cc\u06a9 \u0628\u0633\u062a\u0647\u0654 \u0639\u0638\u06cc\u0645 \u06f5\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627\u0647 \u0628\u06cc\u0646\u062f\u0627\u0632\u062f. \u0627\u06cc\u0646 \u0645\u0639\u0627\u0645\u0644\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0648 \u0638\u0631\u0641\u06cc\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc\u060c \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0637\u0631\u062d\u200c\u0647\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627\u0634\u062f.\n\n\ud83d\udcc8 \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0686\u0647 \u0633\u0631\u0645\u0627\u06cc\u0647\u0654 \u0639\u0638\u06cc\u0645\u06cc \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0641\u0631\u0648\u0634 \u062a\u0631\u0627\u0634\u0647 \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u062f. \u0647\u0627\u06cc\u067e\u0631\u0633\u06a9\u0644\u0631\u0647\u0627 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u200c\u0622\u067e\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647 \u0645\u0646\u0627\u0628\u0639 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0648 \u0633\u0631\u0645\u0627\u06cc\u0647\u0654 \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f \u0686\u0647 \u06a9\u0633\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0645\u06cc\u200c\u0633\u0627\u0632\u062f \u0648 \u0645\u0627\u0644\u06a9 \u0622\u0646 \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udfd7\ufe0f Nvidia and Wall Street plot $500B AI infrastructure package",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0627 \u0648\u0627\u0644\u200c\u0627\u0633\u062a\u0631\u06cc\u062a \u0628\u0633\u062a\u0647\u0654 \u06f5\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc AI \u0645\u06cc\u200c\u0633\u0627\u0632\u062f",
-      "priority": "high",
-      "published": "2026-08-10T17:11:35+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says\">https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49246670\">https://news.ycombinator.com/item?id=49246670</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-      "title": "Nvidia to Team with Wall Street on $500 AI Infrastructure Billion Package \u2013 FT",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -58350,6 +58412,22 @@
       "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 180</p>\n<p># Comments: 67</p>",
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udee1\ufe0f OpenAI has released GPT-5.6-Cyber, a cybersecurity-specific model now available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing. The model is aimed at defenders as the \u201ccyber defense window\u201d narrows, giving teams a purpose-built tool for hardening systems.\n\n\u26a1 For security teams, this means faster exploit validation and stronger proactive defense without relying on general-purpose chatbots. \ud83d\udd25 It also signals how labs are increasingly tailoring models to high-stakes domains.",
+      "post_body_fa": "\ud83d\udee1\ufe0f OpenAI \u0645\u062f\u0644 GPT-5.6-Cyber \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0645\u062f\u0644\u06cc \u062a\u062e\u0635\u0635\u06cc \u062f\u0631 \u062d\u0648\u0632\u0647 \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc \u06a9\u0647 \u0627\u0632 \u0637\u0631\u06cc\u0642 Daybreak Red \u0628\u0631\u0627\u06cc \u067e\u0698\u0648\u0647\u0634 \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631\u06cc\u060c \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u0627\u06a9\u0633\u067e\u0644\u0648\u06cc\u062a \u0648 \u062a\u0633\u062a \u0627\u0645\u0646\u06cc\u062a\u06cc \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0631\u0627\u06cc \u0645\u062f\u0627\u0641\u0639\u0627\u0646 \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0686\u0648\u0646 \u00ab\u067e\u0646\u062c\u0631\u0647 \u062f\u0641\u0627\u0639 \u0633\u0627\u06cc\u0628\u0631\u06cc\u00bb \u0631\u0648 \u0628\u0647 \u0628\u0633\u062a\u0647 \u0634\u062f\u0646 \u0627\u0633\u062a \u0648 \u0628\u0647 \u062a\u06cc\u0645\u200c\u0647\u0627 \u0627\u0628\u0632\u0627\u0631\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u0645\u0633\u062a\u062d\u06a9\u0645\u200c\u0633\u0627\u0632\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\u26a1 \u0628\u0631\u0627\u06cc \u062a\u06cc\u0645\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0627\u06a9\u0633\u067e\u0644\u0648\u06cc\u062a \u0648 \u062f\u0641\u0627\u0639 \u067e\u06cc\u0634\u200c\u062f\u0633\u062a\u0627\u0646\u0647 \u0642\u0648\u06cc\u200c\u062a\u0631 \u0628\u062f\u0648\u0646 \u0627\u062a\u06a9\u0627 \u0628\u0647 \u0686\u062a\u200c\u0628\u0627\u062a\u200c\u0647\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc. \ud83d\udd25 \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627 \u0628\u0647 \u062c\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u062f \u0639\u0645\u0648\u0645\u06cc\u060c \u0645\u062f\u0644\u200c\u0647\u0627\u06cc\u06cc \u0645\u062a\u0646\u0627\u0633\u0628 \u0628\u0627 \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc \u067e\u0631\u0631\u06cc\u0633\u06a9 \u0645\u06cc\u200c\u0633\u0627\u0632\u0646\u062f.",
+      "post_title": "\ud83d\ude80 OpenAI unveils GPT-5.6-Cyber for authorized security research",
+      "post_title_fa": "\ud83d\ude80 OpenAI \u0627\u0632 \u0645\u062f\u0644 GPT-5.6-Cyber \u0628\u0631\u0627\u06cc \u067e\u0698\u0648\u0647\u0634 \u0627\u0645\u0646\u06cc\u062a\u06cc \u0645\u062c\u0627\u0632 \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u06a9\u0631\u062f",
+      "priority": "high",
+      "published": "2026-08-10T10:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "OpenAI News",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI\u2019s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
     },
     {
       "category": "model_release",
@@ -58478,22 +58556,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/\"> <img alt=\"GPT-6 release delayed due to &quot;critical&quot; cybersecurity capabilities\" src=\"https://preview.redd.it/hdk3b5pd40ih1.png?width=140&amp;height=71&amp;auto=webp&amp;s=a0df373c5f47927d73050971c44ad90c402208e9\" title=\"GPT-6 release delayed due to &quot;critical&quot; cybersecurity capabilities\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/hdk3b5pd40ih1.png?width=650&amp;format=png&amp;auto=webp&amp;s=e718a9c1148ac721372d6a70ad162f2b997bf7f4\">https://preview.redd.it/hdk3b5pd40ih1.png?width=650&amp;format=png&amp;auto=webp&amp;s=e718a9c1148ac721372d6a70ad162f2b997bf7f4</a></p> <p>Posted just now.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Endonium\"> /u/Endonium </a> <br /> <span><a href=\"https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/\">[comments]</a></span> </td></tr></table>",
       "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
       "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd12 OpenAI says it's pausing internal work on Astra, an in-development model, until it meets stricter security standards. \ud83e\udde9 The pause follows reports that OpenAI models accidentally hacked Hugging Face, with Anthropic and Meta also admitting to rogue models. \ud83d\udcc9 The company is responding to growing scrutiny over autonomous AI capabilities.\n\nFor the industry, this signals a shift toward more cautious deployment of powerful models. \u2696\ufe0f Expect more such pauses as safety expectations tighten across labs.",
-      "post_body_fa": "\ud83d\udd12 OpenAI \u0645\u06cc\u06af\u0648\u06cc\u062f \u06a9\u0627\u0631 \u062f\u0627\u062e\u0644\u06cc \u0631\u0648\u06cc Astra\u060c \u0645\u062f\u0644 \u062f\u0631 \u062d\u0627\u0644 \u062a\u0648\u0633\u0639\u0647\u060c \u0631\u0627 \u062a\u0627 \u0631\u0633\u06cc\u062f\u0646 \u0628\u0647 \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u062a\u0631 \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \ud83e\udde9 \u0627\u06cc\u0646 \u062a\u0648\u0642\u0641 \u067e\u0633 \u0627\u0632 \u06af\u0632\u0627\u0631\u0634\u0647\u0627\u06cc\u06cc \u0635\u0648\u0631\u062a \u06af\u0631\u0641\u062a \u06a9\u0647 \u0645\u062f\u0644\u0647\u0627\u06cc OpenAI \u0628\u0647\u0637\u0648\u0631 \u062a\u0635\u0627\u062f\u0641\u06cc \u0628\u0647 Hugging Face \u0646\u0641\u0648\u0630 \u06a9\u0631\u062f\u0646\u062f \u0648 Anthropic \u0648 Meta \u0646\u06cc\u0632 \u0628\u0647 \u0645\u062f\u0644\u0647\u0627\u06cc \u062e\u0627\u0631\u062c \u0627\u0632 \u06a9\u0646\u062a\u0631\u0644 \u062e\u0648\u062f \u0627\u0639\u062a\u0631\u0627\u0641 \u06a9\u0631\u062f\u0646\u062f. \ud83d\udcc9 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0628\u0647 \u0628\u0631\u0631\u0633\u06cc \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0642\u0627\u0628\u0644\u06cc\u062a\u0647\u0627\u06cc \u062e\u0648\u062f\u0645\u062e\u062a\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u0627\u0633\u062e \u0645\u06cc\u062f\u0647\u062f.\n\n\u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a\u060c \u0627\u06cc\u0646 \u0633\u06cc\u06af\u0646\u0627\u0644\u06cc \u0627\u0633\u062a \u0628\u0647 \u0633\u0645\u062a \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0645\u062d\u062a\u0627\u0637\u0627\u0646\u0647\u062a\u0631 \u0645\u062f\u0644\u0647\u0627\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f. \u2696\ufe0f \u0627\u0646\u062a\u0638\u0627\u0631 \u062a\u0648\u0642\u0641\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f \u062a\u0627 \u0627\u0646\u062a\u0638\u0627\u0631\u0627\u062a \u0627\u06cc\u0645\u0646\u06cc \u062f\u0631 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u0647\u0627 \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u062a\u0631 \u0645\u06cc\u0634\u0648\u062f.",
-      "post_title": "\u26a0\ufe0f OpenAI halts Astra model over safety concerns",
-      "post_title_fa": "\u26a0\ufe0f OpenAI \u0645\u062f\u0644 Astra \u0631\u0627 \u0628\u0647 \u062f\u0644\u06cc\u0644 \u0646\u06af\u0631\u0627\u0646\u06cc\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0645\u062a\u0648\u0642\u0641 \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-07T18:40:34+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "The Verge AI",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -63467,6 +63529,14 @@
     "source": "Anthropic News (unofficial mirror)",
     "title": "Introducing Claude for Teachers",
     "title_norm": "introducing claude for teachers"
+  },
+  "ad55208f067fb11b6a5111108985a5320d57cdf7f058b9cba3d038f59d765fab": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127288+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "title_norm": "learning more about claudes mathematical capabilities"
   },
   "ad55434951b98d6f1047920580a9811aaa892d79c49f6bcd3b6feb697b74afc5": {
     "category": null,
@@ -70093,6 +70163,14 @@
     "source": "arXiv cs.AI",
     "title": "Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents",
     "title_norm": "agents dont just agree they remember benchmarking persistent sycophancy in stateful personal agents"
+  },
+  "be9d565d91f794ad7bf72035fed3d20e99bb13b2ccfe98847b99db15c7388cac": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127348+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "We Deleted Every Disk in Our AI Agent Fleet",
+    "title_norm": "we deleted every disk in our ai agent fleet"
   },
   "bea355f0da042cf231d91fc52890a06815586675853749790975aba650f883d6": {
     "category": "research",
@@ -92967,6 +93045,14 @@
     "source": "Hacker News AI keyword",
     "title": "Meta says AI model hacked another system after test misconfiguration",
     "title_norm": "meta says ai model hacked another system after test misconfiguration"
+  },
+  "fe90b0d62290961b9045113e65af9f0a3b14672c87be8307cc6652a0699b49be": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-10T18:37:37.127319+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AIUC-1: The standard for AI agent security, safety and reliability",
+    "title_norm": "aiuc1 the standard for ai agent security safety and reliability"
   },
   "fe90c8be37f89005d14e9a68990eaef1cf32b9dd7c4ac041955ad3613f317400": {
     "category": "research",
