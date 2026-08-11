@@ -4929,6 +4929,14 @@
     "title": "SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills",
     "title_norm": "skillsieve a hierarchical triage framework for detecting malicious ai agent skills"
   },
+  "0c829c10ee7c4ea314424fe6d7d5d7836e688e7ff899df0456a1ff21b1da40b3": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812856+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Jcode \u2013 open-source AI coding agent for the terminal",
+    "title_norm": "jcode opensource ai coding agent for the terminal"
+  },
   "0c852485745a331be9ae8ef8972db1190f10350b4a3c38076c7daa7f4bba441e": {
     "category": "other",
     "posted": false,
@@ -32559,6 +32567,20 @@
     "title": "Humanising LLM Outputs Is Dumb",
     "title_norm": "humanising llm outputs is dumb"
   },
+  "5192ad3ba74f35a657751cf511af1f52ea6da171c587c52e608d9d587179072c": {
+    "category": "other",
+    "message_id": 163,
+    "message_id_fa": 137,
+    "post_title": "\ud83d\udd25 Largest AI supply-chain breach exposes 2,500 companies",
+    "post_title_fa": "\ud83d\udd25 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0646\u0642\u0636 \u0632\u0646\u062c\u06cc\u0631\u0647 \u062a\u0623\u0645\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u061b \u0627\u0641\u0634\u0627\u06cc \u062f\u0627\u062f\u0647\u0647\u0627\u06cc \u06f2\u06f5\u06f0\u06f0 \u0634\u0631\u06a9\u062a",
+    "posted": true,
+    "posted_at": "2026-08-11T10:38:54.807143+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-11T10:38:53.812890+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "2,500 Companies and 434,000 Pipelines Exposed \u2013 Largest AI Supply Chain Breach",
+    "title_norm": "2500 companies and 434000 pipelines exposed largest ai supply chain breach"
+  },
   "51938481827fbd58c30a0aeed31c1598582e64cada0e334d402ec46bb9ea4e2e": {
     "category": "research",
     "posted": false,
@@ -55187,6 +55209,14 @@
     "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
     "title_norm": "comparing the performance of llms a deep dive into roberta llama 2 and mistral for disaster tweets analysis with lora"
   },
+  "8afbc126c1b527b2e2cbb87e282444931298e00eedc8f2afcb8876de4fd1e306": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812821+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Are we automating with AI instead of analysing then designing?",
+    "title_norm": "ask hn are we automating with ai instead of analysing then designing"
+  },
   "8afdb503cc5635992639a26513506f28523b4a0b75bbd01a7786187c3b0eba2d": {
     "category": "model_release",
     "posted": false,
@@ -59407,6 +59437,14 @@
     "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
     "title_norm": "fast remediation is the new trust model jfrog and openai zeroday findings"
   },
+  "95d984a674ba8773188ca3697497dc5e53bc220ab50bb47c26ce9a20b62cea24": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812907+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "A friendly reminder that tomorrow is Qwednesday.",
+    "title_norm": "a friendly reminder that tomorrow is qwednesday"
+  },
   "95dfeae71cb71ffcbe94caf46cd38c8d543dee8d3cc5ae26e787cd382733db83": {
     "category": "research",
     "posted": false,
@@ -62555,6 +62593,14 @@
     "title": "How Axios uses AI to help deliver high-impact local journalism",
     "title_norm": "how axios uses ai to help deliver highimpact local journalism"
   },
+  "9e58e652078e09602d8beaa6e2f8a26986df1f685cbe666251447c81187f6f5f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812666+00:00",
+    "source": "Wired AI",
+    "title": "AI Is Dead. Organoids Are Alive",
+    "title_norm": "ai is dead organoids are alive"
+  },
   "9e5bf1631323a80f2f361b2c593d37ef86387454cf5da9dce95afd5e164bbe01": {
     "category": "research",
     "posted": false,
@@ -63211,16 +63257,33 @@
   },
   "_meta": {
     "date": "2026-08-11",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "model_release": 1
+      "model_release": 1,
+      "other": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-11-10"
+    "last_slot": "2026-08-11-12"
   },
   "_queue": [
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udc41\ufe0f British Transport Police is expanding its live facial recognition trial to London Underground stations, automatically scanning passengers' faces in real time. The move makes the Tube one of the largest public transit systems to deploy this surveillance technology at scale. Critics warn the system raises serious privacy and bias concerns, while police say it helps catch wanted individuals quickly.\n\nIf the trial succeeds, similar live face scanning could spread to more stations across the UK. \ud83c\udf0d London joins a growing number of cities using AI-powered facial recognition in public spaces. \u2696\ufe0f The expansion is likely to intensify the debate over AI surveillance and civil liberties.",
+      "post_body_fa": "\ud83d\udc41\ufe0f \u067e\u0644\u06cc\u0633 \u062d\u0645\u0644\u0648\u0646\u0642\u0644 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u0622\u0632\u0645\u0627\u06cc\u0634 \u062a\u0634\u062e\u06cc\u0635 \u0686\u0647\u0631\u0647 \u0632\u0646\u062f\u0647 \u0631\u0627 \u0628\u0647 \u0627\u06cc\u0633\u062a\u06af\u0627\u0647\u0647\u0627\u06cc \u0645\u062a\u0631\u0648\u06cc \u0644\u0646\u062f\u0646 \u06af\u0633\u062a\u0631\u0634 \u0645\u06cc\u062f\u0647\u062f \u0648 \u0686\u0647\u0631\u0647 \u0645\u0633\u0627\u0641\u0631\u0627\u0646 \u0631\u0627 \u062f\u0631 \u0644\u062d\u0638\u0647 \u0627\u0633\u06a9\u0646 \u0645\u06cc\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645\u060c \u0645\u062a\u0631\u0648\u06cc \u0644\u0646\u062f\u0646 \u0631\u0627 \u0628\u0647 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645\u0647\u0627\u06cc \u062d\u0645\u0644\u0648\u0646\u0642\u0644 \u0639\u0645\u0648\u0645\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f \u06a9\u0647 \u0686\u0646\u06cc\u0646 \u0641\u0646\u0627\u0648\u0631\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0631\u0627 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u0648\u0633\u06cc\u0639 \u0628\u0647 \u06a9\u0627\u0631 \u0645\u06cc\u06af\u06cc\u0631\u062f. \u0645\u0646\u062a\u0642\u062f\u0627\u0646 \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u062f\u0647\u0646\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0646\u06af\u0631\u0627\u0646\u06cc\u0647\u0627\u06cc \u062c\u062f\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u0633\u0648\u06af\u06cc\u0631\u06cc \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u06a9\u0646\u062f\u061b \u067e\u0644\u06cc\u0633 \u0645\u06cc\u06af\u0648\u06cc\u062f \u0647\u062f\u0641\u060c \u062f\u0633\u062a\u06af\u06cc\u0631\u06cc \u0633\u0631\u06cc\u0639 \u0627\u0641\u0631\u0627\u062f \u062a\u062d\u062a \u062a\u0639\u0642\u06cc\u0628 \u0627\u0633\u062a.\n\n\u0627\u06af\u0631 \u0627\u06cc\u0646 \u0622\u0632\u0645\u0627\u06cc\u0634 \u0645\u0648\u0641\u0642 \u0628\u0627\u0634\u062f\u060c \u0627\u0633\u06a9\u0646 \u0632\u0646\u062f\u0647 \u0686\u0647\u0631\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0627\u06cc\u0633\u062a\u06af\u0627\u0647\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u06af\u0633\u062a\u0631\u0634 \u06cc\u0627\u0628\u062f. \ud83c\udf0d \u0644\u0646\u062f\u0646 \u0628\u0647 \u0641\u0647\u0631\u0633\u062a \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0634\u0647\u0631\u0647\u0627\u06cc\u06cc \u0645\u06cc\u067e\u06cc\u0648\u0646\u062f\u062f \u06a9\u0647 \u0627\u0632 \u062a\u0634\u062e\u06cc\u0635 \u0686\u0647\u0631\u0647 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0641\u0636\u0627\u0647\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u06a9\u0646\u0646\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u06af\u0633\u062a\u0631\u0634 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0628\u062d\u062b \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u0638\u0627\u0631\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0622\u0632\u0627\u062f\u06cc\u0647\u0627\u06cc \u0645\u062f\u0646\u06cc \u0631\u0627 \u062f\u0627\u063a\u062a\u0631 \u0645\u06cc\u06a9\u0646\u062f.",
+      "post_title": "\u2696\ufe0f London Underground begins scanning passengers' faces",
+      "post_title_fa": "\u2696\ufe0f \u0645\u062a\u0631\u0648\u06cc \u0644\u0646\u062f\u0646 \u0627\u0633\u06a9\u0646 \u0686\u0647\u0631\u0647 \u0645\u0633\u0627\u0641\u0631\u0627\u0646 \u0631\u0627 \u0622\u063a\u0627\u0632 \u06a9\u0631\u062f",
+      "priority": "high",
+      "published": "2026-08-11T09:40:02+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News Frontpage",
+      "summary": "<p>Article URL: <a href=\"https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/\">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49255496\">https://news.ycombinator.com/item?id=49255496</a></p>\n<p>Points: 9</p>\n<p># Comments: 9</p>",
+      "title": "London Underground begins scanning passengers' faces",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/"
+    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -63380,38 +63443,6 @@
       "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 180</p>\n<p># Comments: 67</p>",
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udce3 The community released Luth-2-0.8B and Luth-2-2B, two compact models that set a new state of the art for French across a wide range of tasks at their size. They're available on Hugging Face and reportedly beat much larger French-focused models on benchmarks like French Bench.\n\n\u26a1 Because they're small, they can run locally on modest hardware, which is great for privacy and cost. \ud83c\uddeb\ud83c\uddf7 That makes them a solid base for French-language apps, from chatbots to document processing, without relying on API calls. The authors also promise a reasoning variant, so this line is just getting started.",
-      "post_body_fa": "\ud83d\udce3 \u062c\u0627\u0645\u0639\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc Luth-2-0.8B \u0648 Luth-2-2B \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u061b \u062f\u0648 \u0645\u062f\u0644 \u062c\u0645\u0639\u200c\u0648\u062c\u0648\u0631 \u06a9\u0647 \u062f\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u062e\u0648\u062f\u060c \u0639\u0645\u0644\u06a9\u0631\u062f\u06cc \u062a\u0627\u0632\u0647 \u0648 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 \u062f\u0631 \u0632\u0628\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u0628\u0647 \u062b\u0628\u062a \u0645\u06cc\u200c\u0631\u0633\u0627\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627 \u0631\u0648\u06cc Hugging Face \u062f\u0631 \u062f\u0633\u062a\u0631\u0633\u200c\u0627\u0646\u062f \u0648 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u062f\u0631 \u0645\u0639\u06cc\u0627\u0631\u0647\u0627\u06cc\u06cc \u0645\u062b\u0644 French Bench \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0648 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc\u200c\u0645\u062d\u0648\u0631 \u0628\u0647\u062a\u0631 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\u26a1 \u0628\u0647\u200c\u062e\u0627\u0637\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0648\u0686\u06a9\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u0627\u062c\u0631\u0627 \u06a9\u0631\u062f \u06a9\u0647 \u0628\u0631\u0627\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u0647\u0632\u06cc\u0646\u0647 \u0639\u0627\u0644\u06cc \u0627\u0633\u062a. \ud83c\uddeb\ud83c\uddf7 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u067e\u0627\u06cc\u0647\u200c\u0627\u06cc \u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc \u0641\u0631\u0627\u0646\u0633\u0648\u06cc\u060c \u0627\u0632 \u0686\u062a\u200c\u0628\u0627\u062a\u200c\u0647\u0627 \u062a\u0627 \u067e\u0631\u062f\u0627\u0632\u0634 \u0627\u0633\u0646\u0627\u062f \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f\u061b \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 API. \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0648\u0639\u062f\u0647 \u0646\u0633\u062e\u0647\u200c\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u06cc \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u067e\u0633 \u0627\u06cc\u0646 \u062e\u0637 \u062a\u0627\u0632\u0647 \u0634\u0631\u0648\u0639 \u06a9\u0627\u0631 \u0627\u0633\u062a.",
-      "post_title": "\ud83d\ude80 Luth-2: New state-of-the-art French small language models",
-      "post_title_fa": "\ud83d\ude80 Luth-2: \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u06a9\u0648\u0686\u06a9 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u0628\u0627 \u062c\u062f\u06cc\u062f\u062a\u0631\u06cc\u0646 \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u0639\u0645\u0644\u06a9\u0631\u062f",
-      "priority": "medium",
-      "published": "2026-08-11T08:41:13+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/\"> <img alt=\"Luth-2: New State-of-the-Art French Small Language Models\" src=\"https://preview.redd.it/3sgce32djpih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f363ae285fde2512e68162cc793792e86438ebd3\" title=\"Luth-2: New State-of-the-Art French Small Language Models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Today we release <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B\">Luth-2-0.8B</a> and <a href=\"https://huggingface.co/kurakurai/Luth-2-2B\">Luth2-2-2B</a>, two non-reasoning models that set a new <strong>state of the art for French</strong> across a wide variety of tasks for their size \ud83d\ude80</p> <p>A few notable scores on French benchmarks compared to models \u301c3 times their size:<br /> - Luth-2-2B scores 69.67 vs Gemma-4-E2B-it at 65.17 on Multi-IF.<br /> - Luth-2-0.8B scores 72.92 vs granite-4.0-h-micro at 55.60 on MGSM-Rev2.<br /> - Luth-2-2B scores 81.52 vs Gemma-4-E2B-it at 81.24 on Math-500.</p> <p><strong>Luth-2</strong> builds on our <a href=\"https://huggingface.co/blog/MaxLSB/luth\">previous work</a> with several substantial improvements. We introduce a new 3B-token SFT mixture covering a broader range of domains, including mathematics, knowledge, code, tool calling, instruction following, multi-turn dialogue, and science. We also use reinforcement learning through expert specialisations and multi-domain on-policy distillation (MOPD) to further extend the models\u2019 capabilities. Finally, we move to Qwen3.5 as the backbone, as we found it to be substantially more receptive to post-training.</p> <p>The resulting models outperform every model in their size class across the selected French benchmarks, while staying competitive with much bigger models. Both are light enough to run locally for on-device use. More broadly, these results suggest that current multilingual SLMs still leave substantial capability on the table outside English, even for high-resource languages like French.</p> <p>Luth-2-2B and Luth-2-0.8B are available now on Hugging Face:</p> <p>\ud83e\udd17 Models: <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B\">Luth-2-0.8B</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-2B\">Luth2-2-2B</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B-GGUF\">Luth-2-0.8B-GGUF</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-2B-GGUF\">Luth2-2-2B-GGUF</a> |<br /> \ud83d\udcda Data: <a href=\"https://huggingface.co/datasets/kurakurai/Luth-2-Post-Training-SFT\">Luth-2-Post-Training-SFT</a> | <a href=\"https://huggingface.co/datasets/kurakurai/Luth-2-Post-Training-RL\">Luth-2-Post-Training-RL</a><br /> \ud83d\udcbb Code: <a href=\"https://github.com/kurakurai/Luth-2\">https://github.com/kurakurai/Luth-2</a><br /> \u270f\ufe0f Blog: <a href=\"https://huggingface.co/blog/MaxLSB/luth-2\">https://huggingface.co/blog/MaxLSB/luth-2</a><br /> \ud83c\udfc6 FR Leaderboard: <a href=\"https://huggingface.co/spaces/kurakurai/llm_leaderboard_fr\">https://huggingface.co/spaces/kurakurai/llm_leaderboard_fr</a></p> <p>We\u2019d love to hear your feedback, so don\u2019t hesitate to give it a try! \ud83d\ude42</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Unusual_Shoe2671\"> /u/Unusual_Shoe2671 </a> <br /> <span><a href=\"https://i.redd.it/3sgce32djpih1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/\">[comments]</a></span> </td></tr></table>",
-      "title": "Luth-2: New State-of-the-Art French Small Language Models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcf0 Anthropic has unveiled a watermarking tool that could detect AI-generated text, including novels, making it harder for AI-written work to go unnoticed. The system embeds invisible patterns into Claude's responses, which can be identified later to confirm AI authorship. Early reports suggest it works even after light copy-editing, though aggressive rewrites might still evade it.\n\nThis matters because publishers and platforms have struggled to verify AI-written content at scale. If the tool gains traction, it could push other labs to adopt similar transparency features and change how AI text is regulated.",
-      "post_body_fa": "\ud83d\udcf0 Anthropic \u0627\u0628\u0632\u0627\u0631 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u06cc\u0646\u06af\u06cc \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u062a\u0646\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0631\u0645\u0627\u0646\u200c\u0647\u0627 \u0631\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0646\u062f \u0648 \u0646\u0627\u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u0627\u0646\u062f\u0646 \u0622\u062b\u0627\u0631 AI \u0631\u0627 \u062f\u0634\u0648\u0627\u0631\u062a\u0631 \u0633\u0627\u0632\u062f. \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0627\u0644\u06af\u0648\u0647\u0627\u06cc \u0646\u0627\u0645\u0631\u0626\u06cc \u0631\u0627 \u062f\u0631 \u067e\u0627\u0633\u062e\u200c\u0647\u0627\u06cc Claude \u062c\u0627\u0633\u0627\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0628\u0639\u062f\u0627\u064b \u0628\u0631\u0627\u06cc \u062a\u0623\u06cc\u06cc\u062f \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0642\u0627\u0628\u0644 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0647\u0633\u062a\u0646\u062f. \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0631\u0648\u0634 \u062d\u062a\u06cc \u067e\u0633 \u0627\u0632 \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0633\u0628\u06a9 \u0646\u06cc\u0632 \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0647\u0631\u0686\u0646\u062f \u0628\u0627\u0632\u0646\u0648\u06cc\u0633\u06cc \u062a\u0647\u0627\u062c\u0645\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0627\u0632 \u0622\u0646 \u0639\u0628\u0648\u0631 \u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0632\u06cc\u0631\u0627 \u0646\u0627\u0634\u0631\u0627\u0646 \u0648 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u06af\u0633\u062a\u0631\u062f\u0647 \u0628\u0631\u0627\u06cc \u062a\u0623\u06cc\u06cc\u062f \u0645\u062d\u062a\u0648\u0627\u06cc AI \u062f\u0686\u0627\u0631 \u0645\u0634\u06a9\u0644 \u0628\u0648\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0641\u0631\u0627\u06af\u06cc\u0631 \u0634\u0648\u062f\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0631\u0627 \u0628\u0647 \u067e\u0630\u06cc\u0631\u0634 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0645\u0634\u0627\u0628\u0647 \u0633\u0648\u0642 \u062f\u0647\u062f \u0648 \u0646\u062d\u0648\u0647 \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0645\u062a\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f.",
-      "post_title": "\ud83d\udee0\ufe0f Anthropic's New Tool Could Expose AI-Written Novels",
-      "post_title_fa": "\ud83d\udee0\ufe0f \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f Anthropic \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0631\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0646\u0648\u0634\u062a\u0647\u200c\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0641\u0627\u0634 \u06a9\u0646\u062f",
-      "priority": "medium",
-      "published": "2026-08-11T07:37:44+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8\">https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254625\">https://news.ycombinator.com/item?id=49254625</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "Anthropic's New Tool Could Expose AI-Written Novels",
-      "url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -77106,6 +77137,14 @@
     "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
     "title_norm": "judge rejects googles attempt to dmca its way out of being scraped"
   },
+  "c1518b5f1721bdc0f238f037d33edd2ba7b690d48528134d8cd7ba667d836256": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812876+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Testing the effectiveness AI peer review",
+    "title_norm": "testing the effectiveness ai peer review"
+  },
   "c1523efff15faab25f166dc2c9616c1bb641fc54944787bb3f6518212e7adc62": {
     "category": "other",
     "posted": false,
@@ -82649,6 +82688,14 @@
     "source": "OpenAI News",
     "title": "Put AI to work for your product team",
     "title_norm": "put ai to work for your product team"
+  },
+  "cfad51a84b8177556cc8e14d88f74d1236ec5f108fcce3418eedc61bfedc8c52": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812934+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Tested in Coding: BF16 Muse Glimmer vs BF16 Qwen3.6 27B",
+    "title_norm": "tested in coding bf16 muse glimmer vs bf16 qwen36 27b"
   },
   "cfae421dde754e54b950e38af2aeb4921eec4006cb2dd99ec889021387ea01d5": {
     "category": "other",
@@ -90033,6 +90080,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
     "title_norm": "introducing the hugging face llm inference container for amazon sagemaker"
+  },
+  "e29577c3800a9d009cca7d82e7f40b2512a1438c03f3c1c50a4835301350b2a9": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812798+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "London Underground begins scanning passengers' faces",
+    "title_norm": "london underground begins scanning passengers faces"
   },
   "e299630b866e2d7ebb7f543050983e5dd910dbcd47a219178da9f4e988c6a6ce": {
     "category": "research",
@@ -97591,6 +97646,14 @@
     "source": "OpenAI News",
     "title": "ChatGPT for customer success teams",
     "title_norm": "chatgpt for customer success teams"
+  },
+  "f6f84a2eec760fbb677df8a0c286d4f5c46ca0f1e86194c947ee5496c1a11ccf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T10:38:53.812920+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Rumored 50-series Super refresh bumps everything +50% VRAM",
+    "title_norm": "rumored 50series super refresh bumps everything 50 vram"
   },
   "f6f8b1ccb9857b5d9335548c5bfba2a37520982858520dc9c2901e34aaa9fee7": {
     "category": "courses",
