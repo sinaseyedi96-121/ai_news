@@ -5121,6 +5121,14 @@
     "title": "Show HN: An MCP server that gives AI assistants live weather and hazard data",
     "title_norm": "show hn an mcp server that gives ai assistants live weather and hazard data"
   },
+  "0cccc9a6cf1b43b78143aa88a7743442c744454980c09f2d3d87d6f12819d59d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326570+00:00",
+    "source": "The Verge AI",
+    "title": "Another OpenAI executive takes off",
+    "title_norm": "another openai executive takes off"
+  },
   "0cda3add43792a6631f69092ca8c2e78ab89455cc046b5c4f46a3c831c13563a": {
     "category": "other",
     "posted": false,
@@ -5600,6 +5608,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
     "title_norm": "deepseekv4flash0731 udiq3_xxs about 11ts on 1x 7900 xtx 24gb 3x mi60 32gb 128gb ddr4"
+  },
+  "0deb7f666bec542390038321da56097c056fb4d6e977fb5aa2d61236b7e8c744": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326547+00:00",
+    "source": "TechCrunch AI",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "title_norm": "general catalyst leads 11b round into 2monthold river ai"
   },
   "0df61418b28fa0223c2e9b6e9128a21fea094c13996d9b1d9375481508b100f6": {
     "category": "model_release",
@@ -17895,6 +17911,14 @@
     "title": "Protecting people from harmful manipulation",
     "title_norm": "protecting people from harmful manipulation"
   },
+  "2b842a3c20f2360b39f8886402f6b80864ba38cb7709114e2e26cf0e53bd3cfc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326632+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Sam's News \u2013 Free AI News Aggregator",
+    "title_norm": "sams news free ai news aggregator"
+  },
   "2b843178b595da18c2f65b18a49219557a0e3de7c60e2c03757d4d8d68e9aa2c": {
     "category": "integration",
     "posted": false,
@@ -25271,6 +25295,14 @@
     "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
     "title_norm": "a zoom screensharing bug let anyone take over other devices on a call"
   },
+  "3db162b1e6ca81c4674bbab3ea887c767c2287903d358d4f46da7654e9b0e3e6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326713+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Sphere packing, AI, and mathematical beauty",
+    "title_norm": "sphere packing ai and mathematical beauty"
+  },
   "3db3a09c434611680f2bc50258f6bf36607efc9bd1fc19cfb260304268d4c412": {
     "category": "other",
     "posted": false,
@@ -27361,6 +27393,14 @@
     "title": "Show HN: XTokenChecker \u2013 Verifies model identities of your AI gateway",
     "title_norm": "show hn xtokenchecker verifies model identities of your ai gateway"
   },
+  "4341b6b058998a2208ada505b73d953263edb55095686775069a37fc019ad013": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326619+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: SmokeOps \u2013 describe a flow, get checks you rerun without AI",
+    "title_norm": "show hn smokeops describe a flow get checks you rerun without ai"
+  },
   "43464ee053a44351dcc9cc0ffaf3deee41ddd3fa398379fd420bfd4deef4f1e0": {
     "category": "other",
     "posted": false,
@@ -28118,6 +28158,20 @@
     "source": "arXiv cs.AI",
     "title": "Effect of Abstractions and Prompting Strategies on LLM-Guided High-Performance Optimizations",
     "title_norm": "effect of abstractions and prompting strategies on llmguided highperformance optimizations"
+  },
+  "45435fc6d52f17b39cc485e0f0b53500fb0b9c23351b63414ec341f5a9c54215": {
+    "category": "model_release",
+    "message_id": 167,
+    "message_id_fa": 141,
+    "post_title": "\ud83d\ude80 Nvidia Building 1T-Parameter Nemotron 4 to Rival Open AI Models",
+    "post_title_fa": "\ud83d\ude80 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u062f\u0631 \u062d\u0627\u0644 \u0633\u0627\u062e\u062a Nemotron 4 \u0628\u0627 \u06f1 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u0628\u0631\u0627\u06cc \u0631\u0642\u0627\u0628\u062a \u0628\u0627 \u0645\u062f\u0644\u0647\u0627\u06cc \u0645\u062a\u0646\u0628\u0627\u0632",
+    "posted": true,
+    "posted_at": "2026-08-11T18:40:39.514634+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-11T18:40:38.326644+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
+    "title_norm": "nvidia building 1tparameter nemotron 4 to rival open ai models"
   },
   "4548d9f845a88bbf17c96100897ffe720a6eaf1f8e8b62e38fdda25bb6e368d6": {
     "category": "other",
@@ -39549,6 +39603,14 @@
     "title": "Google's HTTP/2 codec slows Envoy",
     "title_norm": "googles http2 codec slows envoy"
   },
+  "61a019d1886f401bca77403079b2dfed3005fde93afb81fe6379f63eb6558828": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326586+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "OpenSSH 10.5 released, AI fixes now welcome",
+    "title_norm": "openssh 105 released ai fixes now welcome"
+  },
   "61a0c7f191b026a1178f31fe80c5af392ea66dad7ec176443d42ecbb0bcf1802": {
     "category": "other",
     "posted": false,
@@ -43899,6 +43961,14 @@
     "title": "Dense Language Generation Made Simple: Deterministic, Randomized, and Multi-Order Algorithms",
     "title_norm": "dense language generation made simple deterministic randomized and multiorder algorithms"
   },
+  "6c50ffb961deeeffc7709173a41dc6b08b8d9f60a9470ac6dc921f8b21319ccd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326678+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
+    "title_norm": "ask hn what are your thoughts on e2e software development using ai agents"
+  },
   "6c5692bd5d5ddc92ada7c8ebf856acbc41ac4b39f4c60a5287c5a040f4fb4f0d": {
     "category": null,
     "posted": false,
@@ -47518,6 +47588,14 @@
     "source": "arXiv cs.AI",
     "title": "Kernelized Linear Attention: Breaking the Capacity Wall with Symmetric Cones",
     "title_norm": "kernelized linear attention breaking the capacity wall with symmetric cones"
+  },
+  "756c0ed4e160ab45225f1e6b32d7b5971e97930af7c063d17a82749188c8afab": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326598+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+    "title_norm": "woman pulled over at gunpoint twice after flock camera glitch"
   },
   "756ea34620600db4c97d0ee6dacc43aa4b960921b2edd0c97ce4d9ecad99e240": {
     "category": "research",
@@ -54525,6 +54603,14 @@
     "title": "Wan 3.0 Best AI Video Generator",
     "title_norm": "wan 30 best ai video generator"
   },
+  "88009b3d74ddb5949ca2b03a4db17767ae52fc6995ca9064545769780040d8da": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326734+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+    "title_norm": "mastering edge ai on raspberry pi with litert and gemma"
+  },
   "88029bacb83d2aa3b852efd75daba1dedb557db56b49966b52d1121c141ab4e4": {
     "category": "other",
     "posted": false,
@@ -54668,6 +54754,14 @@
     "source": "arXiv cs.AI",
     "title": "NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability",
     "title_norm": "nesyfs a neurosymbolic fastslow thinking framework for llm agent under partial observability"
+  },
+  "8866c1333d9a699d548293b36c2eb880df8fe9bd20b07d8b05f4ebf3cae3cd90": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326666+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+    "title_norm": "china warns of security backdoor in anthropic ai coding tool july 8 2026"
   },
   "88705497ac00315f2a64c2bc3103fb43d17f7bfb049006dae684dde41fd1bdda": {
     "category": "research",
@@ -60495,6 +60589,14 @@
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "title_norm": "bringing nunchaku 4bit diffusion inference to diffusers"
   },
+  "970f6ea60fd42f7d7376abd088880d969f0ad82a15f0b82dc18e2b4fd7b6d635": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326723+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
+    "title_norm": "ai loop engineering in 2026 how to build a gauntlet loop"
+  },
   "9713c04e1b260e73883577307d1b9615757a52b262a902ff9f2a360bb1dd98fc": {
     "category": "model_release",
     "posted": false,
@@ -60694,6 +60796,14 @@
     "source": "Hugging Face Blog",
     "title": "Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo",
     "title_norm": "controlling language model generation with nvidias logitsprocessorzoo"
+  },
+  "97a0a59be64132505a7583a14438eb2e1a855c417b2b9617d4c8d593a190292a": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326766+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Nvidia Nemo Switchyard",
+    "title_norm": "nvidia nemo switchyard"
   },
   "97a20a5f6de1adab1885477e6e83608803064f8b43f4575dc1bf838bf26fa250": {
     "category": "other",
@@ -61737,6 +61847,14 @@
     "title": "VPWEM: Non-Markovian Visuomotor Policy with Working and Episodic Memory",
     "title_norm": "vpwem nonmarkovian visuomotor policy with working and episodic memory"
   },
+  "9a90ed7c73cb748433e588b0447f047ae8f0bc33bf292cc98f791aa06bf2c43b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326655+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI spend observability down to individual User ID's and routes",
+    "title_norm": "ai spend observability down to individual user ids and routes"
+  },
   "9a983c4e9cf6b7702e4183d566e3fb378088f89ad66efc1631c9af494f07bc1a": {
     "category": "infrastructure",
     "posted": false,
@@ -62460,6 +62578,14 @@
     "source": "arXiv cs.AI",
     "title": "Autonomous discovery of accelerator commissioning algorithms",
     "title_norm": "autonomous discovery of accelerator commissioning algorithms"
+  },
+  "9c9655d8f9489dd8da73b6d13132d7f9d31de25352e600b8ad7341a4fd793bc2": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326704+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Spotify to Label AI 'Artists'",
+    "title_norm": "spotify to label ai artists"
   },
   "9c979dfd6d499a1aab836fed9e17236c6b6af23897bff3021b30443b1d6d985b": {
     "category": "other",
@@ -63821,19 +63947,67 @@
   },
   "_meta": {
     "date": "2026-08-11",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
       "infrastructure": 2,
-      "model_release": 1,
+      "model_release": 2,
       "other": 1,
       "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-11-18"
+    "last_slot": "2026-08-11-20"
   },
   "_queue": [
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udea8 China has issued a warning about an alleged 'security backdoor' in Anthropic's AI coding tool, according to CBS News. \ud83d\udee1\ufe0f The warning could escalate tensions over AI security and export controls between Washington and Beijing. Anthropic has not publicly responded yet. \ud83c\udf0d Government accusations like this can affect the adoption of AI tools in global markets and lead to tighter regulations. For developers, it's a reminder that AI software is increasingly caught up in geopolitical disputes.",
+      "post_body_fa": "\ud83d\udea8 \u0686\u06cc\u0646 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 CBS News \u062f\u0631\u0628\u0627\u0631\u0647 \u06cc\u06a9 \u00ab\u062f\u0631 \u067e\u0634\u062a\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc\u00bb \u0627\u062f\u0639\u0627\u06cc\u06cc \u062f\u0631 \u0627\u0628\u0632\u0627\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Anthropic \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \ud83d\udee1\ufe0f \u0627\u06cc\u0646 \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062a\u0646\u0634\u0647\u0627 \u0628\u0631 \u0633\u0631 \u0627\u0645\u0646\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u06a9\u0646\u062a\u0631\u0644\u0647\u0627\u06cc \u0635\u0627\u062f\u0631\u0627\u062a\u06cc \u0628\u06cc\u0646 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0648 \u067e\u06a9\u0646 \u0631\u0627 \u062a\u0634\u062f\u06cc\u062f \u06a9\u0646\u062f. Anthropic \u0647\u0646\u0648\u0632 \u067e\u0627\u0633\u062e \u0639\u0645\u0648\u0645\u06cc \u0646\u062f\u0627\u062f\u0647. \ud83c\udf0d \u0627\u062a\u0647\u0627\u0645\u0627\u062a \u062f\u0648\u0644\u062a\u06cc \u0627\u0632 \u0627\u06cc\u0646 \u062f\u0633\u062a \u0645\u06cc\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0631 \u067e\u0630\u06cc\u0631\u0634 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0628\u0627\u0632\u0627\u0631\u0647\u0627\u06cc \u062c\u0647\u0627\u0646\u06cc \u062a\u0623\u062b\u06cc\u0631 \u0628\u06af\u0630\u0627\u0631\u0646\u062f \u0648 \u0628\u0647 \u0645\u0642\u0631\u0631\u0627\u062a \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u062a\u0631\u06cc \u0645\u0646\u062c\u0631 \u0634\u0648\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0646\u0631\u0645\u0627\u0641\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647\u0637\u0648\u0631 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647\u0627\u06cc \u062f\u0631\u06af\u06cc\u0631 \u0627\u062e\u062a\u0644\u0627\u0641\u0627\u062a \u0698\u0626\u0648\u067e\u0644\u06cc\u062a\u06cc\u06a9\u06cc \u0645\u06cc\u0634\u0648\u0646\u062f.",
+      "post_title": "\u2696\ufe0f China Warns of 'Security Backdoor' in Anthropic's AI Coding Tool",
+      "post_title_fa": "\u2696\ufe0f \u0686\u06cc\u0646 \u062f\u0631\u0628\u0627\u0631\u0647 \u00ab\u062f\u0631 \u067e\u0634\u062a\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc\u00bb \u062f\u0631 \u0627\u0628\u0632\u0627\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Anthropic \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f",
+      "priority": "high",
+      "published": "2026-08-11T17:43:55+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/\">https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261800\">https://news.ycombinator.com/item?id=49261800</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+      "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udeaa Brad Lightcap, OpenAI's longtime COO, is exiting the company to pursue a new venture, according to an internal memo published Monday. His departure marks the latest in a string of leadership shakeups at the lab, coming just months after a series of high-profile exits. Lightcap, who helped build OpenAI's partnerships and business operations, said he's 'excited to help you all advance the mission from a different vantage point.' \ud83d\udcac\n\nThe move raises questions about continuity at one of the world's most influential AI companies. \ud83c\udf0d This signals a period of transition that could shape OpenAI's strategic direction.",
+      "post_body_fa": "\ud83d\udeaa \u0628\u0631\u062f \u0644\u0627\u06cc\u062a\u06a9\u067e\u060c \u0645\u062f\u06cc\u0631 \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc \u062f\u06cc\u0631\u06cc\u0646\u0647 OpenAI\u060c \u0637\u0628\u0642 \u06cc\u0627\u062f\u062f\u0627\u0634\u062a \u062f\u0627\u062e\u0644\u06cc \u0645\u0646\u062a\u0634\u0631\u0634\u062f\u0647 \u062f\u0648\u0634\u0646\u0628\u0647\u060c \u062f\u0631 \u062d\u0627\u0644 \u062a\u0631\u06a9 \u0634\u0631\u06a9\u062a \u0628\u0631\u0627\u06cc \u0634\u0631\u0648\u0639 \u06cc\u06a9 \u0645\u0627\u062c\u0631\u0627\u062c\u0648\u06cc\u06cc \u062c\u062f\u06cc\u062f \u0627\u0633\u062a. \u062e\u0631\u0648\u062c \u0627\u0648 \u062a\u0627\u0632\u0647\u062a\u0631\u06cc\u0646 \u0645\u0648\u0631\u062f \u0627\u0632 \u06cc\u06a9 \u0633\u0631\u06cc \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0631\u0647\u0628\u0631\u06cc \u062f\u0631 \u0627\u06cc\u0646 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0627\u0633\u062a \u06a9\u0647 \u067e\u0633 \u0627\u0632 \u0686\u0646\u062f \u062e\u0631\u0648\u062c \u067e\u0631\u0647\u06cc\u0627\u0647\u0648 \u0631\u062e \u0645\u06cc\u062f\u0647\u062f. \u0644\u0627\u06cc\u062a\u06a9\u067e \u06a9\u0647 \u0628\u0647 \u0633\u0627\u062e\u062a \u0645\u0634\u0627\u0631\u06a9\u062a\u0647\u0627 \u0648 \u0639\u0645\u0644\u06cc\u0627\u062a \u062a\u062c\u0627\u0631\u06cc OpenAI \u06a9\u0645\u06a9 \u06a9\u0631\u062f\u0647\u060c \u06af\u0641\u062a\u0647 \u0627\u0632 \u0627\u06cc\u0646\u06a9\u0647 \u00ab\u0627\u0632 \u0645\u0646\u0638\u0631\u06cc \u0645\u062a\u0641\u0627\u0648\u062a \u0628\u0647 \u067e\u06cc\u0634\u0628\u0631\u062f \u0645\u0623\u0645\u0648\u0631\u06cc\u062a \u06a9\u0645\u06a9 \u06a9\u0646\u062f\u00bb \u0647\u06cc\u062c\u0627\u0646\u0632\u062f\u0647 \u0627\u0633\u062a. \ud83d\udcac\n\n\u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0633\u0648\u0627\u0644\u0627\u062a\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u062f\u0627\u0648\u0645 \u0645\u062f\u06cc\u0631\u06cc\u062a \u062f\u0631 \u06cc\u06a9\u06cc \u0627\u0632 \u062a\u0623\u062b\u06cc\u0631\u06af\u0630\u0627\u0631\u062a\u0631\u06cc\u0646 \u0634\u0631\u06a9\u062a\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062c\u0647\u0627\u0646 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u06a9\u0646\u062f. \ud83c\udf0d \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u0627\u06cc \u0627\u0632 \u06cc\u06a9 \u062f\u0648\u0631\u0647 \u06af\u0630\u0627\u0631 \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062c\u0647\u062a \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9 OpenAI \u0631\u0627 \u0634\u06a9\u0644 \u062f\u0647\u062f.",
+      "post_title": "\ud83d\udc4b OpenAI's Longtime COO Brad Lightcap Departs to Start Something New",
+      "post_title_fa": "\ud83d\udc4b \u0628\u0631\u062f \u0644\u0627\u06cc\u062a\u06a9\u067e\u060c \u0645\u062f\u06cc\u0631 \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc \u062f\u06cc\u0631\u06cc\u0646\u0647 OpenAI\u060c \u0628\u0631\u0627\u06cc \u0634\u0631\u0648\u0639 \u06a9\u0627\u0631\u06cc \u062c\u062f\u06cc\u062f \u0645\u06cc\u0631\u0648\u062f",
+      "priority": "high",
+      "published": "2026-08-11T17:41:34+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\ude80 General Catalyst led a massive $1.1 billion round into River AI, a startup founded just two months ago by xAI co-founder Igor Babuschkin. \ud83d\udcb5 The company is building personal agents, a space that has drawn huge investor interest. Despite being brand new, River AI secured one of the largest early-stage rounds in recent memory. \ud83d\udcc8\n\nThe funding underscores the intense competition for talent and ideas in the agentic AI market. For readers, it shows that investors are betting big on AI agents coming out of the xAI ecosystem.",
+      "post_body_fa": "\ud83d\ude80 \u062c\u0646\u0631\u0627\u0644 \u06a9\u0627\u062a\u0627\u0644\u06cc\u0633\u062a \u06cc\u06a9 \u062f\u0648\u0631 \u0633\u0631\u0645\u0627\u06cc\u0647\u06af\u0630\u0627\u0631\u06cc \u0639\u0638\u06cc\u0645 \u06f1.\u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0631\u0627 \u062f\u0631 River AI \u0631\u0647\u0628\u0631\u06cc \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u06cc \u06a9\u0647 \u062a\u0646\u0647\u0627 \u062f\u0648 \u0645\u0627\u0647 \u067e\u06cc\u0634 \u062a\u0648\u0633\u0637 \u0627\u06cc\u06af\u0648\u0631 \u0628\u0627\u0628\u0648\u0634\u06a9\u06cc\u0646\u060c \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0646\u06cc\u0627\u0646\u06af\u0630\u0627\u0631\u0627\u0646 xAI\u060c \u062a\u0623\u0633\u06cc\u0633 \u0634\u062f\u0647. \ud83d\udcb5 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u062f\u0631 \u062d\u0627\u0644 \u0633\u0627\u062e\u062a \u0639\u0627\u0645\u0644\u0647\u0627\u06cc \u0634\u062e\u0635\u06cc \u0627\u0633\u062a\u061b \u0641\u0636\u0627\u06cc\u06cc \u06a9\u0647 \u062a\u0648\u062c\u0647 \u0632\u06cc\u0627\u062f\u06cc \u0627\u0632 \u0633\u0631\u0645\u0627\u06cc\u0647\u06af\u0630\u0627\u0631\u0627\u0646 \u062c\u0644\u0628 \u06a9\u0631\u062f\u0647. \u0628\u0627 \u0648\u062c\u0648\u062f \u062a\u0627\u0632\u06af\u06cc\u060c River AI \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u062f\u0648\u0631\u0647\u0627\u06cc \u0633\u0631\u0645\u0627\u06cc\u0647\u06af\u0630\u0627\u0631\u06cc \u0627\u0648\u0644\u06cc\u0647 \u062f\u0631 \u0633\u0627\u0644\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631 \u0631\u0627 \u0628\u0647 \u062f\u0633\u062a \u0622\u0648\u0631\u062f\u0647. \ud83d\udcc8\n\n\u0627\u06cc\u0646 \u0633\u0631\u0645\u0627\u06cc\u0647\u06af\u0630\u0627\u0631\u06cc \u0628\u0631 \u0631\u0642\u0627\u0628\u062a \u0634\u062f\u06cc\u062f \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0639\u062f\u0627\u062f \u0648 \u0627\u06cc\u062f\u0647\u0647\u0627 \u062f\u0631 \u0628\u0627\u0632\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0627\u0645\u0644\u0645\u062d\u0648\u0631 \u062a\u0623\u06a9\u06cc\u062f \u062f\u0627\u0631\u062f. \u0628\u0631\u0627\u06cc \u0645\u062e\u0627\u0637\u0628\u0627\u0646\u060c \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u0633\u0631\u0645\u0627\u06cc\u0647\u06af\u0630\u0627\u0631\u0627\u0646 \u0634\u0631\u0637 \u0628\u0632\u0631\u06af\u06cc \u0631\u0648\u06cc \u0639\u0627\u0645\u0644\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0632 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 xAI \u06af\u0630\u0627\u0634\u062a\u0647\u0627\u0646\u062f.",
+      "post_title": "\ud83d\udcb0 $1.1B for River AI, Two-Month-Old Startup From xAI Co-Founder",
+      "post_title_fa": "\ud83d\udcb0 \u06f1.\u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc River AI\u060c \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062f\u0648\u0645\u0627\u0647\u0647 \u0627\u0632 \u062f\u0644 xAI",
+      "priority": "high",
+      "published": "2026-08-11T17:41:22+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -63961,70 +64135,6 @@
       "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
       "title": "Amazon backs power plant that may become top source of US climate pollution",
       "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\u26a0\ufe0f Security researchers at PromptArmor have disclosed an attack that can hijack Zoom's AI assistant. The takeover reportedly lets an attacker control the AI's responses and potentially access sensitive meeting data.\n\n\ud83d\udd12 For businesses relying on AI meeting assistants, this is a wake-up call about prompt injection and AI security. The disclosure highlights growing risks in enterprise AI tools as they get more autonomy. \ud83d\udd25 Expect tighter scrutiny of AI features in video conferencing and more pressure on vendors to harden them.",
-      "post_body_fa": "\u26a0\ufe0f \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc PromptArmor \u06cc\u06a9 \u062d\u0645\u0644\u0647 \u0631\u0627 \u0641\u0627\u0634 \u06a9\u0631\u062f\u0647\u0627\u0646\u062f \u06a9\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062f\u0633\u062a\u06cc\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Zoom \u0631\u0627 \u0647\u06a9 \u06a9\u0646\u062f. \u06af\u0641\u062a\u0647 \u0645\u06cc\u0634\u0648\u062f \u0627\u06cc\u0646 \u062a\u0633\u062e\u06cc\u0631 \u0628\u0647 \u0645\u0647\u0627\u062c\u0645 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u062f\u0647\u062f \u067e\u0627\u0633\u062e\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u06a9\u0646\u062a\u0631\u0644 \u06a9\u0646\u062f \u0648 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0628\u0647 \u062f\u0627\u062f\u0647\u0647\u0627\u06cc \u062d\u0633\u0627\u0633 \u062c\u0644\u0633\u0627\u062a \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646\u062f.\n\n\ud83d\udd12 \u0628\u0631\u0627\u06cc \u06a9\u0633\u0628\u0648\u06a9\u0627\u0631\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0647 \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u0628\u0633\u062a\u0647\u0627\u0646\u062f\u060c \u0627\u06cc\u0646 \u06cc\u06a9 \u0647\u0634\u062f\u0627\u0631 \u062c\u062f\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0632\u0631\u06cc\u0642 \u067e\u0631\u0627\u0645\u067e\u062a \u0648 \u0627\u0645\u0646\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u0641\u0634\u0627\u06af\u0631\u06cc \u062e\u0637\u0631 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062f\u0631 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0633\u0627\u0632\u0645\u0627\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u062c\u0633\u062a\u0647 \u0645\u06cc\u06a9\u0646\u062f. \ud83d\udd25 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f \u0628\u0627 \u067e\u06cc\u0634 \u0631\u0641\u062a\u0646 \u0627\u06cc\u0646 \u0645\u0627\u062c\u0631\u0627\u060c \u0628\u0631\u0631\u0633\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0648\u06cc\u0698\u06af\u06cc\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u06a9\u0646\u0641\u0631\u0627\u0646\u0633 \u0648\u06cc\u062f\u06cc\u0648\u06cc\u06cc \u0633\u062e\u062a\u06af\u06cc\u0631\u0627\u0646\u0647\u062a\u0631 \u0634\u0648\u062f \u0648 \u0641\u0634\u0627\u0631 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0628\u0631 \u0641\u0631\u0648\u0634\u0646\u062f\u06af\u0627\u0646 \u0628\u0631\u0627\u06cc \u062a\u0642\u0648\u06cc\u062a \u0622\u0646\u0647\u0627 \u0648\u0627\u0631\u062f \u0634\u0648\u062f.",
-      "post_title": "\ud83d\udee1\ufe0f Attacker takes over Zoom AI",
-      "post_title_fa": "\ud83d\udee1\ufe0f \u062d\u0645\u0644\u0647\u06a9\u0646\u0646\u062f\u0647 Zoom AI \u0631\u0627 \u062a\u0633\u062e\u06cc\u0631 \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-10T19:38:42+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai\">https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49248629\">https://news.ycombinator.com/item?id=49248629</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-      "title": "Attacker Takes over Zoom AI",
-      "url": "https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcb5 Nvidia is teaming up with Wall Street banks on a financing deal aimed at raising up to $500 billion for AI infrastructure. The package would fund data centers and chip purchases to keep pace with surging demand for AI compute. Nvidia will anchor the effort, with financial firms structuring the debt and equity components.\n\n\ud83d\udd25 This is one of the largest infrastructure financing pushes in tech history, signaling that AI buildouts have become too big for single companies to finance alone. \ud83d\udcc8 For the industry, it locks in Nvidia's central role and gives hyperscalers more capital to scale. Expect more such deals as the compute arms race intensifies.",
-      "post_body_fa": "\ud83d\udcb5 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0627 \u0628\u0627\u0646\u06a9\u200c\u0647\u0627\u06cc \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0631\u0648\u06cc \u062a\u0648\u0627\u0641\u0642\u06cc \u0645\u0627\u0644\u06cc \u0628\u0631\u0627\u06cc \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u062a\u0627 \u06f5\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0647\u0645\u06a9\u0627\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0628\u0633\u062a\u0647\u060c \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0648 \u062e\u0631\u06cc\u062f \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u067e\u0627\u0633\u062e \u0628\u0647 \u062a\u0642\u0627\u0636\u0627\u06cc \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u0631\u0627\u06cc \u062a\u0648\u0627\u0646 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f. \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0645\u062d\u0648\u0631 \u0627\u06cc\u0646 \u062a\u0644\u0627\u0634 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u0648 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0645\u0627\u0644\u06cc \u0627\u062c\u0632\u0627\u06cc \u0628\u062f\u0647\u06cc \u0648 \u0633\u0647\u0627\u0645 \u0631\u0627 \u0633\u0627\u062e\u062a\u0627\u0631\u062f\u0647\u06cc \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\ud83d\udd25 \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0637\u0631\u062d\u200c\u0647\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u062f\u0631 \u062a\u0627\u0631\u06cc\u062e \u0641\u0646\u0627\u0648\u0631\u06cc \u0627\u0633\u062a \u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u062a\u0648\u0633\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u062a\u0648\u0633\u0637 \u06cc\u06a9 \u0634\u0631\u06a9\u062a \u0628\u0647\u200c\u062a\u0646\u0647\u0627\u06cc\u06cc \u0628\u0633\u06cc\u0627\u0631 \u0628\u0632\u0631\u06af \u0634\u062f\u0647 \u0627\u0633\u062a. \ud83d\udcc8 \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a\u060c \u0627\u06cc\u0646 \u062a\u0648\u0627\u0641\u0642 \u0646\u0642\u0634 \u0645\u062d\u0648\u0631\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0631\u0627 \u062a\u062b\u0628\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0628\u0647 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0627\u0628\u0631\u06cc \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0628\u0631\u0627\u06cc \u0645\u0642\u06cc\u0627\u0633\u200c\u067e\u0630\u06cc\u0631\u06cc \u0645\u06cc\u200c\u062f\u0647\u062f. \u0628\u0627 \u0634\u062f\u062a \u06af\u0631\u0641\u062a\u0646 \u0631\u0642\u0627\u0628\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc\u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0639\u0627\u0645\u0644\u0627\u062a \u0645\u0634\u0627\u0628\u0647 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f.",
-      "post_title": "\ud83c\udfd7\ufe0f Nvidia and Wall Street Target $500B for AI Infrastructure",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u06f5\u06f0\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0648 \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u062f\u0631 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
-      "priority": "high",
-      "published": "2026-08-10T19:17:12+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db\">https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49248360\">https://news.ycombinator.com/item?id=49248360</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500B",
-      "url": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfdb\ufe0f Senator Bernie Sanders is calling on major tech companies to pause development of what he calls out-of-control AI. In a statement, he urged firms to implement safeguards and address risks like misinformation and job loss.\n\n\ud83d\udea8 This puts political pressure on the industry ahead of any federal AI legislation. \ud83d\udd25 It shows that calls for an AI moratorium are gaining mainstream political traction.",
-      "post_body_fa": "\ud83c\udfdb\ufe0f \u0633\u0646\u0627\u062a\u0648\u0631 \u0628\u0631\u0646\u06cc \u0633\u0646\u062f\u0631\u0632 \u0627\u0632 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0641\u0646\u0627\u0648\u0631\u06cc \u062e\u0648\u0627\u0633\u062a\u0647 \u0627\u0633\u062a \u062a\u0648\u0633\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u06a9\u0647 \u0622\u0646 \u0631\u0627 \u062e\u0627\u0631\u062c \u0627\u0632 \u06a9\u0646\u062a\u0631\u0644 \u0645\u06cc\u200c\u0646\u0627\u0645\u062f\u060c \u0645\u062a\u0648\u0642\u0641 \u06a9\u0646\u0646\u062f. \u0627\u0648 \u062f\u0631 \u0628\u06cc\u0627\u0646\u06cc\u0647\u200c\u0627\u06cc \u0627\u0632 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u062e\u0648\u0627\u0633\u062a\u0647 \u0627\u0633\u062a \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0627\u06cc\u0645\u0646\u06cc \u0631\u0627 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f \u0648 \u0628\u0647 \u062e\u0637\u0631\u0627\u062a\u06cc \u0645\u0627\u0646\u0646\u062f \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0646\u0627\u062f\u0631\u0633\u062a \u0648 \u0628\u06cc\u06a9\u0627\u0631\u06cc \u0631\u0633\u06cc\u062f\u06af\u06cc \u06a9\u0646\u0646\u062f.\n\n\ud83d\udea8 \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0641\u0634\u0627\u0631 \u0633\u06cc\u0627\u0633\u06cc \u0628\u0631 \u0635\u0646\u0639\u062a \u067e\u06cc\u0634 \u0627\u0632 \u0647\u0631\u06af\u0648\u0646\u0647 \u0642\u0627\u0646\u0648\u0646\u200c\u06af\u0630\u0627\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648\u0627\u0631\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd25 \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0648\u0642\u0641 \u0645\u0648\u0642\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062d\u0627\u0644 \u062c\u0644\u0628 \u062d\u0645\u0627\u06cc\u062a \u062c\u0631\u06cc\u0627\u0646 \u0627\u0635\u0644\u06cc \u0633\u06cc\u0627\u0633\u06cc \u0627\u0633\u062a.",
-      "post_title": "\u2696\ufe0f Sanders Urges Tech Giants to Pause 'Out-of-Control' AI",
-      "post_title_fa": "\u2696\ufe0f \u0633\u0646\u062f\u0631\u0632 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u062a\u0648\u0642\u0641 \u062a\u0648\u0633\u0639\u0647 AI \u062e\u0627\u0631\u062c \u0627\u0632 \u06a9\u0646\u062a\u0631\u0644 \u0634\u062f",
-      "priority": "high",
-      "published": "2026-08-10T18:35:50+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/\">https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247815\">https://news.ycombinator.com/item?id=49247815</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-      "title": "Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI",
-      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 The EU AI Act's obligations for general-purpose AI models have officially entered an enforceable phase, a moment some are calling the day the Act grew teeth. Providers of powerful foundation models must now comply with transparency, copyright, and systemic-risk rules \ud83d\udee1\ufe0f.\n\n\ud83d\udcb6 The move gives regulators real tools to police the biggest AI labs across Europe. Companies face significant fines for non-compliance. This is a watershed for AI regulation worldwide, and other jurisdictions are watching closely \ud83c\udf0d.",
-      "post_body_fa": "\ud83e\udd16 \u0627\u0644\u0632\u0627\u0645\u0627\u062a \u0642\u0627\u0646\u0648\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647\u0654 \u0627\u0631\u0648\u067e\u0627 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0645\u0648\u0645\u06cc \u0631\u0633\u0645\u0627\u064b \u0648\u0627\u0631\u062f \u0645\u0631\u062d\u0644\u0647\u0654 \u0627\u062c\u0631\u0627\u06cc\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a\u061b \u0644\u062d\u0638\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0628\u0631\u062e\u06cc \u0622\u0646 \u0631\u0627 \u0631\u0648\u0632 \u062f\u0646\u062f\u0627\u0646\u200c\u062f\u0631\u0622\u0648\u0631\u062f\u0646 \u0627\u06cc\u0646 \u0642\u0627\u0646\u0648\u0646 \u0645\u06cc\u200c\u0646\u0627\u0645\u0646\u062f. \u0627\u0631\u0627\u0626\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u067e\u0627\u06cc\u0647\u0654 \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0628\u0627\u06cc\u062f \u0642\u0648\u0627\u0646\u06cc\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a\u060c \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u0648 \u0631\u06cc\u0633\u06a9 \u0633\u06cc\u0633\u062a\u0645\u06cc \u0631\u0627 \u0631\u0639\u0627\u06cc\u062a \u06a9\u0646\u0646\u062f \ud83d\udee1\ufe0f.\n\n\ud83d\udcb6 \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0628\u0647 \u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u0646\u0627\u0638\u0631 \u0627\u0628\u0632\u0627\u0631 \u0648\u0627\u0642\u0639\u06cc \u0628\u0631\u0627\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0631\u0648\u067e\u0627 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u062f\u0631 \u0635\u0648\u0631\u062a \u062a\u062e\u0644\u0641 \u0628\u0627 \u062c\u0631\u06cc\u0645\u0647\u200c\u0647\u0627\u06cc \u0633\u0646\u06af\u06cc\u0646 \u0631\u0648\u0628\u0647\u200c\u0631\u0648 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f. \u0627\u06cc\u0646 \u06cc\u06a9 \u0646\u0642\u0637\u0647\u0654 \u0639\u0637\u0641 \u0628\u0631\u0627\u06cc \u0645\u0642\u0631\u0631\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062c\u0647\u0627\u0646 \u0627\u0633\u062a \u0648 \u062f\u06cc\u06af\u0631 \u06a9\u0634\u0648\u0631\u0647\u0627 \u0628\u0627 \u062f\u0642\u062a \u0622\u0646 \u0631\u0627 \u062f\u0646\u0628\u0627\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \ud83c\udf0d.",
-      "post_title": "\u2696\ufe0f EU AI Act enforcement goes live for general-purpose AI",
-      "post_title_fa": "\u2696\ufe0f \u0627\u062c\u0631\u0627\u06cc \u0642\u0627\u0646\u0648\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647\u0654 \u0627\u0631\u0648\u067e\u0627 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc \u0622\u063a\u0627\u0632 \u0634\u062f",
-      "priority": "high",
-      "published": "2026-08-10T16:34:51+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://simonroses.com/2026/08/the-day-the-ai-act-grew-teeth-gpai-enforcement-goes-live/\">https://simonroses.com/2026/08/the-day-the-ai-act-grew-teeth-gpai-enforcement-goes-live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49246042\">https://news.ycombinator.com/item?id=49246042</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "The Day the AI Act Grew Teeth: GPAI Enforcement Goes Live",
-      "url": "https://simonroses.com/2026/08/the-day-the-ai-act-grew-teeth-gpai-enforcement-goes-live/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -64523,6 +64633,14 @@
     "title": "Hugging Face Reads, Feb. 2021 - Long-range Transformers",
     "title_norm": "hugging face reads feb 2021 longrange transformers"
   },
+  "a134bfd1c67f2748bc4103ec417d74b95e647eec45004bcb30a2405cd99e1494": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326461+00:00",
+    "source": "TechCrunch AI",
+    "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+    "title_norm": "brad lightcap openais longtime coo is leaving to start something new"
+  },
   "a13dad55d11617db8e17832d6d2f7c34c490d405a5a4db0d5b5be83860250e8c": {
     "category": "research",
     "posted": false,
@@ -64840,6 +64958,14 @@
     "source": "Hacker News AI keyword",
     "title": "Citadel buys most of Situational's stock holdings after AI share rout",
     "title_norm": "citadel buys most of situationals stock holdings after ai share rout"
+  },
+  "a1fdaf072388c01827514307dd17e6434fd05d9659897606c2cb05cf7aacedf7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326609+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Understanding an AI agent's memory through Harry Potter",
+    "title_norm": "understanding an ai agents memory through harry potter"
   },
   "a2006560b4696519ab3c7432d5402f715e969c53f4cb0a770a35ea11864afb32": {
     "category": "other",
@@ -65654,6 +65780,14 @@
     "source": "arXiv cs.AI",
     "title": "The Optimal Sample Complexity of Linear Contracts",
     "title_norm": "the optimal sample complexity of linear contracts"
+  },
+  "a3bbf9f260bb093d4650339361eb5990b895c4104e8209d8e5b7051487996497": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326755+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Mitchell Hashimoto's daily schedule given Superlogical, second kid, and AI usage",
+    "title_norm": "mitchell hashimotos daily schedule given superlogical second kid and ai usage"
   },
   "a3bd1d5a4b4fb17915d61e1231af939e3aff47bbc6b4315c822e5a74babba632": {
     "category": "other",
@@ -92508,6 +92642,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
     "title_norm": "qwen3827b announced alongside qwen38max"
+  },
+  "e65c1e42a18b3c0b4db7cb5348db6556734593d3f11caec2d089312901019aac": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T18:40:38.326744+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+    "title_norm": "openai executive brad lightcap leaves as shakeup at ai lab continues"
   },
   "e65ca58f6b4be3a5f87ada1d8f5e1e870fbca06d2cc58d4256dca02a0dcd672f": {
     "category": "model_release",
