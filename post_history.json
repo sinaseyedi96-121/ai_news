@@ -415,6 +415,14 @@
     "title": "CEO of Hugging face: Heading to San Francisco to have a little chat with that \u201crogue agent\u201d",
     "title_norm": "ceo of hugging face heading to san francisco to have a little chat with that rogue agent"
   },
+  "00feb989007d5b470ffd94b6d95a182f1b75c55930f248b7e52139517ee59aa3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.754014+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 \u2192 57 tok/s. Dockerfile and numbers inside.",
+    "title_norm": "muse glimmer 30b dflash speculative decoding on vllm 6 patches needed 25 57 toks dockerfile and numbers inside"
+  },
   "010627a791a096ff825539343808b38341e29a0b048f85e17df96a4ac805a738": {
     "category": "other",
     "posted": false,
@@ -6014,6 +6022,14 @@
     "source": "arXiv cs.AI",
     "title": "TRACE-Memory: Public-Conditioned Retrieval and Utility-Aware Evidence Admission for Personalized Generation",
     "title_norm": "tracememory publicconditioned retrieval and utilityaware evidence admission for personalized generation"
+  },
+  "0f0b2abf887de2707e3e22749a0dd37b937aa8052595e4b2bc626fd344986a43": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753934+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I was accused of using AI in my dissertation but I wrote it all myself",
+    "title_norm": "i was accused of using ai in my dissertation but i wrote it all myself"
   },
   "0f0b3ae3c19ab0badc27692676d927e475311adeac6bfa1aff59704f5ef8918b": {
     "category": "other",
@@ -11964,6 +11980,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "If you're running Laguna S 2.1 and it feels \"stupid\" or isn't reasoning properly, are you using quantization worse than Q8?",
     "title_norm": "if youre running laguna s 21 and it feels stupid or isnt reasoning properly are you using quantization worse than q8"
+  },
+  "1dc930c58a9dc9f9a08faa10f308553a70b38aac6fc12de88ffe42fb883f4cd0": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753997+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Luth-2: New State-of-the-Art French Small Language Models",
+    "title_norm": "luth2 new stateoftheart french small language models"
   },
   "1dcefd8f9de9d223e42aaed27665864d4b4c1e2b47280c2672eda4140f8a18e8": {
     "category": "other",
@@ -47553,6 +47577,14 @@
     "title": "Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?",
     "title_norm": "ask hn what will be the chernobyl or bhopal scale industrial disaster of ai"
   },
+  "76c053a585279399494766c7328d3fb52eba111edcaed8c03ba9b3cc1464e945": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753918+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "French lawyers are being told to use open source AI models for confidential data",
+    "title_norm": "french lawyers are being told to use open source ai models for confidential data"
+  },
   "76c0aefd6f941793f806df3f62ace25752daf706c6eb4e815001788dc5b2ab0e": {
     "category": "research",
     "posted": false,
@@ -63348,6 +63380,22 @@
       "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 180</p>\n<p># Comments: 67</p>",
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udce3 The community released Luth-2-0.8B and Luth-2-2B, two compact models that set a new state of the art for French across a wide range of tasks at their size. They're available on Hugging Face and reportedly beat much larger French-focused models on benchmarks like French Bench.\n\n\u26a1 Because they're small, they can run locally on modest hardware, which is great for privacy and cost. \ud83c\uddeb\ud83c\uddf7 That makes them a solid base for French-language apps, from chatbots to document processing, without relying on API calls. The authors also promise a reasoning variant, so this line is just getting started.",
+      "post_body_fa": "\ud83d\udce3 \u062c\u0627\u0645\u0639\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc Luth-2-0.8B \u0648 Luth-2-2B \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u061b \u062f\u0648 \u0645\u062f\u0644 \u062c\u0645\u0639\u200c\u0648\u062c\u0648\u0631 \u06a9\u0647 \u062f\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u062e\u0648\u062f\u060c \u0639\u0645\u0644\u06a9\u0631\u062f\u06cc \u062a\u0627\u0632\u0647 \u0648 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 \u062f\u0631 \u0632\u0628\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u0628\u0647 \u062b\u0628\u062a \u0645\u06cc\u200c\u0631\u0633\u0627\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627 \u0631\u0648\u06cc Hugging Face \u062f\u0631 \u062f\u0633\u062a\u0631\u0633\u200c\u0627\u0646\u062f \u0648 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u062f\u0631 \u0645\u0639\u06cc\u0627\u0631\u0647\u0627\u06cc\u06cc \u0645\u062b\u0644 French Bench \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0648 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc\u200c\u0645\u062d\u0648\u0631 \u0628\u0647\u062a\u0631 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\u26a1 \u0628\u0647\u200c\u062e\u0627\u0637\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0648\u0686\u06a9\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u0627\u062c\u0631\u0627 \u06a9\u0631\u062f \u06a9\u0647 \u0628\u0631\u0627\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u0647\u0632\u06cc\u0646\u0647 \u0639\u0627\u0644\u06cc \u0627\u0633\u062a. \ud83c\uddeb\ud83c\uddf7 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u067e\u0627\u06cc\u0647\u200c\u0627\u06cc \u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc \u0641\u0631\u0627\u0646\u0633\u0648\u06cc\u060c \u0627\u0632 \u0686\u062a\u200c\u0628\u0627\u062a\u200c\u0647\u0627 \u062a\u0627 \u067e\u0631\u062f\u0627\u0632\u0634 \u0627\u0633\u0646\u0627\u062f \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f\u061b \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 API. \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0648\u0639\u062f\u0647 \u0646\u0633\u062e\u0647\u200c\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u06cc \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u067e\u0633 \u0627\u06cc\u0646 \u062e\u0637 \u062a\u0627\u0632\u0647 \u0634\u0631\u0648\u0639 \u06a9\u0627\u0631 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 Luth-2: New state-of-the-art French small language models",
+      "post_title_fa": "\ud83d\ude80 Luth-2: \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u06a9\u0648\u0686\u06a9 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u0628\u0627 \u062c\u062f\u06cc\u062f\u062a\u0631\u06cc\u0646 \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u0639\u0645\u0644\u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-11T08:41:13+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/\"> <img alt=\"Luth-2: New State-of-the-Art French Small Language Models\" src=\"https://preview.redd.it/3sgce32djpih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f363ae285fde2512e68162cc793792e86438ebd3\" title=\"Luth-2: New State-of-the-Art French Small Language Models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Today we release <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B\">Luth-2-0.8B</a> and <a href=\"https://huggingface.co/kurakurai/Luth-2-2B\">Luth2-2-2B</a>, two non-reasoning models that set a new <strong>state of the art for French</strong> across a wide variety of tasks for their size \ud83d\ude80</p> <p>A few notable scores on French benchmarks compared to models \u301c3 times their size:<br /> - Luth-2-2B scores 69.67 vs Gemma-4-E2B-it at 65.17 on Multi-IF.<br /> - Luth-2-0.8B scores 72.92 vs granite-4.0-h-micro at 55.60 on MGSM-Rev2.<br /> - Luth-2-2B scores 81.52 vs Gemma-4-E2B-it at 81.24 on Math-500.</p> <p><strong>Luth-2</strong> builds on our <a href=\"https://huggingface.co/blog/MaxLSB/luth\">previous work</a> with several substantial improvements. We introduce a new 3B-token SFT mixture covering a broader range of domains, including mathematics, knowledge, code, tool calling, instruction following, multi-turn dialogue, and science. We also use reinforcement learning through expert specialisations and multi-domain on-policy distillation (MOPD) to further extend the models\u2019 capabilities. Finally, we move to Qwen3.5 as the backbone, as we found it to be substantially more receptive to post-training.</p> <p>The resulting models outperform every model in their size class across the selected French benchmarks, while staying competitive with much bigger models. Both are light enough to run locally for on-device use. More broadly, these results suggest that current multilingual SLMs still leave substantial capability on the table outside English, even for high-resource languages like French.</p> <p>Luth-2-2B and Luth-2-0.8B are available now on Hugging Face:</p> <p>\ud83e\udd17 Models: <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B\">Luth-2-0.8B</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-2B\">Luth2-2-2B</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-0.8B-GGUF\">Luth-2-0.8B-GGUF</a> | <a href=\"https://huggingface.co/kurakurai/Luth-2-2B-GGUF\">Luth2-2-2B-GGUF</a> |<br /> \ud83d\udcda Data: <a href=\"https://huggingface.co/datasets/kurakurai/Luth-2-Post-Training-SFT\">Luth-2-Post-Training-SFT</a> | <a href=\"https://huggingface.co/datasets/kurakurai/Luth-2-Post-Training-RL\">Luth-2-Post-Training-RL</a><br /> \ud83d\udcbb Code: <a href=\"https://github.com/kurakurai/Luth-2\">https://github.com/kurakurai/Luth-2</a><br /> \u270f\ufe0f Blog: <a href=\"https://huggingface.co/blog/MaxLSB/luth-2\">https://huggingface.co/blog/MaxLSB/luth-2</a><br /> \ud83c\udfc6 FR Leaderboard: <a href=\"https://huggingface.co/spaces/kurakurai/llm_leaderboard_fr\">https://huggingface.co/spaces/kurakurai/llm_leaderboard_fr</a></p> <p>We\u2019d love to hear your feedback, so don\u2019t hesitate to give it a try! \ud83d\ude42</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Unusual_Shoe2671\"> /u/Unusual_Shoe2671 </a> <br /> <span><a href=\"https://i.redd.it/3sgce32djpih1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/\">[comments]</a></span> </td></tr></table>",
+      "title": "Luth-2: New State-of-the-Art French Small Language Models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlbto8/luth2_new_stateoftheart_french_small_language/"
     },
     {
       "category": "model_release",
@@ -87162,6 +87210,14 @@
     "title": "REFACT: Adaptive Fact Restatement for Compact and Faithful Chain-of-Thought Reasoning",
     "title_norm": "refact adaptive fact restatement for compact and faithful chainofthought reasoning"
   },
+  "dbbd1ad5c4ce641cb2612484ab4b401aed666a99f89c724592fcedc0f9b1488f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753784+00:00",
+    "source": "Wired AI",
+    "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+    "title_norm": "ai is helping solve the intricate genetic puzzle of schizophrenia"
+  },
   "dbbe4caca76661def439fabd7af0dcbc874122abb910985d2e5ba1619f0b18f1": {
     "category": "other",
     "posted": false,
@@ -92241,6 +92297,14 @@
     "source": "arXiv cs.AI",
     "title": "FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing",
     "title_norm": "fpedit robust llm fingerprinting through localized parameter editing"
+  },
+  "e8567714623f87be090d9c33223f67a03e95c08f766c946d261e911b5eb98d78": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753880+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "France to ban unsolicited telemarketing calls",
+    "title_norm": "france to ban unsolicited telemarketing calls"
   },
   "e857160e6fc70da97c8cd08bf0535ae36680a25b1cf5a6574492063d3cd2f489": {
     "category": "research",
@@ -99279,6 +99343,14 @@
     "source": "arXiv cs.AI",
     "title": "SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence",
     "title_norm": "satedgeagent hardwareintheloop edgeagent orchestration for onboard satellite intelligence"
+  },
+  "fb241a9bd5611a6e0b4a17c827baf9c51c5c962658975a039d7be131c650d9b8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T09:44:41.753901+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Place for AI agents to anonymously complain",
+    "title_norm": "place for ai agents to anonymously complain"
   },
   "fb24f7fe5f108983b5ed6683c63335c508256e65bcb3585179935d8ccba8798b": {
     "category": "other",
