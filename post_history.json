@@ -22733,6 +22733,14 @@
     "title": "From asking to doing: How the world is putting ChatGPT to work",
     "title_norm": "from asking to doing how the world is putting chatgpt to work"
   },
+  "3763f57bc7f5eba0b584d849d0d0dd1c0b82bd365a2b09289c6d84ff694c182a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203892+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Why have 8B-12B models been dropped?",
+    "title_norm": "why have 8b12b models been dropped"
+  },
   "376488ff2fcc585b1d77913457e21d7748568bc70a3ba2006e9ee1f96ac82b27": {
     "category": "other",
     "posted": false,
@@ -23271,7 +23279,13 @@
   },
   "38eb0aca68d99acfe9177c1740746637c80afc4ccbd43f05fc216077654028c8": {
     "category": "model_release",
-    "posted": false,
+    "message_id": 162,
+    "message_id_fa": 136,
+    "post_title": "\ud83d\ude80 Qwen 3.8-27B confirmed to launch this week",
+    "post_title_fa": "\ud83d\ude80 \u0639\u0631\u0636\u0647 Qwen 3.8-27B \u0627\u06cc\u0646 \u0647\u0641\u062a\u0647 \u062a\u0623\u06cc\u06cc\u062f \u0634\u062f",
+    "posted": true,
+    "posted_at": "2026-08-11T08:32:48.089055+00:00",
+    "priority": "high",
     "seen_at": "2026-08-11T07:43:03.679655+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Qwen 3.8-27b coming this week",
@@ -30958,6 +30972,14 @@
     "source": "arXiv cs.AI",
     "title": "IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning",
     "title_norm": "ippro importancebased pruning with projective offset for magnitudeindifferent structural pruning"
+  },
+  "4d6a72e1dc0165eeff6795cdfaee92c8e38260e828a68ca927be4a7ecc193e33": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203828+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "CortexBrain: A monitoring pipeline that integrates with your AI agents",
+    "title_norm": "cortexbrain a monitoring pipeline that integrates with your ai agents"
   },
   "4d72add6e7f2161bbcb74f3bfe690c148713b39d7643a2c413972f0b06189046": {
     "category": null,
@@ -39791,6 +39813,14 @@
     "title": "The Yokai Learning Environment: Tracking Beliefs Over Space and Time",
     "title_norm": "the yokai learning environment tracking beliefs over space and time"
   },
+  "6330360cb28839acbb42f1e22455d12fcf47fab6506f8c56eb9a8cc7839435f1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203861+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "12GB VRAM gang, what's our plan?",
+    "title_norm": "12gb vram gang whats our plan"
+  },
   "633c1d6439d1b74bc9fb9035b2109a393f8298095fe56b4efff0458adb23de25": {
     "category": "integration",
     "posted": false,
@@ -47776,6 +47806,14 @@
     "source": "arXiv cs.CL",
     "title": "HindsightBench: A Black-Box Behavioral Audit Protocol for Parametric Hindsight in Time-Indexed LLM Decision Tasks",
     "title_norm": "hindsightbench a blackbox behavioral audit protocol for parametric hindsight in timeindexed llm decision tasks"
+  },
+  "778a58f30fceadf8bf0e7c6cc5437bf5ec6bb9dad965ec7288dd09b98ddacbc8": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203806+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Anthropic's New Tool Could Expose AI-Written Novels",
+    "title_norm": "anthropics new tool could expose aiwritten novels"
   },
   "778e8cd01c0ab0362b0d00799b389dba3f61de8e2ef686b604bef2a5f0a05283": {
     "category": "other",
@@ -63141,31 +63179,16 @@
   },
   "_meta": {
     "date": "2026-08-11",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
-      "infrastructure": 1
+      "infrastructure": 1,
+      "model_release": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-11-08"
+    "last_slot": "2026-08-11-10"
   },
   "_queue": [
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udce2 Alibaba's Qwen team has confirmed that the Qwen 3.8-27B model will arrive this week. The announcement comes via the official Qwen account, and the model is expected to be a major addition to the 27B class.\n\nGiven Qwen's track record, it will likely be popular with local LLM users for its efficiency and reasoning. This is one of the most anticipated open-weights releases of the month. \u26a1 Get ready to update your benchmarks.",
-      "post_body_fa": "\ud83d\udce2 \u062a\u06cc\u0645 Qwen \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0645\u062f\u0644 Qwen 3.8-27B \u0627\u06cc\u0646 \u0647\u0641\u062a\u0647 \u0639\u0631\u0636\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f. \u0627\u06cc\u0646 \u0627\u0639\u0644\u0627\u0645\u06cc\u0647 \u0627\u0632 \u062d\u0633\u0627\u0628 \u0631\u0633\u0645\u06cc Qwen \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0648 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0627\u06cc\u0646 \u0645\u062f\u0644 \u06cc\u06a9 \u0627\u0641\u0632\u0648\u062f\u0647 \u0628\u0632\u0631\u06af \u0628\u0647 \u06a9\u0644\u0627\u0633 27B \u0628\u0627\u0634\u062f.\n\n\u0628\u0627 \u062a\u0648\u062c\u0647 \u0628\u0647 \u0633\u0627\u0628\u0642\u0647 Qwen\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0628\u0647 \u062e\u0627\u0637\u0631 \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0648 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u062f\u0631 \u0628\u06cc\u0646 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0645\u062d\u0628\u0648\u0628 \u062e\u0648\u0627\u0647\u062f \u0634\u062f. \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0645\u0648\u0631\u062f\u0627\u0646\u062a\u0638\u0627\u0631\u062a\u0631\u06cc\u0646 \u0639\u0631\u0636\u0647\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0627\u06cc\u0646 \u0645\u0627\u0647 \u0627\u0633\u062a. \u26a1 \u0622\u0645\u0627\u062f\u0647 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0628\u0627\u0634\u06cc\u062f.",
-      "post_title": "\ud83d\ude80 Qwen 3.8-27B confirmed to launch this week",
-      "post_title_fa": "\ud83d\ude80 \u0639\u0631\u0636\u0647 Qwen 3.8-27B \u0627\u06cc\u0646 \u0647\u0641\u062a\u0647 \u062a\u0623\u06cc\u06cc\u062f \u0634\u062f",
-      "priority": "high",
-      "published": "2026-08-11T05:20:06+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/\"> <img alt=\"Qwen 3.8-27b coming this week\" src=\"https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa6f6cf62b21128e780b7bdf97823a314443b1ca\" title=\"Qwen 3.8-27b coming this week\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Confirmed by the official Qwen account.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bestlife73\"> /u/Bestlife73 </a> <br /> <span><a href=\"https://i.redd.it/06v8tcdekoih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/\">[comments]</a></span> </td></tr></table>",
-      "title": "Qwen 3.8-27b coming this week",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -63325,6 +63348,22 @@
       "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 180</p>\n<p># Comments: 67</p>",
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcf0 Anthropic has unveiled a watermarking tool that could detect AI-generated text, including novels, making it harder for AI-written work to go unnoticed. The system embeds invisible patterns into Claude's responses, which can be identified later to confirm AI authorship. Early reports suggest it works even after light copy-editing, though aggressive rewrites might still evade it.\n\nThis matters because publishers and platforms have struggled to verify AI-written content at scale. If the tool gains traction, it could push other labs to adopt similar transparency features and change how AI text is regulated.",
+      "post_body_fa": "\ud83d\udcf0 Anthropic \u0627\u0628\u0632\u0627\u0631 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u06cc\u0646\u06af\u06cc \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u062a\u0646\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0631\u0645\u0627\u0646\u200c\u0647\u0627 \u0631\u0627 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0646\u062f \u0648 \u0646\u0627\u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u0627\u0646\u062f\u0646 \u0622\u062b\u0627\u0631 AI \u0631\u0627 \u062f\u0634\u0648\u0627\u0631\u062a\u0631 \u0633\u0627\u0632\u062f. \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0627\u0644\u06af\u0648\u0647\u0627\u06cc \u0646\u0627\u0645\u0631\u0626\u06cc \u0631\u0627 \u062f\u0631 \u067e\u0627\u0633\u062e\u200c\u0647\u0627\u06cc Claude \u062c\u0627\u0633\u0627\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0628\u0639\u062f\u0627\u064b \u0628\u0631\u0627\u06cc \u062a\u0623\u06cc\u06cc\u062f \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0642\u0627\u0628\u0644 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0647\u0633\u062a\u0646\u062f. \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0631\u0648\u0634 \u062d\u062a\u06cc \u067e\u0633 \u0627\u0632 \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0633\u0628\u06a9 \u0646\u06cc\u0632 \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0647\u0631\u0686\u0646\u062f \u0628\u0627\u0632\u0646\u0648\u06cc\u0633\u06cc \u062a\u0647\u0627\u062c\u0645\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0627\u0632 \u0622\u0646 \u0639\u0628\u0648\u0631 \u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0632\u06cc\u0631\u0627 \u0646\u0627\u0634\u0631\u0627\u0646 \u0648 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u06af\u0633\u062a\u0631\u062f\u0647 \u0628\u0631\u0627\u06cc \u062a\u0623\u06cc\u06cc\u062f \u0645\u062d\u062a\u0648\u0627\u06cc AI \u062f\u0686\u0627\u0631 \u0645\u0634\u06a9\u0644 \u0628\u0648\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0641\u0631\u0627\u06af\u06cc\u0631 \u0634\u0648\u062f\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0631\u0627 \u0628\u0647 \u067e\u0630\u06cc\u0631\u0634 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0645\u0634\u0627\u0628\u0647 \u0633\u0648\u0642 \u062f\u0647\u062f \u0648 \u0646\u062d\u0648\u0647 \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0645\u062a\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f.",
+      "post_title": "\ud83d\udee0\ufe0f Anthropic's New Tool Could Expose AI-Written Novels",
+      "post_title_fa": "\ud83d\udee0\ufe0f \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f Anthropic \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0631\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0646\u0648\u0634\u062a\u0647\u200c\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0641\u0627\u0634 \u06a9\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-11T07:37:44+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8\">https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254625\">https://news.ycombinator.com/item?id=49254625</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+      "title": "Anthropic's New Tool Could Expose AI-Written Novels",
+      "url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -63694,6 +63733,14 @@
     "source": "arXiv cs.AI",
     "title": "One-Point Contraction: Erasing Representational Separability toward Irreversible Deep Forgetting",
     "title_norm": "onepoint contraction erasing representational separability toward irreversible deep forgetting"
+  },
+  "a0dd43189d9400af695b5cb5f8b2e8ff73a42bc95dda78545536ca2783ea8c63": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203846+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek-V4-Flash acting as my Linux sysadmin",
+    "title_norm": "deepseekv4flash acting as my linux sysadmin"
   },
   "a0df7df68a30bb8e913ecdf436c4f8d7aa8dee3ed9955c6e5b2dd636844222f8": {
     "category": "other",
@@ -75054,6 +75101,14 @@
     "source": "arXiv cs.AI",
     "title": "AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models",
     "title_norm": "anchorrefine synergymanipulation based on trajectory anchor and residual refinement for visionlanguageaction models"
+  },
+  "bcff7bf8cc4d8e84994c955bc972f1856a070ac43375e8f976a3e5e8b2be2f6c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203875+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Add CI targets for ROCm 7.14 by superm1 \u00b7 Pull Request #25775 \u00b7 ggml-org/llama.cpp",
+    "title_norm": "add ci targets for rocm 714 by superm1 pull request 25775 ggmlorgllamacpp"
   },
   "bd0c05a966cb398dfc48ecde7eb5195ca301aea8bbdcd50cfa739f72aaa720f2": {
     "category": "other",
@@ -91650,6 +91705,14 @@
     "source": "Hacker News AI keyword",
     "title": "Nvidia is pulling Wall Street into the AI buildout",
     "title_norm": "nvidia is pulling wall street into the ai buildout"
+  },
+  "e6ff31bf972841a7ae1cfb1f4d8ccf4b04f9c0563add5c89392d3b50e81d1912": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-11T08:32:47.203707+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Text AI watermarks will always be trivial to remove",
+    "title_norm": "text ai watermarks will always be trivial to remove"
   },
   "e7082108221b67be30dad8df237d7b991cc894f125d376532d7627b0e15d2ba0": {
     "category": "other",
