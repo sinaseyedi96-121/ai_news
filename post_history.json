@@ -14247,6 +14247,14 @@
     "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
     "title_norm": "mageflow an efficient nativeresolution foundation model for image generation and editing"
   },
+  "219a2423ea3ef931d94cd2bb4ca259dd28baa67840229a48fa3629c580f2b8cf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130621+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A New Label for AI-Generated Artist Identities on Spotify",
+    "title_norm": "a new label for aigenerated artist identities on spotify"
+  },
   "219ce9a478bbf83b6e52c06332d767cf5b5665402c4f47c9395e5852d606c028": {
     "category": "research",
     "posted": false,
@@ -30128,6 +30136,14 @@
     "source": "arXiv cs.AI",
     "title": "Mitigating Gender Bias in English to Romanian Machine Translation",
     "title_norm": "mitigating gender bias in english to romanian machine translation"
+  },
+  "483b453cb3347b22a2acbbd52d0fe591412718d4351d9cf1b304ef19d2715944": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130646+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Do We Need a New Programming Language for the AI Era?",
+    "title_norm": "do we need a new programming language for the ai era"
   },
   "483f6844207a851228133fa6b7a906e33075d7766c85240e746306c14289ac1e": {
     "category": "research",
@@ -58411,6 +58427,14 @@
     "title": "Quantifying generalization in reinforcement learning",
     "title_norm": "quantifying generalization in reinforcement learning"
   },
+  "8c9036c9e0f0cff78118ce90ea3f16d8b3be66ca20712fadb922a35b9f8722d3": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130701+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+    "title_norm": "launch hn discovered materials yc p26 ai agents to discover new materials"
+  },
   "8c934ea8e6c71e3ea53428cd19909af01db3f735db2881dc5cc9251bba4ce640": {
     "category": "other",
     "posted": false,
@@ -59102,6 +59126,14 @@
     "source": "Hugging Face Blog",
     "title": "Announcing the \ud83e\udd17 AI Research Residency Program",
     "title_norm": "announcing the ai research residency program"
+  },
+  "8e4450109b8eb1c4ec597009b7913f96c0a6e53c6b1f8b7d5fd71b5643475a68": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130683+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "New AI chip mimics the human brain's capacity for split-second motor control",
+    "title_norm": "new ai chip mimics the human brains capacity for splitsecond motor control"
   },
   "8e4a4ebf76c9c0d1ddc8f3090ce5cb192056906791df02ba0b87e0909f82aa58": {
     "category": "research",
@@ -60301,7 +60333,13 @@
   },
   "9158e5b2e65914f4ed640e31e880fcd82dc2db869bdc80380d97b3b8d4032c4c": {
     "category": "policy",
-    "posted": false,
+    "message_id": 171,
+    "message_id_fa": 145,
+    "post_title": "\u2696\ufe0f China Bans AI Companions, Millions Lose Virtual Partners",
+    "post_title_fa": "\u2696\ufe0f \u0686\u06cc\u0646 \u0647\u0645\u0631\u0627\u0647\u0627\u0646 \u0645\u062c\u0627\u0632\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0645\u0645\u0646\u0648\u0639 \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-12T08:55:21.365262+00:00",
+    "priority": "high",
     "seen_at": "2026-08-12T07:53:20.576452+00:00",
     "source": "Hacker News AI keyword",
     "title": "China bans AI companions, forcing millions to break up with virtual partners",
@@ -66279,31 +66317,16 @@
   },
   "_meta": {
     "date": "2026-08-12",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
-      "integration": 1
+      "integration": 1,
+      "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-12-08"
+    "last_slot": "2026-08-12-10"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udc94 China has officially banned AI companion apps, forcing millions of users to part ways with their virtual partners. The crackdown targets services that encourage emotional attachments to AI characters, citing mental health and social cohesion worries.\n\nThe ban is part of China's broader AI regulation tightening around generative media and synthetic relationships. \ud83c\udde8\ud83c\uddf3 For the global industry, this shows that emotional AI could face heavy restrictions in major markets. Developers of companion apps now face a fragmented regulatory landscape.",
-      "post_body_fa": "\ud83d\udc94 \u0686\u06cc\u0646 \u0631\u0633\u0645\u0627\u064b \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc \u0647\u0645\u0631\u0627\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0645\u0645\u0646\u0648\u0639 \u06a9\u0631\u062f\u0647 \u0648 \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u06a9\u0627\u0631\u0628\u0631 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u0628\u0647 \u062c\u062f\u0627 \u0634\u062f\u0646 \u0627\u0632 \u0634\u0631\u06cc\u06a9 \u0645\u062c\u0627\u0632\u06cc \u062e\u0648\u062f \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0633\u0631\u06a9\u0648\u0628\u060c \u062e\u062f\u0645\u0627\u062a\u06cc \u0631\u0627 \u0647\u062f\u0641 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0648\u0627\u0628\u0633\u062a\u06af\u06cc \u0639\u0627\u0637\u0641\u06cc \u0628\u0647 \u0634\u062e\u0635\u06cc\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u0634\u0648\u06cc\u0642 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0628\u0627 \u0627\u0634\u0627\u0631\u0647 \u0628\u0647 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0633\u0644\u0627\u0645\u062a \u0631\u0648\u0627\u0646 \u0648 \u0627\u0646\u0633\u062c\u0627\u0645 \u0627\u062c\u062a\u0645\u0627\u0639\u06cc.\n\n\u0627\u06cc\u0646 \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0628\u062e\u0634\u06cc \u0627\u0632 \u0645\u0642\u0631\u0631\u0627\u062a \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0632\u0645\u06cc\u0646\u0647 \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0645\u0648\u0644\u062f \u0648 \u0631\u0648\u0627\u0628\u0637 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a. \ud83c\udde8\ud83c\uddf3 \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u062c\u0647\u0627\u0646\u06cc\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0627\u0637\u0641\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0627 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u06cc \u0634\u062f\u06cc\u062f\u06cc \u062f\u0631 \u0628\u0627\u0632\u0627\u0631\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u062f. \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc \u0647\u0645\u0631\u0627\u0647 \u0627\u06a9\u0646\u0648\u0646 \u0628\u0627 \u06cc\u06a9 \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0646\u0638\u0627\u0631\u062a\u06cc \u067e\u0631\u0627\u06a9\u0646\u062f\u0647 \u0631\u0648\u0628\u0647\u200c\u0631\u0648 \u0647\u0633\u062a\u0646\u062f.",
-      "post_title": "\u2696\ufe0f China Bans AI Companions, Millions Lose Virtual Partners",
-      "post_title_fa": "\u2696\ufe0f \u0686\u06cc\u0646 \u0647\u0645\u0631\u0627\u0647\u0627\u0646 \u0645\u062c\u0627\u0632\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0645\u0645\u0646\u0648\u0639 \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-12T06:21:59+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352\">https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268498\">https://news.ycombinator.com/item?id=49268498</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "title": "China bans AI companions, forcing millions to break up with virtual partners",
-      "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -66463,6 +66486,22 @@
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfa7 Spotify is rolling out \u201cAI persona\u201d badges that clearly mark artist identities created with AI, helping listeners spot synthetic musicians. The move comes as AI-generated music floods streaming platforms and demand for transparency rises. \ud83c\udfb6 The badges appear next to artist names and profiles, covering fully AI personas and hybrid human-AI projects.\n\nThis is a small but meaningful step toward labeling AI content in mainstream platforms. \ud83c\udf0d Expect other streaming services to follow suit as regulators and users push for clearer AI disclosure.",
+      "post_body_fa": "\ud83c\udfa7 \u0627\u0633\u067e\u0627\u062a\u06cc\u0641\u0627\u06cc \u062f\u0631 \u062d\u0627\u0644 \u0627\u0631\u0627\u0626\u0647\u0654 \u0646\u0634\u0627\u0646\u200c\u0647\u0627\u06cc \u00ab\u0634\u062e\u0635\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u00bb \u0627\u0633\u062a \u06a9\u0647 \u0647\u0648\u06cc\u062a \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0633\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0647\u200c\u0648\u0636\u0648\u062d \u0645\u0634\u062e\u0635 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u062f\u0631 \u062d\u0627\u0644\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u0648\u0633\u06cc\u0642\u06cc AI-generated \u062f\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627\u06cc \u0627\u0633\u062a\u0631\u06cc\u0645 \u0641\u0631\u0627\u06af\u06cc\u0631 \u0634\u062f\u0647 \u0648 \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u06cc\u0634\u062a\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a. \ud83c\udfb6 \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u200c\u0647\u0627 \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0646\u0627\u0645 \u0648 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0647\u0646\u0631\u0645\u0646\u062f \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u0648 \u0647\u0645 \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u06a9\u0627\u0645\u0644\u0627\u064b \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0647\u0645 \u067e\u0631\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc \u0627\u0646\u0633\u0627\u0646-\u0645\u0627\u0634\u06cc\u0646 \u0631\u0627 \u067e\u0648\u0634\u0634 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f.\n\n\u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u06a9\u0648\u0686\u06a9 \u0627\u0645\u0627 \u0645\u0639\u0646\u0627\u062f\u0627\u0631 \u062f\u0631 \u0645\u0633\u06cc\u0631 \u0628\u0631\u0686\u0633\u0628\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0627\u0633\u062a. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0633\u0627\u06cc\u0631 \u0633\u0631\u0648\u06cc\u0633\u200c\u0647\u0627\u06cc \u0627\u0633\u062a\u0631\u06cc\u0645 \u0628\u0627 \u0641\u0634\u0627\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0648 \u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0628\u0631\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u06cc\u0634\u062a\u0631\u060c \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u067e\u06cc\u0631\u0648\u06cc \u06a9\u0646\u0646\u062f.",
+      "post_title": "\ud83c\udff7\ufe0f Spotify Adds AI Persona Badges for Artist Transparency",
+      "post_title_fa": "\ud83c\udff7\ufe0f \u0627\u0633\u067e\u0627\u062a\u06cc\u0641\u0627\u06cc \u0628\u0631\u0686\u0633\u0628 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-12T08:45:55+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/\">https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269463\">https://news.ycombinator.com/item?id=49269463</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "A New Label for AI-Generated Artist Identities on Spotify",
+      "url": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -70258,6 +70297,14 @@
     "source": "OpenAI News",
     "title": "Why teens deserve access to safe AI",
     "title_norm": "why teens deserve access to safe ai"
+  },
+  "a9081e41fca861eadbb07310313e478a8f01243ac5d6b0977b8b45b8d6f55209": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130546+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "LinkedIn CringeBot 3000",
+    "title_norm": "linkedin cringebot 3000"
   },
   "a90e80f59a7466fa262709d8804d690865048f28ab97c0b79a061ad204d9f3c2": {
     "category": "infrastructure",
@@ -100555,6 +100602,14 @@
     "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
     "title_norm": "odyssey director christopher nolan calls ai an obvious trojan horse"
   },
+  "f24a066900b0e709a41f46178b4305d61847af48f3df8cd39d6a71ff56d292f2": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130721+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "It's the final countdown, baby! Qwen is out in just over 7 hours!",
+    "title_norm": "its the final countdown baby qwen is out in just over 7 hours"
+  },
   "f24c9381ea2cd08f95f72637087383ccd3b45c602f5f812472bb3c2a0c629826": {
     "category": "other",
     "posted": false,
@@ -103608,6 +103663,14 @@
     "source": "arXiv cs.CL",
     "title": "BiCAA: Bidirectional Credit Assignment for Search-Augmented Agent",
     "title_norm": "bicaa bidirectional credit assignment for searchaugmented agent"
+  },
+  "fa0a1ca2b30d88d6f57fa859fb3a5b3180e0b1681cf9e7cc780666965d26c32e": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T08:55:20.130666+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Creating a niche AI Benchmark with token anxiety",
+    "title_norm": "creating a niche ai benchmark with token anxiety"
   },
   "fa0b21e1250bd125403313834db4a2ddf25370ad57ec8ecb0edbcee14665e68b": {
     "category": "other",
