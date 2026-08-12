@@ -15307,6 +15307,14 @@
     "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
     "title_norm": "introducing chatgpt atlas the browser with chatgpt built in"
   },
+  "240c85e36a3c129172846eee1f0ceacdfedd55183eb6a22e90603195cc382032": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658014+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "US hires over 2k video gamers as air traffic controllers",
+    "title_norm": "us hires over 2k video gamers as air traffic controllers"
+  },
   "240dc70cf3601dbb86eeeda8ecfdadc16ed00e51d09d6f3403e90b466d5f8342": {
     "category": "research",
     "posted": false,
@@ -19497,6 +19505,14 @@
     "title": "Generalizing from simulation",
     "title_norm": "generalizing from simulation"
   },
+  "2d723ed7dfa5ddcd01c2b9a478ae5e5ae5d6b9806deb8c6d13f2183a9934583e": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658088+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Best models for regular machines (16gb ram)",
+    "title_norm": "best models for regular machines 16gb ram"
+  },
   "2d737bf565a65d7ddc98b8b0ccc6aa40f16971117ba1e3a9da5f11763c4587ab": {
     "category": "research",
     "posted": false,
@@ -23038,6 +23054,14 @@
     "source": "arXiv cs.AI",
     "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
     "title_norm": "reasoning in real world clinical care why large language models are not yet safe for autonomous clinical decision support"
+  },
+  "35d221d782267fd97903dda4ebf5ec4730673b033e9fe42056cb689b55f7754c": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658076+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "All your reasoning are belong to us",
+    "title_norm": "all your reasoning are belong to us"
   },
   "35d3af4ca4f1a0c079fc71664db4c24bc570515504b980d24c9f4db04dab95cc": {
     "category": "research",
@@ -38099,7 +38123,13 @@
   },
   "5ae50b2e971e6c435a6c65f57fedaa7b923485109e97f5a8ba3d65e7d958f358": {
     "category": "research",
-    "posted": false,
+    "message_id": 173,
+    "message_id_fa": 147,
+    "post_title": "\ud83d\udd2c Researchers decode hidden reasoning from Claude and GPT APIs",
+    "post_title_fa": "\ud83d\udd2c \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u067e\u0646\u0647\u0627\u0646 \u0631\u0627 \u0627\u0632 API\u0647\u0627\u06cc Claude \u0648 GPT \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u06a9\u0631\u062f\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-12T12:03:42.693846+00:00",
+    "priority": "high",
     "seen_at": "2026-08-12T11:15:08.922166+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Hidden Reasoning from Claude and GPT are Decoded, and it is interesting",
@@ -46296,6 +46326,14 @@
     "source": "arXiv cs.CL",
     "title": "LoopsBench: From Harness Engineering to Loop Engineering in Benchmarking Coding Agent",
     "title_norm": "loopsbench from harness engineering to loop engineering in benchmarking coding agent"
+  },
+  "6de70724a3ae31bdb1a14754bbe07bf37c14e61e0e04b152ea1365a1e5a4683e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658031+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Cross-Examine \u2013 replay base behavior against an AI-generated PR",
+    "title_norm": "crossexamine replay base behavior against an aigenerated pr"
   },
   "6de74423d0f8780a87cda6af8685e81090c046c40b0fd1e74c683df3e13a20c4": {
     "category": "research",
@@ -66459,32 +66497,17 @@
   },
   "_meta": {
     "date": "2026-08-12",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
       "integration": 1,
-      "policy": 2
+      "policy": 2,
+      "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-12-12"
+    "last_slot": "2026-08-12-14"
   },
   "_queue": [
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde0 A new paper reveals an API gap that lets researchers extract hidden reasoning traces from Claude and GPT models \u2014 effectively reading their private chain-of-thought. The method reportedly works across all of these proprietary models, and the authors published plenty of leaked reasoning examples. \u26a0\ufe0f In one case, Claude appeared to recognize an AIME benchmark question by heart and knew the answer, which raises doubts about how impressive some benchmark scores really are. The findings are a big deal for AI transparency and for open-source developers who suspect proprietary benchmarks are overstated. \ud83d\udd25 It also undercuts the assumption that 'hidden' reasoning is truly private.",
-      "post_body_fa": "\ud83e\udde0 \u06cc\u06a9 \u0645\u0642\u0627\u0644\u0647 \u062c\u062f\u06cc\u062f \u062d\u0641\u0631\u0647\u200c\u0627\u06cc \u062f\u0631 API \u06a9\u0644\u0648\u062f \u0648 GPT \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0628\u0647 \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0631\u062f\u067e\u0627\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u067e\u0646\u0647\u0627\u0646 \u0631\u0627 \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u06a9\u0646\u0646\u062f \u2014 \u06cc\u0639\u0646\u06cc \u0639\u0645\u0644\u0627\u064b \u0632\u0646\u062c\u06cc\u0631\u0647 \u0641\u06a9\u0631 \u062e\u0635\u0648\u0635\u06cc \u0645\u062f\u0644\u200c\u0647\u0627 \u0631\u0627 \u0628\u062e\u0648\u0627\u0646\u0646\u062f. \u0628\u0647 \u06af\u0641\u062a\u0647 \u0645\u0642\u0627\u0644\u0647\u060c \u0627\u06cc\u0646 \u0631\u0648\u0634 \u0631\u0648\u06cc \u0647\u0645\u0647 \u0627\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646 \u0646\u0645\u0648\u0646\u0647\u200c\u0647\u0627\u06cc \u0632\u06cc\u0627\u062f\u06cc \u0627\u0632 \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u200c\u0647\u0627\u06cc \u062f\u0631\u0632\u06a9\u0631\u062f\u0647 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u26a0\ufe0f \u062f\u0631 \u06cc\u06a9 \u0645\u0648\u0631\u062f\u060c \u06a9\u0644\u0648\u062f \u0628\u0647\u200c\u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u06cc\u062f \u0633\u0648\u0627\u0644 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 AIME \u0631\u0627 \u0627\u0632 \u062d\u0641\u0638 \u0645\u06cc\u200c\u062f\u0627\u0646\u062f \u0648 \u067e\u0627\u0633\u062e \u0631\u0627 \u0645\u06cc\u200c\u062f\u0627\u0646\u062f\u060c \u06a9\u0647 \u062a\u0631\u062f\u06cc\u062f\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0686\u0634\u0645\u06af\u06cc\u0631 \u0628\u0648\u062f\u0646 \u0628\u0631\u062e\u06cc \u0646\u062a\u0627\u06cc\u062c \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u06cc\u0627\u0641\u062a\u0647\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u06a9\u0647 \u0628\u0647 \u0628\u06cc\u0634\u200c\u0628\u0631\u0622\u0648\u0631\u062f\u06cc \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0645\u0634\u06a9\u0648\u06a9\u200c\u0627\u0646\u062f \u0628\u0633\u06cc\u0627\u0631 \u0645\u0647\u0645 \u0627\u0633\u062a. \ud83d\udd25 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0627\u06cc\u0646 \u0641\u0631\u0636 \u0631\u0627 \u062a\u0636\u0639\u06cc\u0641 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u00ab\u067e\u0646\u0647\u0627\u0646\u00bb \u0648\u0627\u0642\u0639\u0627\u064b \u062e\u0635\u0648\u0635\u06cc \u0627\u0633\u062a.",
-      "post_title": "\ud83d\udd2c Researchers decode hidden reasoning from Claude and GPT APIs",
-      "post_title_fa": "\ud83d\udd2c \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u067e\u0646\u0647\u0627\u0646 \u0631\u0627 \u0627\u0632 API\u0647\u0627\u06cc Claude \u0648 GPT \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u06a9\u0631\u062f\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-12T10:59:31+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Yesteday a paper showed a gap that allows to see 100% of the reasoning tokens form ALL Claude and GPT models <a href=\"https://arxiv.org/pdf/2608.09867\">Stealing Reasoning Traces from Proprietary LLM APIs</a>. </p> <p>check it out, they have published lots of example reasonings.<br /> this is very relevant for open soruce; for the following reason</p> <p>- there is hint for benchmaxing; given a question form the benchmark AIME, Claude reasoning showed it KNOWS IT by heart and knows the answer; so yeah the plots we see for their performance beating the open source models -&gt; could be overstated. </p> <p>- when you are using the open source model and you see your model reasoning strangly; like strange words that does not make sense or OVERTHINKING. turns out this is very normal and even frontier models do it almost all the time.</p> <p>- people now talk that this gap was used the whole time by China to distill frontier models and now that this gap is closed the distillation will be slowed down. let's see</p> <p>so yeah, i believe open source is not soo far behind as it seems from the reasoning tokens, there is not secret sauce, it is just data, compute and engineering </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Zealousideal_Sort74\"> /u/Zealousideal_Sort74 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vmawd2/hidden_reasoning_from_claude_and_gpt_are_decoded/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vmawd2/hidden_reasoning_from_claude_and_gpt_are_decoded/\">[comments]</a></span>",
-      "title": "Hidden Reasoning from Claude and GPT are Decoded, and it is interesting",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmawd2/hidden_reasoning_from_claude_and_gpt_are_decoded/"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -66630,6 +66653,22 @@
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
     {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\ude80 AI code-testing startup Blacksmith just saw its valuation explode to $550M \u2014 a nearly 10x jump in under a year. The company says revenue has grown more than tenfold over the past 12 months, riding the boom in AI-generated code. Blacksmith automates software validation, which is becoming critical as teams ship more code faster.\n\n\ud83d\udcb5 This deal highlights how the AI coding wave is extending beyond LLMs into quality-assurance tooling. Expect more investor money to pour into the AI dev-tools space. \ud83d\udcc8",
+      "post_body_fa": "\ud83d\ude80 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0633\u062a \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc Blacksmith \u062f\u0631 \u06a9\u0645\u062a\u0631 \u0627\u0632 \u06cc\u06a9 \u0633\u0627\u0644 \u0627\u0631\u0632\u0634 \u062e\u0648\u062f \u0631\u0627 \u0628\u0647 \u06f5\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0631\u0633\u0627\u0646\u062f \u0648 \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u06f1\u06f0 \u0628\u0631\u0627\u0628\u0631 \u062c\u0647\u0634 \u06a9\u0631\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0631\u0622\u0645\u062f\u0634 \u062f\u0631 \u06f1\u06f2 \u0645\u0627\u0647 \u06af\u0630\u0634\u062a\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u062f\u0647 \u0628\u0631\u0627\u0628\u0631 \u0634\u062f\u0647 \u0648 \u0627\u0632 \u0631\u0648\u0646\u0642 \u06a9\u062f\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647\u0631\u0647 \u0628\u0631\u062f\u0647. Blacksmith \u0627\u0639\u062a\u0628\u0627\u0631\u0633\u0646\u062c\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 \u0631\u0627 \u0627\u0646\u062c\u0627\u0645 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u06a9\u0647 \u0628\u0627 \u0634\u062a\u0627\u0628 \u06af\u0631\u0641\u062a\u0646 \u062a\u06cc\u0645\u200c\u0647\u0627 \u062f\u0631 \u062a\u0648\u0644\u06cc\u062f \u06a9\u062f\u060c \u062d\u06cc\u0627\u062a\u06cc\u200c\u062a\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f.\n\n\ud83d\udcb5 \u0627\u06cc\u0646 \u0645\u0639\u0627\u0645\u0644\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u0648\u062c \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0641\u0642\u0637 \u0628\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0645\u062d\u062f\u0648\u062f \u0646\u06cc\u0633\u062a \u0648 \u0628\u0647 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u062a\u0636\u0645\u06cc\u0646 \u06a9\u06cc\u0641\u06cc\u062a \u0647\u0645 \u06a9\u0634\u06cc\u062f\u0647 \u0634\u062f\u0647. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u067e\u0648\u0644 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0627\u0632 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0648\u0627\u0631\u062f \u0627\u06cc\u0646 \u062d\u0648\u0632\u0647 \u0634\u0648\u062f. \ud83d\udcc8",
+      "post_title": "\ud83d\udcb0 Blacksmith's valuation leaps 10x to $550M",
+      "post_title_fa": "\ud83d\udcb0 \u062c\u0647\u0634 \u06f1\u06f0 \u0628\u0631\u0627\u0628\u0631\u06cc \u0627\u0631\u0632\u0634 Blacksmith \u0628\u0647 \u06f5\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631",
+      "priority": "medium",
+      "published": "2026-08-12T11:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
+    },
+    {
       "category": "infrastructure",
       "duplicate_of": null,
       "post_body": "\u26a1 At OCP APAC 2026, executives from AMD, Arm, and Microsoft painted a new picture of data-center economics: agentic AI doesn't just add GPU demand, it piles extra work onto CPUs. AMD's SVP said agent-based workloads could shift the typical CPU-to-GPU ratio from 1:4 toward 1:2 or even 1:1. Arm argued that AI agents send up to 15x more requests than humans, choking current CPU setups. Microsoft backed that up with its new Cobalt 200, an 'agent-native CPU' cutting agent-call latency by 33% and boosting throughput 23%.\n\n\ud83d\udd25 For anyone planning AI infrastructure, these signals point to big changes in how servers get built. \ud83c\udf0d The shift would reshape spending across data centers worldwide.",
@@ -66644,22 +66683,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>In OCP APAC 2026, Tai AMD SVP of compute and enterprise AI said agents don't cut GPU demand but they just pile on a whole extra layer of orchestration, retrieval, and tool-calling work that runs on CPUs instead</p> <p>And the usual 1:4 CPU-to-GPU ratio could move toward 1:2 or even 1:1 and also Arm gave the reasoning of why as their Taiwan/SEA president said AI agents can fire off 15x more requests than a human ever would, since they run nonstop &amp; can spawn other agents and that's what actually chokes CPUs in current setups</p> <p>Microsoft's take lines up too. Their new Cobalt 200 chip is basically marketed as an &quot;agent-native CPU&quot; cutting agent-call latency 33% and boosting throughput 23% on agentic workloads, while they keep investing in GPUs on top of it</p> <p>So it's not just GPUs mainly but CPUs, memory, storage, networking might need to scale just as fast once AI stops being single-prompt chatbots and starts being agents doing multi-step work on their own</p> <p>Sauce: <a href=\"https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html\">https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ocean_protocol\"> /u/ocean_protocol </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/\">[comments]</a></span>",
       "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfa7 Spotify is rolling out \u201cAI persona\u201d badges that clearly mark artist identities created with AI, helping listeners spot synthetic musicians. The move comes as AI-generated music floods streaming platforms and demand for transparency rises. \ud83c\udfb6 The badges appear next to artist names and profiles, covering fully AI personas and hybrid human-AI projects.\n\nThis is a small but meaningful step toward labeling AI content in mainstream platforms. \ud83c\udf0d Expect other streaming services to follow suit as regulators and users push for clearer AI disclosure.",
-      "post_body_fa": "\ud83c\udfa7 \u0627\u0633\u067e\u0627\u062a\u06cc\u0641\u0627\u06cc \u062f\u0631 \u062d\u0627\u0644 \u0627\u0631\u0627\u0626\u0647\u0654 \u0646\u0634\u0627\u0646\u200c\u0647\u0627\u06cc \u00ab\u0634\u062e\u0635\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u00bb \u0627\u0633\u062a \u06a9\u0647 \u0647\u0648\u06cc\u062a \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0633\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0647\u200c\u0648\u0636\u0648\u062d \u0645\u0634\u062e\u0635 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u062f\u0631 \u062d\u0627\u0644\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u0648\u0633\u06cc\u0642\u06cc AI-generated \u062f\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627\u06cc \u0627\u0633\u062a\u0631\u06cc\u0645 \u0641\u0631\u0627\u06af\u06cc\u0631 \u0634\u062f\u0647 \u0648 \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u06cc\u0634\u062a\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a. \ud83c\udfb6 \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u200c\u0647\u0627 \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0646\u0627\u0645 \u0648 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0647\u0646\u0631\u0645\u0646\u062f \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f \u0648 \u0647\u0645 \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u06a9\u0627\u0645\u0644\u0627\u064b \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0647\u0645 \u067e\u0631\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc \u0627\u0646\u0633\u0627\u0646-\u0645\u0627\u0634\u06cc\u0646 \u0631\u0627 \u067e\u0648\u0634\u0634 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f.\n\n\u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u06a9\u0648\u0686\u06a9 \u0627\u0645\u0627 \u0645\u0639\u0646\u0627\u062f\u0627\u0631 \u062f\u0631 \u0645\u0633\u06cc\u0631 \u0628\u0631\u0686\u0633\u0628\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0627\u0633\u062a. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0633\u0627\u06cc\u0631 \u0633\u0631\u0648\u06cc\u0633\u200c\u0647\u0627\u06cc \u0627\u0633\u062a\u0631\u06cc\u0645 \u0628\u0627 \u0641\u0634\u0627\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0648 \u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0628\u0631\u0627\u06cc \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u06cc\u0634\u062a\u0631\u060c \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u067e\u06cc\u0631\u0648\u06cc \u06a9\u0646\u0646\u062f.",
-      "post_title": "\ud83c\udff7\ufe0f Spotify Adds AI Persona Badges for Artist Transparency",
-      "post_title_fa": "\ud83c\udff7\ufe0f \u0627\u0633\u067e\u0627\u062a\u06cc\u0641\u0627\u06cc \u0628\u0631\u0686\u0633\u0628 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0647\u0646\u0631\u0645\u0646\u062f\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f",
-      "priority": "medium",
-      "published": "2026-08-12T08:45:55+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/\">https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269463\">https://news.ycombinator.com/item?id=49269463</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "A New Label for AI-Generated Artist Identities on Spotify",
-      "url": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -69273,6 +69296,14 @@
     "source": "arXiv cs.CL",
     "title": "Should Missing Modalities Always Be Necessary to Repair for Multi-modal Sentiment Analysis?",
     "title_norm": "should missing modalities always be necessary to repair for multimodal sentiment analysis"
+  },
+  "a6331135eddf955bcb3333a6875d3f701e704231c7339d9db3512a76ace21994": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.657991+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+    "title_norm": "cftc declares market emergency orders kalshi to continue to operate in new york"
   },
   "a635ddc36010ec26c730904028d7e2fb7bcb8fb1f958ab64536231ad8ee1867d": {
     "category": "other",
@@ -77875,6 +77906,14 @@
     "source": "OpenAI News",
     "title": "The five AI value models driving business reinvention",
     "title_norm": "the five ai value models driving business reinvention"
+  },
+  "ba0e4c3180b1bf0210bca95ea6e7aa4b88741dfa7e744cb07bda0c377ff2c3d7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.657903+00:00",
+    "source": "TechCrunch AI",
+    "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+    "title_norm": "ai codetesting startup blacksmiths valuation jumps almost 10x in less than a year"
   },
   "ba126517543703692ea7cd3412239bf309d43deae4758c02572b0f389b9ffb01": {
     "category": "model_release",
@@ -89914,6 +89953,14 @@
     "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate \u03ba misses",
     "title_norm": "mud as ai evaluation and llmjudge distortion in ways aggregate \u03ba misses"
   },
+  "d7a67f228f0bbe6dc79868d6e29a892cb6157a76cb0246f8423b95bedc399990": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658063+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Hybrid-retrieval memory layer for AI agents",
+    "title_norm": "hybridretrieval memory layer for ai agents"
+  },
   "d7a84cbd1eb474d74927b17b12646f6537327bc97392bf140d66f4be6a28082d": {
     "category": "other",
     "posted": false,
@@ -101869,6 +101916,14 @@
     "source": "arXiv cs.AI",
     "title": "TINY_SCHILLER: A Drop-In German Drama Corpus for Small Language Models",
     "title_norm": "tiny_schiller a dropin german drama corpus for small language models"
+  },
+  "f50e72ff101dd90a1f1c39e6b6060b655fcbf6d20a6979c69fb52c29902773cb": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-12T12:03:41.658048+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I built an MCP server to show my AI my screen",
+    "title_norm": "i built an mcp server to show my ai my screen"
   },
   "f50f816e03bf6dc3411c89e93f01498cdfc39eb94f5c31eafddf3116d2ecd7b2": {
     "category": "research",
