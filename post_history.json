@@ -3225,7 +3225,13 @@
   },
   "077c610d94d93aee81c63a5e4a0a6423f7d06875651c479d1c4011fb0ec7da74": {
     "category": "policy",
-    "posted": false,
+    "message_id": 172,
+    "message_id_fa": 146,
+    "post_title": "\u2696\ufe0f Major AI Labs Sign EU Code of Practice on AI Content Transparency",
+    "post_title_fa": "\u2696\ufe0f \u0627\u0645\u0636\u0627\u06cc \u0642\u0627\u0646\u0648\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u062a\u0648\u0633\u0637 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc AI",
+    "posted": true,
+    "posted_at": "2026-08-12T10:16:14.719487+00:00",
+    "priority": "high",
     "seen_at": "2026-08-12T07:53:20.576580+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content",
@@ -4640,6 +4646,14 @@
     "source": "Hugging Face Blog",
     "title": "Boosting Wav2Vec2 with n-grams in \ud83e\udd17 Transformers",
     "title_norm": "boosting wav2vec2 with ngrams in transformers"
+  },
+  "0b220dd8f3eed0c9928e9114fb4c31172e258ea7a0434f59e21e568029f9d02c": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591836+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Facebook is paying controversial creators to produce rage-bait content",
+    "title_norm": "facebook is paying controversial creators to produce ragebait content"
   },
   "0b262e6d7116e98e309f8b03e70bed5503f77dd8f77ac541a1cb92541cbe1e5c": {
     "category": "research",
@@ -44293,6 +44307,14 @@
     "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
     "title_norm": "windowedmtp removing the fullcontext draftkv tax at milliontoken context"
   },
+  "6942f771be67130c98c2101ce76e6a251ec3fbd90d1dfd88ea717133fc8c309e": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591947+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "RAG for regular users?",
+    "title_norm": "rag for regular users"
+  },
   "6944c747742d92ce61525a104cf84573951ea33405491fd1a74b66e4c3d0c54e": {
     "category": "other",
     "posted": false,
@@ -56161,6 +56183,14 @@
     "title": "Is corruption the lobbying against Open weights?",
     "title_norm": "is corruption the lobbying against open weights"
   },
+  "86e5a0868fe553539097d6d805d2a4cf5378a0c7cb10d469a96fb6ea891672d1": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591859+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Dutch Train Map Simulator",
+    "title_norm": "dutch train map simulator"
+  },
   "86f55a21f6f2524817eba161f2df1ccb2b1b95370183368019bfca7ddb0aaecf": {
     "category": "other",
     "posted": false,
@@ -59049,6 +59079,14 @@
     "title": "AgentPSO: Evolving Agent Reasoning Skill via Multi-agent Particle Swarm Optimization",
     "title_norm": "agentpso evolving agent reasoning skill via multiagent particle swarm optimization"
   },
+  "8e0ceccc4571b9826177fb18ca6f283278dd3ac761e28ebf047217b5a12c4e95": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591902+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AlphaLab.ai \u2013 Run your own AI quant lab",
+    "title_norm": "alphalabai run your own ai quant lab"
+  },
   "8e0dd5d187fd25a4e1faa6cb49c70df5c37a188fa37a1bcc3762f0f23b3ad872": {
     "category": "research",
     "posted": false,
@@ -61787,6 +61825,14 @@
     "title": "AI Evaluation Should Measure Verification Cost, Not Correctness Alone",
     "title_norm": "ai evaluation should measure verification cost not correctness alone"
   },
+  "94bd665d6cc75d046e5b382bc62095d401854d018d90fbd85b267c3c057dd8b9": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591873+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why 'open' AI systems are closed, and why this matters (2024)",
+    "title_norm": "why open ai systems are closed and why this matters 2024"
+  },
   "94c67b9f0039775026d995bc3d97c56662d511ace05b873375afef25cb79f5ba": {
     "category": "other",
     "posted": false,
@@ -62855,6 +62901,14 @@
     "title": "Mind the Gap: Zero-Query Jailbreaks via Filter-Generator Discrepancy in Text-to-Image Systems",
     "title_norm": "mind the gap zeroquery jailbreaks via filtergenerator discrepancy in texttoimage systems"
   },
+  "972386fb8081e6303947afc788c412548980d61c0a5ba43e89b2f6d8a8c8af8b": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591958+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1",
+    "title_norm": "according to amd arm and microsoft agentic ai could push cputogpu ratios from 14 to even11"
+  },
   "9723a553b672e3b46808e0fa56434f6cc0fd5be5504dc7b7f51e02c54b84fc2f": {
     "category": "research",
     "posted": false,
@@ -62862,6 +62916,14 @@
     "source": "arXiv cs.CL",
     "title": "MT-PingEval: Evaluating Multi-Turn Collaboration with Private Information Games",
     "title_norm": "mtpingeval evaluating multiturn collaboration with private information games"
+  },
+  "9724ac995a2af635b08d223e6c4dd0cdf907d9e7be483d1b3ec2de4680bc3f3e": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591933+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "When the AI Bubble Bursts, Who Will Be Left Holding the Bag?",
+    "title_norm": "when the ai bubble bursts who will be left holding the bag"
   },
   "97296d164b2b4a5be6fad236cdcbc82745e7b4fe330f46f421d747af611f70f7": {
     "category": "integration",
@@ -66317,32 +66379,16 @@
   },
   "_meta": {
     "date": "2026-08-12",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "integration": 1,
-      "policy": 1
+      "policy": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-12-10"
+    "last_slot": "2026-08-12-12"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd8b\ufe0f Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral have signed the EU Code of Practice on Transparency of AI-Generated Content. The agreement commits them to watermarking and labeling AI-generated text and code, including open-source models.\n\nThis means built-in provenance markers will be required by law for these companies' releases in the EU. \ud83c\udfdb\ufe0f The move standardizes transparency rules across the industry and could shape global AI governance. It also pressures smaller developers and open-source communities to follow suit.",
-      "post_body_fa": "\ud83d\udd8b\ufe0f Anthropic\u060c OpenAI\u060c Google\u060c Meta\u060c Microsoft \u0648 Mistral \u0647\u0645\u0647 \u0642\u0627\u0646\u0648\u0646 \u0631\u0641\u062a\u0627\u0631\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0634\u0641\u0627\u0641\u06cc\u062a \u0645\u062d\u062a\u0648\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0627\u0645\u0636\u0627 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u062a\u0648\u0627\u0641\u0642 \u0622\u0646\u0647\u0627 \u0631\u0627 \u0645\u0644\u0632\u0645 \u0628\u0647 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9 \u06a9\u0631\u062f\u0646 \u0648 \u0628\u0631\u0686\u0633\u0628\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062a\u0646 \u0648 \u06a9\u062f\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u062a\u0648\u0633\u0637 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632\u060c \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0628\u062f\u0627\u0646 \u0645\u0639\u0646\u0627\u0633\u062a \u06a9\u0647 \u0646\u0634\u0627\u0646\u06af\u0631\u0647\u0627\u06cc \u0645\u0646\u0634\u0623 \u062f\u0627\u062e\u0644\u06cc \u0637\u0628\u0642 \u0642\u0627\u0646\u0648\u0646 \u0628\u0631\u0627\u06cc \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u062f\u0631 \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u0627\u0644\u0632\u0627\u0645\u06cc \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f. \ud83c\udfdb\ufe0f \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a \u0631\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0635\u0646\u0639\u062a \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0631 \u062d\u0627\u06a9\u0645\u06cc\u062a \u062c\u0647\u0627\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0623\u062b\u06cc\u0631 \u0628\u06af\u0630\u0627\u0631\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u06a9\u0648\u0686\u06a9\u200c\u062a\u0631 \u0648 \u062c\u0648\u0627\u0645\u0639 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0627 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u062a\u0627 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0645\u0634\u0627\u0628\u0647\u06cc \u0627\u062a\u062e\u0627\u0630 \u06a9\u0646\u0646\u062f.",
-      "post_title": "\u2696\ufe0f Major AI Labs Sign EU Code of Practice on AI Content Transparency",
-      "post_title_fa": "\u2696\ufe0f \u0627\u0645\u0636\u0627\u06cc \u0642\u0627\u0646\u0648\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u062a\u0648\u0633\u0637 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc AI",
-      "priority": "high",
-      "published": "2026-08-12T00:28:51+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/\"> <img alt=\"Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content\" src=\"https://preview.redd.it/f9jt8fh79uih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94a2ca64f968166390bf8c39f36b4fe852739a18\" title=\"Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Even open source local models from these companies will be watermarking code and text since it's required by law.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bestlife73\"> /u/Bestlife73 </a> <br /> <span><a href=\"https://i.redd.it/f9jt8fh79uih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/\">[comments]</a></span> </td></tr></table>",
-      "title": "Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlyzi6/anthropic_openai_google_meta_microsoft_and/"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -66486,6 +66532,22 @@
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    },
+    {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\u26a1 At OCP APAC 2026, executives from AMD, Arm, and Microsoft painted a new picture of data-center economics: agentic AI doesn't just add GPU demand, it piles extra work onto CPUs. AMD's SVP said agent-based workloads could shift the typical CPU-to-GPU ratio from 1:4 toward 1:2 or even 1:1. Arm argued that AI agents send up to 15x more requests than humans, choking current CPU setups. Microsoft backed that up with its new Cobalt 200, an 'agent-native CPU' cutting agent-call latency by 33% and boosting throughput 23%.\n\n\ud83d\udd25 For anyone planning AI infrastructure, these signals point to big changes in how servers get built. \ud83c\udf0d The shift would reshape spending across data centers worldwide.",
+      "post_body_fa": "\u26a1 \u062f\u0631 OCP APAC 2026\u060c \u0645\u062f\u06cc\u0631\u0627\u0646 AMD\u060c Arm \u0648 \u0645\u0627\u06cc\u06a9\u0631\u0648\u0633\u0627\u0641\u062a \u062a\u0635\u0648\u06cc\u0631 \u062c\u062f\u06cc\u062f\u06cc \u0627\u0632 \u0627\u0642\u062a\u0635\u0627\u062f \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631 \u062a\u0631\u0633\u06cc\u0645 \u06a9\u0631\u062f\u0646\u062f: \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0627\u0645\u0644\u06cc \u0646\u0647\u200c\u062a\u0646\u0647\u0627 \u062a\u0642\u0627\u0636\u0627\u06cc GPU \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u0628\u0644\u06a9\u0647 \u0628\u0627\u0631 \u0627\u0636\u0627\u0641\u06cc \u0632\u06cc\u0627\u062f\u06cc \u0631\u0648\u06cc CPU \u0645\u06cc\u200c\u06af\u0630\u0627\u0631\u062f. \u0645\u0639\u0627\u0648\u0646 \u0627\u0631\u0634\u062f AMD \u06af\u0641\u062a \u06a9\u0647 \u0627\u06cc\u0646 \u0646\u0648\u0639 \u06a9\u0627\u0631\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0646\u0633\u0628\u062a \u0645\u0639\u0645\u0648\u0644 CPU \u0628\u0647 GPU \u0631\u0627 \u0627\u0632 \u06f1:\u06f4 \u0628\u0647 \u06f1:\u06f2 \u06cc\u0627 \u062d\u062a\u06cc \u06f1:\u06f1 \u0628\u0631\u0633\u0627\u0646\u062f. Arm \u0646\u06cc\u0632 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u06a9\u0631\u062f \u06a9\u0647 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0627 \u06f1\u06f5 \u0628\u0631\u0627\u0628\u0631 \u0628\u06cc\u0634\u062a\u0631 \u0627\u0632 \u0627\u0646\u0633\u0627\u0646 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0627\u0631\u0633\u0627\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u0648 \u0647\u0645\u06cc\u0646 \u0628\u0627\u0639\u062b \u0641\u0634\u0627\u0631 \u0628\u0631 CPU\u0647\u0627\u06cc \u0641\u0639\u0644\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f. \u0645\u0627\u06cc\u06a9\u0631\u0648\u0633\u0627\u0641\u062a \u0647\u0645 \u0628\u0627 \u0645\u0639\u0631\u0641\u06cc \u062a\u0631\u0627\u0634\u0647 \u062c\u062f\u06cc\u062f Cobalt 200 \u0627\u06cc\u0646 \u0627\u062f\u0639\u0627 \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f\u061b \u062a\u0631\u0627\u0634\u0647\u200c\u0627\u06cc \u00ab\u0645\u062e\u0635\u0648\u0635 \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u00bb \u06a9\u0647 \u062a\u0623\u062e\u06cc\u0631 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0631\u0627 \u06f3\u06f3\u066a \u06a9\u0627\u0647\u0634 \u0648 \u062a\u0648\u0627\u0646 \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc \u0631\u0627 \u06f2\u06f3\u066a \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\ud83d\udd25 \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u06cc\u0646 \u0633\u06cc\u06af\u0646\u0627\u0644\u200c\u0647\u0627 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0628\u0632\u0631\u06af\u06cc \u0631\u0627 \u062f\u0631 \u0633\u0627\u062e\u062a \u0633\u0631\u0648\u0631\u0647\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83c\udf0d \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0631\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646 \u062f\u06af\u0631\u06af\u0648\u0646 \u06a9\u0646\u062f.",
+      "post_title": "\ud83c\udfd7\ufe0f Agentic AI Could Push CPU-to-GPU Ratio to 1:1",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0627\u0645\u0644\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0646\u0633\u0628\u062a CPU \u0628\u0647 GPU \u0631\u0627 \u0628\u0647 \u06f1:\u06f1 \u0628\u0631\u0633\u0627\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-12T10:05:45+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In OCP APAC 2026, Tai AMD SVP of compute and enterprise AI said agents don't cut GPU demand but they just pile on a whole extra layer of orchestration, retrieval, and tool-calling work that runs on CPUs instead</p> <p>And the usual 1:4 CPU-to-GPU ratio could move toward 1:2 or even 1:1 and also Arm gave the reasoning of why as their Taiwan/SEA president said AI agents can fire off 15x more requests than a human ever would, since they run nonstop &amp; can spawn other agents and that's what actually chokes CPUs in current setups</p> <p>Microsoft's take lines up too. Their new Cobalt 200 chip is basically marketed as an &quot;agent-native CPU&quot; cutting agent-call latency 33% and boosting throughput 23% on agentic workloads, while they keep investing in GPUs on top of it</p> <p>So it's not just GPUs mainly but CPUs, memory, storage, networking might need to scale just as fast once AI stops being single-prompt chatbots and starts being agents doing multi-step work on their own</p> <p>Sauce: <a href=\"https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html\">https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ocean_protocol\"> /u/ocean_protocol </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/\">[comments]</a></span>",
+      "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm9w5x/according_to_amd_arm_and_microsoft_agentic_ai/"
     },
     {
       "category": "other",
@@ -93378,6 +93440,14 @@
     "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
     "title_norm": "fish audio raises 52m seed to build ai voice models for creators and enterprises"
   },
+  "e06f5909c3ed9ff5a1d209fe454571833e7a46f9b3834f205f97d0fb5cfd34a8": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591890+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Infrastructure Leadership Summit",
+    "title_norm": "ai infrastructure leadership summit"
+  },
   "e0719da6d228cd381107e2f4dcea5f87e2e9cb43ef9589e797486cbd5134769b": {
     "category": "research",
     "posted": false,
@@ -99025,6 +99095,14 @@
     "source": "Hacker News Frontpage",
     "title": "Using an open model feels surprisingly good",
     "title_norm": "using an open model feels surprisingly good"
+  },
+  "ee4567687b9a3c665450c4a57948b184e0d60a73cd1893d039ed77af0b231ae9": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591737+00:00",
+    "source": "Wired AI",
+    "title": "You\u2019re Thinking About Online Trends All Wrong",
+    "title_norm": "youre thinking about online trends all wrong"
   },
   "ee4e606a3e033cc5b4d0072b536fbedb3e0149c3939fc9be8fb58ec3432eebc2": {
     "category": "policy",
@@ -105613,6 +105691,14 @@
     "source": "arXiv cs.CL",
     "title": "Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents",
     "title_norm": "treeofexperience hierarchical experience management for selfevolving agents"
+  },
+  "feea473dacd089b28fdd9879974efea1ce6ba1e3ffc1ff79cd55e4c24800a995": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-12T10:16:13.591917+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: SoundGate \u2013 Real-time note detection and AI tutor for guitar",
+    "title_norm": "show hn soundgate realtime note detection and ai tutor for guitar"
   },
   "feec8f4796dc11b8dc20a937d881dd83f3f87711faa6291bf6f63f385d70e076": {
     "category": "integration",
