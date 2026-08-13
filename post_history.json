@@ -30893,6 +30893,14 @@
     "title": "VLD-RAG: Agentic Vision-Language Retrieval-Augmented Generation for Long, Visually-Rich Multi-Page Documents",
     "title_norm": "vldrag agentic visionlanguage retrievalaugmented generation for long visuallyrich multipage documents"
   },
+  "46ef51d17cfc44165084ca7f35a64043e7598933bd7b90fdc294a38b07688861": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465075+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Minimax Music 3 open weight release soon?",
+    "title_norm": "minimax music 3 open weight release soon"
+  },
   "47026f1492922f79df928e9679ec2be47a74161eb15e30ceed79e6e3810fe8b8": {
     "category": "research",
     "posted": false,
@@ -57483,6 +57491,14 @@
     "title": "Show HN: RenderPop \u2013 Free browser-based AI image and video generator",
     "title_norm": "show hn renderpop free browserbased ai image and video generator"
   },
+  "83f446df864963c2114d61b76a0d45dd7a2d7c669e5e5cda2827415da9563b45": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465120+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "The White House is going to expand its AI policy: open models may soon be added to an updated AI framework",
+    "title_norm": "the white house is going to expand its ai policy open models may soon be added to an updated ai framework"
+  },
   "83fb5439cd58b2fc201eb19b5fc9eca5993fb7132fdb4eb111416f45df2623ec": {
     "category": "model_release",
     "posted": false,
@@ -65785,6 +65801,20 @@
     "title": "VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection",
     "title_norm": "vendorbench100 a unified crossparadigm benchmark for deepfake image detection"
   },
+  "9785a5f9ea28922c0746f8db44fa042617a85caaaee8d7e8916b42a7c31915f0": {
+    "category": "other",
+    "message_id": 180,
+    "message_id_fa": 154,
+    "post_title": "\u26a0\ufe0f Twitch Defaults to Feeding Your Streams to Amazon AI",
+    "post_title_fa": "\u26a0\ufe0f \u062a\u0648\u06cc\u06cc\u0686 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0627\u0633\u062a\u0631\u06cc\u0645\u200c\u0647\u0627\u06cc \u0634\u0645\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0622\u0645\u0627\u0632\u0648\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-13T09:21:48.416706+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-13T09:21:47.465044+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default",
+    "title_norm": "twitch now trains amazons generative ai models on your channel by default"
+  },
   "978a353b1d065a4cdc31b0330614a43f1acfeccb2e7a105960adaaad63d0226e": {
     "category": "courses",
     "posted": false,
@@ -66922,6 +66952,14 @@
     "source": "Hugging Face Blog",
     "title": "SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit",
     "title_norm": "setfitabsa fewshot aspect based sentiment analysis using setfit"
+  },
+  "9a7e26b0da617930f6c5a9dd737907a322bac37b34753dd32a8878421991a8bf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.464991+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching",
+    "title_norm": "boltz shuts down bitcoin swaps citing ai attacks outpacing patching"
   },
   "9a7ef8504ebf1c864661e8aac132719fe6d840fa29eeabb4710009b769c55b52": {
     "category": "research",
@@ -69231,15 +69269,32 @@
   },
   "_meta": {
     "date": "2026-08-13",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
-      "model_release": 1
+      "model_release": 1,
+      "other": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-13-08"
+    "last_slot": "2026-08-13-10"
   },
   "_queue": [
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfdb\ufe0f The White House is preparing to update its AI policy framework to explicitly include open-weight models, according to a new Wired report. The move could bring open-source AI under the same guardrails as proprietary systems. It signals that policymakers are no longer treating open models as a side note.\n\n\ud83d\udcdc The update could affect how companies like Meta and Mistral release their next-gen open models. For developers and AI startups, this means more regulatory scrutiny but also clearer rules. \ud83c\udf0d",
+      "post_body_fa": "\ud83c\udfdb\ufe0f \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u062f\u0631 \u062d\u0627\u0644 \u0622\u0645\u0627\u062f\u0647\u200c\u0633\u0627\u0632\u06cc \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0686\u0627\u0631\u0686\u0648\u0628 \u0633\u06cc\u0627\u0633\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0648\u062f \u0627\u0633\u062a \u062a\u0627 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0627\u0648\u067e\u0646\u200c\u0648\u06cc\u06cc\u062a \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0635\u0631\u06cc\u062d \u062f\u0631 \u0628\u0631 \u0628\u06af\u06cc\u0631\u062f\u060c \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 \u062c\u062f\u06cc\u062f Wired. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0627 \u062a\u062d\u062a \u0647\u0645\u0627\u0646 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u06cc \u0633\u0627\u0645\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0642\u0631\u0627\u0631 \u062f\u0647\u062f. \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0633\u06cc\u0627\u0633\u062a\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u062f\u06cc\u06af\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0631\u0627 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u06cc\u06a9 \u0645\u0648\u0636\u0648\u0639 \u0641\u0631\u0639\u06cc \u062a\u0644\u0642\u06cc \u0646\u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\ud83d\udcdc \u0627\u06cc\u0646 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0631 \u0646\u062d\u0648\u0647 \u0627\u0646\u062a\u0634\u0627\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0646\u0633\u0644 \u0628\u0639\u062f\u06cc \u062a\u0648\u0633\u0637 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f Meta \u0648 Mistral \u062a\u0623\u062b\u06cc\u0631 \u0628\u06af\u0630\u0627\u0631\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0646\u0638\u0627\u0631\u062a \u0646\u0638\u0627\u0631\u062a\u06cc \u0628\u06cc\u0634\u062a\u0631\u060c \u0627\u0645\u0627 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0631\u0648\u0634\u0646\u200c\u062a\u0631. \ud83c\udf0d",
+      "post_title": "\u2696\ufe0f White House to Expand AI Policy to Cover Open Models",
+      "post_title_fa": "\u2696\ufe0f \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u0633\u06cc\u0627\u0633\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u067e\u0648\u0634\u0634 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u06af\u0633\u062a\u0631\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f",
+      "priority": "high",
+      "published": "2026-08-13T08:18:32+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vn4pky/the_white_house_is_going_to_expand_its_ai_policy/\"> <img alt=\"The White House is going to expand its AI policy: open models may soon be added to an updated AI framework\" src=\"https://preview.redd.it/8wezoj2wp3jh1.jpg?width=140&amp;height=131&amp;auto=webp&amp;s=22e734645989485889479d0bb71011a97a394818\" title=\"The White House is going to expand its AI policy: open models may soon be added to an updated AI framework\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Wired (soft paywall): <a href=\"https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/\">https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nunki08\"> /u/Nunki08 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vn4pky\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vn4pky/the_white_house_is_going_to_expand_its_ai_policy/\">[comments]</a></span> </td></tr></table>",
+      "title": "The White House is going to expand its AI policy: open models may soon be added to an updated AI framework",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4pky/the_white_house_is_going_to_expand_its_ai_policy/"
+    },
     {
       "category": "infrastructure",
       "duplicate_of": null,
@@ -69399,22 +69454,6 @@
       "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/responses_api/\">https://api-docs.deepseek.com/guides/responses_api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275114\">https://news.ycombinator.com/item?id=49275114</a></p>\n<p>Points: 39</p>\n<p># Comments: 2</p>",
       "title": "DeepSeek V4 Pro 0813 quietly released",
       "url": "https://api-docs.deepseek.com/guides/responses_api/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Alibaba's Qwen team has published Qwen3.8-2.4T-A95B-FP8 on Hugging Face, a huge MoE model with 2.4 trillion total parameters and 95 billion active. \u26a1 The FP8 precision and sparse activation keep inference costs far below a dense model of similar scale.\n\n\ud83d\udcca Early community reactions are strong, with developers already discussing benchmarks and serving requirements. \ud83d\udd25 This is one of the largest open-weight model releases ever, signaling Qwen's push to stay ahead in the open-source AI race.",
-      "post_body_fa": "\ud83e\udd16 \u062a\u06cc\u0645 Qwen \u0627\u0632 \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u0645\u062f\u0644 Qwen3.8-2.4T-A95B-FP8 \u0631\u0627 \u0631\u0648\u06cc Hugging Face \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u06cc\u06a9 \u0645\u062f\u0644 MoE \u0639\u0638\u06cc\u0645 \u0628\u0627 \u06f2.\u06f4 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u06a9\u0644 \u0648 \u06f9\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u0641\u0639\u0627\u0644. \u26a1 \u062f\u0642\u062a FP8 \u0648 \u0641\u0639\u0627\u0644\u200c\u0633\u0627\u0632\u06cc \u067e\u0631\u0627\u06a9\u0646\u062f\u0647 \u0647\u0632\u06cc\u0646\u0647 \u0627\u06cc\u0646\u0641\u0631\u0646\u0633 \u0631\u0627 \u0628\u0633\u06cc\u0627\u0631 \u067e\u0627\u06cc\u06cc\u0646\u200c\u062a\u0631 \u0627\u0632 \u0645\u062f\u0644 \u0645\u062a\u0631\u0627\u06a9\u0645 \u0628\u0627 \u0686\u0646\u06cc\u0646 \u0627\u0628\u0639\u0627\u062f\u06cc \u0646\u06af\u0647 \u0645\u06cc\u200c\u062f\u0627\u0631\u062f.\n\n\ud83d\udcca \u0648\u0627\u06a9\u0646\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u062c\u0627\u0645\u0639\u0647 \u0642\u0648\u06cc \u0628\u0648\u062f\u0647 \u0648 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u062f\u0631\u0628\u0627\u0631\u0647 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0648 \u0646\u06cc\u0627\u0632\u0647\u0627\u06cc \u0627\u062c\u0631\u0627 \u0628\u062d\u062b \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \ud83d\udd25 \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0627\u0646\u062a\u0634\u0627\u0631\u0647\u0627\u06cc \u0645\u062f\u0644 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062a\u0627 \u0628\u0647 \u0627\u0645\u0631\u0648\u0632 \u0627\u0633\u062a \u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f Qwen \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u0644\u0648\u062a\u0631 \u0645\u06cc\u200c\u0645\u0627\u0646\u062f.",
-      "post_title": "\ud83d\ude80 Qwen releases Qwen3.8-2.4T, a massive 2.4T-parameter model",
-      "post_title_fa": "\ud83d\ude80 \u0627\u0646\u062a\u0634\u0627\u0631 Qwen3.8-2.4T\u060c \u0645\u062f\u0644\u06cc \u0639\u0638\u06cc\u0645 \u0628\u0627 \u06f2.\u06f4 \u062a\u0631\u06cc\u0644\u06cc\u0648\u0646 \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u062a\u0648\u0633\u0637 Qwen",
-      "priority": "high",
-      "published": "2026-08-12T16:26:16+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274950\">https://news.ycombinator.com/item?id=49274950</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -75251,6 +75290,14 @@
     "title": "AIPass \u2013 AI agents with persistent identity, memory, and email",
     "title_norm": "aipass ai agents with persistent identity memory and email"
   },
+  "acd5621ac8977c4b89e8365ded5967f2ca0a7e2d8de0d2c983995893fc32d69e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.464899+00:00",
+    "source": "Wired AI",
+    "title": "There\u2019s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "title_norm": "theres a fatty liver epidemic ai could help get ahead of it"
+  },
   "acd6abaea30b308f49a424f5a84b39cad173ba963153694074cd75bde491cc89": {
     "category": "research",
     "posted": false,
@@ -77596,6 +77643,14 @@
     "source": "arXiv cs.CL",
     "title": "DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
     "title_norm": "denseon with the lateon fully open dense and lateinteraction models for multilingual longcontext and code search"
+  },
+  "b241ec9f4172c620b7b52d8e550fc64efd264ae886d45e1bc269a1cec96a47ae": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465059+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Relational-to-KV \u2013 AI maps relational models to ToplingDB/RocksDB",
+    "title_norm": "show hn relationaltokv ai maps relational models to toplingdbrocksdb"
   },
   "b249a356cae8ea75352b3bb6d8982fcc06a38c776bdcf7e1e8d3ecbf28b068f4": {
     "category": "other",
@@ -88415,6 +88470,14 @@
     "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
     "title_norm": "multiagent forensic reasoning for generalizable deepfake video detection"
   },
+  "ca7c5fedb235635afca35006de981409b7aa7de907dd7058580f990c00cb642a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465013+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "title_norm": "ai agents enable adaptive computer worms"
+  },
   "ca7f945764216231ff043d116d7b9a5497344fc9c5e424e777db9788796be99d": {
     "category": "research",
     "posted": false,
@@ -97140,6 +97203,14 @@
     "source": "Hugging Face Blog",
     "title": "Faster Text Generation with Self-Speculative Decoding",
     "title_norm": "faster text generation with selfspeculative decoding"
+  },
+  "dfcb460f7148978258f671a418216b1903693d3be5449cd23cd39388747f9fff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465146+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "How do you code with LLMs?",
+    "title_norm": "how do you code with llms"
   },
   "dfd69a0c4583edec0c043490b5523b616a0c19c3692c01a8aecd65a40ae5051e": {
     "category": "model_release",
@@ -109128,6 +109199,14 @@
     "source": "OpenAI News",
     "title": "Learning to communicate",
     "title_norm": "learning to communicate"
+  },
+  "fc32bc984875f8601fc93f67d5a02a301325f99ee9b0d8670b411c6bc0609f35": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-13T09:21:47.465027+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
+    "title_norm": "i built an ai video upscaler that runs the heavy gpu work in the cloud"
   },
   "fc33f49fe3b309e39a62a1c7464f403df4fe7243617747a34faca5eea2c3bef0": {
     "category": "research",
