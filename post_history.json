@@ -7299,6 +7299,14 @@
     "title": "SetGo: Metadata Readiness for Scientific AI Datasets",
     "title_norm": "setgo metadata readiness for scientific ai datasets"
   },
+  "0ff0ebe07257b9b36b8258aeabd9443c0f4528faff506be20689f5c30d673a33": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760000+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "RayforceDB \u2013 a pure C analytics database with a Lisp-like syntax",
+    "title_norm": "rayforcedb a pure c analytics database with a lisplike syntax"
+  },
   "0ff11404f31be7661f8b8eb6adcbc801c9bfdbc461f3e08036625b8c607629c2": {
     "category": "research",
     "posted": false,
@@ -13277,6 +13285,14 @@
     "title": "Introducing the OpenAI Economic Research Exchange",
     "title_norm": "introducing the openai economic research exchange"
   },
+  "1ce8838d1d73306af3ae7da4a2f138535018c12de38663351b040f2a7cebb186": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760017+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+    "title_norm": "show hn online snmp mib database uploadview your own mibs"
+  },
   "1cecf81960566c582aa95da49ee3235f90b3b33d219e9874550d17c59a766bf6": {
     "category": "research",
     "posted": false,
@@ -16423,6 +16439,20 @@
     "title": "The idea: on a CPU the decode speed depends on the active params per token, not the total. My objective is trying to run a 10B at 100tok/s on a mid level PC (No GPU).",
     "title_norm": "the idea on a cpu the decode speed depends on the active params per token not the total my objective is trying to run a 10b at 100toks on a mid level pc no gpu"
   },
+  "23be1c8a10c016b60ce614b44eb03457262d5ac1f4a52aaae9fa56726448db38": {
+    "category": "model_release",
+    "message_id": 193,
+    "message_id_fa": 167,
+    "post_title": "\ud83d\ude80 Meta releases open-weight Glimmer, says AI should be 'for everyone'",
+    "post_title_fa": "\ud83d\ude80 Meta \u0645\u062f\u0644 \u0645\u062a\u0646\u0628\u0627\u0632 Glimmer \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f: \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631\u0627\u06cc \u0647\u0645\u0647",
+    "posted": true,
+    "posted_at": "2026-08-14T16:38:31.715426+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-14T16:38:29.759927+00:00",
+    "source": "TechCrunch AI",
+    "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+    "title_norm": "does mark zuckerberg really believe ai is for everyone"
+  },
   "23bfcbf5f1dc14fa65b7ac1159a8fb4d728441fa297aa1c3d4c4fa35835dec57": {
     "category": "other",
     "posted": false,
@@ -17254,6 +17284,14 @@
     "source": "arXiv cs.AI",
     "title": "Building2Building: A Large Scale Benchmark for Generalizable Real-World Reinforcement Learning",
     "title_norm": "building2building a large scale benchmark for generalizable realworld reinforcement learning"
+  },
+  "2580b58920153dfab9a218a233d019ec674e6adab71b4ac6a24b012257da31da": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760289+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B has caveman thinking!",
+    "title_norm": "qwen 38 27b has caveman thinking"
   },
   "258197c907f2887d28ae6bb9051d4cec6f3f88c325239d1e8b059736967b10f4": {
     "category": "research",
@@ -19165,6 +19203,14 @@
     "title": "Mapping Similarity Spaces across Embedding Models with Synthetic Query Probing",
     "title_norm": "mapping similarity spaces across embedding models with synthetic query probing"
   },
+  "297d6cc2d693633af1778a9edf0a905649de9deba98ee077e3cc78341adeaa58": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.759959+00:00",
+    "source": "TechCrunch AI",
+    "title": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong",
+    "title_norm": "metas open ai and a 250m deal gone very wrong"
+  },
   "298649f3f42b51a0da1839e626fe3437fbf45802b7327e5493927e6a8900fff8": {
     "category": "model_release",
     "posted": false,
@@ -20084,6 +20130,14 @@
     "source": "arXiv cs.CL",
     "title": "ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS",
     "title_norm": "asrroundtrip evaluation can mask context and conventiondependent reading errors in chinese news tts"
+  },
+  "2b71cb6d2f467db8e3bdd1438de8c7c232fa8306bb8c3830ad94cb7964ca2c17": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760179+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI by Hand",
+    "title_norm": "ai by hand"
   },
   "2b76a01192ab39abb15af9d52f335c25419000db57602da980bfecc1edea70c2": {
     "category": "other",
@@ -22083,6 +22137,14 @@
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "title_norm": "listen labs raises 69m after viral billboard hiring stunt to scale ai customer interviews"
   },
+  "2f7ad7badae3b49f48677733505fdec6760b11e383ed17181182cda8f6d9438c": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760057+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
+    "title_norm": "show hn graft claude code hooks that cut grep tokens by 42"
+  },
   "2f83927af44543a29a876bd19a95f1d58b10b854c40422ab04bae59b8f55a235": {
     "category": "research",
     "posted": false,
@@ -23995,6 +24057,14 @@
     "title": "Drift \u2013 Intent-driven versioning for AI coding agents",
     "title_norm": "drift intentdriven versioning for ai coding agents"
   },
+  "339733beacc2ed0ce9499e50f3cccde059f6741cc10b62e66884fc379f8cfe24": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760190+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Is AI Coding Effecting Our Mental Health? [video]",
+    "title_norm": "is ai coding effecting our mental health video"
+  },
   "33a0a53324e38c31773abec1791d3ea7884e03bde9d02815047dc9b24a172649": {
     "category": "research",
     "posted": false,
@@ -25386,6 +25456,14 @@
     "source": "Hacker News Frontpage",
     "title": "Back to the Future of Handwriting Recognition",
     "title_norm": "back to the future of handwriting recognition"
+  },
+  "36685bfa36fc966342957b157547eea8302211e591468a87fa83cfe8fc79e4e3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760301+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Poll results 6 months later: When will we have Opus level with 30b model? Optimists win!",
+    "title_norm": "poll results 6 months later when will we have opus level with 30b model optimists win"
   },
   "3668fbcd1f6b00c14fd80159c07ffadb611617793b0aeddb99a3214dce53694c": {
     "category": "research",
@@ -36607,6 +36685,14 @@
     "title": "Agent psychometrics: Task-level performance prediction in agentic coding benchmarks",
     "title_norm": "agent psychometrics tasklevel performance prediction in agentic coding benchmarks"
   },
+  "503645b1f565d2245942a9b86afcf2d100dc5d070278f111786fd5afc572d693": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760097+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Let's all sell our AI stocks, short Nvidia and pop the AI bubble",
+    "title_norm": "ask hn lets all sell our ai stocks short nvidia and pop the ai bubble"
+  },
   "504648edd4528fe7926ae0744b54783187e4240a99e76edf47dad972f67fa2a5": {
     "category": "research",
     "posted": false,
@@ -41900,6 +41986,14 @@
     "source": "arXiv cs.AI",
     "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
     "title_norm": "concept drift detection and adaptive retraining of malware classification models"
+  },
+  "5b70015a86a5901be8e740b10d1fe87df28fbef1babdc0ca7454cd4e4c39250f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760259+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Realistic AI Image Generator for portraits and product shots",
+    "title_norm": "show hn realistic ai image generator for portraits and product shots"
   },
   "5b7d620d85ff8c74c69cc68dd7d0cf813bf5eee4cad41bfb6940ab387bf3917a": {
     "category": "research",
@@ -61279,6 +61373,14 @@
     "title": "ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding",
     "title_norm": "stveto spatiotemporal token veto for diffusion mllms via taylor prediction and visual grounding"
   },
+  "85dcabcf55d9716210942b1edfcdc254f7b8a27f9165cde0c1dc659c5c6f451d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760212+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ed Zitron Was Wrong About AI",
+    "title_norm": "ed zitron was wrong about ai"
+  },
   "85e27c76013068f43b0e3f4ef13260c49f9cbae015553f7ec81edc565db61063": {
     "category": "research",
     "posted": false,
@@ -63537,6 +63639,14 @@
     "title": "How AI is quietly making your team fragile",
     "title_norm": "how ai is quietly making your team fragile"
   },
+  "8ad8cdf20609a5f098ffbf35682e55a125ecb37cc42d07697f36b53825d9a87b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760044+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+    "title_norm": "google is making private ai practical with homomorphic encryption"
+  },
   "8ae94f12f2ca087bab7a7b38654db6726df819985aec63b9d7eef223a586615f": {
     "category": "research",
     "posted": false,
@@ -64126,6 +64236,14 @@
     "source": "arXiv cs.CL",
     "title": "Metis: Memory Foundation Model",
     "title_norm": "metis memory foundation model"
+  },
+  "8c789af63f5b504fbdb31605b5492792c91ffb98bd5cf93a9d9710cb58cc7fa9": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760071+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Earth.nullschool.net",
+    "title_norm": "earthnullschoolnet"
   },
   "8c79e3b3c55321ee14238e100ff66506c3542446500797cdfb01024363edbabb": {
     "category": null,
@@ -66792,6 +66910,14 @@
     "source": "arXiv cs.AI",
     "title": "Sound Probabilistic Safety Bounds for Large Language Models",
     "title_norm": "sound probabilistic safety bounds for large language models"
+  },
+  "9287ca9062522271656f4c22e232d17c30c7614b3d4bff9d7b539bf9b6702c46": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760155+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "NIST Seeks Blueprint for AI-Era Overhaul of National Vulnerability Database",
+    "title_norm": "nist seeks blueprint for aiera overhaul of national vulnerability database"
   },
   "928c9de2893537550336cd120fb1bf03b6ee293cd48df9e9a10ffdccfbe76fad": {
     "category": "research",
@@ -72615,6 +72741,14 @@
     "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
     "title_norm": "agentmanager a tmux tui for running claude code codex and opencode"
   },
+  "9faac31299c29bd552c050b565f9485844b11479215abbf8cdc8e2100a237796": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760168+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI: The Devil on My Shoulder",
+    "title_norm": "ai the devil on my shoulder"
+  },
   "9fadd56dff5274fdf33721f2ec99ca58d4edf78f6df34d2769bf016d1e9c8aec": {
     "category": "model_release",
     "posted": false,
@@ -72775,15 +72909,15 @@
   },
   "_meta": {
     "date": "2026-08-14",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "model_release": 3,
+      "model_release": 4,
       "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-14-16"
+    "last_slot": "2026-08-14-18"
   },
   "_queue": [
     {
@@ -72961,22 +73095,6 @@
       "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd25 OpenAI has launched a preview of Ultrafast, a new mode for GPT 5.6 Sol that runs at 14x the speed. The move is aimed squarely at enterprise users who need faster responses for high-volume tasks.\n\nEarly tests reportedly show dramatically lower latency, making real-time agent workflows more practical. \ud83d\ude80 OpenAI is positioning Ultrafast as part of its push to win more corporate contracts. This could also pressure rival labs to accelerate their own enterprise offerings. For businesses, it means cheaper and faster scaling of AI operations.",
-      "post_body_fa": "\ud83d\udd25 OpenAI \u0646\u0633\u062e\u0647 \u067e\u06cc\u0634\u0646\u0645\u0627\u06cc\u0634\u06cc \u0627\u0632 \u062d\u0627\u0644\u062a \u00abUltrafast\u00bb \u0631\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f\u0647 \u06a9\u0647 GPT 5.6 Sol \u0631\u0627 \u0628\u0627 \u0633\u0631\u0639\u062a \u06f1\u06f4 \u0628\u0631\u0627\u0628\u0631 \u0627\u062c\u0631\u0627 \u0645\u06cc\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0633\u0627\u0632\u0645\u0627\u0646\u06cc \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u06a9\u0647 \u0628\u0647 \u067e\u0627\u0633\u062e\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u062a\u0631 \u0628\u0631\u0627\u06cc \u062d\u062c\u0645 \u0628\u0627\u0644\u0627\u06cc \u06a9\u0627\u0631 \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u0646\u062f.\n\n\u06af\u0632\u0627\u0631\u0634\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u0646\u062f \u062a\u0623\u062e\u06cc\u0631 \u0628\u0647 \u0634\u062f\u062a \u06a9\u0627\u0647\u0634 \u06cc\u0627\u0641\u062a\u0647 \u0648 \u0648\u0631\u06a9\u0641\u0644\u0648\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u0628\u0644\u0627\u062f\u0631\u0646\u06af \u06a9\u0627\u0631\u0622\u0645\u062f\u062a\u0631 \u0634\u062f\u0647\u0627\u0646\u062f. \ud83d\ude80 OpenAI \u0627\u06cc\u0646 \u062d\u0627\u0644\u062a \u0631\u0627 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u062e\u0648\u062f \u0628\u0631\u0627\u06cc \u062c\u0630\u0628 \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0633\u0627\u0632\u0645\u0627\u0646\u06cc \u0645\u0639\u0631\u0641\u06cc \u0645\u06cc\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0631\u0642\u0628\u0627 \u0631\u0627 \u0646\u06cc\u0632 \u0628\u0647 \u062a\u0633\u0631\u06cc\u0639 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0633\u0627\u0632\u0645\u0627\u0646\u06cc\u0634\u0627\u0646 \u0648\u0627\u062f\u0627\u0631 \u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u06a9\u0633\u0628\u0648\u06a9\u0627\u0631\u0647\u0627\u060c \u0628\u0647 \u0645\u0639\u0646\u0627\u06cc \u0645\u0642\u06cc\u0627\u0633\u067e\u0630\u06cc\u0631\u06cc \u0627\u0631\u0632\u0627\u0646\u062a\u0631 \u0648 \u0633\u0631\u06cc\u0639\u062a\u0631 \u0639\u0645\u0644\u06cc\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.",
-      "post_title": "\u26a1 OpenAI's GPT 5.6 Sol gets 'Ultrafast' mode at 14x speed",
-      "post_title_fa": "\u26a1 \u062d\u0627\u0644\u062a \u00abUltrafast\u00bb \u062f\u0631 GPT 5.6 Sol \u0628\u0627 \u0633\u0631\u0639\u062a \u06f1\u06f4 \u0628\u0631\u0627\u0628\u0631",
-      "priority": "high",
-      "published": "2026-08-13T19:22:40+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "TechCrunch AI",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT 5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -79322,6 +79440,14 @@
     "source": "arXiv cs.AI",
     "title": "A Finite E-Group of Nilpotency Class Three",
     "title_norm": "a finite egroup of nilpotency class three"
+  },
+  "ad5f58ad7eea84bf03a56c5e189c5b3ef69fc257722f97a2c54fe5b5fa189124": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.759984+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "France blocks social media ban because it would require adults to prove age",
+    "title_norm": "france blocks social media ban because it would require adults to prove age"
   },
   "ad5fc482e5ec4056d60dcca5af67221e31c7529f772893e0b3f782c5a8f4622a": {
     "category": "research",
@@ -86981,6 +87107,14 @@
     "title": "EvoSQL: Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL",
     "title_norm": "evosql memoryaugmented criticgenerator coevolution for texttosql"
   },
+  "bdf56f7cd5482c2a9c7580efd41995aae3e27567868c9ea852bb83ef04344086": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760144+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Software Factory with AI",
+    "title_norm": "software factory with ai"
+  },
   "bdf589c5fe058bd4f0c2c6ea3b751e656cf1a35b1a962042cda5fd1bf07b03d0": {
     "category": "other",
     "posted": false,
@@ -93699,6 +93833,14 @@
     "title": "Ornith-397B running at Q4 on a single RTX PRO 6000 Blackwell 96GB - 2,354 tok/s prefill, ~20\u201324 tok/s decode",
     "title_norm": "ornith397b running at q4 on a single rtx pro 6000 blackwell 96gb 2354 toks prefill 2024 toks decode"
   },
+  "cc72aaf0765fc45e091163d03c52559406c5f2fd42dbe442b8ef7e8a3392f9ca": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760316+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8-27B is identical to Qwen3.6-27B!",
+    "title_norm": "qwen3827b is identical to qwen3627b"
+  },
   "cc7448ef4b1d255a771d94565d4bd96a4d82e2956754e57551766832074b2ac0": {
     "category": "other",
     "posted": false,
@@ -99845,6 +99987,14 @@
     "title": "Politician reads AI prompt during assembly [video]",
     "title_norm": "politician reads ai prompt during assembly video"
   },
+  "db35a37005ef6ed0684d5476465074162a43461f8e8bfa58e8b57a2a410f0bde": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.759842+00:00",
+    "source": "TechCrunch AI",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "title_norm": "google will now allow users to remove visible watermark from its ai generations"
+  },
   "db3a207fc7fc08e15bfa921756eb19fc16f23af41312957ca91a639ba7fdf674": {
     "category": "infrastructure",
     "posted": false,
@@ -105185,6 +105335,14 @@
     "title": "The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation",
     "title_norm": "the hidden footprint making storage a firstclass metric for llm agent evaluation"
   },
+  "e693d5d515e8296f714066a5eeffe492ddf9f422d036bb491cfac926dd8452e2": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760278+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Every second post rn",
+    "title_norm": "every second post rn"
+  },
   "e69d7fd46ec4110c120998e1d6e77fd1475f84293d11f2b6c13317f59080026b": {
     "category": null,
     "posted": false,
@@ -105280,6 +105438,14 @@
     "source": "Hacker News AI keyword",
     "title": "List of literary award winning works created with AI",
     "title_norm": "list of literary award winning works created with ai"
+  },
+  "e6d3f73ca0e99eb3549676c61dfc6f7aead64b49361bc0ca1fd83fcd4efcd923": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760082+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "My Dad Is in Prison. Here's Why I Built an AI Chatbot for His Electronic Tablet",
+    "title_norm": "my dad is in prison heres why i built an ai chatbot for his electronic tablet"
   },
   "e6d8931d930795aa8d37e90b5effc488c85f36ab81b5ce49368d2ce963fb48c5": {
     "category": "research",
@@ -112285,6 +112451,14 @@
     "title": "Show HN: Clixad \u2013 Free AI coding agent in the terminal, funded by an offerwall",
     "title_norm": "show hn clixad free ai coding agent in the terminal funded by an offerwall"
   },
+  "f76cc0a209623ea33f6644637b8d5518dc6f53c531efd6198322066f7dff7907": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760031+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "\"Solving a largely imaginary user goal\"",
+    "title_norm": "solving a largely imaginary user goal"
+  },
   "f76ceca492662342fcb824a69b8a27333c54b9d3de3803b1bdf6de285d856503": {
     "category": "other",
     "posted": false,
@@ -113116,6 +113290,14 @@
     "source": "Hacker News AI keyword",
     "title": "Roblox will let people use AI to make games on their phone",
     "title_norm": "roblox will let people use ai to make games on their phone"
+  },
+  "f9405c55b877fe4a368003a1df6b65ca7846152474603afb9929479b5b47cbf5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T16:38:29.760127+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "WakeAI \u2013 an AI assistant that tells you when to leave so you're never late",
+    "title_norm": "wakeai an ai assistant that tells you when to leave so youre never late"
   },
   "f943c86763e82b5a6466be7644fbf368ac324148783a3584a8a2def961cc96e6": {
     "category": "research",
