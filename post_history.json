@@ -12949,6 +12949,14 @@
     "title": "Unraveling the mysteries of habit formation",
     "title_norm": "unraveling the mysteries of habit formation"
   },
+  "1c728665c1a66a88407ca62961bbcaee4eefa5aa0ca44426877e0914107bf242": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446018+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+    "title_norm": "major oil slick washes up on iran coast after hormuz ship strike"
+  },
   "1c72af4b9e739e4c716a7a1901a2b89c5bcdd47e9c0b69f5a91d3e238df666a0": {
     "category": "infrastructure",
     "posted": false,
@@ -19292,6 +19300,14 @@
     "source": "arXiv cs.CL",
     "title": "INS-ActBench: A Comprehensive Benchmark for Assessing Professional Actuarial Capability of Large Language Models",
     "title_norm": "insactbench a comprehensive benchmark for assessing professional actuarial capability of large language models"
+  },
+  "2a0852895151bca01ae83eebaf3cc2b288e124561f1ad76cee4077bc736dc3de": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446114+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Getting ready for the big 3.8 drop (strix halo centric but applies widely)",
+    "title_norm": "getting ready for the big 38 drop strix halo centric but applies widely"
   },
   "2a0a3e36f99adc69a814e238ce2653be7416498b8086bc918e6582d42acebc6c": {
     "category": null,
@@ -36002,6 +36018,14 @@
     "source": "arXiv cs.AI",
     "title": "CAMeR: Keyword-Gated Hybrid Activation for Adaptive Memory Retention in LLM Agents",
     "title_norm": "camer keywordgated hybrid activation for adaptive memory retention in llm agents"
+  },
+  "4f78e3cae3c0f2100ef8fca6f451cc175092c19eb6f141d4dae7ef6f689cc7dc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446003+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "title_norm": "why does opus 5 feel worse to work with"
   },
   "4f78e4d1f699474c9dadcc2b016b0664b8e297b95bab2b36717fc4d6e8c8c955": {
     "category": "research",
@@ -59683,6 +59707,14 @@
     "title": "Economics and reasoning with OpenAI o1",
     "title_norm": "economics and reasoning with openai o1"
   },
+  "831174c59e598f46e69f43fd99bfdb95cca1c77adab518e80b7d66e23f75c4ed": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446096+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 Max Is Extremely Good at Knowing What Not to Build",
+    "title_norm": "qwen 38 max is extremely good at knowing what not to build"
+  },
   "83127db49fbd56a8cfda66822aa83bcb600673be4bebda8f1382302bbc2f6184": {
     "category": "other",
     "posted": false,
@@ -72289,6 +72321,22 @@
     {
       "category": "model_release",
       "duplicate_of": null,
+      "post_body": "\ud83e\udd16 Qwen 3.8 Max is out, and early users are impressed by its speed, planning, and restraint \u2014 it knows when not to build things. The full release delivers fast responses and frequent self-correction, according to a Reddit review. \ud83d\udcc8 It also signals a shift in the parameter arms race, with a focus on efficiency over raw size. \u26a1 Developers are already testing it locally, and the model is available via API preview.",
+      "post_body_fa": "\ud83e\udd16 \u06a9\u0648\u0626\u0646 3.8 \u0645\u06a9\u0633 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0648 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0648\u0644\u06cc\u0647 \u0627\u0632 \u0633\u0631\u0639\u062a\u060c \u0628\u0631\u0646\u0627\u0645\u0647\u0631\u06cc\u0632\u06cc \u0648 \u062e\u0648\u06cc\u0634\u062a\u0646\u062f\u0627\u0631\u06cc \u0622\u0646 \u0634\u06af\u0641\u062a\u0632\u062f\u0647 \u0634\u062f\u0647\u0627\u0646\u062f\u2014\u0645\u06cc\u062f\u0627\u0646\u062f \u0686\u0647 \u0632\u0645\u0627\u0646\u06cc \u0686\u06cc\u0632 \u0646\u0633\u0627\u0632\u062f. \u0628\u0647 \u06af\u0641\u062a\u0647 \u06cc\u06a9 \u0628\u0631\u0631\u0633\u06cc \u062f\u0631 \u0631\u062f\u06cc\u062a\u060c \u0627\u0646\u062a\u0634\u0627\u0631 \u06a9\u0627\u0645\u0644 \u067e\u0627\u0633\u062e\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639 \u0648 \u062e\u0648\u062f\u0627\u0635\u0644\u0627\u062d\u06cc \u0645\u06a9\u0631\u0631 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u062f\u0647\u062f. \ud83d\udcc8 \u0627\u06cc\u0646 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u067e\u0627\u0631\u0627\u0645\u062a\u0631\u0647\u0627\u0633\u062a\u060c \u0628\u0627 \u062a\u0645\u0631\u06a9\u0632 \u0628\u0631 \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0628\u0647 \u062c\u0627\u06cc \u0627\u0646\u062f\u0627\u0632\u0647 \u062e\u0627\u0645. \u26a1 \u062a\u0648\u0633\u0639\u0647\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u062f\u0631 \u062d\u0627\u0644 \u062d\u0627\u0636\u0631 \u0622\u0646 \u0631\u0627 \u0628\u0647 \u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u062a\u0633\u062a \u0645\u06cc\u06a9\u0646\u0646\u062f \u0648 \u0645\u062f\u0644 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u067e\u06cc\u0634\u0646\u0645\u0627\u06cc\u0634 API \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 Qwen 3.8 Max Launches, Praised for Knowing What Not to Build",
+      "post_title_fa": "\ud83d\ude80 \u06a9\u0648\u0626\u0646 3.8 \u0645\u06a9\u0633 \u0639\u0631\u0636\u0647 \u0634\u062f\u061b \u0633\u062a\u0627\u06cc\u0634 \u0634\u062f\u0647 \u0628\u0631\u0627\u06cc \u062f\u0627\u0646\u0633\u062a\u0646 \u0627\u06cc\u0646\u06a9\u0647 \u0686\u0647 \u0646\u0633\u0627\u0632\u062f",
+      "priority": "high",
+      "published": "2026-08-14T10:38:58+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen 3.8 Max is out, and after spending time with both the early API preview and the full release, I\u2019m pretty impressed.</p> <p>The full release mostly confirms what stood out during early testing: this model is very fast, very good at planning, and unusually good at catching when a problem is being made more complicated than it needs to be.</p> <p>The speed is probably the first thing you notice. It feels extremely quick for a model of this size, especially considering how much reasoning it tends to do before answering. It also self-corrects surprisingly often, revisiting assumptions and catching mistakes without needing much prompting.</p> <p>It is also funny watching the parameter arms race come back. For a while, everyone seemed focused on sparsity, efficiency, and squeezing more intelligence out of smaller active parameter counts. Now total parameter counts are getting ridiculous again. Let\u2019s see if GLM crosses 3T next.</p> <p>The biggest strength for me, though, is planning.</p> <p>Qwen is probably the best model I\u2019ve used for reviewing build plans, architectures, and product plans and asking: does all of this actually need to exist?</p> <p>A lot of models are very good at generating elaborate architectures that sound impressive. Qwen is unusually good at spotting premature abstractions, duplicated components, unnecessary services, and workflows with far too many moving parts.</p> <p>More importantly, it does not simplify blindly. It is good at separating genuinely load-bearing complexity from complexity that just makes the system harder to build and maintain. For planning large projects, I would currently put it above Sol. It tends to turn sprawling ideas into a practical sequence of work rather than expanding them further.</p> <p>Another area where it has been excellent is research.</p> <p>Its experimental rigor is genuinely impressive. It is very good at proposing useful ablations, identifying confounders, questioning whether comparisons are fair, and separating the actual contribution from implementation details or extra compute.</p> <p>It regularly pushes toward the experiment that would actually falsify the idea rather than just producing evidence that supports it. That sounds obvious, but models are often surprisingly bad at this. They will happily help you construct an experiment where every outcome makes the proposed method look good.</p> <p>Qwen is much better at attacking the hypothesis.</p> <p>I\u2019ve also used it for fairly involved infrastructure work, including encryption, RBAC, and security setup on my own servers. It handled the context well and was much less prone to unnecessary refusals than some other models I tried for the same tasks.</p> <p>And somewhat unexpectedly, it is excellent at creative implementation too.</p> <p>I\u2019ve been using Remotion to build polished product demos, and Qwen has a very good feel for typography, spacing, restraint, pacing, camera movement, and feature reveals. It understands that making something feel polished usually means doing less, not adding another twelve animations.</p> <p>At one point it even wrote a JavaScript script to analyse the music and sync cuts to the beats, which made the final video feel much more intentionally edited.</p> <p>After using the preview and now the full release, the things that stand out most are planning, simplification, experimental design, self-correction, infrastructure work, and creative implementation.</p> <p>Qwen 3.8 Max feels like a very strong release.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RevealIndividual7567\"> /u/RevealIndividual7567 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vo3pmq/qwen_38_max_is_extremely_good_at_knowing_what_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vo3pmq/qwen_38_max_is_extremely_good_at_knowing_what_not/\">[comments]</a></span>",
+      "title": "Qwen 3.8 Max Is Extremely Good at Knowing What Not to Build",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo3pmq/qwen_38_max_is_extremely_good_at_knowing_what_not/"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
       "post_body": "\ud83c\udf4e Apple has reportedly worked with Alibaba to train a custom LLM for the Chinese market, per Reuters. The model will power Apple Intelligence features adapted to local rules and preferences. It marks a rare cross-border AI partnership amid growing US-China tech friction. \ud83d\udcc8 For Chinese iPhone users, this should mean more accurate, compliant AI experiences. For the industry, it highlights how global giants must localize AI for different regulatory landscapes. \ud83d\udd25",
       "post_body_fa": "\ud83c\udf4e \u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u0631\u0648\u06cc\u062a\u0631\u0632\u060c \u0627\u067e\u0644 \u0628\u0627 \u0647\u0645\u06a9\u0627\u0631\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u06cc\u06a9 \u0645\u062f\u0644 \u0632\u0628\u0627\u0646\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u0627\u0631 \u0686\u06cc\u0646 \u0622\u0645\u0648\u0632\u0634 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u067e\u0644 \u0631\u0627 \u0645\u0637\u0627\u0628\u0642 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0648 \u0646\u06cc\u0627\u0632\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u062a\u0646\u0638\u06cc\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u06cc\u06a9 \u0645\u0634\u0627\u0631\u06a9\u062a \u0641\u0631\u0627\u0645\u0631\u0632\u06cc \u0646\u0627\u062f\u0631 \u062f\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u0627\u0646 \u062a\u0646\u0634\u200c\u0647\u0627\u06cc \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0686\u06cc\u0646 \u0627\u0633\u062a. \ud83d\udcc8 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0686\u06cc\u0646\u06cc \u0622\u06cc\u0641\u0648\u0646\u060c \u062a\u062c\u0631\u0628\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0642\u06cc\u0642\u200c\u062a\u0631 \u0648 \u0633\u0627\u0632\u06af\u0627\u0631\u062a\u0631\u06cc \u0628\u0647 \u0627\u0631\u0645\u063a\u0627\u0646 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f \u0648 \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0641\u0646\u0627\u0648\u0631\u06cc \u0686\u06af\u0648\u0646\u0647 \u0628\u0627\u06cc\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u0627\u0631\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u0645\u062d\u0644\u06cc\u200c\u0633\u0627\u0632\u06cc \u06a9\u0646\u0646\u062f. \ud83d\udd25",
       "post_title": "\ud83e\udd1d Apple & Alibaba build custom AI model for China",
@@ -74395,6 +74443,14 @@
     "title": "Dropbox is an obvious PE Target?",
     "title_norm": "dropbox is an obvious pe target"
   },
+  "a3f0add94c6da92475185dcb4ea1bb9e019f2ec59732b8a94e09effd4698f971": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.445936+00:00",
+    "source": "Wired AI",
+    "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
+    "title_norm": "people are marrying chatbots these lawmakers want to stop them"
+  },
   "a3f635f76edf37f8fa193b26495874e40e401c4156d04d6a36664957e04c7a79": {
     "category": "other",
     "posted": false,
@@ -75256,6 +75312,14 @@
     "source": "arXiv cs.CL",
     "title": "Routesplain: Towards Faithful and Intervenable Routing for Software-related Tasks",
     "title_norm": "routesplain towards faithful and intervenable routing for softwarerelated tasks"
+  },
+  "a61e5bdc5f2674d08f6aea96da47821477bb103aac1a4092fed491cb6d3184ae": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.445986+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "For the love of god stop using CPU limits in Kubernetes",
+    "title_norm": "for the love of god stop using cpu limits in kubernetes"
   },
   "a625f1db9e27549e1b14284cd627acd53b2e2cc96432d449a618573582542d18": {
     "category": "other",
@@ -84180,6 +84244,14 @@
     "source": "OpenAI News",
     "title": "OpenAI public policy agenda",
     "title_norm": "openai public policy agenda"
+  },
+  "b90e8e5280561a8b511327f6feacb2d0c0ee2d3d4421a722afa89f28ed245c00": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.445967+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Everyone talks about AI agents. This is what one looks from the inside",
+    "title_norm": "everyone talks about ai agents this is what one looks from the inside"
   },
   "b9145a48363e42634fa8fe01db63f8714a77592b748f5352df1370ca84c03fe2": {
     "category": "research",
@@ -93381,6 +93453,14 @@
     "title": "Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads",
     "title_norm": "lowinteractionrank learning unifying multiplicative dualencoder heads"
   },
+  "cd5b68d807fe76dedb98aa452eac452682032f68ac9da97869b6e0807788cf7c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446063+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Demoscene Report on the AI compo of Assembly 2026 [video]",
+    "title_norm": "demoscene report on the ai compo of assembly 2026 video"
+  },
   "cd612edd6d0b074c5aaec8852c2d3656f7a9206c7ac0bcaaf37af2ab3d7e8092": {
     "category": "model_release",
     "posted": false,
@@ -100269,6 +100349,14 @@
     "title": "How Preply combines AI and human tutors to personalize learning",
     "title_norm": "how preply combines ai and human tutors to personalize learning"
   },
+  "ddc7dd073a12b93e6b04a694ef477bd0eac988e63465f93224b60476cbdaa01a": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446046+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Genosyn \u2013 Automate running of companies with AI",
+    "title_norm": "show hn genosyn automate running of companies with ai"
+  },
   "ddc87888a9eb3309b87e3e8e28d48a92324ab4a14c4fc958f326012c11293a4f": {
     "category": "research",
     "posted": false,
@@ -102252,6 +102340,14 @@
     "source": "arXiv cs.CL",
     "title": "Don't Walk the Line: Boundary Guidance for Filtered Generation",
     "title_norm": "dont walk the line boundary guidance for filtered generation"
+  },
+  "e1cd998bd23ae29133702c99397563e7d813e61b731b05892f436d01440e8adb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.445846+00:00",
+    "source": "Wired AI",
+    "title": "These \u2018Masturbation Consultants\u2019 Were Hired to Pleasure Themselves With AI",
+    "title_norm": "these masturbation consultants were hired to pleasure themselves with ai"
   },
   "e1d1f37e4a1b6f4fe67495781b503f4b12316c3502be6d9ccb36e2f142ea45c1": {
     "category": "other",
@@ -114582,6 +114678,14 @@
     "source": "arXiv cs.AI",
     "title": "Journey Operators for Structured Multi-Axis Composition",
     "title_norm": "journey operators for structured multiaxis composition"
+  },
+  "fe54be560bf95e2c3b311d87357bbcf6267c703af4d0d991cdf4472447610fa3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-14T11:12:39.446033+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "DeepSeek peak/off-peak pricing update",
+    "title_norm": "deepseek peakoffpeak pricing update"
   },
   "fe5643d4f4f44c42b04d1b3dc40f330078f30989439c8fd262ab93b2e0c7a92c": {
     "category": "research",
