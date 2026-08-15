@@ -23481,6 +23481,14 @@
     "title": "Are We Being Railroaded by AI?",
     "title_norm": "are we being railroaded by ai"
   },
+  "31ccbe672e7f3a300d1a2bf584fe53ec69b2bcb532239686e85a445cfbc8cc02": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.018015+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27b UD Q8_K_XL - Racing Game",
+    "title_norm": "qwen 38 27b ud q8_k_xl racing game"
+  },
   "31d0707ae4a887d47271c30f2479f81c2f96ae11a4847da6e92454ce2b4e287c": {
     "category": "research",
     "posted": false,
@@ -27987,6 +27995,14 @@
     "title": "When Activation Oracles Learn Not to Read: Concept-Specific Blind Spots in Fine-Tuned Oracles",
     "title_norm": "when activation oracles learn not to read conceptspecific blind spots in finetuned oracles"
   },
+  "3b9f7a471e8dc6570716c1802090edee8721addd615a1dd2f548e7615c1eb10a": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.017933+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Apache Lesson for AI",
+    "title_norm": "the apache lesson for ai"
+  },
   "3b9f9944307ed775293d1467cc9345fd97ca4cfe0969140495f2a45c912dfb7f": {
     "category": "research",
     "posted": false,
@@ -28250,6 +28266,14 @@
     "source": "Hacker News AI keyword",
     "title": "DamNesia \u2013 A 16D state-space AI character framework (.NET 10, 0-GC)",
     "title_norm": "damnesia a 16d statespace ai character framework net 10 0gc"
+  },
+  "3c52731d7f79221296bfbda0d2d2aa646868b8b44ec265ba70a51b35bf922f74": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.017998+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "POV: Qwen 3.8-27B",
+    "title_norm": "pov qwen 3827b"
   },
   "3c55a0229b2754b9277dd38ad371dfc05cf4c2e7cf650a2697c52703891f0c34": {
     "category": "research",
@@ -33118,6 +33142,14 @@
     "source": "arXiv cs.AI",
     "title": "From Points to Edges: Edge-Conditioned Spectral Operators for Physics-Sensitive PDE Learning",
     "title_norm": "from points to edges edgeconditioned spectral operators for physicssensitive pde learning"
+  },
+  "47ea4806b289f1282c9715aa8091e0aabfb56c26eebdf7b6385a0581a6a257e2": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.018031+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8-27B EXL3: 0.0074 KLD vs 0.0950 for Unsloth NVFP4 at slightly lower VRAM",
+    "title_norm": "qwen3827b exl3 00074 kld vs 00950 for unsloth nvfp4 at slightly lower vram"
   },
   "47fcf170ba7b0eaedec7d285f297176c325d3a706933902e0f9fd4b9d887c85c": {
     "category": "research",
@@ -52285,6 +52317,14 @@
     "title": "Klarna's AI assistant does the work of 700 full-time agents",
     "title_norm": "klarnas ai assistant does the work of 700 fulltime agents"
   },
+  "7048090309e88184aae4e07e9b0ae172f90b239f785a371bed4d2cf360943ed0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.017849+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "OpenAI rolling out ads for Europe later this month",
+    "title_norm": "openai rolling out ads for europe later this month"
+  },
   "70490af2bd43926d96ab120f55e7389a7529c6156fb0802df113433732a88856": {
     "category": "research",
     "posted": false,
@@ -53571,7 +53611,13 @@
   },
   "736b7e49e15109dbb25b8beb4b66096bb4f2db4aa700a974dc446090be9da8a4": {
     "category": "other",
-    "posted": false,
+    "message_id": 200,
+    "message_id_fa": 174,
+    "post_title": "\ud83d\udcc8 Alibaba AI models hit 3B downloads, passing Meta and Google",
+    "post_title_fa": "\ud83d\udcc8 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u06f3 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u0628\u0627\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0634\u062f\u0646\u062f\u061b \u062c\u0644\u0648\u062a\u0631 \u0627\u0632 \u0645\u062a\u0627 \u0648 \u06af\u0648\u06af\u0644",
+    "posted": true,
+    "posted_at": "2026-08-15T12:55:25.285527+00:00",
+    "priority": "high",
     "seen_at": "2026-08-15T11:37:30.130361+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google | Bloomberg - Hugging Face study",
@@ -73569,33 +73615,17 @@
   },
   "_meta": {
     "date": "2026-08-15",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
       "model_release": 1,
-      "other": 1,
+      "other": 2,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-15-12"
+    "last_slot": "2026-08-15-14"
   },
   "_queue": [
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Alibaba's open-source AI models have surpassed 3 billion downloads on Hugging Face, pulling ahead of Meta and Google. The milestone, reported by Bloomberg citing a Hugging Face study, shows the Chinese tech giant's growing influence in the global AI community.\n\n\ud83d\udcca Alibaba's models, including the Qwen family, have become a top choice for developers building on open-source foundations. \ud83c\udf0d This shift is significant as Western companies have long dominated model distribution, and it could reshape the competitive landscape. For enterprises, it means more options and a broader ecosystem beyond US-centric AI providers.",
-      "post_body_fa": "\ud83e\udd16 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u0646\u0628\u0639\u200c\u0628\u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u062f\u0631 \u0647\u0627\u0641\u06cc\u0646\u06af\u200c\u0641\u06cc\u0633 \u0627\u0632 \u06f3 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0627\u0646\u0644\u0648\u062f \u0639\u0628\u0648\u0631 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0627\u0632 \u0645\u062a\u0627 \u0648 \u06af\u0648\u06af\u0644 \u067e\u06cc\u0634\u06cc \u06af\u0631\u0641\u062a\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641 \u06a9\u0647 \u0628\u0644\u0648\u0645\u0628\u0631\u06af \u0628\u0647 \u0646\u0642\u0644 \u0627\u0632 \u0645\u0637\u0627\u0644\u0639\u0647 \u0647\u0627\u0641\u06cc\u0646\u06af\u200c\u0641\u06cc\u0633 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0631\u062f\u0647\u060c \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0646\u0641\u0648\u0630 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u063a\u0648\u0644 \u0641\u0646\u0627\u0648\u0631\u06cc \u0686\u06cc\u0646 \u062f\u0631 \u062c\u0627\u0645\u0639\u0647 \u062c\u0647\u0627\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.\n\n\ud83d\udcca \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 Qwen\u060c \u0628\u0647 \u0627\u0646\u062a\u062e\u0627\u0628\u06cc \u0645\u062d\u0628\u0648\u0628 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0631\u0648\u06cc \u067e\u0627\u06cc\u0647\u200c\u0647\u0627\u06cc \u0645\u0646\u0628\u0639\u200c\u0628\u0627\u0632 \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \ud83c\udf0d \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0645\u0647\u0645 \u0627\u0633\u062a\u060c \u0632\u06cc\u0631\u0627 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u063a\u0631\u0628\u06cc \u0645\u062f\u062a \u0637\u0648\u0644\u0627\u0646\u06cc \u0628\u0631 \u062a\u0648\u0632\u06cc\u0639 \u0645\u062f\u0644\u200c\u0647\u0627 \u062a\u0633\u0644\u0637 \u062f\u0627\u0634\u062a\u0647\u200c\u0627\u0646\u062f \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0631\u0642\u0627\u0628\u062a\u06cc \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u06af\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0648 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0627\u0631\u0627\u0626\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc.",
-      "post_title": "\ud83d\udcc8 Alibaba AI models hit 3B downloads, passing Meta and Google",
-      "post_title_fa": "\ud83d\udcc8 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u06f3 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u0628\u0627\u0631 \u062f\u0627\u0646\u0644\u0648\u062f \u0634\u062f\u0646\u062f\u061b \u062c\u0644\u0648\u062a\u0631 \u0627\u0632 \u0645\u062a\u0627 \u0648 \u06af\u0648\u06af\u0644",
-      "priority": "high",
-      "published": "2026-08-15T11:01:17+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vozxbp/alibaba_ai_models_hit_3_billion_downloads_passing/\"> <img alt=\"Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google | Bloomberg - Hugging Face study\" src=\"https://preview.redd.it/5zsi7ltcrijh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=3bd18bb337e25314ad8fcf84a13e87441c8a3554\" title=\"Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google | Bloomberg - Hugging Face study\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>(Paywall): Bloomberg: <a href=\"https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google\">https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google</a></p> <p>Hugging Face: State of Open Models: Summer 2026 Observations: <a href=\"https://huggingface.co/blog/state-of-open-models-summer-2026\">https://huggingface.co/blog/state-of-open-models-summer-2026</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nunki08\"> /u/Nunki08 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vozxbp\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vozxbp/alibaba_ai_models_hit_3_billion_downloads_passing/\">[comments]</a></span> </td></tr></table>",
-      "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google | Bloomberg - Hugging Face study",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vozxbp/alibaba_ai_models_hit_3_billion_downloads_passing/"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -73759,18 +73789,18 @@
     {
       "category": "other",
       "duplicate_of": null,
-      "post_body": "\ud83d\udd25 Alibaba's family of open-weight AI models has hit a milestone 3 billion downloads, surpassing both Meta and Google in cumulative adoption. \ud83d\udcca Reports from Bloomberg highlight how Qwen and other Alibaba models are now among the most-downloaded AI systems worldwide, fueled by strong demand in Asia and beyond.\n\n\ud83c\udf0d The surge reflects a shift in the open-source AI landscape, with Chinese models gaining ground against Western rivals. This matters because it signals that Alibaba is now a top-tier player in AI distribution, intensifying competition for AI developers and enterprises. The numbers also underline the rapid growth of China's AI ecosystem as open-weight models become a key battleground.",
-      "post_body_fa": "\ud83d\udd25 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u0628\u0647 \u06f3 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0627\u0646\u0644\u0648\u062f \u0631\u0633\u06cc\u062f\u0647 \u0648 \u062f\u0631 \u067e\u0630\u06cc\u0631\u0634 \u062a\u062c\u0645\u0639\u06cc \u0627\u0632 \u0645\u062a\u0627 \u0648 \u06af\u0648\u06af\u0644 \u067e\u06cc\u0634\u06cc \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a. \ud83d\udcca \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0628\u0644\u0648\u0645\u0628\u0631\u06af \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc Qwen \u0648 \u062f\u06cc\u06af\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u0627\u06a9\u0646\u0648\u0646 \u062c\u0632\u0648 \u067e\u0631\u062f\u0627\u0646\u0644\u0648\u062f\u062a\u0631\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062c\u0647\u0627\u0646 \u0647\u0633\u062a\u0646\u062f\u060c \u0631\u0634\u062f\u06cc \u06a9\u0647 \u0628\u0627 \u062a\u0642\u0627\u0636\u0627\u06cc \u0634\u062f\u06cc\u062f \u062f\u0631 \u0622\u0633\u06cc\u0627 \u0648 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0622\u0646 \u062a\u0642\u0648\u06cc\u062a \u0634\u062f\u0647.\n\n\ud83c\udf0d \u0627\u06cc\u0646 \u062c\u0647\u0634 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0631 \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0627\u0633\u062a\u060c \u062c\u0627\u06cc\u06cc \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u0631\u0642\u0628\u0627\u06cc \u063a\u0631\u0628\u06cc \u062c\u0627\u06cc\u06af\u0627\u0647 \u0628\u06cc\u0634\u062a\u0631\u06cc \u06a9\u0633\u0628 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0627\u0647\u0645\u06cc\u062a \u062f\u0627\u0631\u062f \u0632\u06cc\u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u0627\u06a9\u0646\u0648\u0646 \u06cc\u06a9 \u0628\u0627\u0632\u06cc\u06af\u0631 \u0633\u0637\u062d \u0628\u0627\u0644\u0627 \u062f\u0631 \u062a\u0648\u0632\u06cc\u0639 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a \u0648 \u0631\u0642\u0627\u0628\u062a \u0631\u0627 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u062a\u0634\u062f\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0631\u0642\u0627\u0645 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0631\u0634\u062f \u0633\u0631\u06cc\u0639 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06cc\u0646 \u0631\u0627 \u0628\u0631\u062c\u0633\u062a\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0647 \u06cc\u06a9 \u0645\u06cc\u062f\u0627\u0646 \u0646\u0628\u0631\u062f \u06a9\u0644\u06cc\u062f\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u200c\u0627\u0646\u062f.",
-      "post_title": "\ud83d\udcc8 Alibaba AI Models Hit 3B Downloads, Surpassing Meta and Google",
-      "post_title_fa": "\ud83d\udcc8 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0644\u06cc\u200c\u0628\u0627\u0628\u0627 \u0628\u0627 \u06f3 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0627\u0646\u0644\u0648\u062f \u0627\u0632 \u0645\u062a\u0627 \u0648 \u06af\u0648\u06af\u0644 \u067e\u06cc\u0634\u06cc \u06af\u0631\u0641\u062a\u0646\u062f",
+      "post_body": "\ud83c\udf0d OpenAI has announced it will begin showing ads in Europe later this month, according to a preview of its EU privacy policy. The company says the change will affect how it processes data for advertising in the region.\n\n\ud83d\udcb0 This move signals OpenAI's push to diversify revenue beyond subscriptions and API sales. For European users, it means explicit ads may soon appear across ChatGPT and other OpenAI products. \ud83d\udccb The company hasn't yet detailed which formats or surfaces will carry the ads.",
+      "post_body_fa": "\ud83c\udf0d OpenAI \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0637\u0628\u0642 \u067e\u06cc\u0634\u200c\u0646\u0645\u0627\u06cc\u0634 \u062e\u0637\u200c\u0645\u0634\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627\u060c \u0627\u0648\u0627\u062e\u0631 \u0627\u06cc\u0646 \u0645\u0627\u0647 \u0646\u0645\u0627\u06cc\u0634 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0631\u0627 \u0622\u063a\u0627\u0632 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0628\u0631 \u0646\u062d\u0648\u0647 \u067e\u0631\u062f\u0627\u0632\u0634 \u062f\u0627\u062f\u0647\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0627\u06cc\u0646 \u0645\u0646\u0637\u0642\u0647 \u062a\u0623\u062b\u06cc\u0631 \u062e\u0648\u0627\u0647\u062f \u06af\u0630\u0627\u0634\u062a.\n\n\ud83d\udcb0 \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u062a\u0644\u0627\u0634 OpenAI \u0628\u0631\u0627\u06cc \u062a\u0646\u0648\u0639\u200c\u0628\u062e\u0634\u06cc \u0628\u0647 \u062f\u0631\u0622\u0645\u062f \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0627\u0634\u062a\u0631\u0627\u06a9\u200c\u0647\u0627 \u0648 \u0641\u0631\u0648\u0634 API \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0631\u0648\u067e\u0627\u06cc\u06cc\u060c \u0627\u06cc\u0646 \u0628\u0647 \u0627\u06cc\u0646 \u0645\u0639\u0646\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647\u200c\u0632\u0648\u062f\u06cc \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u0635\u0631\u06cc\u062d \u062f\u0631 ChatGPT \u0648 \u0633\u0627\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644\u0627\u062a OpenAI \u0638\u0627\u0647\u0631 \u0634\u0648\u062f. \ud83d\udccb \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0647\u0646\u0648\u0632 \u062c\u0632\u0626\u06cc\u0627\u062a \u0642\u0627\u0644\u0628\u200c\u0647\u0627 \u06cc\u0627 \u0633\u0637\u0648\u062d\u06cc \u0631\u0627 \u06a9\u0647 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0622\u0646\u200c\u0647\u0627 \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0627\u0639\u0644\u0627\u0645 \u0646\u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udce2 OpenAI rolls out ads in Europe later this month",
+      "post_title_fa": "\ud83d\udce2 OpenAI \u0627\u0648\u0627\u06cc\u0644 \u0645\u0627\u0647 \u0622\u06cc\u0646\u062f\u0647 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u0631\u0627 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
       "priority": "medium",
-      "published": "2026-08-15T09:46:39+00:00",
+      "published": "2026-08-15T10:52:36+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google\">https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309183\">https://news.ycombinator.com/item?id=49309183</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google"
+      "source": "Hacker News Frontpage",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/policies/eu-privacy-policy-preview/\">https://openai.com/policies/eu-privacy-policy-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309509\">https://news.ycombinator.com/item?id=49309509</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+      "title": "OpenAI rolling out ads for Europe later this month",
+      "url": "https://openai.com/policies/eu-privacy-policy-preview/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -78474,6 +78504,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing TextImage Augmentation for Document Images",
     "title_norm": "introducing textimage augmentation for document images"
+  },
+  "aa20b6f6518ce8d97a9da28d650d303b3e2541ec046f67ab41e388336ca6ff65": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.017766+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "title_norm": "autoresearch with codex how i achieved a 232x faster kernel"
   },
   "aa21db80f8b7b7664c23f0b5de6fc014a64920e8fdb45e2877008c81969f17ab": {
     "category": "model_release",
@@ -94514,6 +94552,14 @@
     "source": "arXiv cs.AI",
     "title": "How Do Practitioners Build SE Agents? Insights from a Mixed-Methods Study",
     "title_norm": "how do practitioners build se agents insights from a mixedmethods study"
+  },
+  "cc244948b040337194171a9f7ab40f93b8d4324b8ab4ba027989870a1c7864fa": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T12:55:24.017960+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Honest Government Ad \u2013 AI Data Centres [video]",
+    "title_norm": "honest government ad ai data centres video"
   },
   "cc263bcb3edb71c9caeb97d1793118d8af4a21f99d145e4638d51d44540f5476": {
     "category": "research",
