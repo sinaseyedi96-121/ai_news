@@ -64897,6 +64897,14 @@
     "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
     "title_norm": "show hn i spent 3 months making desktop automation stop lying to ai agents"
   },
+  "8cc61e033cd3b6e1b7cd12bc53268401e7387834dacc1dbf898d0ce6926e559b": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-15T08:47:55.640954+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Chemistry AI \u2013 step-by-step chemistry solver",
+    "title_norm": "show hn chemistry ai stepbystep chemistry solver"
+  },
   "8cc9f0588c7c92648c238a9850dbe46ba7d8875c1a5335c6e3b0cc3cfffd8085": {
     "category": "infrastructure",
     "posted": false,
@@ -73662,18 +73670,34 @@
     {
       "category": "other",
       "duplicate_of": null,
-      "post_body": "\ud83d\udcd8 Meta has released an open-source cookbook for its OSS models, including a \"Muse Glimmer\" recipe for building an agent that plans, calls tools, and self-corrects \u2014 all on a single GPU. The repo collects runnable examples for developers who want to deploy Meta's open models quickly, without expensive cloud setups.\n\n\ud83c\udfaf This lowers the barrier for building local AI agents, making state-of-the-art open models accessible to hobbyists and startups. \ud83e\udde9 If you already own a GPU, you can go from clone to a working agent in one session. \ud83d\udd25 As open-model competition heats up, such practical tooling becomes a key advantage.",
-      "post_body_fa": "\ud83d\udcd8 \u0645\u062a\u0627 \u06cc\u06a9 \u06a9\u062a\u0627\u0628 \u062f\u0633\u062a\u0648\u0631\u067e\u062e\u062a \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc OSS \u062e\u0648\u062f \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0634\u0627\u0645\u0644 \u062f\u0633\u062a\u0648\u0631 \u00abMuse Glimmer\u00bb \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0639\u0627\u0645\u0644\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0628\u0632\u0627\u0631 \u0635\u062f\u0627 \u0645\u06cc\u200c\u0632\u0646\u062f \u0648 \u062e\u0648\u062f \u0631\u0627 \u0627\u0635\u0644\u0627\u062d \u0645\u06cc\u200c\u06a9\u0646\u062f \u2014 \u0647\u0645\u0647 \u0631\u0648\u06cc \u06cc\u06a9 GPU. \u0627\u06cc\u0646 \u0645\u062e\u0632\u0646 \u0645\u062b\u0627\u0644\u200c\u0647\u0627\u06cc \u0642\u0627\u0628\u0644 \u0627\u062c\u0631\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u062a\u0627 \u0631\u0627 \u0633\u0631\u06cc\u0639 \u0648 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0627\u0628\u0631\u06cc \u067e\u0631\u0647\u0632\u06cc\u0646\u0647 \u0645\u0633\u062a\u0642\u0631 \u06a9\u0646\u0646\u062f.\n\n\ud83c\udfaf \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u0645\u0627\u0646\u0639 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634\u0645\u0646\u062f \u0645\u062d\u0644\u06cc \u067e\u0627\u06cc\u06cc\u0646 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f \u0648 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0639\u0644\u0627\u0642\u0647\u200c\u0645\u0646\u062f\u0627\u0646 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83e\udde9 \u0627\u06af\u0631 \u0627\u0632 \u0642\u0628\u0644 GPU \u062f\u0627\u0631\u06cc\u062f\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u062f\u0631 \u06cc\u06a9 \u0646\u0634\u0633\u062a \u0627\u0632 \u06a9\u0644\u0648\u0646 \u06a9\u0631\u062f\u0646 \u062a\u0627 \u06cc\u06a9 \u0639\u0627\u0645\u0644 \u0641\u0639\u0627\u0644 \u067e\u06cc\u0634 \u0628\u0631\u0648\u06cc\u062f. \ud83d\udd25 \u0628\u0627 \u062f\u0627\u063a\u200c\u062a\u0631 \u0634\u062f\u0646 \u0631\u0642\u0627\u0628\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632\u060c \u0686\u0646\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0639\u0645\u0644\u06cc \u0628\u0647 \u06cc\u06a9 \u0645\u0632\u06cc\u062a \u06a9\u0644\u06cc\u062f\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f.",
-      "post_title": "\ud83d\udee0\ufe0f Meta's OSS Model Cookbook: Run a Working Agent on Your GPU",
-      "post_title_fa": "\ud83d\udee0\ufe0f \u06a9\u062a\u0627\u0628 \u062f\u0633\u062a\u0648\u0631\u067e\u062e\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u062a\u0627: \u06cc\u06a9 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634\u0645\u0646\u062f \u0631\u0627 \u0631\u0648\u06cc GPU \u062e\u0648\u062f\u062a\u0627\u0646 \u0627\u062c\u0631\u0627 \u06a9\u0646\u06cc\u062f",
-      "priority": "low",
-      "published": "2026-08-15T06:26:40+00:00",
+      "post_body": "\ud83d\udd75\ufe0f Secondhand booksellers across the UK and Ireland are noticing a wave of strange bulk orders, and they suspect AI companies are the buyers. The unusual purchases, reported by The Guardian, may be part of efforts to gather large volumes of text for training or evaluation.\n\nSellers are puzzled because the orders often include obscure or out-of-print titles that don't seem to fit typical buyers. If confirmed, it highlights how AI developers are aggressively sourcing scarce data. \ud83d\udcc8 This could also reshape the secondhand book market, pushing up prices for certain titles.",
+      "post_body_fa": "\ud83d\udd75\ufe0f \u06a9\u062a\u0627\u0628\u0641\u0631\u0648\u0634\u0627\u0646 \u062f\u0633\u062a\u200c\u062f\u0648\u0645 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0627\u0647\u062f \u0645\u0648\u062c\u06cc \u0627\u0632 \u0633\u0641\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0639\u062c\u06cc\u0628 \u0648 \u0639\u0645\u062f\u0647 \u0647\u0633\u062a\u0646\u062f \u0648 \u06af\u0645\u0627\u0646 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u062e\u0631\u06cc\u062f\u0627\u0631\u0627\u0646\u060c \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627\u0634\u0646\u062f. \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 \u06af\u0627\u0631\u062f\u06cc\u0646\u060c \u0627\u06cc\u0646 \u062e\u0631\u06cc\u062f\u0647\u0627\u06cc \u063a\u06cc\u0631\u0639\u0627\u062f\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u0628\u0631\u0627\u06cc \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u062d\u062c\u0645 \u0632\u06cc\u0627\u062f\u06cc \u0627\u0632 \u0645\u062a\u0646 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u06cc\u0627 \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0645\u062f\u0644\u200c\u0647\u0627 \u0628\u0627\u0634\u062f.\n\n\u0641\u0631\u0648\u0634\u0646\u062f\u06af\u0627\u0646 \u06af\u06cc\u062c \u0634\u062f\u0647\u200c\u0627\u0646\u062f \u0686\u0648\u0646 \u0633\u0641\u0627\u0631\u0634\u200c\u0647\u0627 \u0627\u063a\u0644\u0628 \u0634\u0627\u0645\u0644 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u06cc\u0627 \u0686\u0627\u067e\u200c\u0646\u0634\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0628\u0647 \u0646\u0638\u0631 \u0646\u0645\u06cc\u200c\u0631\u0633\u062f \u0628\u0631\u0627\u06cc \u062e\u0631\u06cc\u062f\u0627\u0631\u0627\u0646 \u0639\u0627\u062f\u06cc \u0628\u0627\u0634\u062f. \u062f\u0631 \u0635\u0648\u0631\u062a \u062a\u0623\u06cc\u06cc\u062f\u060c \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0634\u062f\u062a \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0645\u06cc\u0627\u0628 \u0647\u0633\u062a\u0646\u062f. \ud83d\udcc8 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0632\u0627\u0631 \u06a9\u062a\u0627\u0628 \u062f\u0633\u062a\u200c\u062f\u0648\u0645 \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f \u0648 \u0642\u06cc\u0645\u062a \u0628\u0631\u062e\u06cc \u0639\u0646\u0627\u0648\u06cc\u0646 \u0631\u0627 \u0628\u0627\u0644\u0627 \u0628\u0628\u0631\u062f.",
+      "post_title": "\ud83d\udcda UK booksellers suspect AI firms behind bulk book orders",
+      "post_title_fa": "\ud83d\udcda \u0634\u06a9 \u06a9\u062a\u0627\u0628\u0641\u0631\u0648\u0634\u0627\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u0628\u0647 \u0633\u0641\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0639\u0645\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+      "priority": "medium",
+      "published": "2026-08-15T08:35:23+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/\"> <img alt=\"GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.\" src=\"https://external-preview.redd.it/ZsyLi8FAlTSwwcY2TDYn528KqdwMVw3K7cZioaiHYPo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=17ff88f4d63356b0d4328fe29ddebaff401fb8c7\" title=\"GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Muse Glimmer Cookbook</h1> <p><a href=\"https://github.com/meta-models/meta-oss-cookbook#muse-glimmer-cookbook\"></a></p> <p>Clone it, run it on the GPU you already own, and ship a working agent \u2014 one that plans, calls tools, and self-corrects \u2014 in a single sitting, fully offline.</p> <p>Muse Glimmer is an open-weight model built for local agentic work on a single GPU. This cookbook is how you go from weights to a running agent.</p> <p>Previously shared <a href=\"https://www.reddit.com/r/LocalLLaMA/s/L4YENIv4iT\">Liquid AI's Cookbook</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmttyji\"> /u/pmttyji </a> <br /> <span><a href=\"https://github.com/meta-models/meta-oss-cookbook\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/\">[comments]</a></span> </td></tr></table>",
-      "title": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/"
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition\">https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308856\">https://news.ycombinator.com/item?id=49308856</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
+      "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83e\uddd1\u200d\ud83d\udd2c A new web app called Chemistry AI gives step-by-step solutions to chemistry problems. The tool, shared on Hacker News as a Show HN, is designed to help students work through calculations and reactions.\n\nIt likely relies on a language model to parse questions and generate explanations. \u26a1 While it's a small side project, it's another example of AI assistants moving into STEM education. \ud83d\udd2c There's no word yet on pricing or the underlying model, but you can try it online.",
+      "post_body_fa": "\ud83e\uddd1\u200d\ud83d\udd2c \u06cc\u06a9 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0648\u0628 \u062c\u062f\u06cc\u062f \u0628\u0647 \u0646\u0627\u0645 Chemistry AI \u0631\u0627\u0647\u200c\u062d\u0644\u200c\u0647\u0627\u06cc \u06af\u0627\u0645\u200c\u0628\u0647\u200c\u06af\u0627\u0645 \u0628\u0631\u0627\u06cc \u0645\u0633\u0627\u0626\u0644 \u0634\u06cc\u0645\u06cc \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u06a9\u0647 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 Show HN \u062f\u0631 \u0647\u06a9\u0631\u0646\u06cc\u0648\u0632 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647\u060c \u0628\u0631\u0627\u06cc \u06a9\u0645\u06a9 \u0628\u0647 \u062f\u0627\u0646\u0634\u200c\u0622\u0645\u0648\u0632\u0627\u0646 \u062f\u0631 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0648 \u0648\u0627\u06a9\u0646\u0634\u200c\u0647\u0627 \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0627\u0632 \u06cc\u06a9 \u0645\u062f\u0644 \u0632\u0628\u0627\u0646\u06cc \u0628\u0631\u0627\u06cc \u062f\u0631\u06a9 \u0633\u0624\u0627\u0644\u0627\u062a \u0648 \u062a\u0648\u0644\u06cc\u062f \u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u26a1 \u0647\u0631\u0686\u0646\u062f \u0627\u06cc\u0646 \u06cc\u06a9 \u067e\u0631\u0648\u0698\u0647 \u062c\u0627\u0646\u0628\u06cc \u06a9\u0648\u0686\u06a9 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0646\u0645\u0648\u0646\u0647\u200c\u06cc \u062f\u06cc\u06af\u0631\u06cc \u0627\u0632 \u0648\u0631\u0648\u062f \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0622\u0645\u0648\u0632\u0634 \u0639\u0644\u0648\u0645 \u0627\u0633\u062a. \ud83d\udd2c \u0647\u0646\u0648\u0632 \u0627\u0637\u0644\u0627\u0639\u0627\u062a\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0642\u06cc\u0645\u062a \u06cc\u0627 \u0645\u062f\u0644 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646 \u0645\u0646\u062a\u0634\u0631 \u0646\u0634\u062f\u0647\u060c \u0627\u0645\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u0646\u0644\u0627\u06cc\u0646 \u0627\u0645\u062a\u062d\u0627\u0646\u0634 \u06a9\u0646\u06cc\u062f.",
+      "post_title": "\ud83e\uddea Chemistry AI: step-by-step chemistry problem solver",
+      "post_title_fa": "\ud83e\uddea Chemistry AI: \u062d\u0644 \u06af\u0627\u0645\u200c\u0628\u0647\u200c\u06af\u0627\u0645 \u0645\u0633\u0627\u0626\u0644 \u0634\u06cc\u0645\u06cc",
+      "priority": "low",
+      "published": "2026-08-15T08:11:48+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://chemistryai.chat\">https://chemistryai.chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308749\">https://news.ycombinator.com/item?id=49308749</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Show HN: Chemistry AI \u2013 step-by-step chemistry solver",
+      "url": "https://chemistryai.chat"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -82309,6 +82333,14 @@
     "source": "arXiv cs.AI",
     "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
     "title_norm": "designing ai pipelines for decisionready itsm intelligence"
+  },
+  "b23fc9ea127160b46445beb76e228e1510afcea4b2ac2bf503d281cc279addff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T08:47:55.640865+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
+    "title_norm": "secondhand uk and irish booksellers suspect ai firms behind strange bulk orders"
   },
   "b24044bb0e2ec05029d5d0315c5a2f089934fb88fae67bb84496437f3ff070e3": {
     "category": "research",
@@ -96267,6 +96299,14 @@
     "source": "Google DeepMind Blog",
     "title": "D4RT: Teaching AI to see the world in four dimensions",
     "title_norm": "d4rt teaching ai to see the world in four dimensions"
+  },
+  "d0a47372ab774e3d3c3e846db9cbf621228cb2ff29bdea9dd97b3be90889e800": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T08:47:55.640938+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: HN Without AI Stories",
+    "title_norm": "show hn hn without ai stories"
   },
   "d0a5882982121cf58af62417e872ae10e33a85aaf97a672204bba788399fca0f": {
     "category": "other",
