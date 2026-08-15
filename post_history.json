@@ -37729,6 +37729,14 @@
     "title": "Show HN: Open-sourced, non-AI newtab extension to read your X/Twitter bookmarks",
     "title_norm": "show hn opensourced nonai newtab extension to read your xtwitter bookmarks"
   },
+  "51fc86b4243e83423bd2c808c1c62eb6509128b5c9f2d684683e3b0a4e358d7b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T07:37:25.435213+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
+    "title_norm": "github metamodelsmetaosscookbook all recipes for oss models from meta inc"
+  },
   "520de9a65d166fc0417a0fe31ac124dcd012649df489b58af330f7c71acbc28b": {
     "category": "research",
     "posted": false,
@@ -73649,6 +73657,22 @@
       "summary": "arXiv:2608.13272v1 Announce Type: new \nAbstract: A small number of firms based in two states produce the most capable frontier AI models. The governments of those states have shown both the legal power and the political will to decide which other countries may use these systems. In June 2026 the United States required a leading developer to obtain licences before releasing its most advanced models to any foreign person, including foreign nationals resident in the United States. The affected models were withdrawn worldwide at short notice, partly because the restriction proved impractical to administer. This followed within months of the first documented case of a largely autonomous, AI-run cyber espionage campaign, and coincided with mounting evidence that frontier models alter the economics of both cyber attack and cyber defence. This article examines how these two developments interact, and situates them within the unusual market dynamics now driving large-scale AI development. It argues that access to frontier AI is becoming part of national cyber defence, that such access can be revoked, and that the obvious remedy of sovereign capability remains only partly feasible for all but a handful of states. Drawing on evidence about training costs, the concentration of computing power and the support offered by national AI programmes, it asks what sovereignty can realistically mean for small and middle powers, and for large powers as well. The article proposes a layered strategy: negotiated access guarantees, sovereignty at the level of inference, hedging with open-weight models, pooled regional capability, sustained talent development and continued investment in basic cyber resilience. The open-weight hedge proves at once more capable and more politically exposed than is commonly assumed. Much of the near-term risk lies in how capable models are deployed and contained rather than in their apparent performance.",
       "title": "Sovereign by necessity? Frontier AI export controls, cyber security, and the limits of national AI capability",
       "url": "https://arxiv.org/abs/2608.13272"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcd8 Meta has released an open-source cookbook for its OSS models, including a \"Muse Glimmer\" recipe for building an agent that plans, calls tools, and self-corrects \u2014 all on a single GPU. The repo collects runnable examples for developers who want to deploy Meta's open models quickly, without expensive cloud setups.\n\n\ud83c\udfaf This lowers the barrier for building local AI agents, making state-of-the-art open models accessible to hobbyists and startups. \ud83e\udde9 If you already own a GPU, you can go from clone to a working agent in one session. \ud83d\udd25 As open-model competition heats up, such practical tooling becomes a key advantage.",
+      "post_body_fa": "\ud83d\udcd8 \u0645\u062a\u0627 \u06cc\u06a9 \u06a9\u062a\u0627\u0628 \u062f\u0633\u062a\u0648\u0631\u067e\u062e\u062a \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc OSS \u062e\u0648\u062f \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0634\u0627\u0645\u0644 \u062f\u0633\u062a\u0648\u0631 \u00abMuse Glimmer\u00bb \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0639\u0627\u0645\u0644\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0628\u0632\u0627\u0631 \u0635\u062f\u0627 \u0645\u06cc\u200c\u0632\u0646\u062f \u0648 \u062e\u0648\u062f \u0631\u0627 \u0627\u0635\u0644\u0627\u062d \u0645\u06cc\u200c\u06a9\u0646\u062f \u2014 \u0647\u0645\u0647 \u0631\u0648\u06cc \u06cc\u06a9 GPU. \u0627\u06cc\u0646 \u0645\u062e\u0632\u0646 \u0645\u062b\u0627\u0644\u200c\u0647\u0627\u06cc \u0642\u0627\u0628\u0644 \u0627\u062c\u0631\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u062c\u0645\u0639\u200c\u0622\u0648\u0631\u06cc \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u062a\u0627 \u0631\u0627 \u0633\u0631\u06cc\u0639 \u0648 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0627\u0628\u0631\u06cc \u067e\u0631\u0647\u0632\u06cc\u0646\u0647 \u0645\u0633\u062a\u0642\u0631 \u06a9\u0646\u0646\u062f.\n\n\ud83c\udfaf \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u0645\u0627\u0646\u0639 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634\u0645\u0646\u062f \u0645\u062d\u0644\u06cc \u067e\u0627\u06cc\u06cc\u0646 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f \u0648 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0639\u0644\u0627\u0642\u0647\u200c\u0645\u0646\u062f\u0627\u0646 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83e\udde9 \u0627\u06af\u0631 \u0627\u0632 \u0642\u0628\u0644 GPU \u062f\u0627\u0631\u06cc\u062f\u060c \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u062f\u0631 \u06cc\u06a9 \u0646\u0634\u0633\u062a \u0627\u0632 \u06a9\u0644\u0648\u0646 \u06a9\u0631\u062f\u0646 \u062a\u0627 \u06cc\u06a9 \u0639\u0627\u0645\u0644 \u0641\u0639\u0627\u0644 \u067e\u06cc\u0634 \u0628\u0631\u0648\u06cc\u062f. \ud83d\udd25 \u0628\u0627 \u062f\u0627\u063a\u200c\u062a\u0631 \u0634\u062f\u0646 \u0631\u0642\u0627\u0628\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632\u060c \u0686\u0646\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0639\u0645\u0644\u06cc \u0628\u0647 \u06cc\u06a9 \u0645\u0632\u06cc\u062a \u06a9\u0644\u06cc\u062f\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u0634\u0648\u0646\u062f.",
+      "post_title": "\ud83d\udee0\ufe0f Meta's OSS Model Cookbook: Run a Working Agent on Your GPU",
+      "post_title_fa": "\ud83d\udee0\ufe0f \u06a9\u062a\u0627\u0628 \u062f\u0633\u062a\u0648\u0631\u067e\u062e\u062a \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u062a\u0627: \u06cc\u06a9 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634\u0645\u0646\u062f \u0631\u0627 \u0631\u0648\u06cc GPU \u062e\u0648\u062f\u062a\u0627\u0646 \u0627\u062c\u0631\u0627 \u06a9\u0646\u06cc\u062f",
+      "priority": "low",
+      "published": "2026-08-15T06:26:40+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/\"> <img alt=\"GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.\" src=\"https://external-preview.redd.it/ZsyLi8FAlTSwwcY2TDYn528KqdwMVw3K7cZioaiHYPo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=17ff88f4d63356b0d4328fe29ddebaff401fb8c7\" title=\"GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Muse Glimmer Cookbook</h1> <p><a href=\"https://github.com/meta-models/meta-oss-cookbook#muse-glimmer-cookbook\"></a></p> <p>Clone it, run it on the GPU you already own, and ship a working agent \u2014 one that plans, calls tools, and self-corrects \u2014 in a single sitting, fully offline.</p> <p>Muse Glimmer is an open-weight model built for local agentic work on a single GPU. This cookbook is how you go from weights to a running agent.</p> <p>Previously shared <a href=\"https://www.reddit.com/r/LocalLLaMA/s/L4YENIv4iT\">Liquid AI's Cookbook</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmttyji\"> /u/pmttyji </a> <br /> <span><a href=\"https://github.com/meta-models/meta-oss-cookbook\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/\">[comments]</a></span> </td></tr></table>",
+      "title": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vovb5a/github_metamodelsmetaosscookbook_all_recipes_for/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -85870,6 +85894,14 @@
     "source": "Hacker News Frontpage",
     "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
     "title_norm": "feds kashkari says now is the time to start slowly moving rates up"
+  },
+  "b9f2142b29361e99c48e2e07bb8b49a79e2500600c7b136c09a757639ed1d655": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T07:37:25.435108+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Open Commonplace \u2013 Protecting knowledge from being generalized by AI",
+    "title_norm": "open commonplace protecting knowledge from being generalized by ai"
   },
   "b9f9db68c799349fae977fd45250eb2e8b0c910959d852fb6d3cecb89bba9ee6": {
     "category": "community_signal",
