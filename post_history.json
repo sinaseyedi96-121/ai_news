@@ -4399,6 +4399,14 @@
     "title": "Gloomberb",
     "title_norm": "gloomberb"
   },
+  "094dc9d7c08ac03d4315b0d2a818c0f7975515da183a07c7e1cba5308a6c70b8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T17:02:45.630556+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Doing image recognition tests of Muse Glimmer v. Qwen 3.8 27B. Anyone else have notes?",
+    "title_norm": "doing image recognition tests of muse glimmer v qwen 38 27b anyone else have notes"
+  },
   "094e1d97a583877dadee6471c26f086cada6b845a7e433b755d004b453adeb77": {
     "category": "research",
     "posted": false,
@@ -18141,6 +18149,14 @@
     "title": "Microsoft's AI Security Leap Signals a New Era in Cyber Defense",
     "title_norm": "microsofts ai security leap signals a new era in cyber defense"
   },
+  "26a76f1a6e1a68133084d6ecd0f8202fbc7fa7cc8a443296ed3b51f1c0f67903": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T17:02:45.630523+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "A Spectre Is Haunting Unicode",
+    "title_norm": "a spectre is haunting unicode"
+  },
   "26a781a46daf52415e07cfbc0e913620567556cc64dbb1c333a341ccc5dd5406": {
     "category": "research",
     "posted": false,
@@ -25848,6 +25864,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "LFM 2.5 230M running at 1440 tok/s in-browser through a custom backend",
     "title_norm": "lfm 25 230m running at 1440 toks inbrowser through a custom backend"
+  },
+  "367c110bc11f7cda7e4dd715ef28d5a52a70453e4081fa5162beac6bd3729298": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T17:02:45.630500+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The price of a Costco hot dog has gone up",
+    "title_norm": "the price of a costco hot dog has gone up"
   },
   "368055a3cc8fe57ab1867ab366c7b7ca369c57b1d3f18b2b56cb2b292a044111": {
     "category": "policy",
@@ -35400,6 +35424,14 @@
     "source": "arXiv cs.AI",
     "title": "Coordinated incentives in AI-generated misinformation governance",
     "title_norm": "coordinated incentives in aigenerated misinformation governance"
+  },
+  "4c2801492334bd061e10ebf1e05071b895f7e2f477dfef1f24328a8fb8c715a5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T17:02:45.630395+00:00",
+    "source": "TechCrunch AI",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "title_norm": "spacex officially closes its cursor acquisition"
   },
   "4c34a891a17f4a0a914463f5c9c899a83bd3a6367b41f0ba988be540aaa925ba": {
     "category": "research",
@@ -74041,6 +74073,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udd1d SpaceX has completed its acquisition of Cursor, the popular AI coding assistant used by millions of developers. The deal makes Cursor part of the aerospace company's internal tooling, though no financial terms were disclosed.\n\nThe move is a major signal of how strategic AI developer tools have become. \u26a1 With Cursor under SpaceX, expect tighter integration into engineering workflows for spacecraft and Starlink projects. \ud83d\udcbb It also means the future roadmap of one of the most widely used AI code editors is now tied to a non-software company \u2014 a bold bet that could reshape the AI coding market. \ud83d\udd25 Keep an eye on how existing Cursor customers and competitors react.",
+      "post_body_fa": "\ud83e\udd1d \u0627\u0633\u067e\u06cc\u0633\u200c\u0627\u06cc \u062e\u0631\u06cc\u062f \u06a9\u0631\u0633\u0631\u060c \u062f\u0633\u062a\u06cc\u0627\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062d\u0628\u0648\u0628\u06cc \u06a9\u0647 \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u0627\u0632 \u0622\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u0631\u0627 \u062a\u06a9\u0645\u06cc\u0644 \u06a9\u0631\u062f. \u0627\u06cc\u0646 \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u06a9\u0631\u0633\u0631 \u0631\u0627 \u0628\u0647 \u0628\u062e\u0634\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u062f\u0627\u062e\u0644\u06cc \u0634\u0631\u06a9\u062a \u0647\u0648\u0627\u0641\u0636\u0627\u06cc\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0647\u0631\u0686\u0646\u062f \u062c\u0632\u0626\u06cc\u0627\u062a \u0645\u0627\u0644\u06cc \u0622\u0646 \u0627\u0639\u0644\u0627\u0645 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0646\u0634\u0627\u0646\u0647\u200c\u06cc \u0628\u0632\u0631\u06af\u06cc \u0627\u0632 \u0627\u0647\u0645\u06cc\u062a \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647\u200c\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a. \u26a1 \u0628\u0627 \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a\u0646 \u06a9\u0631\u0633\u0631 \u062f\u0631 \u0627\u0633\u067e\u06cc\u0633\u200c\u0627\u06cc\u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0628\u06cc\u0634\u062a\u0631 \u0628\u0627 \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631 \u0645\u0647\u0646\u062f\u0633\u06cc \u067e\u0631\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u0641\u0636\u0627\u06cc\u06cc \u0648 \u0627\u0633\u062a\u0627\u0631\u0644\u06cc\u0646\u06a9 \u0627\u062f\u063a\u0627\u0645 \u0634\u0648\u062f. \ud83d\udcbb \u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u0633\u06cc\u0631 \u062a\u0648\u0633\u0639\u0647\u200c\u06cc \u06cc\u06a9\u06cc \u0627\u0632 \u067e\u0631\u06a9\u0627\u0631\u0628\u0631\u062f\u062a\u0631\u06cc\u0646 \u0648\u06cc\u0631\u0627\u06cc\u0634\u06af\u0631\u0647\u0627\u06cc \u06a9\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062d\u0627\u0644\u0627 \u0628\u0647 \u06cc\u06a9 \u0634\u0631\u06a9\u062a \u063a\u06cc\u0631\u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631\u06cc \u06af\u0631\u0647 \u062e\u0648\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0634\u0631\u0637\u06cc \u062c\u0633\u0648\u0631\u0627\u0646\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0632\u0627\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u06a9\u0646\u062f. \ud83d\udd25 \u0628\u0627\u06cc\u062f \u062f\u06cc\u062f \u0645\u0634\u062a\u0631\u06cc\u0627\u0646 \u0641\u0639\u0644\u06cc \u06a9\u0631\u0633\u0631 \u0648 \u0631\u0642\u0628\u0627 \u0686\u0647 \u0648\u0627\u06a9\u0646\u0634\u06cc \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f.",
+      "post_title": "\ud83d\ude80 SpaceX officially closes its Cursor acquisition",
+      "post_title_fa": "\ud83d\ude80 \u0627\u0633\u067e\u06cc\u0633\u200c\u0627\u06cc \u0631\u0633\u0645\u0627\u064b \u062e\u0631\u06cc\u062f \u06a9\u0631\u0633\u0631 \u0631\u0627 \u0646\u0647\u0627\u06cc\u06cc \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-15T16:30:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
       "category": "research",
       "duplicate_of": null,
       "post_body": "\u26a0\ufe0f A new IEEE Spectrum report highlights that AI can now design functional viruses, a milestone that raises serious biosecurity questions. The technology, which leverages generative models for protein and genome sequences, could one day speed up vaccine development \ud83e\uddec.\n\nBut the same capability could be misused to create dangerous pathogens. Researchers are calling for stronger oversight and safety screening before such tools spread further. This is the latest reminder that AI\u2019s scientific power is racing ahead of regulation \u2696\ufe0f.",
@@ -109758,6 +109806,14 @@
     "source": "arXiv cs.AI",
     "title": "Semantic Semi-Incremental Data-Association-Free Object SLAM",
     "title_norm": "semantic semiincremental dataassociationfree object slam"
+  },
+  "edb4c27a21cf49aca1b05595208f35ecd5586b68075fc272f0d56f3bc9c4514d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T17:02:45.630539+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Briefing on Extinction-Level AI Threats",
+    "title_norm": "briefing on extinctionlevel ai threats"
   },
   "edb6c32e1a5ce63d38e609a3b0ead8437ddcb960ea837a42e09533327927d624": {
     "category": "other",
