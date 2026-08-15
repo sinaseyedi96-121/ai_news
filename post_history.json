@@ -7729,6 +7729,14 @@
     "title": "SEDR-Seq2P: A Lightweight Dilated Residual Sequence-to-Point Network for Multi-Task Industrial NILM",
     "title_norm": "sedrseq2p a lightweight dilated residual sequencetopoint network for multitask industrial nilm"
   },
+  "10a41b1fd2fe27a550cb102fc1b7ec1c430451908409c4a11075a0eb023c7291": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308289+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Visually Precise AI Tutoring on iOS",
+    "title_norm": "show hn visually precise ai tutoring on ios"
+  },
   "10a62e47d6479bd381f988fdcd37d2e7c9ccc66d7f7d5089b30076082adb094b": {
     "category": "research",
     "posted": false,
@@ -30063,6 +30071,14 @@
     "title": "Generating Human-level Text with Contrastive Search in Transformers \ud83e\udd17",
     "title_norm": "generating humanlevel text with contrastive search in transformers"
   },
+  "4051459b1e34be4a706b6a7120b00422ffbb6089ec9c9cccde95c051a5f6cf0e": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308375+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
+    "title_norm": "gemma 4 e4b iq2_xxs 14054 reasoning performance from tensor level quantization allocation"
+  },
   "4054c545095d0a5166163983b4d8e56d2dd32315e73d45b31594172c834936f1": {
     "category": "research",
     "posted": false,
@@ -35322,6 +35338,14 @@
     "source": "Hugging Face Blog",
     "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
     "title_norm": "accelerate ndparallel a guide to efficient multigpu training"
+  },
+  "4c61b66a537a3f2deb400864d1ebcba2d828939638ae0f1c6f3261b514801a24": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308328+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Adversarial Creation and Detection of AI-Generated Social Bot Content",
+    "title_norm": "adversarial creation and detection of aigenerated social bot content"
   },
   "4c655802805703789ad34fcaeb588bf88a7c7a9ef43cf268a4926fe5fa1ff7b4": {
     "category": "research",
@@ -52816,6 +52840,14 @@
     "source": "arXiv cs.AI",
     "title": "FinVerse: Financial Time-Series Benchmark",
     "title_norm": "finverse financial timeseries benchmark"
+  },
+  "71691ff2cdda88aad7b69d6fa21d3f62dd2ab37e4f021d6af4c9fe927b78761c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308311+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "title_norm": "yadda 300 bdd in the age of ai agents"
   },
   "716e4ff192370a2e8d34c7c40646288497c3aaae8413d0da395b43eb836c6a57": {
     "category": "model_release",
@@ -73655,33 +73687,17 @@
   },
   "_meta": {
     "date": "2026-08-15",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
       "model_release": 1,
-      "other": 2,
+      "other": 3,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-15-14"
+    "last_slot": "2026-08-15-16"
   },
   "_queue": [
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde0 Anthropic executives say AI risk is growing and the lab has no plans to release a stronger 'Model 2' anytime soon. The Axios report quotes leadership pointing to increasing dangers from advanced systems as the reason for holding back.\n\n\ud83d\udcca This puts Anthropic at odds with rivals like OpenAI and Google, who continue pushing out new models at a rapid pace. \u2696\ufe0f The decision could reignite debates about responsible AI development and whether the industry is moving too fast. For businesses and developers, it signals that one of the top labs is prioritizing caution over capability for now.",
-      "post_body_fa": "\ud83e\udde0 \u0645\u062f\u06cc\u0631\u0627\u0646 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f \u0631\u06cc\u0633\u06a9 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062d\u0627\u0644 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0627\u0633\u062a \u0648 \u0627\u06cc\u0646 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u062a\u0634\u0627\u0631 \u00ab\u0645\u062f\u0644 \u06f2\u00bb \u0642\u062f\u0631\u062a\u0645\u0646\u062f\u062a\u0631 \u062f\u0631 \u0622\u06cc\u0646\u062f\u0647 \u0646\u0632\u062f\u06cc\u06a9 \u0646\u062f\u0627\u0631\u062f. \u06af\u0632\u0627\u0631\u0634 \u0622\u06a9\u0633\u06cc\u0648\u0633 \u0627\u0632 \u0642\u0648\u0644 \u0645\u062f\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a\u060c \u062e\u0637\u0631\u0627\u062a \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0627 \u062f\u0644\u06cc\u0644 \u0627\u06cc\u0646 \u062e\u0648\u062f\u062f\u0627\u0631\u06cc \u0630\u06a9\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.\n\n\ud83d\udcca \u0627\u06cc\u0646 \u0645\u0648\u0636\u0639\u200c\u06af\u06cc\u0631\u06cc \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0631\u0627 \u062f\u0631 \u0645\u0642\u0627\u0628\u0644 \u0631\u0642\u0628\u0627\u06cc\u06cc \u0645\u062b\u0644 OpenAI \u0648 \u06af\u0648\u06af\u0644 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0645\u0646\u062a\u0634\u0631 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u062a\u0635\u0645\u06cc\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u062d\u062b\u200c\u0647\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0648\u0633\u0639\u0647 \u0645\u0633\u0626\u0648\u0644\u0627\u0646\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0634\u062a\u0627\u0628 \u0628\u06cc\u0634 \u0627\u0632 \u062d\u062f \u0635\u0646\u0639\u062a \u0631\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0628\u0631\u0627\u0646\u06af\u06cc\u0632\u062f. \u0628\u0631\u0627\u06cc \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631\u0647\u0627 \u0648 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u067e\u06cc\u0627\u0645 \u0631\u0627 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u06cc\u06a9\u06cc \u0627\u0632 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u062f\u0631 \u062d\u0627\u0644 \u062d\u0627\u0636\u0631 \u0627\u062d\u062a\u06cc\u0627\u0637 \u0631\u0627 \u0628\u0631 \u062a\u0648\u0627\u0646\u0645\u0646\u062f\u06cc \u062a\u0631\u062c\u06cc\u062d \u0645\u06cc\u200c\u062f\u0647\u062f.",
-      "post_title": "\u26a0\ufe0f Anthropic warns of rising AI risk, holds back 'Model 2'",
-      "post_title_fa": "\u26a0\ufe0f \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f: \u00ab\u0645\u062f\u0644 \u06f2\u00bb \u0639\u0631\u0636\u0647 \u0646\u0645\u06cc\u0634\u0648\u062f",
-      "priority": "high",
-      "published": "2026-08-15T11:00:24+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk\">https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309551\">https://news.ycombinator.com/item?id=49309551</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
-      "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -85721,6 +85737,14 @@
     "title": "Samsung wins $200B Broadcom AI chip partnership, boosting foundry push",
     "title_norm": "samsung wins 200b broadcom ai chip partnership boosting foundry push"
   },
+  "b9056099727ee1c2b7c9ac4b73c6fc62e3ad554fa810064931372b4b8a30bdf7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308357+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "GLM-5.3 \u2013 The Official Desktop Auditor for Z.AI's Cyber-Engine",
+    "title_norm": "glm53 the official desktop auditor for zais cyberengine"
+  },
   "b905e6b5a4a08abd867f6805d1f21c4d00567c105e9693c07d47a3848f672a87": {
     "category": "research",
     "posted": false,
@@ -88280,6 +88304,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "A local code index for coding agents that resolves imports without a language server (Rust, MIT, runs offline)",
     "title_norm": "a local code index for coding agents that resolves imports without a language server rust mit runs offline"
+  },
+  "be83fae2029088eadc082736d39207bf08d4a45ac102e3f0e6e3b40f8ba9f867": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308345+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "VictoriaMetrics: AI Policy",
+    "title_norm": "victoriametrics ai policy"
   },
   "be8461b3146338361ce5dc831b78c0c549d24a01108efd68072202f0d2575092": {
     "category": "research",
@@ -93637,7 +93669,13 @@
   },
   "c9eb27f95a84f8c252ada2185e24fecaaa1377d5d553ab145cd539c5148734f1": {
     "category": "other",
-    "posted": false,
+    "message_id": 201,
+    "message_id_fa": 175,
+    "post_title": "\u26a0\ufe0f Anthropic warns of rising AI risk, holds back 'Model 2'",
+    "post_title_fa": "\u26a0\ufe0f \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f: \u00ab\u0645\u062f\u0644 \u06f2\u00bb \u0639\u0631\u0636\u0647 \u0646\u0645\u06cc\u0634\u0648\u062f",
+    "posted": true,
+    "posted_at": "2026-08-15T14:02:15.211430+00:00",
+    "priority": "high",
     "seen_at": "2026-08-15T11:37:30.130273+00:00",
     "source": "Hacker News AI keyword",
     "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
@@ -114256,6 +114294,14 @@
     "source": "TechCrunch AI",
     "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
     "title_norm": "substacks new tool tells you whos been writing their newsletters with ai"
+  },
+  "f8dc7c9ad23404c38b10bf2f08d3c4d0c7862725f7b3ba3f072aacfccac14e7e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T14:02:14.308203+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "388 years ago, Galileo worked out why human giants can't exist",
+    "title_norm": "388 years ago galileo worked out why human giants cant exist"
   },
   "f8df3e0d3cc81402169fbdee61bfd5fe093e09e8ae9a90ce6327c888ac618438": {
     "category": "research",
