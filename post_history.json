@@ -16497,7 +16497,13 @@
   },
   "238253cf99f4ce8f687f3e23931ef68f0b6536374ab903c18596c5275fb33655": {
     "category": "policy",
-    "posted": false,
+    "message_id": 203,
+    "message_id_fa": 177,
+    "post_title": "\u2696\ufe0f US tells partners to pick sides in AI race with China",
+    "post_title_fa": "\u2696\ufe0f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0634\u0631\u06a9\u0627 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0686\u06cc\u0646 \u06cc\u06a9 \u0637\u0631\u0641 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-15T18:43:16.169922+00:00",
+    "priority": "high",
     "seen_at": "2026-08-15T14:42:22.209737+00:00",
     "source": "Hacker News AI keyword",
     "title": "U.S. to tell partners they must pick sides in AI race with China",
@@ -59351,6 +59357,14 @@
     "title": "Skill-RAG: Failure-State-Aware Retrieval Augmentation via Hidden-State Probing and Skill Routing",
     "title_norm": "skillrag failurestateaware retrieval augmentation via hiddenstate probing and skill routing"
   },
+  "7f479221972c5a14be6552ed62329d88298f152a1d548f8c2b2db62964448082": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T18:43:15.285645+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "title_norm": "voltair yc w26 is hiring a test flight engineer"
+  },
   "7f4974df65889eaaab23b61d402e5dd820a9ca101024a16b625615032455ec62": {
     "category": "research",
     "posted": false,
@@ -70391,6 +70405,14 @@
     "title": "AI \"Proves\" Collatz Conjecture with Lean 4 Bug",
     "title_norm": "ai proves collatz conjecture with lean 4 bug"
   },
+  "97a60f1687b54f63317c5731711dadf7e145d71d5e4c89f248d250aab8f129c5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T18:43:15.285729+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B - Isn\u2019t Slower \u2014 It\u2019s Thinking More, and That\u2019s Necessary",
+    "title_norm": "qwen 38 27b isnt slower its thinking more and thats necessary"
+  },
   "97a646fd7a6299cb9f0cfa6eb7daee1d4725a66d9528b850833a968806df3014": {
     "category": "research",
     "posted": false,
@@ -73965,33 +73987,18 @@
   },
   "_meta": {
     "date": "2026-08-15",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
       "model_release": 1,
       "other": 4,
+      "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-15-18"
+    "last_slot": "2026-08-15-20"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udf0d The United States is reportedly telling allies and partners they must choose between Washington and Beijing in the global AI race. According to Japan Times, the message is part of a broader push to limit China's access to advanced chips and AI technology. The move could force countries to rethink trade and tech partnerships, especially those that have deep economic ties with China. \ud83c\udfed It signals a new phase in the US-China tech cold war, with AI becoming the central front.",
-      "post_body_fa": "\ud83c\udf0d \u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634 \u0698\u0627\u067e\u0646 \u062a\u0627\u06cc\u0645\u0632\u060c \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0628\u0647 \u0645\u062a\u062d\u062f\u0627\u0646 \u0648 \u0634\u0631\u06a9\u0627\u06cc \u062e\u0648\u062f \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0627\u06cc\u062f \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u062c\u0647\u0627\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0646 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0648 \u067e\u06a9\u0646 \u06cc\u06a9\u06cc \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u067e\u06cc\u0627\u0645 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0645\u062d\u062f\u0648\u062f \u06a9\u0631\u062f\u0646 \u062f\u0633\u062a\u0631\u0633\u06cc \u0686\u06cc\u0646 \u0628\u0647 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0648 \u0641\u0646\u0627\u0648\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a. \u0686\u0646\u06cc\u0646 \u0645\u0648\u0636\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06a9\u0634\u0648\u0631\u0647\u0627 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u06a9\u0646\u062f \u0631\u0648\u0627\u0628\u0637 \u062a\u062c\u0627\u0631\u06cc \u0648 \u0641\u0646\u0627\u0648\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u0628\u0627\u0632\u0628\u06cc\u0646\u06cc \u06a9\u0646\u0646\u062f\u060c \u0628\u0647\u200c\u0648\u06cc\u0698\u0647 \u0622\u0646\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0648\u0627\u0628\u0633\u062a\u06af\u06cc \u0627\u0642\u062a\u0635\u0627\u062f\u06cc \u0639\u0645\u06cc\u0642\u06cc \u0628\u0647 \u0686\u06cc\u0646 \u062f\u0627\u0631\u0646\u062f. \ud83c\udfed \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u0654 \u0641\u0627\u0632 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u062f\u0631 \u062c\u0646\u06af \u0633\u0631\u062f \u0641\u0646\u0627\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0686\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0622\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u062c\u0628\u0647\u0647\u0654 \u0627\u0635\u0644\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a.",
-      "post_title": "\u2696\ufe0f US tells partners to pick sides in AI race with China",
-      "post_title_fa": "\u2696\ufe0f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0634\u0631\u06a9\u0627 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0686\u06cc\u0646 \u06cc\u06a9 \u0637\u0631\u0641 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-15T14:14:03+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/\">https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310765\">https://news.ycombinator.com/item?id=49310765</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "U.S. to tell partners they must pick sides in AI race with China",
-      "url": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
