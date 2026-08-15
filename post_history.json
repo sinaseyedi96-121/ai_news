@@ -16621,6 +16621,14 @@
     "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
     "title_norm": "baseten on hugging face inference providers"
   },
+  "23e2d16f7d1ed4f971b396a45bed1432a0af8899b71275f95b6732e514445c8b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358413+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Deepseek v4 flash Q2 on a single 4090 \ud83d\ude05",
+    "title_norm": "deepseek v4 flash q2 on a single 4090"
+  },
   "23e5b188e3e6979776590d0bdedc2d4773d51c435e58f9f20e97945a857ecc7b": {
     "category": "other",
     "posted": false,
@@ -17204,6 +17212,14 @@
     "source": "arXiv cs.AI",
     "title": "A Mechanistic Perspective and Circuit-Guided Difficulty Metric for Unlearning",
     "title_norm": "a mechanistic perspective and circuitguided difficulty metric for unlearning"
+  },
+  "2518b3437df13b727fb6d78d72e238cb266d2dcb608c5dc24478fcc6ecd2c94d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358382+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Solvry AI-moderated anonymous peer support for teens",
+    "title_norm": "solvry aimoderated anonymous peer support for teens"
   },
   "251998064fc052c6f5994af2bc80ec3571abb93c6a75f5ca066f790a29f9d420": {
     "category": "infrastructure",
@@ -32270,6 +32286,14 @@
     "source": "arXiv cs.AI",
     "title": "Sentence Splitter: Uncovering Latent Factual Structure for Self-Supervised Learning",
     "title_norm": "sentence splitter uncovering latent factual structure for selfsupervised learning"
+  },
+  "4593c3f3e7531a60acbde3c70e6c1b84392c9aa4b2993f54be0f08d3f788d6af": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358289+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Software Development \u2013 What Does the Data Say?",
+    "title_norm": "ai software development what does the data say"
   },
   "459b888b75db1d6da420b901a80063d4ca676e1b6b2cc62c3a4cddafa1e6f909": {
     "category": "other",
@@ -65183,6 +65207,14 @@
     "title": "VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection",
     "title_norm": "vdcagent when video detailed captioners evolve themselves via agentic selfreflection"
   },
+  "8d2ebc4b2c2dad4a0804392f3e1cc86792ee3a4de9c2220a3069a369d3b4be45": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358324+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "1Password's new benchmark teaches AI agents how not to get scammed",
+    "title_norm": "1passwords new benchmark teaches ai agents how not to get scammed"
+  },
   "8d302c93cc3b6298ace1a915cbc2ac533bb44e1c62e1e1d50afed3a531b3bd2b": {
     "category": "research",
     "posted": false,
@@ -69126,6 +69158,14 @@
     "source": "arXiv cs.CL",
     "title": "Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability",
     "title_norm": "mechanismdriven monitors for preemptive detection of llm training instability"
+  },
+  "95c882437216b7799a061c53c79dac6f2f8d9bdbf8065c23f67f0f015713a35b": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358230+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+    "title_norm": "brain turns listening inward during rem sleep eeg recordings suggest"
   },
   "95c8a6581fb03bb86523ff6ab2438e5a9fa178adab847926ddc232283aa61d56": {
     "category": "model_release",
@@ -73787,20 +73827,36 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
-      "category": "other",
+      "category": "research",
       "duplicate_of": null,
-      "post_body": "\ud83c\udf0d OpenAI has announced it will begin showing ads in Europe later this month, according to a preview of its EU privacy policy. The company says the change will affect how it processes data for advertising in the region.\n\n\ud83d\udcb0 This move signals OpenAI's push to diversify revenue beyond subscriptions and API sales. For European users, it means explicit ads may soon appear across ChatGPT and other OpenAI products. \ud83d\udccb The company hasn't yet detailed which formats or surfaces will carry the ads.",
-      "post_body_fa": "\ud83c\udf0d OpenAI \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0637\u0628\u0642 \u067e\u06cc\u0634\u200c\u0646\u0645\u0627\u06cc\u0634 \u062e\u0637\u200c\u0645\u0634\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627\u060c \u0627\u0648\u0627\u062e\u0631 \u0627\u06cc\u0646 \u0645\u0627\u0647 \u0646\u0645\u0627\u06cc\u0634 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0631\u0627 \u0622\u063a\u0627\u0632 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0628\u0631 \u0646\u062d\u0648\u0647 \u067e\u0631\u062f\u0627\u0632\u0634 \u062f\u0627\u062f\u0647\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0627\u06cc\u0646 \u0645\u0646\u0637\u0642\u0647 \u062a\u0623\u062b\u06cc\u0631 \u062e\u0648\u0627\u0647\u062f \u06af\u0630\u0627\u0634\u062a.\n\n\ud83d\udcb0 \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u062a\u0644\u0627\u0634 OpenAI \u0628\u0631\u0627\u06cc \u062a\u0646\u0648\u0639\u200c\u0628\u062e\u0634\u06cc \u0628\u0647 \u062f\u0631\u0622\u0645\u062f \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0627\u0634\u062a\u0631\u0627\u06a9\u200c\u0647\u0627 \u0648 \u0641\u0631\u0648\u0634 API \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u0631\u0648\u067e\u0627\u06cc\u06cc\u060c \u0627\u06cc\u0646 \u0628\u0647 \u0627\u06cc\u0646 \u0645\u0639\u0646\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647\u200c\u0632\u0648\u062f\u06cc \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u0635\u0631\u06cc\u062d \u062f\u0631 ChatGPT \u0648 \u0633\u0627\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644\u0627\u062a OpenAI \u0638\u0627\u0647\u0631 \u0634\u0648\u062f. \ud83d\udccb \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0647\u0646\u0648\u0632 \u062c\u0632\u0626\u06cc\u0627\u062a \u0642\u0627\u0644\u0628\u200c\u0647\u0627 \u06cc\u0627 \u0633\u0637\u0648\u062d\u06cc \u0631\u0627 \u06a9\u0647 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u062f\u0631 \u0622\u0646\u200c\u0647\u0627 \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0627\u0639\u0644\u0627\u0645 \u0646\u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.",
-      "post_title": "\ud83d\udce2 OpenAI rolls out ads in Europe later this month",
-      "post_title_fa": "\ud83d\udce2 OpenAI \u0627\u0648\u0627\u06cc\u0644 \u0645\u0627\u0647 \u0622\u06cc\u0646\u062f\u0647 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a \u0631\u0627 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
+      "post_body": "\ud83d\udee1\ufe0f 1Password released SCAM, a new benchmark designed to teach AI agents how to recognize scam attempts. The benchmark simulates real-world phishing scenarios, ranging from fake emails to fraudulent websites, and scores agents on whether they refuse harmful actions.\n\n\ud83d\udcca Early results show that even top-tier agents fall for many scams, highlighting a critical gap in AI safety. \ud83e\udd16 The goal is to give developers a standard way to harden agentic AI before it handles sensitive tasks like password management. For anyone building AI assistants, this is a useful tool to test real-world robustness.",
+      "post_body_fa": "\ud83d\udee1\ufe0f 1Password \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0647 \u0646\u0627\u0645 SCAM \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u062a\u0634\u062e\u06cc\u0635 \u06a9\u0644\u0627\u0647\u0628\u0631\u062f\u0627\u0631\u06cc \u0628\u0647 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0637\u0631\u0627\u062d\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u0633\u0646\u0627\u0631\u06cc\u0648\u0647\u0627\u06cc \u0641\u06cc\u0634\u06cc\u0646\u06af \u0648\u0627\u0642\u0639\u06cc \u0631\u0627 \u0634\u0628\u06cc\u0647\u0633\u0627\u0632\u06cc \u0645\u06cc\u06a9\u0646\u062f\u061b \u0627\u0632 \u0627\u06cc\u0645\u06cc\u0644\u0647\u0627\u06cc \u062c\u0639\u0644\u06cc \u06af\u0631\u0641\u062a\u0647 \u062a\u0627 \u0648\u0628\u0633\u0627\u06cc\u062a\u0647\u0627\u06cc \u0645\u062a\u0642\u0644\u0628\u0627\u0646\u0647\u060c \u0648 \u0628\u0631\u0631\u0633\u06cc \u0645\u06cc\u06a9\u0646\u062f \u06a9\u0647 \u0622\u06cc\u0627 \u0639\u0627\u0645\u0644\u0647\u0627 \u0627\u0632 \u0627\u0646\u062c\u0627\u0645 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0645\u0636\u0631 \u062e\u0648\u062f\u062f\u0627\u0631\u06cc \u0645\u06cc\u06a9\u0646\u0646\u062f \u06cc\u0627 \u0646\u0647.\n\n\ud83d\udcca \u0646\u062a\u0627\u06cc\u062c \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u062d\u062a\u06cc \u0642\u0648\u06cc\u062a\u0631\u06cc\u0646 \u0639\u0627\u0645\u0644\u0647\u0627 \u0647\u0645 \u062f\u0631 \u062f\u0627\u0645 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0632 \u06a9\u0644\u0627\u0647\u0628\u0631\u062f\u0627\u0631\u06cc\u0647\u0627 \u0645\u06cc\u0627\u0641\u062a\u0646\u062f \u0648 \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0634\u06a9\u0627\u0641\u06cc \u062c\u062f\u06cc \u062f\u0631 \u0627\u06cc\u0645\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc. \ud83e\udd16 \u0647\u062f\u0641 \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u062a\u0648\u0633\u0639\u0647\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0631\u0627\u0647\u06cc \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u0628\u0631\u0627\u06cc \u0645\u0642\u0627\u0648\u0645\u0633\u0627\u0632\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0627\u0645\u0644\u0645\u062d\u0648\u0631 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f \u067e\u06cc\u0634 \u0627\u0632 \u0622\u0646\u06a9\u0647 \u0648\u0638\u0627\u06cc\u0641 \u062d\u0633\u0627\u0633\u06cc \u0645\u062b\u0644 \u0645\u062f\u06cc\u0631\u06cc\u062a \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0631\u0627 \u0628\u0647 \u0622\u0646 \u0628\u0633\u067e\u0627\u0631\u0646\u062f. \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u062f\u0633\u062a\u06cc\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u0633\u0627\u0632\u062f\u060c \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0645\u0641\u06cc\u062f\u06cc \u0628\u0631\u0627\u06cc \u0622\u0632\u0645\u0627\u06cc\u0634 \u0627\u0633\u062a\u062d\u06a9\u0627\u0645 \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udd10 1Password's SCAM benchmark tests AI agents against scams",
+      "post_title_fa": "\ud83d\udd10 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 SCAM \u0627\u0632 1Password \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062f\u0631 \u0628\u0631\u0627\u0628\u0631 \u06a9\u0644\u0627\u0647\u0628\u0631\u062f\u0627\u0631\u06cc \u0645\u06cc\u0622\u0632\u0645\u0627\u06cc\u062f",
       "priority": "medium",
-      "published": "2026-08-15T10:52:36+00:00",
+      "published": "2026-08-15T13:20:46+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://1password.github.io/SCAM/\">https://1password.github.io/SCAM/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310309\">https://news.ycombinator.com/item?id=49310309</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "title": "1Password's new benchmark teaches AI agents how not to get scammed",
+      "url": "https://1password.github.io/SCAM/"
+    },
+    {
+      "category": "research",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde0 Netflix's tech blog introduces GenRec, a new architecture that makes large language models the core of its recommendation engine rather than a side add-on. The system treats every interaction as a textual sequence, letting LLMs reason over user history and item metadata in real time.\n\n\u26a1 This could replace the traditional deep-learning pipelines that currently power the 'For You' rows. \ud83d\udcc8 GenRec is still experimental, but it shows how generative AI is moving beyond chatbots into core infrastructure. For users, expect more contextual recommendations; for engineers, it's a roadmap for building LLM-native systems at scale.",
+      "post_body_fa": "\ud83e\udde0 \u0648\u0628\u0644\u0627\u06af \u0641\u0646\u06cc \u0646\u062a\u0641\u0644\u06cc\u06a9\u0633 \u0627\u0632 GenRec \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u0645\u06cc\u06a9\u0646\u062f\u061b \u0645\u0639\u0645\u0627\u0631\u06cc \u062c\u062f\u06cc\u062f\u06cc \u06a9\u0647 \u0645\u062f\u0644\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0628\u0632\u0631\u06af \u0631\u0627 \u0628\u0647 \u0647\u0633\u062a\u0647\u0654 \u0645\u0648\u062a\u0648\u0631 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u062f\u0647\u0646\u062f\u0647 \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f\u060c \u0646\u0647 \u06cc\u06a9 \u0627\u0641\u0632\u0648\u0646\u0647\u0654 \u062c\u0627\u0646\u0628\u06cc. \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0647\u0631 \u062a\u0639\u0627\u0645\u0644 \u0631\u0627 \u0628\u0647\u0635\u0648\u0631\u062a \u06cc\u06a9 \u062a\u0648\u0627\u0644\u06cc \u0645\u062a\u0646\u06cc \u067e\u0631\u062f\u0627\u0632\u0634 \u0645\u06cc\u06a9\u0646\u062f \u062a\u0627 LLM \u0647\u0627 \u0628\u062a\u0648\u0627\u0646\u0646\u062f \u062f\u0631 \u0644\u062d\u0638\u0647 \u0631\u0648\u06cc \u062a\u0627\u0631\u06cc\u062e\u0686\u0647\u0654 \u06a9\u0627\u0631\u0628\u0631 \u0648 \u0641\u0631\u0627\u062f\u0627\u062f\u0647\u0654 \u0622\u06cc\u062a\u0645\u0647\u0627 \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u06a9\u0646\u0646\u062f.\n\n\u26a1 \u0627\u06cc\u0646 \u0631\u0648\u06cc\u06a9\u0631\u062f \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u062e\u0637\u0648\u0637 \u0644\u0648\u0644\u0647\u0654 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0639\u0645\u06cc\u0642 \u0633\u0646\u062a\u06cc \u0634\u0648\u062f \u06a9\u0647 \u0627\u0645\u0631\u0648\u0632 \u0631\u062f\u06cc\u0641\u0647\u0627\u06cc \u00ab\u0628\u0631\u0627\u06cc \u0634\u0645\u0627\u00bb \u0631\u0627 \u062a\u063a\u0630\u06cc\u0647 \u0645\u06cc\u06a9\u0646\u0646\u062f. \ud83d\udcc8 GenRec \u0647\u0646\u0648\u0632 \u0622\u0632\u0645\u0627\u06cc\u0634\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0648\u0644\u062f \u0627\u0632 \u0686\u062a\u0628\u0627\u062a\u0647\u0627 \u0641\u0631\u0627\u062a\u0631 \u0631\u0641\u062a\u0647 \u0648 \u0648\u0627\u0631\u062f \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0645\u06cc\u0634\u0648\u062f. \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646\u060c \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u0647\u0627\u06cc \u0632\u0645\u06cc\u0646\u0647\u0627\u06cc\u062a\u0631\u06cc \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f\u061b \u0628\u0631\u0627\u06cc \u0645\u0647\u0646\u062f\u0633\u0627\u0646 \u0647\u0645 \u0627\u06cc\u0646 \u06cc\u06a9 \u0646\u0642\u0634\u0647\u0654 \u0631\u0627\u0647 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0633\u06cc\u0633\u062a\u0645\u0647\u0627\u06cc LLM-\u0645\u062d\u0648\u0631 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u0628\u0632\u0631\u06af \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udd2c Netflix unveils GenRec, an LLM-native recommendation system",
+      "post_title_fa": "\ud83d\udd2c \u0646\u062a\u0641\u0644\u06cc\u06a9\u0633 \u0627\u0632 GenRec\u060c \u0633\u06cc\u0633\u062a\u0645 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f\u062f\u0647\u0646\u062f\u0647 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 LLM \u0631\u0648\u0646\u0645\u0627\u06cc\u06cc \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-15T12:56:56+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/policies/eu-privacy-policy-preview/\">https://openai.com/policies/eu-privacy-policy-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309509\">https://news.ycombinator.com/item?id=49309509</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-      "title": "OpenAI rolling out ads for Europe later this month",
-      "url": "https://openai.com/policies/eu-privacy-policy-preview/"
+      "summary": "<p>Article URL: <a href=\"https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3\">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310177\">https://news.ycombinator.com/item?id=49310177</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -87323,6 +87379,14 @@
     "title": "The Reformer - Pushing the limits of language modeling",
     "title_norm": "the reformer pushing the limits of language modeling"
   },
+  "bc8d67fcd7f67416967892c26b4e4f3e51ff3b7e00e6e95388112b6a289d074f": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358339+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI assistance is not authorship",
+    "title_norm": "ai assistance is not authorship"
+  },
   "bc8ea81a43b6d7c8362189b46140fc567869b9702ac66c8033cce34d87bd4418": {
     "category": "integration",
     "posted": false,
@@ -89990,6 +90054,14 @@
     "source": "arXiv cs.AI",
     "title": "Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG",
     "title_norm": "before reasoning can fail preevidence procedural failures in agentic rag"
+  },
+  "c2027debbc2ff658e47edf94726a2b25b08da44e2d2ad290a2ddca750bad6cb4": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358351+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Reason AI Models Work [Prof. Andrew Wilson] [video]",
+    "title_norm": "the reason ai models work prof andrew wilson video"
   },
   "c204de5c34fecdc704788cc499d6705cabfeae6db25d20f394c70bb25da75e72": {
     "category": "research",
@@ -92797,6 +92869,14 @@
     "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
     "title_norm": "rooting firmware analysis and persistent credentials of tplink tl841n"
   },
+  "c81353905109f68e8c7c36458d0f0fd18d1b4f6bab53ab6b8a2e743c6f7248ee": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358255+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+    "title_norm": "genrec towards llmnative recommendation at netflix"
+  },
   "c816435a97948cc5f3ec83990fdbabfc4af1b4fe039e41c57a46cafc7b1b9c99": {
     "category": "community_signal",
     "posted": false,
@@ -95359,6 +95439,14 @@
     "title": "Improving Fable 5's biology safeguards",
     "title_norm": "improving fable 5s biology safeguards"
   },
+  "cddb43648f329c8381f8b844ab4bb323973b9b1e94960769bb4e07e6ad8f6b87": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358399+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Aged like fine wine",
+    "title_norm": "aged like fine wine"
+  },
   "cde859f5c947a2b8f6e7312be2c483355fddf5f3dede1e28e18f31d24549eb32": {
     "category": "policy",
     "posted": false,
@@ -95888,6 +95976,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Qwen3.8-Max",
     "title_norm": "qwen38max"
+  },
+  "cf7d015bd9299fb565ae8c63d35e8d82c7538fb2515e6a8e0174371ed01748bd": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358308+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "S.A.T.U.R.D.A.Y: serf-hosted speech to text AI assistant",
+    "title_norm": "saturday serfhosted speech to text ai assistant"
   },
   "cf7e8bb80aecb393732240d9cf6cca2498bb21173b957bcdee7082ead9e20cdf": {
     "category": "policy",
@@ -96928,6 +97024,14 @@
     "source": "arXiv cs.AI",
     "title": "PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning",
     "title_norm": "pamd structured adaptive distances for bisimulation representations in visual reinforcement learning"
+  },
+  "d1a711397812e4bce3bcf855d4a395a72b85a89f7b1eefcc06e0a9ade7be1b46": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358158+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Brazilian election filter in X For You timeline",
+    "title_norm": "brazilian election filter in x for you timeline"
   },
   "d1a9d3313540b85649aede59ca754af51a74f071e584d5f96c45d55d75dc97ea": {
     "category": "research",
@@ -103964,6 +104068,14 @@
     "source": "arXiv cs.AI",
     "title": "Internalizing Academic Writing Workflows for Introduction Generation via Struct-Aware Policy Learning",
     "title_norm": "internalizing academic writing workflows for introduction generation via structaware policy learning"
+  },
+  "e185514442c24a87d44342af321487a726eb71af94f6d85cb862f0a476558a8b": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-15T13:38:36.358273+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Strait of Hormuz Live Traffic Tracking",
+    "title_norm": "strait of hormuz live traffic tracking"
   },
   "e1870a6751999fd096758a8e336b6986ce64e2aeffc01e4f0ccf3c759d934e57": {
     "category": "model_release",
