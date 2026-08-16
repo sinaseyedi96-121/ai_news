@@ -33455,6 +33455,14 @@
     "title": "Codex is becoming a productivity tool for everyone",
     "title_norm": "codex is becoming a productivity tool for everyone"
   },
+  "47451c29630b8b7e978298146bfefe55dab665e8be7ad28acf2f7519d7aab64f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392672+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "GPS and the Lost Art of Getting Lost",
+    "title_norm": "gps and the lost art of getting lost"
+  },
   "4748993efd3bf170e1c585dcfef34cff462684b874d09333a14d45437f1954a6": {
     "category": "other",
     "posted": false,
@@ -46149,6 +46157,14 @@
     "title": "From a Multilingual Streaming ASR Backbone to Kenyan-Language Systems: Data-Centric Adaptation of Nemotron 3.5 for Kikuyu, Dholuo, and Kalenjin",
     "title_norm": "from a multilingual streaming asr backbone to kenyanlanguage systems datacentric adaptation of nemotron 35 for kikuyu dholuo and kalenjin"
   },
+  "61b02e7dbaadb8e97871d1ba462dfe2b7472e259742feca1294526636e46a6d3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392742+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+    "title_norm": "who tells you whether the molecule your ai just designed is any good"
+  },
   "61b0991879bce7e14b6ffd46f70070d057b111b8b911bcc45ff002cb1bea1c4f": {
     "category": "integration",
     "posted": false,
@@ -47648,6 +47664,14 @@
     "source": "arXiv cs.CL",
     "title": "MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation",
     "title_norm": "moegen mixtureofexperts for instanceadaptive lora generation"
+  },
+  "6501164733dc0c271cbfccbaedc3697896eae387ef8ff7d2bdc754c18235d88b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392567+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The weekend is 100 years old",
+    "title_norm": "the weekend is 100 years old"
   },
   "65051c693e40601eb4bab7f1f616dcb0dadd86c1d2ff7ae828fe419a867424da": {
     "category": "research",
@@ -53293,6 +53317,14 @@
     "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
     "title_norm": "measuring taskagnostic training data influence across language model pretraining"
   },
+  "709b55f2176308c8c2a888ea1c8ac8e4cfabb4244558531a706083c7d8c7bd14": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392686+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+    "title_norm": "ask hn what tools are you using for human code review of aiassisted code"
+  },
   "709b79996c2bd7125e62447d8dcca2aba4f83bd0960696d0b245a87ad9042b7d": {
     "category": "model_release",
     "posted": false,
@@ -57196,6 +57228,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI Can't Do the Last 20%",
     "title_norm": "ai cant do the last 20"
+  },
+  "79282f6bdcc15522f3ad57b21a9be14ffc3619a9f22d660e8724c2b0146754ad": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392756+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Let\u2019s all thank Georgi Gerganov who gave use llama.cpp",
+    "title_norm": "lets all thank georgi gerganov who gave use llamacpp"
   },
   "792a066e22a14011d4fc1ef44e840c3fb3ae10d1f90ae92b2208148cfb0b61fb": {
     "category": "integration",
@@ -74931,6 +74971,22 @@
       "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/measuring-autonomous-research\">https://www.primeintellect.ai/blog/measuring-autonomous-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319348\">https://news.ycombinator.com/item?id=49319348</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "title": "Measuring Autonomous AI Research",
       "url": "https://www.primeintellect.ai/blog/measuring-autonomous-research"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde9 Rungraph is a new open-source tool that maps every step of your AI coding-agent runs into a visual graph, making it easy to trace how tasks were executed. The project just landed on GitHub, built for developers who want transparency into how agents like Claude Code or Copilot work through a codebase. Instead of scrolling through raw logs, you get a structured view of the whole run\u2014from initial prompt to final output.\n\n\ud83d\udcc8 That clarity helps spot bottlenecks, repeated steps, and weird agent detours at a glance. \ud83d\udd27 It's early and community-driven, but for anyone debugging agent workflows, it's a handy addition to the toolkit.",
+      "post_body_fa": "\ud83e\udde9 \u0631\u0627\u0646\u06af\u0631\u0627\u0641 \u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u062f\u06cc\u062f \u0627\u0633\u062a \u06a9\u0647 \u0647\u0631 \u0645\u0631\u062d\u0644\u0647 \u0627\u0632 \u0627\u062c\u0631\u0627\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u06a9\u062f\u0646\u0648\u06cc\u0633 AI \u0631\u0627 \u0628\u0647 \u0634\u06a9\u0644 \u06af\u0631\u0627\u0641 \u0628\u0635\u0631\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0631\u062f\u06cc\u0627\u0628\u06cc \u0686\u06af\u0648\u0646\u06af\u06cc \u0627\u0646\u062c\u0627\u0645 \u06a9\u0627\u0631\u0647\u0627 \u0631\u0627 \u0622\u0633\u0627\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0628\u0647\u200c\u062a\u0627\u0632\u06af\u06cc \u0631\u0648\u06cc \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0648 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u0633\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f \u0634\u0641\u0627\u0641\u06cc\u062a \u0639\u0645\u0644\u06a9\u0631\u062f \u0639\u0648\u0627\u0645\u0644\u06cc \u0645\u0627\u0646\u0646\u062f Claude Code \u06cc\u0627 Copilot \u0631\u0627 \u062f\u0631 \u06a9\u0627\u0631 \u0631\u0648\u06cc \u06a9\u062f\u0628\u06cc\u0633 \u0628\u0628\u06cc\u0646\u0646\u062f. \u0628\u0647\u200c\u062c\u0627\u06cc \u0648\u0631\u0642 \u0632\u062f\u0646 \u0644\u0627\u06af\u200c\u0647\u0627\u06cc \u062e\u0627\u0645\u060c \u0646\u0645\u0627\u06cc\u06cc \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u0627\u0632 \u06a9\u0644 \u0627\u062c\u0631\u0627 \u2014 \u0627\u0632 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0627\u0648\u0644\u06cc\u0647 \u062a\u0627 \u062e\u0631\u0648\u062c\u06cc \u0646\u0647\u0627\u06cc\u06cc \u2014 \u062f\u0631\u06cc\u0627\u0641\u062a \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f.\n\n\ud83d\udcc8 \u0627\u06cc\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u0647 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06af\u0644\u0648\u06af\u0627\u0647\u200c\u0647\u0627\u060c \u0645\u0631\u0627\u062d\u0644 \u062a\u06a9\u0631\u0627\u0631\u06cc \u0648 \u0627\u0646\u062d\u0631\u0627\u0641\u0627\u062a \u0639\u062c\u06cc\u0628 \u0639\u0627\u0645\u0644 \u062f\u0631 \u06cc\u06a9 \u0646\u06af\u0627\u0647 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd27 \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0647\u0646\u0648\u0632 \u062f\u0631 \u0645\u0631\u0627\u062d\u0644 \u0627\u0648\u0644\u06cc\u0647 \u0648 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062c\u0627\u0645\u0639\u0647 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631 \u0639\u0627\u0645\u0644\u200c\u0647\u0627 \u0631\u0627 \u0627\u0634\u06a9\u0627\u0644\u200c\u0632\u062f\u0627\u06cc\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0628\u0632\u0627\u0631 \u0645\u0641\u06cc\u062f\u06cc \u0628\u0647 \u062c\u0639\u0628\u0647\u200c\u0627\u0628\u0632\u0627\u0631 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Rungraph turns AI coding-agent runs into interactive graphs",
+      "post_title_fa": "\ud83d\ude80 Rungraph \u0627\u062c\u0631\u0627\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u06a9\u062f\u0646\u0648\u06cc\u0633 AI \u0631\u0627 \u0628\u0647 \u06af\u0631\u0627\u0641 \u062a\u0639\u0627\u0645\u0644\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f",
+      "priority": "low",
+      "published": "2026-08-16T16:18:51+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://github.com/fayzan123/rungraph\">https://github.com/fayzan123/rungraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321388\">https://news.ycombinator.com/item?id=49321388</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Show HN: Rungraph \u2013 See your AI coding-agent runs as a graph",
+      "url": "https://github.com/fayzan123/rungraph"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -108319,6 +108375,14 @@
     "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
     "title_norm": "mapping politicalelite networks in europe with a multilingual joint entityrelation extraction pipeline"
   },
+  "e75938f418126ea9e0d43d28046fa138aed8b928ee67fa837a44e0561d13ca24": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392722+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Rungraph \u2013 See your AI coding-agent runs as a graph",
+    "title_norm": "show hn rungraph see your ai codingagent runs as a graph"
+  },
   "e75f2b2261dba0680631a62878cae457c85a57b53c0b65111f2654f05d414da6": {
     "category": "research",
     "posted": false,
@@ -109238,6 +109302,14 @@
     "source": "Hacker News Frontpage",
     "title": "TinySol, a tiny solitaire game for DOS",
     "title_norm": "tinysol a tiny solitaire game for dos"
+  },
+  "e9dd21da4958bf7185c0ab46825b78b5b68e8cf257f861350c9e9a3177e70027": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T16:37:46.392649+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+    "title_norm": "st lucie nuclear reactor unit 1 manually shutdown 3 control rods drop into core"
   },
   "e9de10efc604fe9845f732a750160a4a9fd75136ed44d68c52837edb156ca2cb": {
     "category": "other",
