@@ -18665,6 +18665,14 @@
     "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
     "title_norm": "monte carlo tree search for tabletomultimodal report generation"
   },
+  "2737aa3d97acfb3aa472a630b0f5664eb8ebb0995faa218d6595ca4da4dc7cea": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T14:02:06.541771+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "US oil reserves are so low, the caverns holding them could be damaged",
+    "title_norm": "us oil reserves are so low the caverns holding them could be damaged"
+  },
   "273e7ecb6686b37881b8c465189c5faaee98f946429459824e18b1b4b575399b": {
     "category": "research",
     "posted": false,
@@ -55801,6 +55809,14 @@
     "title": "Adaptive Online Learning with LSTM Networks for Energy Price Prediction",
     "title_norm": "adaptive online learning with lstm networks for energy price prediction"
   },
+  "7627bfb9ef5f3fbbd293f5a88a1c572d5c8668d141b3ed2a790c06afc2bc4a2b": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-16T14:02:06.541812+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Newer commits removed the Qwen 35B",
+    "title_norm": "newer commits removed the qwen 35b"
+  },
   "7629b77133c2a4f9a56cc5ed6fb48cd639daf56e45b1212e387d4360461754c0": {
     "category": "other",
     "posted": false,
@@ -61584,6 +61600,14 @@
     "source": "Hacker News AI keyword",
     "title": "Ask HN: How to Stay Marketable in the AI Era?",
     "title_norm": "ask hn how to stay marketable in the ai era"
+  },
+  "82ee6efc4ff4fd44f09169de34a12494da026f2d6ecc82d6230e82398f3dea9d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T14:02:06.541694+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+    "title_norm": "tasklet yc p26 is hiring a head of design engineering"
   },
   "82f47c6ac7ac21489b743e23f6ac75a887778440f62b2738c9240c2498ccd8fe": {
     "category": "research",
@@ -74663,34 +74687,19 @@
   },
   "_meta": {
     "date": "2026-08-16",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
       "infrastructure": 1,
       "model_release": 1,
       "other": 1,
+      "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-16-14"
+    "last_slot": "2026-08-16-16"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\u2696\ufe0f The United States has warned allied nations to side with it in the AI race against China, or face the consequences. The blunt message, reported by Neowin, escalates Washington's efforts to isolate Beijing on frontier technology.\n\n\ud83d\udcb5 Allies are being pressed to align on chip controls, standards, and investment rules. The warning could force governments to choose between US demands and economic ties with China. It's a major geopolitical shift for global AI policy.",
-      "post_body_fa": "\u2696\ufe0f \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0628\u0647 \u0645\u062a\u062d\u062f\u0627\u0646\u0634 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0686\u06cc\u0646\u060c \u0637\u0631\u0641 \u0622\u0646 \u0631\u0627 \u0628\u06af\u06cc\u0631\u0646\u062f \u06cc\u0627 \u0628\u0627 \u0639\u0648\u0627\u0642\u0628 \u0622\u0646 \u0631\u0648\u0628\u0631\u0648 \u0634\u0648\u0646\u062f. \u0627\u06cc\u0646 \u067e\u06cc\u0627\u0645 \u0635\u0631\u06cc\u062d \u06a9\u0647 \u062a\u0648\u0633\u0637 Neowin \u06af\u0632\u0627\u0631\u0634 \u0634\u062f\u0647\u060c \u062a\u0644\u0627\u0634 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0628\u0631\u0627\u06cc \u0645\u0646\u0632\u0648\u06cc \u06a9\u0631\u062f\u0646 \u067e\u06a9\u0646 \u062f\u0631 \u0641\u0646\u0627\u0648\u0631\u06cc\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0648 \u0631\u0627 \u062a\u0634\u062f\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83d\udcb5 \u0627\u0632 \u0645\u062a\u062d\u062f\u0627\u0646 \u062e\u0648\u0627\u0633\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u062f\u0631 \u0632\u0645\u06cc\u0646\u0647 \u06a9\u0646\u062a\u0631\u0644 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u060c \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f\u0647\u0627 \u0648 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0647\u0645\u0627\u0647\u0646\u06af \u0634\u0648\u0646\u062f. \u0627\u06cc\u0646 \u0647\u0634\u062f\u0627\u0631 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062f\u0648\u0644\u062a\u200c\u0647\u0627 \u0631\u0627 \u0645\u062c\u0628\u0648\u0631 \u06a9\u0646\u062f \u0628\u06cc\u0646 \u062e\u0648\u0627\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0631\u0648\u0627\u0628\u0637 \u0627\u0642\u062a\u0635\u0627\u062f\u06cc \u0628\u0627 \u0686\u06cc\u0646 \u06cc\u06a9\u06cc \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u06cc\u06a9 \u062a\u063a\u06cc\u06cc\u0631 \u0698\u0626\u0648\u067e\u0644\u06cc\u062a\u06cc\u06a9\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0633\u06cc\u0627\u0633\u062a \u062c\u0647\u0627\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udf0d US Warns Allies to Pick a Side in AI Race",
-      "post_title_fa": "\ud83c\udf0d \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0645\u062a\u062d\u062f\u0627\u0646 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06cc\u06a9 \u0637\u0631\u0641 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-16T11:49:53+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/\">https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319156\">https://news.ycombinator.com/item?id=49319156</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "US warns allied nations: Side with us in the AI race",
-      "url": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/"
-    },
     {
       "category": "research",
       "duplicate_of": null,
@@ -74788,6 +74797,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcc9 Recent commits to the Qwen repository removed the 35B model, signaling the anticipated release is likely scrapped. The r/LocalLLaMA community \ud83d\udd0d noticed the change and is urging Qwen to reconsider, given the model's popularity among local LLM enthusiasts.\n\nIf confirmed, this would be a letdown \ud83d\udc94 for developers who hoped for a smaller, efficient MoE alternative. The removal hints that Qwen is consolidating efforts around other sizes, but no official statement has been made yet.",
+      "post_body_fa": "\ud83d\udcc9 \u06a9\u0627\u0645\u06cc\u062a\u200c\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631 \u0645\u062e\u0632\u0646 Qwen \u0645\u062f\u0644 35B \u0631\u0627 \u062d\u0630\u0641 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u06a9\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0639\u0631\u0636\u0647 \u0645\u0648\u0631\u062f \u0627\u0646\u062a\u0638\u0627\u0631 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0644\u063a\u0648 \u0634\u062f\u0647 \u0627\u0633\u062a. \u062c\u0627\u0645\u0639\u0647 r/LocalLLaMA \ud83d\udd0d \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0627 \u0645\u0634\u0627\u0647\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0648 \u0627\u0632 Qwen \u062e\u0648\u0627\u0633\u062a\u0647 \u0627\u0633\u062a \u062a\u062c\u062f\u06cc\u062f \u0646\u0638\u0631 \u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0627\u06cc\u0646 \u0645\u062f\u0644 \u062f\u0631 \u0628\u06cc\u0646 \u0639\u0644\u0627\u0642\u0647\u200c\u0645\u0646\u062f\u0627\u0646 \u0628\u0647 LLM \u0645\u062d\u0644\u06cc \u0628\u0633\u06cc\u0627\u0631 \u0645\u062d\u0628\u0648\u0628 \u0627\u0633\u062a.\n\n\u0627\u06af\u0631 \u062a\u0623\u06cc\u06cc\u062f \u0634\u0648\u062f\u060c \u0627\u06cc\u0646 \u0646\u0627\u0627\u0645\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \ud83d\udc94 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u06a9\u0647 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u06cc\u06a9 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u06a9\u0648\u0686\u06a9\u200c\u062a\u0631 \u0648 \u06a9\u0627\u0631\u0622\u0645\u062f\u062a\u0631 MoE \u0628\u0648\u062f\u0646\u062f. \u062d\u0630\u0641 \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 Qwen \u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0631\u0648\u06cc \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0645\u062a\u0645\u0631\u06a9\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0647\u0646\u0648\u0632 \u0627\u0638\u0647\u0627\u0631\u0646\u0638\u0631 \u0631\u0633\u0645\u06cc \u0645\u0646\u062a\u0634\u0631 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udeab Qwen 35B pulled from newer commits, likely canceled",
+      "post_title_fa": "\ud83d\udeab Qwen 35B \u0627\u0632 \u06a9\u0627\u0645\u06cc\u062a\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u062d\u0630\u0641 \u0634\u062f\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0639\u0631\u0636\u0647 \u0644\u063a\u0648 \u0645\u06cc\u200c\u0634\u0648\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T13:39:26+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\"> <img alt=\"Newer commits removed the Qwen 35B\" src=\"https://external-preview.redd.it/tUAD-zXcA8X5TflnoexZVk3qKe8Q4XJpwE7choNBsYQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2abc6f6b3139d23819bf346822056f319f369cfc\" title=\"Newer commits removed the Qwen 35B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In this commits, the 35B model was removed. Looks like it's confirming the 35B model won't get released.</p> <p>I think they need to be made aware how big the 35 moe is widely used. Think need to make noise on theyre X, huggingface and online places. If they dont know there's no need to release for people group who dont speak up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Local-Cardiologist-5\"> /u/Local-Cardiologist-5 </a> <br /> <span><a href=\"https://github.com/modelscope/ms-swift/commit/a45f1d4f73157ba59062a7fd1f55a40dae759156\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\">[comments]</a></span> </td></tr></table>",
+      "title": "Newer commits removed the Qwen 35B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/"
+    },
+    {
       "category": "research",
       "duplicate_of": null,
       "post_body": "\ud83e\uddea Prime Intellect has released a new approach for measuring how well AI systems can conduct research autonomously. The benchmark aims to quantify progress toward AI scientists that can design and run experiments.\n\n\ud83e\udd16 It's part of a growing effort to track agentic AI capabilities beyond simple chat. For researchers, it offers a concrete way to compare systems like DeepSeek Harness. The method could become a standard evaluation tool as autonomous research agents gain traction.",
@@ -74850,22 +74875,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman\">https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318857\">https://news.ycombinator.com/item?id=49318857</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
       "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcb0 A rural community in the U.S. turned down a $26 million offer from an AI data center developer, according to a Wall Street Journal report. Local residents cited concerns about noise, water usage, and the industrial transformation of their farmland \ud83c\udfde\ufe0f.\n\nThe project would have brought jobs and tax revenue, but voters and county officials ultimately rejected the proposal \ud83d\udcc9. This reflects a growing backlash against AI infrastructure in rural areas across America \ud83c\udf0d. As data center demand skyrockets, companies may face more community resistance and need to reconsider how they site these facilities.",
-      "post_body_fa": "\ud83d\udcb0 \u06cc\u06a9 \u062c\u0627\u0645\u0639\u0647 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644\u060c \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u06f2\u06f6 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u06cc\u06a9 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0631\u062f \u06a9\u0631\u062f. \u0633\u0627\u06a9\u0646\u0627\u0646 \u0645\u062d\u0644\u06cc \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0633\u0631 \u0648 \u0635\u062f\u0627\u060c \u0645\u0635\u0631\u0641 \u0622\u0628 \u0648 \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u06a9\u0634\u0627\u0648\u0631\u0632\u06cc \u062e\u0648\u062f \u0627\u0628\u0631\u0627\u0632 \u06a9\u0631\u062f\u0646\u062f \ud83c\udfde\ufe0f.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0633\u062a \u0634\u063a\u0644 \u0648 \u062f\u0631\u0622\u0645\u062f \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u062f\u060c \u0627\u0645\u0627 \u0631\u0627\u06cc\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0645\u0642\u0627\u0645\u0627\u062a \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc \u062f\u0631 \u0646\u0647\u0627\u06cc\u062a \u0627\u06cc\u0646 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0631\u0627 \u0631\u062f \u06a9\u0631\u062f\u0646\u062f \ud83d\udcc9. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0648\u0627\u06a9\u0646\u0634 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u0633\u062a \ud83c\udf0d. \u0628\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0634\u062f\u06cc\u062f \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647\u060c \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0627 \u0645\u0642\u0627\u0648\u0645\u062a \u0628\u06cc\u0634\u062a\u0631\u06cc \u0627\u0632 \u0633\u0648\u06cc \u062c\u0648\u0627\u0645\u0639 \u0645\u062d\u0644\u06cc \u0645\u0648\u0627\u062c\u0647 \u0634\u062f\u0647 \u0648 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0628\u0627\u0632\u0646\u06af\u0631\u06cc \u062f\u0631 \u0646\u062d\u0648\u0647 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u06a9\u0627\u0646 \u0627\u06cc\u0646 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f.",
-      "post_title": "\ud83c\udfd7\ufe0f Rural Town Rejects $26M AI Data Center Offer",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0631\u062f \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u06f2\u06f6 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u062a\u0648\u0633\u0637 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc\u0627\u0646",
-      "priority": "medium",
-      "published": "2026-08-16T10:49:36+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16\">https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318835\">https://news.ycombinator.com/item?id=49318835</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
-      "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -78568,7 +78577,13 @@
   },
   "a7cc6f0027f035f5d0f08055c4d5cc5b7c862bb313701122a1532fcee6b5d5eb": {
     "category": "policy",
-    "posted": false,
+    "message_id": 210,
+    "message_id_fa": 184,
+    "post_title": "\ud83c\udf0d US Warns Allies to Pick a Side in AI Race",
+    "post_title_fa": "\ud83c\udf0d \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0645\u062a\u062d\u062f\u0627\u0646 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06cc\u06a9 \u0637\u0631\u0641 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-16T14:02:07.448362+00:00",
+    "priority": "high",
     "seen_at": "2026-08-16T12:58:52.417773+00:00",
     "source": "Hacker News AI keyword",
     "title": "US warns allied nations: Side with us in the AI race",
@@ -79337,6 +79352,14 @@
     "source": "arXiv cs.AI",
     "title": "scMIR: a vision-language foundation model for single-cell light microscopy image representation",
     "title_norm": "scmir a visionlanguage foundation model for singlecell light microscopy image representation"
+  },
+  "a981ef190fd2b07044a6ab7e5ab7bee5aac5dbf2df9b0ff4ba26c0384fca300e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T14:02:06.541795+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "CEO of Anthropic on the messaging around AI",
+    "title_norm": "ceo of anthropic on the messaging around ai"
   },
   "a98891f3ea18a4426b560ce811e35691a7260351749be18fa04abd28ef415105": {
     "category": "other",
