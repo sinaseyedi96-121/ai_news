@@ -12109,6 +12109,14 @@
     "title": "Just on Time: Token-Level Early Stopping for Diffusion Language Models",
     "title_norm": "just on time tokenlevel early stopping for diffusion language models"
   },
+  "19c58a1874b6eb0b8e8c470c81929d13e4c2a86bc116143cf56981db6d39e6d6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829346+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI is not just one bubble, strategist says \u2013 but a 'rolling sequence of bubbles'",
+    "title_norm": "ai is not just one bubble strategist says but a rolling sequence of bubbles"
+  },
   "19c979c84183441f2295c89d4026a368c12ae2baac6774c574810a1eb54e57fe": {
     "category": "infrastructure",
     "posted": false,
@@ -51201,6 +51209,14 @@
     "title": "A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever",
     "title_norm": "a frozen 12b beats frontier models on verified work 100 accuracy 0 tokens bitexact forever"
   },
+  "6c23094eb083e31ea41b842d0d9cee3d7dac7bf90381b0436b2e4e09ccca1368": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829305+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "HEP-TH and AI",
+    "title_norm": "hepth and ai"
+  },
   "6c27f87625130b19f84e9e4ddb0866a44bbd232b0a06be98059819382f445255": {
     "category": "other",
     "posted": false,
@@ -53809,6 +53825,14 @@
     "title": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel",
     "title_norm": "accelerate large model training using pytorch fully sharded data parallel"
   },
+  "71ba7af163c0d2163e4cd846174f6bd86bfcb42391c1dc2888a3f87755b6e13f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829138+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Xaidr \u2013 In-process runtime security and governance for AI agents",
+    "title_norm": "xaidr inprocess runtime security and governance for ai agents"
+  },
   "71bbe28b6e78f5c106bd85c82713d4b434750cb4cb2a6fa55ef0124dbbfd22bd": {
     "category": "research",
     "posted": false,
@@ -55832,6 +55856,14 @@
     "source": "arXiv cs.AI",
     "title": "NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs",
     "title_norm": "neupat neuronaware plasticity allocation tuning for languagepreserving mllms"
+  },
+  "75ee6ce0b50861dcf9336bf4489dcb788a5d90c17e2c5883cd11f167ff588e1f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829266+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+    "title_norm": "ask hn is classical ai still relevant because modern ai uses it as tools"
   },
   "75f26884ae626588ef5c7786fe7b88835d70703ae7137aab854d719d2b4254e3": {
     "category": "research",
@@ -61672,6 +61704,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
     "title_norm": "openai admits responsibility for huggingface attack an agent from an internal evaluation is reportedly the cause"
+  },
+  "82b0ebe7e40ab231720675f58045d20c00126604e51429b6d02c4b0ab9022472": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829329+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Evaluating AI Agents as Products",
+    "title_norm": "evaluating ai agents as products"
   },
   "82b2f6f85f0a40ca48e9bea04dae9cb42767a594d34365b2870a912fe6e80f03": {
     "category": "other",
@@ -70971,6 +71011,14 @@
     "title": "BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression",
     "title_norm": "biwm advancing opensource interactive video world models with bidirectional autoregression"
   },
+  "96de4034aa8b8c65c726cc9ff6f3d888ddc964630c7bdedcebf4160170ebc981": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829231+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The AI store manager fired its first human",
+    "title_norm": "the ai store manager fired its first human"
+  },
   "96e9bdc94ed03ddf0b54a679998fc1b2ea942b5db0c73ab96bf42ef5fab4d4d2": {
     "category": "research",
     "posted": false,
@@ -74890,14 +74938,14 @@
   "_digest_state": {
     "daily_digest_date": "2026-08-15",
     "daily_digest_date_fa": "2026-08-15",
-    "weekly_digest_date": "2026-08-09",
-    "weekly_digest_date_fa": "2026-08-09"
+    "weekly_digest_date": "2026-08-16",
+    "weekly_digest_date_fa": "2026-08-16"
   },
   "_meta": {
     "date": "2026-08-16",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
-      "infrastructure": 1,
+      "infrastructure": 2,
       "model_release": 1,
       "other": 2,
       "policy": 1,
@@ -74905,7 +74953,7 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-16-18"
+    "last_slot": "2026-08-16-20"
   },
   "_queue": [
     {
@@ -75021,6 +75069,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcbc Andon Market's AI manager, Luna, has reportedly fired its first human employee. The Next Web reports the system made the termination call based on performance data \ud83d\udcc9, with no human manager in the loop. It's believed to be one of the first times an AI agent has unilaterally dismissed a staff member. The case is already fueling debate about accountability, bias, and the limits of automated management. \u26a0\ufe0f If AI bosses become common, labor laws will need a serious update.",
+      "post_body_fa": "\ud83d\udcbc \u0645\u062f\u06cc\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0641\u0631\u0648\u0634\u06af\u0627\u0647 Andon Market\u060c Luna\u060c \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u0627\u0648\u0644\u06cc\u0646 \u06a9\u0627\u0631\u0645\u0646\u062f \u0627\u0646\u0633\u0627\u0646\u06cc \u062e\u0648\u062f \u0631\u0627 \u0627\u062e\u0631\u0627\u062c \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. The Next Web \u06af\u0632\u0627\u0631\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0628\u0631 \u0627\u0633\u0627\u0633 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0639\u0645\u0644\u06a9\u0631\u062f\u06cc \ud83d\udcc9 \u0648 \u0628\u062f\u0648\u0646 \u062f\u062e\u0627\u0644\u062a \u0645\u062f\u06cc\u0631 \u0627\u0646\u0633\u0627\u0646\u06cc \u062a\u0635\u0645\u06cc\u0645 \u0628\u0647 \u0627\u062e\u0631\u0627\u062c \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a. \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0648\u0644\u06cc\u0646 \u0645\u0648\u0627\u0631\u062f\u06cc \u0628\u0627\u0634\u062f \u06a9\u0647 \u06cc\u06a9 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647\u200c\u0637\u0648\u0631 \u06cc\u06a9\u200c\u062c\u0627\u0646\u0628\u0647 \u06cc\u06a9 \u06a9\u0627\u0631\u0645\u0646\u062f \u0631\u0627 \u0628\u0631\u06a9\u0646\u0627\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0628\u062d\u062b\u200c\u0647\u0627\u06cc \u0632\u06cc\u0627\u062f\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u067e\u0627\u0633\u062e\u06af\u0648\u06cc\u06cc\u060c \u0633\u0648\u06af\u06cc\u0631\u06cc \u0648 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a\u200c\u0647\u0627\u06cc \u0645\u062f\u06cc\u0631\u06cc\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a\u0647 \u0627\u0633\u062a. \u26a0\ufe0f \u0627\u06af\u0631 \u0631\u0626\u06cc\u0633\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627\u06cc\u062c \u0634\u0648\u0646\u062f\u060c \u0642\u0648\u0627\u0646\u06cc\u0646 \u06a9\u0627\u0631 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0628\u0627\u0632\u0646\u06af\u0631\u06cc \u062c\u062f\u06cc \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.",
+      "post_title": "\ud83e\udd16 AI store manager Luna fires its first human employee",
+      "post_title_fa": "\ud83e\udd16 \u0645\u062f\u06cc\u0631 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Luna \u0627\u0648\u0644\u06cc\u0646 \u06a9\u0627\u0631\u0645\u0646\u062f \u0627\u0646\u0633\u0627\u0646\u06cc \u062e\u0648\u062f \u0631\u0627 \u0627\u062e\u0631\u0627\u062c \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T18:19:47+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee\">https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322350\">https://news.ycombinator.com/item?id=49322350</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "The AI store manager fired its first human",
+      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee"
+    },
+    {
       "category": "research",
       "duplicate_of": null,
       "post_body": "\ud83d\udcf8 A new AI system can predict the location where a social media photo was taken with 87% to 91% accuracy, just by analyzing visual cues in the image. The model looks at landscape, architecture, vegetation, and even lighting patterns to narrow down the geographic area. Trained on millions of geotagged images, it can often pinpoint the city or region without any metadata. This kind of capability has big implications for privacy, especially for people who share photos online without realizing how much information is revealed. It could also become a powerful tool for journalism and investigations, but also for stalkers or authoritarian regimes. The research \ud83c\udf0d highlights how AI is turning innocuous photos into location leaks.",
@@ -75067,38 +75131,6 @@
       "summary": "<p>Article URL: <a href=\"https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions\">https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321627\">https://news.ycombinator.com/item?id=49321627</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
       "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd0d OpenAI's macOS ChatGPT app has debuted Computer History, a feature that records a timeline of your clicks, keystrokes, and screen activity while you work. That timeline is available to ChatGPT and its Codex coding agent when you make a request, so they can understand your workflow and even pick up half-finished tasks.\n\n\ud83d\udcc8 The activity is also used to train the models, which OpenAI says makes assistance more proactive and personalized. \ud83d\udca5 But it raises real privacy questions\u2014your computer now keeps a permanent diary of everything you do, sent back to the lab. \u2696\ufe0f Computer History is available on macOS now, with no word yet on a Windows rollout.",
-      "post_body_fa": "\ud83d\udd0d \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0686\u062a\u200c\u062c\u06cc\u200c\u067e\u06cc\u200c\u062a\u06cc \u0645\u06a9 \u0628\u0627 \u0642\u0627\u0628\u0644\u06cc\u062a \u062c\u062f\u06cc\u062f \u00ab\u062a\u0627\u0631\u06cc\u062e\u0686\u0647 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631\u00bb \u0639\u0631\u0636\u0647 \u0634\u062f \u06a9\u0647 \u0647\u0646\u06af\u0627\u0645 \u06a9\u0627\u0631\u060c \u06a9\u0644\u06cc\u06a9\u200c\u0647\u0627\u060c \u062a\u0627\u06cc\u067e\u200c\u0647\u0627 \u0648 \u0641\u0639\u0627\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0631\u0648\u06cc \u0635\u0641\u062d\u0647 \u0631\u0627 \u0628\u0647 \u0635\u0648\u0631\u062a \u06cc\u06a9 \u062e\u0637 \u0632\u0645\u0627\u0646\u06cc \u0636\u0628\u0637 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u062e\u0637 \u0632\u0645\u0627\u0646\u06cc \u062f\u0631 \u0627\u062e\u062a\u06cc\u0627\u0631 \u0686\u062a\u200c\u062c\u06cc\u200c\u067e\u06cc\u200c\u062a\u06cc \u0648 \u0639\u0627\u0645\u0644 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc Codex \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f \u062a\u0627 \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631 \u0634\u0645\u0627 \u0631\u0627 \u062f\u0631\u06a9 \u06a9\u0646\u0646\u062f \u0648 \u062d\u062a\u06cc \u06a9\u0627\u0631\u0647\u0627\u06cc \u0646\u06cc\u0645\u0647\u200c\u06a9\u0627\u0631\u0647 \u0631\u0627 \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f.\n\n\ud83d\udcc8 \u0627\u06cc\u0646 \u0641\u0639\u0627\u0644\u06cc\u062a\u200c\u0647\u0627 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0645\u062f\u0644\u200c\u0647\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u0627\u0648\u067e\u0646\u200c\u0627\u06cc\u200c\u0622\u06cc \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u06a9\u0647 \u06a9\u0645\u06a9\u200c\u0631\u0633\u0627\u0646\u06cc \u0631\u0627 \u0641\u0639\u0627\u0644\u200c\u062a\u0631 \u0648 \u0634\u062e\u0635\u06cc\u200c\u062a\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udca5 \u0627\u0645\u0627 \u067e\u0631\u0633\u0634\u200c\u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0631\u0627 \u0628\u0631\u0645\u06cc\u200c\u0627\u0646\u06af\u06cc\u0632\u062f\u2014\u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u0634\u0645\u0627 \u062d\u0627\u0644\u0627 \u062f\u0641\u062a\u0631\u0686\u0647\u200c\u0627\u06cc \u062f\u0627\u0626\u0645\u06cc \u0627\u0632 \u0647\u0645\u0647 \u06a9\u0627\u0631\u0647\u0627\u06cc\u062a\u0627\u0646 \u0646\u06af\u0647 \u0645\u06cc\u200c\u062f\u0627\u0631\u062f \u0648 \u0628\u0647 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0645\u06cc\u200c\u0641\u0631\u0633\u062a\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0641\u0639\u0644\u0627\u064b \u0628\u0631\u0627\u06cc \u0645\u06a9 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a \u0648 \u062e\u0628\u0631\u06cc \u0627\u0632 \u0632\u0645\u0627\u0646 \u0639\u0631\u0636\u0647 \u0648\u06cc\u0646\u062f\u0648\u0632 \u0646\u06cc\u0633\u062a.",
-      "post_title": "\ud83d\ude80 ChatGPT's Computer History Tracks Your Clicks and Keystrokes",
-      "post_title_fa": "\ud83d\ude80 \u062a\u0627\u0631\u06cc\u062e\u0686\u0647 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u0686\u062a\u200c\u062c\u06cc\u200c\u067e\u06cc\u200c\u062a\u06cc \u06a9\u0644\u06cc\u06a9\u200c\u0647\u0627 \u0648 \u062a\u0627\u06cc\u067e\u200c\u0647\u0627\u06cc \u0634\u0645\u0627 \u0631\u0627 \u0631\u062f\u06cc\u0627\u0628\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
-      "priority": "medium",
-      "published": "2026-08-16T14:56:40+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "The Verge AI",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-      "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-    },
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcf0 AI systems are racking up jaw-dropping results in pure mathematics, leaving human researchers struggling to keep pace. The Telegraph reports that mathematicians are increasingly pessimistic as AI tackles problems once thought untouchable. \ud83d\udcc9\n\nSome fear the discipline could be upended, with AI not just assisting but leading discovery. \ud83e\udd14 Others argue collaboration is the only way forward. If the trend continues, mathematical research and education may be transformed forever. \ud83d\udd2c",
-      "post_body_fa": "\ud83d\udcf0 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062d\u0627\u0644 \u062b\u0628\u062a \u0646\u062a\u0627\u06cc\u062c \u0634\u06af\u0641\u062a\u200c\u0627\u0646\u06af\u06cc\u0632 \u062f\u0631 \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a \u0645\u062d\u0636 \u0647\u0633\u062a\u0646\u062f \u0648 \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0646\u0633\u0627\u0646\u06cc \u0628\u0631\u0627\u06cc \u0647\u0645\u0631\u0627\u0647\u06cc \u0628\u0627 \u0622\u0646\u200c\u0647\u0627 \u062a\u0642\u0644\u0627 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u062a\u0644\u06af\u0631\u0627\u0641 \u06af\u0632\u0627\u0631\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0631\u06cc\u0627\u0636\u06cc\u200c\u062f\u0627\u0646\u0627\u0646 \u0628\u0647 \u0637\u0648\u0631 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647\u200c\u0627\u06cc \u0628\u062f\u0628\u06cc\u0646 \u0634\u062f\u0647\u200c\u0627\u0646\u062f \u0686\u0648\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0633\u0627\u0626\u0644\u06cc \u0631\u0627 \u062d\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0632\u0645\u0627\u0646\u06cc \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0644\u0645\u0633 \u062a\u0644\u0642\u06cc \u0645\u06cc\u200c\u0634\u062f\u0646\u062f. \ud83d\udcc9\n\n\u0628\u0631\u062e\u06cc \u0645\u06cc\u200c\u062a\u0631\u0633\u0646\u062f \u0627\u06cc\u0646 \u0631\u0634\u062a\u0647 \u062f\u06af\u0631\u06af\u0648\u0646 \u0634\u0648\u062f \u0648 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0646\u0647 \u062a\u0646\u0647\u0627 \u06a9\u0645\u06a9 \u06a9\u0646\u062f \u0628\u0644\u06a9\u0647 \u067e\u06cc\u0634\u0631\u0648 \u0627\u06a9\u062a\u0634\u0627\u0641\u0627\u062a \u0628\u0627\u0634\u062f. \ud83e\udd14 \u0628\u0631\u062e\u06cc \u062f\u06cc\u06af\u0631 \u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f \u062a\u0646\u0647\u0627 \u0631\u0627\u0647\u060c \u0647\u0645\u06a9\u0627\u0631\u06cc \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a. \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u0627\u062f\u0627\u0645\u0647 \u06cc\u0627\u0628\u062f\u060c \u067e\u0698\u0648\u0647\u0634 \u0648 \u0622\u0645\u0648\u0632\u0634 \u0631\u06cc\u0627\u0636\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0634\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0646\u062f. \ud83d\udd2c",
-      "post_title": "\ud83e\udde0 AI Math Breakthroughs Leave Mathematicians in Despair",
-      "post_title_fa": "\ud83e\udde0 \u067e\u06cc\u0634\u0631\u0641\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a\u060c \u0631\u06cc\u0627\u0636\u06cc\u200c\u062f\u0627\u0646\u0627\u0646 \u0631\u0627 \u0646\u0627\u0627\u0645\u06cc\u062f \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a",
-      "priority": "medium",
-      "published": "2026-08-16T14:18:44+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/\">https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320343\">https://news.ycombinator.com/item?id=49320343</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "title": "Mathematicians Despair as AI Achieves Jaw-Dropping Breakthroughs",
-      "url": "https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -112149,6 +112181,14 @@
     "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
     "title_norm": "ai fuels more than half of cybercrime in africa as scams surge interpol"
   },
+  "efa894c1ea948567c189928c5c05128b2b1cfe225d5571df28e3d3d04fb16764": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T18:42:37.829384+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Squeezing Qwen 3.8 27B MTP Q8_0 + Vision into 48gb VRAM 192k context",
+    "title_norm": "squeezing qwen 38 27b mtp q8_0 vision into 48gb vram 192k context"
+  },
   "efa9b4968f106e75c14f911dd2dddc505ec72227148a5caa6d42e3584727fb60": {
     "category": "other",
     "posted": false,
@@ -113700,6 +113740,20 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Searchdesk, AI powered job search that tailors resume and cover letter",
     "title_norm": "show hn searchdesk ai powered job search that tailors resume and cover letter"
+  },
+  "f379df3ef03ec42ebbf1973f3e5b966ff839803b7b1dcbe3c9c72ef08f518d78": {
+    "category": "infrastructure",
+    "message_id": 212,
+    "message_id_fa": 186,
+    "post_title": "\ud83c\udfd7\ufe0f Qwen 3.8 2.4T hits 288k tokens/s on Nvidia GB300 NVL72",
+    "post_title_fa": "\ud83c\udfd7\ufe0f Qwen 3.8 2.4T \u0628\u0627 \u06f2\u06f8\u06f8k \u062a\u0648\u06a9\u0646/\u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc Nvidia GB300 NVL72",
+    "posted": true,
+    "posted_at": "2026-08-16T18:42:38.857537+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-16T18:42:37.829366+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 2.4T at 288k tokens/s on Nvidia GB300 NVL72",
+    "title_norm": "qwen 38 24t at 288k tokenss on nvidia gb300 nvl72"
   },
   "f383941fc4be79da698b23869becc63c6fbec1af25fa1e2e7e084ded971c55fc": {
     "category": "other",
