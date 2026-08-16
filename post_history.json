@@ -4855,6 +4855,14 @@
     "title": "You can't solve computer use by ignoring the interface",
     "title_norm": "you cant solve computer use by ignoring the interface"
   },
+  "0a53672abc695c65ef4877e18eac0d0870e575a6b4a2084234bf849ca50eb306": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-16T12:00:05.247478+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Grafana agent observability for Hermes Agent",
+    "title_norm": "show hn grafana agent observability for hermes agent"
+  },
   "0a5ca4c5b5238e08c45b818d5135ff075ac35b68528c7905c2a7a4bb897743f6": {
     "category": "other",
     "posted": false,
@@ -16821,7 +16829,13 @@
   },
   "23e2f4aa03637218c63efd7de69b042095ddc70b2ddc4aeba6ffaf6d761ee3c1": {
     "category": "research",
-    "posted": false,
+    "message_id": 209,
+    "message_id_fa": 183,
+    "post_title": "\ud83d\udd2c Playable world model runs 720p at 16 FPS on a single 5090",
+    "post_title_fa": "\ud83d\udd2c \u0645\u062f\u0644 \u062c\u0647\u0627\u0646 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06cc \u0628\u0627 \u06f7\u06f2\u06f0p \u0648 \u06f1\u06f6 FPS \u0631\u0648\u06cc \u06cc\u06a9 \u06f5\u06f0\u06f9\u06f0",
+    "posted": true,
+    "posted_at": "2026-08-16T12:00:06.238247+00:00",
+    "priority": "high",
     "seen_at": "2026-08-16T11:37:50.132399+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM",
@@ -38750,6 +38764,14 @@
     "source": "arXiv cs.CL",
     "title": "Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech",
     "title_norm": "aligned in form not in meaning the comprehension containment decoupling of llm safety in lowresource bangla derogatory speech"
+  },
+  "531be50c90931447c9aa1fe08c371428089843422911f34fa042e23806003b7f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T12:00:05.247507+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Remove AI voice from AI writings",
+    "title_norm": "show hn remove ai voice from ai writings"
   },
   "53215f4a8b0b3b7bb0c83789ce3817a327d81552386276db7bfa55801267891b": {
     "category": "integration",
@@ -74465,33 +74487,18 @@
   },
   "_meta": {
     "date": "2026-08-16",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
       "infrastructure": 1,
       "model_release": 1,
-      "other": 1
+      "other": 1,
+      "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-16-12"
+    "last_slot": "2026-08-16-14"
   },
   "_queue": [
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\u26a1 A new Genie-style world model is making waves by running at 720p resolution and 16 FPS on a single RTX 5090, using just 19GB VRAM. The model can generate interactive, playable environments in real time, a big leap for world models \ud83c\udfae.\n\nThe paper, shared on arXiv, demonstrates that high-quality latent world models are possible on consumer hardware \ud83d\udcbb. This could enable AI-generated games and simulations without cloud infrastructure. For developers, it opens up new possibilities for local interactive AI. The combination of visual quality and speed is a genuine breakthrough \ud83d\udd25.",
-      "post_body_fa": "\u26a1 \u06cc\u06a9 \u0645\u062f\u0644 \u062c\u0647\u0627\u0646 \u0628\u0647 \u0633\u0628\u06a9 Genie \u0628\u0627 \u0627\u062c\u0631\u0627\u06cc \u0648\u06cc\u062f\u06cc\u0648 \u0628\u0627 \u0648\u0636\u0648\u062d \u06f7\u06f2\u06f0p \u0648 \u06f1\u06f6 \u0641\u0631\u06cc\u0645 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc \u06cc\u06a9 RTX 5090 \u062a\u0646\u0647\u0627 \u0628\u0627 \u06f1\u06f9 \u06af\u06cc\u06af\u0627\u0628\u0627\u06cc\u062a VRAM\u060c \u0633\u0631 \u0648 \u0635\u062f\u0627 \u0628\u0647 \u067e\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u062d\u06cc\u0637\u200c\u0647\u0627\u06cc \u062a\u0639\u0627\u0645\u0644\u06cc \u0648 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06cc \u0631\u0627 \u062f\u0631 \u0632\u0645\u0627\u0646 \u0648\u0627\u0642\u0639\u06cc \u062a\u0648\u0644\u06cc\u062f \u06a9\u0646\u062f\u061b \u062c\u0647\u0634\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u062c\u0647\u0627\u0646 \ud83c\udfae.\n\n\u0645\u0642\u0627\u0644\u0647 \u06a9\u0647 \u062f\u0631 arXiv \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u062c\u0647\u0627\u0646 \u0646\u0647\u0641\u062a\u0647 \u0628\u0627 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0627\u0644\u0627 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0635\u0631\u0641\u06cc \u0645\u0645\u06a9\u0646 \u0647\u0633\u062a\u0646\u062f \ud83d\udcbb. \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0632\u06cc\u200c\u0647\u0627 \u0648 \u0634\u0628\u06cc\u0647\u200c\u0633\u0627\u0632\u06cc\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0627\u0628\u0631\u06cc \u0645\u0645\u06a9\u0646 \u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0641\u0631\u0635\u062a\u200c\u0647\u0627\u06cc \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0639\u0627\u0645\u0644\u06cc \u0645\u062d\u0644\u06cc \u0628\u0627\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u062a\u0631\u06a9\u06cc\u0628 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0635\u0631\u06cc \u0648 \u0633\u0631\u0639\u062a\u060c \u06cc\u06a9 \u067e\u06cc\u0634\u0631\u0641\u062a \u0648\u0627\u0642\u0639\u06cc \u0627\u0633\u062a \ud83d\udd25.",
-      "post_title": "\ud83d\udd2c Playable world model runs 720p at 16 FPS on a single 5090",
-      "post_title_fa": "\ud83d\udd2c \u0645\u062f\u0644 \u062c\u0647\u0627\u0646 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06cc \u0628\u0627 \u06f7\u06f2\u06f0p \u0648 \u06f1\u06f6 FPS \u0631\u0648\u06cc \u06cc\u06a9 \u06f5\u06f0\u06f9\u06f0",
-      "priority": "high",
-      "published": "2026-08-16T11:24:36+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/\"> <img alt=\"Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" title=\"Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/juanviera23\"> /u/juanviera23 </a> <br /> <span><a href=\"https://arxiv.org/abs/2607.19191\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/\">[comments]</a></span> </td></tr></table>",
-      "title": "Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpujkc/geniestyle_playable_world_model_running_720p_at/"
-    },
     {
       "category": "research",
       "duplicate_of": null,
@@ -77270,6 +77277,14 @@
     "source": "arXiv cs.AI",
     "title": "PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning",
     "title_norm": "physmind from video to executable worlds for trainingfree physical reasoning"
+  },
+  "a59d26fe1fd85b8700adc19c791a4c627c9bb8d5c150f13674adc6ed7dbb51b7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T12:00:05.247379+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+    "title_norm": "ask hn do you know of any company that went back to handwritten code"
   },
   "a5a5e7aa3577b910e987978606641d91be634504b3771125e6ad134fd70d7fcc": {
     "category": null,
