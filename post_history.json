@@ -66845,6 +66845,14 @@
     "title": "News Corp countersues Brave for allegedly 'scraping' articles for AI",
     "title_norm": "news corp countersues brave for allegedly scraping articles for ai"
   },
+  "8f67fc53086d6c1b401248227074850674758e099559fa46bf1a3fbaaa2aff57": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:02:13.939758+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Is ternary (1.58-bit) LLMs making a come back?",
+    "title_norm": "is ternary 158bit llms making a come back"
+  },
   "8f7b50bd853c6df09cf349d36ab7fabe0cdbf8317e672804efaecdc8b6dd5e06": {
     "category": "research",
     "posted": false,
@@ -74369,32 +74377,17 @@
   },
   "_meta": {
     "date": "2026-08-16",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
+      "infrastructure": 1,
       "model_release": 1,
       "other": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-16-10"
+    "last_slot": "2026-08-16-12"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udca1 Lightmatter and a group of industry leaders formally launched a co-packaged optics (CPO) system architecture initiative under the Open Compute Project. The goal is to standardize silicon photonics for AI systems, replacing traditional electrical interconnects with optical ones.\n\n\u26a1 That shift is key to overcoming the bandwidth and power bottlenecks in large-scale AI data centers. With standardized CPO, AI clusters could scale faster and more efficiently, cutting energy costs. \ud83c\udfed This is a big step for AI infrastructure.",
-      "post_body_fa": "\ud83d\udca1 \u0644\u0627\u06cc\u062a\u200c\u0645\u0627\u0631 \u0648 \u06af\u0631\u0648\u0647\u06cc \u0627\u0632 \u0631\u0647\u0628\u0631\u0627\u0646 \u0635\u0646\u0639\u062a\u060c \u0627\u0628\u062a\u06a9\u0627\u0631 \u0645\u0639\u0645\u0627\u0631\u06cc \u0633\u06cc\u0633\u062a\u0645 \u0627\u067e\u062a\u06cc\u06a9 \u0647\u0645\u200c\u0628\u0633\u062a\u0647 (CPO) \u0631\u0627 \u0628\u0647 \u0637\u0648\u0631 \u0631\u0633\u0645\u06cc \u062f\u0631 \u067e\u0631\u0648\u0698\u0647 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0628\u0627\u0632 \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u06a9\u0631\u062f\u0646\u062f. \u0647\u062f\u0641\u060c \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f\u0633\u0627\u0632\u06cc \u0641\u0648\u062a\u0648\u0646\u06cc\u06a9 \u0633\u06cc\u0644\u06cc\u06a9\u0648\u0646\u06cc \u0628\u0631\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0627\u0644\u06a9\u062a\u0631\u06cc\u06a9\u06cc \u0633\u0646\u062a\u06cc \u0628\u0627 \u0627\u062a\u0635\u0627\u0644\u0627\u062a \u0646\u0648\u0631\u06cc \u0627\u0633\u062a.\n\n\u26a1 \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0644\u06cc\u062f \u063a\u0644\u0628\u0647 \u0628\u0631 \u06af\u0644\u0648\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u067e\u0647\u0646\u0627\u06cc \u0628\u0627\u0646\u062f \u0648 \u0645\u0635\u0631\u0641 \u0627\u0646\u0631\u0698\u06cc \u062f\u0631 \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u0628\u0632\u0631\u06af \u0627\u0633\u062a. \u0628\u0627 CPO \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f\u060c \u062e\u0648\u0634\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0648 \u06a9\u0627\u0631\u0622\u0645\u062f\u062a\u0631 \u0645\u0642\u06cc\u0627\u0633 \u0634\u0648\u0646\u062f \u0648 \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u0646\u0631\u0698\u06cc \u0631\u0627 \u06a9\u0627\u0647\u0634 \u062f\u0647\u0646\u062f. \ud83c\udfed \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.",
-      "post_title": "\ud83c\udfd7\ufe0f Industry launches open silicon photonics initiative for AI",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0627\u0628\u062a\u06a9\u0627\u0631 \u0635\u0646\u0639\u062a\u06cc \u0641\u0648\u062a\u0648\u0646\u06cc\u06a9 \u0633\u06cc\u0644\u06cc\u06a9\u0648\u0646\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
-      "priority": "high",
-      "published": "2026-08-14T11:58:52+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/\">https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49297623\">https://news.ycombinator.com/item?id=49297623</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Open Silicon Photonics for AI Systems Initiative",
-      "url": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -110414,6 +110407,14 @@
     "title": "Anyone else with dual 3090s and like 50gb ram trying to run DSV4 \ud83d\udc80",
     "title_norm": "anyone else with dual 3090s and like 50gb ram trying to run dsv4"
   },
+  "ed7ac4aa368932c2d299b9d4356f136e848d779ff5e67247307502c5370789c6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:02:13.939641+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I'm still running Qwen 3.5 122B. Should I switch to Qwen 3.8 27B?",
+    "title_norm": "im still running qwen 35 122b should i switch to qwen 38 27b"
+  },
   "ed89177192530191cfb52e678fafbb6b4d1412f16a0919bec00c664a3f85a859": {
     "category": "policy",
     "posted": false,
@@ -115310,7 +115311,13 @@
   },
   "f8f2a561d17411f00dd31e7105fb5e2f9da068faee852ce10a42e057568a2190": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 208,
+    "message_id_fa": 182,
+    "post_title": "\ud83c\udfd7\ufe0f Industry launches open silicon photonics initiative for AI",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0631\u0627\u0647\u200c\u0627\u0646\u062f\u0627\u0632\u06cc \u0627\u0628\u062a\u06a9\u0627\u0631 \u0635\u0646\u0639\u062a\u06cc \u0641\u0648\u062a\u0648\u0646\u06cc\u06a9 \u0633\u06cc\u0644\u06cc\u06a9\u0648\u0646\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+    "posted": true,
+    "posted_at": "2026-08-16T10:02:14.808482+00:00",
+    "priority": "high",
     "seen_at": "2026-08-14T13:36:04.239721+00:00",
     "source": "Hacker News AI keyword",
     "title": "Open Silicon Photonics for AI Systems Initiative",
