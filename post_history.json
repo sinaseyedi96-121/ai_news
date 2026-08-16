@@ -33473,6 +33473,14 @@
     "title": "Unsure but Certain: Uncovering the Representation-Confidence Gap in Diffusion Language Models",
     "title_norm": "unsure but certain uncovering the representationconfidence gap in diffusion language models"
   },
+  "47c3f1d5916f4804f38568ebe6569cdda3f5ff42f3982ee2a029f9378b377bd1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832330+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AstroUpdate \u2013 Real-time space news, 3D ISS tracking and AI briefs",
+    "title_norm": "astroupdate realtime space news 3d iss tracking and ai briefs"
+  },
   "47c52c74ff6728dee767def07b796ee3cb5cbe45967b29015858b6eca6dc359d": {
     "category": "integration",
     "posted": false,
@@ -56601,6 +56609,14 @@
     "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
     "title_norm": "reachy mini the opensource robot for todays and tomorrows ai builders"
   },
+  "7861305ba42dcefd5f359ef3f1f607b037e503dc9a76582f734d1fb7e20ffe5e": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832469+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Twitch Adds Opt-Out for Amazon AI Training After Enrolling All Creators",
+    "title_norm": "twitch adds optout for amazon ai training after enrolling all creators"
+  },
   "7864968b41ba98f8758914eea96ebe0d5f95fbe83cc97505a638e1e0bede24eb": {
     "category": "research",
     "posted": false,
@@ -74469,6 +74485,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "Twitch quietly enrolled every creator's content into Amazon's AI training by default, and is now rolling out an opt-out option after the move sparked backlash. \ud83c\udfae Streamers can find the new setting in their channel dashboard to keep their VODs, clips, and chat logs out of future AI models. The change applies to all creators, including those who never agreed to participate.\n\nThis matters because it forces a conversation about consent in AI training\u2014defaults matter, and creators should have a say. \u2696\ufe0f It's also a reminder to check your settings on any platform that could feed your data into AI.",
+      "post_body_fa": "\u062a\u0648\u06cc\u06cc\u0686 \u0628\u0647\u200c\u0637\u0648\u0631 \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0645\u0647 \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0622\u0645\u0627\u0632\u0648\u0646 \u062b\u0628\u062a \u06a9\u0631\u062f\u0647 \u0628\u0648\u062f \u0648 \u062d\u0627\u0644\u0627 \u067e\u0633 \u0627\u0632 \u0648\u0627\u06a9\u0646\u0634\u200c\u0647\u0627\u06cc \u0645\u0646\u0641\u06cc\u060c \u06af\u0632\u06cc\u0646\u0647 \u0627\u0646\u0635\u0631\u0627\u0641 \u0631\u0627 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83c\udfae \u0627\u0633\u062a\u0631\u06cc\u0645\u0631\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u06cc\u0646 \u062a\u0646\u0638\u06cc\u0645 \u062c\u062f\u06cc\u062f \u0631\u0627 \u062f\u0631 \u062f\u0627\u0634\u0628\u0648\u0631\u062f \u06a9\u0627\u0646\u0627\u0644 \u062e\u0648\u062f \u067e\u06cc\u062f\u0627 \u06a9\u0646\u0646\u062f \u062a\u0627 \u0648\u06cc\u062f\u0626\u0648\u0647\u0627\u060c \u06a9\u0644\u06cc\u067e\u200c\u0647\u0627 \u0648 \u0686\u062a\u200c\u0647\u0627\u06cc\u0634\u0627\u0646 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0622\u06cc\u0646\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0627\u0631\u062c \u0628\u0645\u0627\u0646\u062f. \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0634\u0627\u0645\u0644 \u0647\u0645\u0647 \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u062d\u062a\u06cc \u0622\u0646\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0647\u0631\u06af\u0632 \u0631\u0636\u0627\u06cc\u062a \u0646\u062f\u0627\u062f\u0647 \u0628\u0648\u062f\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u06af\u0641\u062a\u200c\u0648\u06af\u0648 \u062f\u0631\u0628\u0627\u0631\u0647 \u0631\u0636\u0627\u06cc\u062a \u062f\u0631 \u0622\u0645\u0648\u0632\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0627\u0644\u0632\u0627\u0645\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u2014\u067e\u06cc\u0634\u200c\u0641\u0631\u0636\u200c\u0647\u0627 \u0627\u0647\u0645\u06cc\u062a \u062f\u0627\u0631\u0646\u062f \u0648 \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0628\u0627\u06cc\u062f \u062d\u0642 \u0627\u0646\u062a\u062e\u0627\u0628 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u0647\u0645\u0686\u0646\u06cc\u0646 \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u0647\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u06cc \u06a9\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc\u062a\u0627\u0646 \u0631\u0627 \u0628\u0647 AI \u0628\u062f\u0647\u062f\u060c \u0628\u0631\u0631\u0633\u06cc \u06a9\u0646\u06cc\u062f.",
+      "post_title": "\u2696\ufe0f Twitch Adds AI Training Opt-Out After Enrolling All Creators",
+      "post_title_fa": "\u2696\ufe0f \u062a\u0648\u06cc\u06cc\u0686 \u0627\u0646\u0635\u0631\u0627\u0641 \u0627\u0632 \u0622\u0645\u0648\u0632\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0641\u0639\u0627\u0644 \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T10:04:10+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/\">https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318568\">https://news.ycombinator.com/item?id=49318568</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Twitch Adds Opt-Out for Amazon AI Training After Enrolling All Creators",
+      "url": "https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/"
+    },
+    {
       "category": "research",
       "duplicate_of": null,
       "post_body": "\ud83e\udd16 Anthropic has published a new research report on the patterns and problems emerging in multi-agent AI systems. The work examines common architectures like orchestrator-worker setups and iterative loops, and the failure modes that make them brittle.\n\nIt's less about a single breakthrough and more about giving engineers practical guidance for designing reliable multi-agent pipelines. \ud83d\udcc9 The report also highlights where current systems waste tokens, lose context, or compound errors across agents. \u2699\ufe0f If you're building agent teams or using MCP-style orchestration, this is a useful map of what works and what breaks.",
@@ -74756,6 +74788,14 @@
     "source": "arXiv cs.AI",
     "title": "Defense Against LLM Backdoors using Critical Neuron Isolation Pruning",
     "title_norm": "defense against llm backdoors using critical neuron isolation pruning"
+  },
+  "a06611cf6631149c1f296ce9431f1d40d4df4ea795fae33500a413d842bb4a7d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832417+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+    "title_norm": "why chinese citizens are more optimistic about ai than americans"
   },
   "a06da5dfa4359246943947c0ed1a509f90dc8f42edab5d1bcc7f6be6ea732a0c": {
     "category": "research",
@@ -81220,6 +81260,14 @@
     "source": "arXiv cs.AI",
     "title": "Hyper-ES: Effective Evolution Strategies for LLM Reasoning via Descent Direction Merging",
     "title_norm": "hyperes effective evolution strategies for llm reasoning via descent direction merging"
+  },
+  "addd8877f52629da7cdd91ffe4cea1de043302af576d78d537d7ade6da256536": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832439+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Paper Trail: What does AI know about you?",
+    "title_norm": "ai paper trail what does ai know about you"
   },
   "ade24340b68cf9301bc4d9ebf262d47465fc0de6a7fa61cf808f030f9655d1f0": {
     "category": "research",
@@ -93300,6 +93348,14 @@
     "source": "OpenAI News",
     "title": "Decoding genetics with OpenAI o1",
     "title_norm": "decoding genetics with openai o1"
+  },
+  "c744c2a0eafb89139e8c4d8f2f345f7a8fd6b7e1f1d8c8b5fd8fd8bbaa84fcfc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832484+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "vibeslop!! come getcher vibeslop here!! free vibeslop! (post your disposable vibecoded stuff here, for fun)",
+    "title_norm": "vibeslop come getcher vibeslop here free vibeslop post your disposable vibecoded stuff here for fun"
   },
   "c745390b7d10ebc1041248727a5886211ff2ae0767ef9078754d0826a630b181": {
     "category": "research",
@@ -117232,6 +117288,14 @@
     "source": "Hacker News Frontpage",
     "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
     "title_norm": "ublock origin is giving up the fight to keep ads off facebook"
+  },
+  "fd02871537e78fb01c7da1c295a57d14fc86c74eac5ad7bfb751a8629f501bb5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T10:43:05.832455+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "How to Invest in AI (2025)",
+    "title_norm": "how to invest in ai 2025"
   },
   "fd04a0c4513e0eab86210e25204329b7328974080dc94060a5436124676f569d": {
     "category": "research",
