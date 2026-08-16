@@ -19067,6 +19067,14 @@
     "title": "How Altana employs Llama to elevate global value chain management",
     "title_norm": "how altana employs llama to elevate global value chain management"
   },
+  "284af671d2b1c51860f0809bf5523cfe442d1d2fd2f0b733960ef25b4e9bb9d1": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-16T11:02:35.151194+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Interface for AI agents was invented in 1978",
+    "title_norm": "interface for ai agents was invented in 1978"
+  },
   "284b3c736221cdd998c4ae958a9595730587b1e1022b0f8a30ebfa5b0a329adf": {
     "category": "research",
     "posted": false,
@@ -42643,6 +42651,14 @@
     "title": "Fine-Tuning Gemma Models in Hugging Face",
     "title_norm": "finetuning gemma models in hugging face"
   },
+  "5b1192903d684a21b0134b563ec7f2820e566ef830f4a97caa3001e1a1e40e1d": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-16T11:02:35.151232+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Coding Without the Vibes",
+    "title_norm": "ai coding without the vibes"
+  },
   "5b12d529972057ce344eef2d2b7be592c326f9ebca625a43c56d046c0fbdba72": {
     "category": "other",
     "posted": false,
@@ -51672,6 +51688,14 @@
     "source": "Hugging Face Blog",
     "title": "Mini-R1: Reproduce Deepseek R1 \u201eaha moment\u201c a RL tutorial",
     "title_norm": "minir1 reproduce deepseek r1 aha moment a rl tutorial"
+  },
+  "6dd67577735ebf3b8cf0c40db312b4e6b39765236587ad82e44bc5625d71af11": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-16T11:02:35.151109+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+    "title_norm": "the country hicks who refused 26m from an ai data center"
   },
   "6dd6bb30cf7e05730ec407529e27bd0b21a5f393aa7d6d71ebba94fbd6713c9a": {
     "category": "research",
@@ -74485,6 +74509,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcb0 A rural community in the U.S. turned down a $26 million offer from an AI data center developer, according to a Wall Street Journal report. Local residents cited concerns about noise, water usage, and the industrial transformation of their farmland \ud83c\udfde\ufe0f.\n\nThe project would have brought jobs and tax revenue, but voters and county officials ultimately rejected the proposal \ud83d\udcc9. This reflects a growing backlash against AI infrastructure in rural areas across America \ud83c\udf0d. As data center demand skyrockets, companies may face more community resistance and need to reconsider how they site these facilities.",
+      "post_body_fa": "\ud83d\udcb0 \u06cc\u06a9 \u062c\u0627\u0645\u0639\u0647 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644\u060c \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u06f2\u06f6 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u06cc\u06a9 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0631\u062f \u06a9\u0631\u062f. \u0633\u0627\u06a9\u0646\u0627\u0646 \u0645\u062d\u0644\u06cc \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0633\u0631 \u0648 \u0635\u062f\u0627\u060c \u0645\u0635\u0631\u0641 \u0622\u0628 \u0648 \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u06a9\u0634\u0627\u0648\u0631\u0632\u06cc \u062e\u0648\u062f \u0627\u0628\u0631\u0627\u0632 \u06a9\u0631\u062f\u0646\u062f \ud83c\udfde\ufe0f.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0633\u062a \u0634\u063a\u0644 \u0648 \u062f\u0631\u0622\u0645\u062f \u0645\u0627\u0644\u06cc\u0627\u062a\u06cc \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u062f\u060c \u0627\u0645\u0627 \u0631\u0627\u06cc\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0645\u0642\u0627\u0645\u0627\u062a \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc \u062f\u0631 \u0646\u0647\u0627\u06cc\u062a \u0627\u06cc\u0646 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0631\u0627 \u0631\u062f \u06a9\u0631\u062f\u0646\u062f \ud83d\udcc9. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u0648\u0627\u06a9\u0646\u0634 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0645\u0646\u0627\u0637\u0642 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u0633\u062a \ud83c\udf0d. \u0628\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0634\u062f\u06cc\u062f \u062a\u0642\u0627\u0636\u0627 \u0628\u0631\u0627\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647\u060c \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0627 \u0645\u0642\u0627\u0648\u0645\u062a \u0628\u06cc\u0634\u062a\u0631\u06cc \u0627\u0632 \u0633\u0648\u06cc \u062c\u0648\u0627\u0645\u0639 \u0645\u062d\u0644\u06cc \u0645\u0648\u0627\u062c\u0647 \u0634\u062f\u0647 \u0648 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u0628\u0627\u0632\u0646\u06af\u0631\u06cc \u062f\u0631 \u0646\u062d\u0648\u0647 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u06a9\u0627\u0646 \u0627\u06cc\u0646 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f.",
+      "post_title": "\ud83c\udfd7\ufe0f Rural Town Rejects $26M AI Data Center Offer",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0631\u062f \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u06f2\u06f6 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631\u06cc \u0645\u0631\u06a9\u0632 \u062f\u0627\u062f\u0647 AI \u062a\u0648\u0633\u0637 \u0631\u0648\u0633\u062a\u0627\u06cc\u06cc\u0627\u0646",
+      "priority": "medium",
+      "published": "2026-08-16T10:49:36+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16\">https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318835\">https://news.ycombinator.com/item?id=49318835</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+      "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16"
+    },
+    {
       "category": "policy",
       "duplicate_of": null,
       "post_body": "Twitch quietly enrolled every creator's content into Amazon's AI training by default, and is now rolling out an opt-out option after the move sparked backlash. \ud83c\udfae Streamers can find the new setting in their channel dashboard to keep their VODs, clips, and chat logs out of future AI models. The change applies to all creators, including those who never agreed to participate.\n\nThis matters because it forces a conversation about consent in AI training\u2014defaults matter, and creators should have a say. \u2696\ufe0f It's also a reminder to check your settings on any platform that could feed your data into AI.",
@@ -75242,6 +75282,14 @@
     "source": "arXiv cs.CL",
     "title": "Failure-Aware Long-Form Translation: Design and Implementation of a Recoverable LLM Translation System",
     "title_norm": "failureaware longform translation design and implementation of a recoverable llm translation system"
+  },
+  "a16536768d8bf33b6bb2ea1efcb324c8d9e6e7b7be0bd1165dbdbb2462aad09a": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-16T11:02:35.151215+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "An AI agent can burn 100\u00d7 the tokens of a chat turn",
+    "title_norm": "an ai agent can burn 100 the tokens of a chat turn"
   },
   "a17165a79565f9401600888a5d9648c842e028d35cc351467f7a9207ca7ae66a": {
     "category": "research",
