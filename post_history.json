@@ -9583,6 +9583,14 @@
     "title": "SAFAARI: Schema-Aware Framework for Accelerated Advertiser Response Intelligence",
     "title_norm": "safaari schemaaware framework for accelerated advertiser response intelligence"
   },
+  "14bb00c513263e6fb789428176aad54b740f70aae3fc8683d74f63e0d1839880": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521096+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Kimi Work attaches raw agent sessions to feedback reports",
+    "title_norm": "kimi work attaches raw agent sessions to feedback reports"
+  },
   "14bb5cb09c84b27f11065b1b0aedf470c43423ab143b5026b0edc3115c18f480": {
     "category": "research",
     "posted": false,
@@ -45565,6 +45573,14 @@
     "title": "Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results",
     "title_norm": "reinforcement learning for large language model selective evidence adoption from contaminated retrieval results"
   },
+  "6061e18d4714d8cb42fae14a7f80af15021c30c2a258b08a8ad05422b1940487": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521215+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)",
+    "title_norm": "based on an accelerating frontier local trajectory expect a 30b param mythos at home by as soon as jan 2027 rationalisation below"
+  },
   "6067443e6e98febd80aa703135371332bd36058776f09ccd67ad2d5b781c1565": {
     "category": "research",
     "posted": false,
@@ -57063,6 +57079,14 @@
     "title": "SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data",
     "title_norm": "senworld a digitaltwin simulation for generating contextrich evaluation data"
   },
+  "78cba02c36d13f5742c73c0a734a453219e01fffbf8fd2b8056df7260bfad93b": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521198+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+    "title_norm": "russian missile uses nvidia ai chip to help target ukraine"
+  },
   "78ccada4d5587e289f7c356e5dca43b6d9b0919d2cf597244043bb78c1b72e1a": {
     "category": "other",
     "posted": false,
@@ -60873,6 +60897,14 @@
     "title": "Contextual Value Alignment via Multilayer Combinatorial Fusion",
     "title_norm": "contextual value alignment via multilayer combinatorial fusion"
   },
+  "810b9cf9d384775f9df177a5d2b06571ec341e3ee5dd93b35b7bc97cedf97ca6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521145+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
+    "title_norm": "breaking ai orchestration hijacking n8n hitl chat sessions"
+  },
   "81177a48ee96c9d5a5b394d03c975c73d6cb2ec1f1c71863738bd6f89354ce01": {
     "category": "model_release",
     "posted": false,
@@ -64133,6 +64165,14 @@
     "title": "Creative Integration: A Decidable Criterion of Creativity",
     "title_norm": "creative integration a decidable criterion of creativity"
   },
+  "8895c6b21637b2e5c5cea975033bc3cb6480d0b0beff105fc750470c3b45c93d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521074+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "NIH is ending a key grant for budding clinical researchers",
+    "title_norm": "nih is ending a key grant for budding clinical researchers"
+  },
   "88998d3e7b3be8604760d054fec8822574b8dadb5d37a8eb3b84494adc4b2ffa": {
     "category": "research",
     "posted": false,
@@ -65528,6 +65568,14 @@
     "source": "Anthropic News (unofficial mirror)",
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
     "title_norm": "investigating three realworld incidents in our cybersecurity evaluations"
+  },
+  "8b9c05d2b3c3e7ea00ad1427c25fa7c7bc47201e42e81b3b6c3865bbb6196820": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521129+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI and the Changing Future of Mathematics",
+    "title_norm": "ai and the changing future of mathematics"
   },
   "8b9e335ed7fad40ddd70bafe54a44c2c1e7949638b3c752486e9a1f8bb68971e": {
     "category": "research",
@@ -74797,6 +74845,22 @@
   },
   "_queue": [
     {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udea8 A captured Russian missile reportedly contains an Nvidia AI chip used to help with targeting in Ukraine, according to The Register. The finding highlights how commercial AI hardware still reaches the battlefield despite export controls.\n\n\ud83c\udf0d Nvidia says it complies with sanctions, and the chip may have arrived through grey-market routes \u2014 but the optics are bad for US AI exporters. \u2699\ufe0f Expect renewed pressure on chip tracking and tighter enforcement, plus a louder debate over AI's military use.",
+      "post_body_fa": "\ud83d\udea8 \u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634 The Register\u060c \u06cc\u06a9 \u0645\u0648\u0634\u06a9 \u0631\u0648\u0633\u06cc \u06a9\u0647 \u062f\u0631 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0647 \u062f\u0633\u062a \u0622\u0645\u062f\u0647 \u062d\u0627\u0648\u06cc \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0631\u0627\u06cc \u06a9\u0645\u06a9 \u0628\u0647 \u0647\u062f\u0641\u200c\u06af\u06cc\u0631\u06cc \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06cc\u0627\u0641\u062a\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u062a\u062c\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0648\u062c\u0648\u062f \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627\u06cc \u0635\u0627\u062f\u0631\u0627\u062a\u06cc \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u0647 \u0645\u06cc\u062f\u0627\u0646 \u062c\u0646\u06af \u0645\u06cc\u200c\u0631\u0633\u062f.\n\n\ud83c\udf0d \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0628\u0647 \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627 \u067e\u0627\u06cc\u0628\u0646\u062f \u0627\u0633\u062a \u0648 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u062a\u0631\u0627\u0634\u0647 \u0627\u0632 \u0645\u0633\u06cc\u0631 \u0628\u0627\u0632\u0627\u0631 \u062e\u0627\u06a9\u0633\u062a\u0631\u06cc \u0648\u0627\u0631\u062f \u0634\u062f\u0647\u061b \u0627\u0645\u0627 \u062f\u0631 \u0647\u0631 \u062d\u0627\u0644 \u062a\u0635\u0648\u06cc\u0631 \u062e\u0648\u0628\u06cc \u0628\u0631\u0627\u06cc \u0635\u0627\u062f\u0631\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0646\u06cc\u0633\u062a. \u2699\ufe0f \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0641\u0634\u0627\u0631 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u062f\u0642\u06cc\u0642\u200c\u062a\u0631 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0648 \u0627\u062c\u0631\u0627\u06cc \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u06cc\u0627\u0628\u062f \u0648 \u0628\u062d\u062b \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u0638\u0627\u0645\u06cc \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u063a\u200c\u062a\u0631 \u0634\u0648\u062f.",
+      "post_title": "\u2696\ufe0f Russian missile reportedly uses Nvidia AI chip for targeting in Ukraine",
+      "post_title_fa": "\u2696\ufe0f \u0645\u0648\u0634\u06a9 \u0631\u0648\u0633\u06cc \u0627\u0632 \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u062f\u0631 \u0647\u062f\u0641\u200c\u06af\u06cc\u0631\u06cc \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a",
+      "priority": "high",
+      "published": "2026-08-16T16:47:40+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976\">https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321617\">https://news.ycombinator.com/item?id=49321617</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+      "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976"
+    },
+    {
       "category": "research",
       "duplicate_of": null,
       "post_body": "\ud83d\udca1 A new paper claims that reinforcement learning for reasoning only alters 1\u20133% of generated tokens, yet those tiny changes drive most of the performance gains. Even more striking, the authors say they can replicate these gains without RL at roughly 1000\u00d7 less compute \ud83d\udda5\ufe0f.\n\nThis challenges the prevailing assumption that heavy RL training is essential for reasoning models. If confirmed, it could massively reduce the cost of training strong reasoners \ud83d\udcb0. The findings are already sparking debate in the AI community. For researchers, this is a potential sea change in how reasoning models are built \ud83d\udd25.",
@@ -74893,6 +74957,22 @@
       "url": "https://arxiv.org/abs/2608.13272"
     },
     {
+      "category": "research",
+      "duplicate_of": null,
+      "post_body": "\ud83e\uddd1\u200d\ud83d\udcbb Security researchers at Rubrik Zero Labs have demonstrated how attackers can hijack n8n's human-in-the-loop (HITL) chat sessions \u2014 the approval step meant to keep AI agents under control. By taking over an active session, a malicious actor can influence what the agent does, effectively bypassing the safety check.\n\n\ud83d\udd10 The technique hits a widely used orchestration platform, so teams building AI workflows on n8n are directly exposed. The report offers hardening guidance rather than a single patch, stressing that session authentication must be treated as a security boundary.",
+      "post_body_fa": "\ud83e\uddd1\u200d\ud83d\udcbb \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc Rubrik Zero Labs \u0646\u0634\u0627\u0646 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0645\u0647\u0627\u062c\u0645\u0627\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u062c\u0644\u0633\u0627\u062a \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0627\u0646\u0633\u0627\u0646-\u062f\u0631-\u062d\u0644\u0642\u0647 (HITL) \u062f\u0631 n8n \u0631\u0627 \u0631\u0628\u0648\u062f\u0647 \u0648 \u0639\u0645\u0644\u0627\u064b \u06a9\u0646\u062a\u0631\u0644 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0627\u0632 \u06a9\u0627\u0631\u0628\u0631 \u0628\u06af\u06cc\u0631\u0646\u062f. \u0628\u0627 \u062a\u0635\u0627\u062d\u0628 \u06cc\u06a9 \u062c\u0644\u0633\u0647 \u0641\u0639\u0627\u0644\u060c \u0645\u0647\u0627\u062c\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06a9\u0627\u0631\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f \u0648 \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0627\u0647 \u0686\u06a9 \u0627\u06cc\u0645\u0646\u06cc \u0631\u0627 \u062f\u0648\u0631 \u0628\u0632\u0646\u062f.\n\n\ud83d\udd10 \u0627\u06cc\u0646 \u062a\u06a9\u0646\u06cc\u06a9 \u06cc\u06a9 \u067e\u0644\u062a\u0641\u0631\u0645 \u0627\u0631\u06a9\u0633\u062a\u0631\u0627\u0633\u06cc\u0648\u0646 \u067e\u0631\u06a9\u0627\u0631\u0628\u0631\u062f \u0631\u0627 \u0647\u062f\u0641 \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f\u060c \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u062a\u06cc\u0645\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0631\u0648\u06cc n8n \u06af\u0631\u062f\u0634\u200c\u06a9\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u0633\u0627\u0632\u0646\u062f \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u062f\u0631 \u0645\u0639\u0631\u0636 \u062e\u0637\u0631\u0646\u062f. \u0627\u06cc\u0646 \u06af\u0632\u0627\u0631\u0634 \u0628\u0647\u200c\u062c\u0627\u06cc \u06cc\u06a9 \u0648\u0635\u0644\u0647 \u0648\u0627\u062d\u062f\u060c \u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0645\u0642\u0627\u0648\u0645\u200c\u0633\u0627\u0632\u06cc \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u062a\u0623\u06a9\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u062d\u0631\u0627\u0632 \u0647\u0648\u06cc\u062a \u062c\u0644\u0633\u0647 \u0628\u0627\u06cc\u062f \u06cc\u06a9 \u0645\u0631\u0632 \u0627\u0645\u0646\u06cc\u062a\u06cc \u062f\u0631 \u0646\u0638\u0631 \u06af\u0631\u0641\u062a\u0647 \u0634\u0648\u062f.",
+      "post_title": "\ud83d\udd13 New research hijacks n8n human-in-the-loop AI chat sessions",
+      "post_title_fa": "\ud83d\udd13 \u067e\u0698\u0648\u0647\u0634 \u062c\u062f\u06cc\u062f \u062c\u0644\u0633\u0627\u062a \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0627\u0646\u0633\u0627\u0646-\u062f\u0631-\u062d\u0644\u0642\u0647 n8n \u0631\u0627 \u0645\u06cc\u200c\u0631\u0628\u0627\u06cc\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T16:49:31+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions\">https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321627\">https://news.ycombinator.com/item?id=49321627</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
+      "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions"
+    },
+    {
       "category": "model_release",
       "duplicate_of": null,
       "post_body": "\ud83d\udd0d OpenAI's macOS ChatGPT app has debuted Computer History, a feature that records a timeline of your clicks, keystrokes, and screen activity while you work. That timeline is available to ChatGPT and its Codex coding agent when you make a request, so they can understand your workflow and even pick up half-finished tasks.\n\n\ud83d\udcc8 The activity is also used to train the models, which OpenAI says makes assistance more proactive and personalized. \ud83d\udca5 But it raises real privacy questions\u2014your computer now keeps a permanent diary of everything you do, sent back to the lab. \u2696\ufe0f Computer History is available on macOS now, with no word yet on a Windows rollout.",
@@ -74955,38 +75035,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\"> <img alt=\"Newer commits removed the Qwen 35B\" src=\"https://external-preview.redd.it/tUAD-zXcA8X5TflnoexZVk3qKe8Q4XJpwE7choNBsYQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2abc6f6b3139d23819bf346822056f319f369cfc\" title=\"Newer commits removed the Qwen 35B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In this commits, the 35B model was removed. Looks like it's confirming the 35B model won't get released.</p> <p>I think they need to be made aware how big the 35 moe is widely used. Think need to make noise on theyre X, huggingface and online places. If they dont know there's no need to release for people group who dont speak up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Local-Cardiologist-5\"> /u/Local-Cardiologist-5 </a> <br /> <span><a href=\"https://github.com/modelscope/ms-swift/commit/a45f1d4f73157ba59062a7fd1f55a40dae759156\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\">[comments]</a></span> </td></tr></table>",
       "title": "Newer commits removed the Qwen 35B",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/"
-    },
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\ud83e\uddea Prime Intellect has released a new approach for measuring how well AI systems can conduct research autonomously. The benchmark aims to quantify progress toward AI scientists that can design and run experiments.\n\n\ud83e\udd16 It's part of a growing effort to track agentic AI capabilities beyond simple chat. For researchers, it offers a concrete way to compare systems like DeepSeek Harness. The method could become a standard evaluation tool as autonomous research agents gain traction.",
-      "post_body_fa": "\ud83e\uddea Prime Intellect \u0631\u0648\u0634 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u06af\u06cc\u0631\u06cc \u0627\u06cc\u0646\u06a9\u0647 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u062e\u0648\u0628 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u067e\u0698\u0648\u0647\u0634 \u0627\u0646\u062c\u0627\u0645 \u062f\u0647\u0646\u062f \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u0647\u062f\u0641\u0634 \u06a9\u0645\u06cc\u200c\u0633\u0627\u0632\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a \u0628\u0647 \u0633\u0645\u062a \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627 \u0631\u0627 \u0637\u0631\u0627\u062d\u06cc \u0648 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f.\n\n\ud83e\udd16 \u0627\u06cc\u0646 \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0686\u062a \u0633\u0627\u062f\u0647 \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u0645\u062d\u0642\u0642\u0627\u0646\u060c \u0631\u0627\u0647\u06cc \u0645\u0634\u062e\u0635 \u0628\u0631\u0627\u06cc \u0645\u0642\u0627\u06cc\u0633\u0647 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f DeepSeek Harness \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0631\u0648\u0634 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631 \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f \u0632\u06cc\u0631\u0627 \u0639\u0648\u0627\u0645\u0644 \u067e\u0698\u0648\u0647\u0634\u06cc \u062e\u0648\u062f\u0645\u062e\u062a\u0627\u0631 \u062f\u0631 \u062d\u0627\u0644 \u0631\u0648\u0627\u062c \u0647\u0633\u062a\u0646\u062f.",
-      "post_title": "\ud83d\udd2c New Benchmark Measures Autonomous AI Research",
-      "post_title_fa": "\ud83d\udd2c \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u062c\u062f\u06cc\u062f \u062a\u0648\u0627\u0646\u0627\u06cc\u06cc \u067e\u0698\u0648\u0647\u0634 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u06af\u06cc\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f",
-      "priority": "medium",
-      "published": "2026-08-16T12:16:20+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/measuring-autonomous-research\">https://www.primeintellect.ai/blog/measuring-autonomous-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319348\">https://news.ycombinator.com/item?id=49319348</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Measuring Autonomous AI Research",
-      "url": "https://www.primeintellect.ai/blog/measuring-autonomous-research"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde9 Rungraph is a new open-source tool that maps every step of your AI coding-agent runs into a visual graph, making it easy to trace how tasks were executed. The project just landed on GitHub, built for developers who want transparency into how agents like Claude Code or Copilot work through a codebase. Instead of scrolling through raw logs, you get a structured view of the whole run\u2014from initial prompt to final output.\n\n\ud83d\udcc8 That clarity helps spot bottlenecks, repeated steps, and weird agent detours at a glance. \ud83d\udd27 It's early and community-driven, but for anyone debugging agent workflows, it's a handy addition to the toolkit.",
-      "post_body_fa": "\ud83e\udde9 \u0631\u0627\u0646\u06af\u0631\u0627\u0641 \u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u062f\u06cc\u062f \u0627\u0633\u062a \u06a9\u0647 \u0647\u0631 \u0645\u0631\u062d\u0644\u0647 \u0627\u0632 \u0627\u062c\u0631\u0627\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u06a9\u062f\u0646\u0648\u06cc\u0633 AI \u0631\u0627 \u0628\u0647 \u0634\u06a9\u0644 \u06af\u0631\u0627\u0641 \u0628\u0635\u0631\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0631\u062f\u06cc\u0627\u0628\u06cc \u0686\u06af\u0648\u0646\u06af\u06cc \u0627\u0646\u062c\u0627\u0645 \u06a9\u0627\u0631\u0647\u0627 \u0631\u0627 \u0622\u0633\u0627\u0646 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0628\u0647\u200c\u062a\u0627\u0632\u06af\u06cc \u0631\u0648\u06cc \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0648 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u0633\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u0646\u062f \u0634\u0641\u0627\u0641\u06cc\u062a \u0639\u0645\u0644\u06a9\u0631\u062f \u0639\u0648\u0627\u0645\u0644\u06cc \u0645\u0627\u0646\u0646\u062f Claude Code \u06cc\u0627 Copilot \u0631\u0627 \u062f\u0631 \u06a9\u0627\u0631 \u0631\u0648\u06cc \u06a9\u062f\u0628\u06cc\u0633 \u0628\u0628\u06cc\u0646\u0646\u062f. \u0628\u0647\u200c\u062c\u0627\u06cc \u0648\u0631\u0642 \u0632\u062f\u0646 \u0644\u0627\u06af\u200c\u0647\u0627\u06cc \u062e\u0627\u0645\u060c \u0646\u0645\u0627\u06cc\u06cc \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u0627\u0632 \u06a9\u0644 \u0627\u062c\u0631\u0627 \u2014 \u0627\u0632 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0627\u0648\u0644\u06cc\u0647 \u062a\u0627 \u062e\u0631\u0648\u062c\u06cc \u0646\u0647\u0627\u06cc\u06cc \u2014 \u062f\u0631\u06cc\u0627\u0641\u062a \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f.\n\n\ud83d\udcc8 \u0627\u06cc\u0646 \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u0647 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06af\u0644\u0648\u06af\u0627\u0647\u200c\u0647\u0627\u060c \u0645\u0631\u0627\u062d\u0644 \u062a\u06a9\u0631\u0627\u0631\u06cc \u0648 \u0627\u0646\u062d\u0631\u0627\u0641\u0627\u062a \u0639\u062c\u06cc\u0628 \u0639\u0627\u0645\u0644 \u062f\u0631 \u06cc\u06a9 \u0646\u06af\u0627\u0647 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd27 \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0647\u0646\u0648\u0632 \u062f\u0631 \u0645\u0631\u0627\u062d\u0644 \u0627\u0648\u0644\u06cc\u0647 \u0648 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u062c\u0627\u0645\u0639\u0647 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u06af\u0631\u062f\u0634 \u06a9\u0627\u0631 \u0639\u0627\u0645\u0644\u200c\u0647\u0627 \u0631\u0627 \u0627\u0634\u06a9\u0627\u0644\u200c\u0632\u062f\u0627\u06cc\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0628\u0632\u0627\u0631 \u0645\u0641\u06cc\u062f\u06cc \u0628\u0647 \u062c\u0639\u0628\u0647\u200c\u0627\u0628\u0632\u0627\u0631 \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
-      "post_title": "\ud83d\ude80 Rungraph turns AI coding-agent runs into interactive graphs",
-      "post_title_fa": "\ud83d\ude80 Rungraph \u0627\u062c\u0631\u0627\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u06a9\u062f\u0646\u0648\u06cc\u0633 AI \u0631\u0627 \u0628\u0647 \u06af\u0631\u0627\u0641 \u062a\u0639\u0627\u0645\u0644\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f",
-      "priority": "low",
-      "published": "2026-08-16T16:18:51+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fayzan123/rungraph\">https://github.com/fayzan123/rungraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321388\">https://news.ycombinator.com/item?id=49321388</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Show HN: Rungraph \u2013 See your AI coding-agent runs as a graph",
-      "url": "https://github.com/fayzan123/rungraph"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -91020,6 +91068,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Laguna-S-2.1 runs on my 6 years old gaming PC!",
     "title_norm": "lagunas21 runs on my 6 years old gaming pc"
+  },
+  "c132c1e1c64dad92108c8aa05e50b4bca9b0823a6ea0f06acb2c5a74507e1b45": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.520974+00:00",
+    "source": "TechCrunch AI",
+    "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+    "title_norm": "anthropic ceo says ai backlash is fundamentally a crisis of trust"
   },
   "c135a14eeb747956a1aa7207e6d711efd0e6f1338f452cc73c107c31ddaad069": {
     "category": "other",
@@ -118632,6 +118688,14 @@
     "source": "arXiv cs.AI",
     "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
     "title_norm": "frontier llmbased agents can overcome the ontology curation bottleneck for natural phenotypes"
+  },
+  "fea535c37b38bc37c889b1c5eac137839666615ad4e4cff3978203bf0489bd5c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:03:53.521235+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Making small local models actually useful for coding",
+    "title_norm": "making small local models actually useful for coding"
   },
   "feae6511a0a2e0f29aa93cdc235cdcd44777e8814a1c0fa3a0f0e6927d3c061e": {
     "category": "research",
