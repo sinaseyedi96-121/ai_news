@@ -4359,6 +4359,14 @@
     "title": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
     "title_norm": "dsagentbench can agents automate endtoend datascience workflows in real computer environments"
   },
+  "09191ee70fddbdeeb6f47774c79a7d90ede997735a33fdefbb61b409c78e0611": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.806025+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
+    "title_norm": "ai can guess your location from social media photos with 87 to 91 accuracy"
+  },
   "0919314858a5aec117dcf62783a70ea96581d2b829cfcf900eaea7a45565521a": {
     "category": "model_release",
     "posted": false,
@@ -27027,6 +27035,14 @@
     "title": "G9v3-39A5B: Agentic heavy MOE with low hallucination",
     "title_norm": "g9v339a5b agentic heavy moe with low hallucination"
   },
+  "388e75526f8221d2a67f273fde4e0882efa1d5c10aeb76e41787f8b38f8dd342": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.806078+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
+    "title_norm": "publishing whats worse than ai slop trad slop"
+  },
   "389685da9d82eb1bf091c1170ee2ec2bf98ed4615d5388a51663aa80224752f5": {
     "category": "research",
     "posted": false,
@@ -42904,6 +42920,14 @@
     "source": "Hacker News Frontpage",
     "title": "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
     "title_norm": "show hn pixy visual editor for coding agents like figma on your live site"
+  },
+  "5b25dbef57666966bcbea35e46525a0130844a39c6b4b9791eb568fccc66d5fb": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.805920+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+    "title_norm": "ordinary wifi can now identify you with nearperfect accuracy"
   },
   "5b265570a18177331293b50d281a6a0c4bd4b7aaa8926e2891692e1ddd4af235": {
     "category": null,
@@ -60457,6 +60481,14 @@
     "title": "When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems",
     "title_norm": "when prompts control robots prompt injection attacks in multiagent robotic systems"
   },
+  "8031a99757ab2f6a3ba94fd8dba11e44644f0cbb35a81c1c51003a88de98f002": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.806042+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AgentShield \u2013 Offline Rust security scanner for AI agent tools and MCP (<50ms)",
+    "title_norm": "agentshield offline rust security scanner for ai agent tools and mcp 50ms"
+  },
   "8032139f06b40b60356e017db5a7714a5d2f1fda2453a019bd4e3b03cf677f89": {
     "category": "other",
     "posted": false,
@@ -69743,6 +69775,14 @@
     "title": "AutoSupervision: Closing the Feedback Loop in Scientific Workflows with Grounded Revision Verification",
     "title_norm": "autosupervision closing the feedback loop in scientific workflows with grounded revision verification"
   },
+  "94985770f4a9b2170712a2699761896044c1c88b4bb60e9e3e31739298a2c887": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.806059+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI won't solve the work-theater problem",
+    "title_norm": "ai wont solve the worktheater problem"
+  },
   "949ccdfc0bbff0fc30eec1d0bba266edf9e7efa4100262857dd0d193cc084ef3": {
     "category": "other",
     "posted": false,
@@ -74959,6 +74999,38 @@
     {
       "category": "research",
       "duplicate_of": null,
+      "post_body": "\ud83d\udcf8 A new AI system can predict the location where a social media photo was taken with 87% to 91% accuracy, just by analyzing visual cues in the image. The model looks at landscape, architecture, vegetation, and even lighting patterns to narrow down the geographic area. Trained on millions of geotagged images, it can often pinpoint the city or region without any metadata. This kind of capability has big implications for privacy, especially for people who share photos online without realizing how much information is revealed. It could also become a powerful tool for journalism and investigations, but also for stalkers or authoritarian regimes. The research \ud83c\udf0d highlights how AI is turning innocuous photos into location leaks.",
+      "post_body_fa": "\ud83d\udcf8 \u06cc\u06a9 \u0633\u06cc\u0633\u062a\u0645 \u062c\u062f\u06cc\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u06a9\u0627\u0646 \u062b\u0628\u062a \u0639\u06a9\u0633 \u062f\u0631 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a \u06f8\u06f7\u066a \u062a\u0627 \u06f9\u06f1\u066a \u062a\u0646\u0647\u0627 \u0628\u0627 \u062a\u062d\u0644\u06cc\u0644 \u0646\u0634\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0628\u0635\u0631\u06cc \u067e\u06cc\u0634\u200c\u0628\u06cc\u0646\u06cc \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0647 \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632\u060c \u0645\u0639\u0645\u0627\u0631\u06cc\u060c \u067e\u0648\u0634\u0634 \u06af\u06cc\u0627\u0647\u06cc \u0648 \u062d\u062a\u06cc \u0627\u0644\u06af\u0648\u0647\u0627\u06cc \u0646\u0648\u0631 \u0646\u06af\u0627\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f \u062a\u0627 \u0645\u0646\u0637\u0642\u0647 \u062c\u063a\u0631\u0627\u0641\u06cc\u0627\u06cc\u06cc \u0631\u0627 \u0645\u062d\u062f\u0648\u062f \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0628\u0627 \u0622\u0645\u0648\u0632\u0634 \u0628\u0631 \u0631\u0648\u06cc \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u0639\u06a9\u0633 \u062f\u0627\u0631\u0627\u06cc \u0645\u0648\u0642\u0639\u06cc\u062a \u062c\u063a\u0631\u0627\u0641\u06cc\u0627\u06cc\u06cc\u060c \u0627\u063a\u0644\u0628 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0634\u0647\u0631 \u06cc\u0627 \u0645\u0646\u0637\u0642\u0647 \u0631\u0627 \u0628\u062f\u0648\u0646 \u0647\u06cc\u0686 \u0641\u0631\u0627\u062f\u0627\u062f\u0647\u200c\u0627\u06cc \u0645\u0634\u062e\u0635 \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a \u067e\u06cc\u0627\u0645\u062f\u0647\u0627\u06cc \u0628\u0632\u0631\u06af\u06cc \u0628\u0631\u0627\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u062f\u0627\u0631\u062f\u060c \u0628\u0647\u200c\u0648\u06cc\u0698\u0647 \u0628\u0631\u0627\u06cc \u0627\u0641\u0631\u0627\u062f\u06cc \u06a9\u0647 \u0639\u06a9\u0633\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0622\u0646\u0644\u0627\u06cc\u0646 \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0645\u06cc\u200c\u06af\u0630\u0627\u0631\u0646\u062f \u0628\u062f\u0648\u0646 \u0627\u06cc\u0646\u06a9\u0647 \u0628\u062f\u0627\u0646\u0646\u062f \u0686\u0647 \u0627\u0637\u0644\u0627\u0639\u0627\u062a\u06cc \u0641\u0627\u0634 \u0645\u06cc\u200c\u0634\u0648\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0627\u0628\u0632\u0627\u0631\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0628\u0631\u0627\u06cc \u0631\u0648\u0632\u0646\u0627\u0645\u0647\u200c\u0646\u06af\u0627\u0631\u06cc \u0648 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f\u060c \u0627\u0645\u0627 \u0628\u0631\u0627\u06cc \u0622\u0632\u0627\u0631\u06af\u0631\u0627\u0646 \u06cc\u0627 \u0631\u0698\u06cc\u0645\u200c\u0647\u0627\u06cc \u0627\u0633\u062a\u0628\u062f\u0627\u062f\u06cc \u0646\u06cc\u0632 \u0645\u0641\u06cc\u062f \u0628\u0627\u0634\u062f. \u0627\u06cc\u0646 \u067e\u0698\u0648\u0647\u0634 \ud83c\udf0d \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06af\u0648\u0646\u0647 \u0639\u06a9\u0633\u200c\u0647\u0627\u06cc \u0628\u06cc\u200c\u0622\u0632\u0627\u0631 \u0631\u0627 \u0628\u0647 \u0646\u0634\u062a \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0645\u06a9\u0627\u0646\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "post_title": "\ud83d\udccd AI Can Guess Where Photos Were Taken With 91% Accuracy",
+      "post_title_fa": "\ud83d\udccd \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u06a9\u0627\u0646 \u0639\u06a9\u0633\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a \u06f9\u06f1\u066a \u062d\u062f\u0633 \u0628\u0632\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T17:19:09+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/\">https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321857\">https://news.ycombinator.com/item?id=49321857</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
+      "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/"
+    },
+    {
+      "category": "research",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udce1 Researchers have shown that ordinary WiFi signals can identify people with near-perfect accuracy, turning everyday routers into potential surveillance tools. The technique analyzes subtle disturbances in wireless signals caused by human movement and body shape, using \ud83e\udde0 machine learning to match them to specific individuals. In tests, the system achieved accuracy rates close to 100%, far outperforming earlier WiFi-based identification efforts. This raises serious privacy concerns, since WiFi is already everywhere and requires no special hardware to exploit. For everyday users, it means your presence at home or office could be detected without cameras or sensors. While not yet deployed maliciously, the research \ud83d\udd25 underscores how ambient wireless data is a growing privacy risk.",
+      "post_body_fa": "\ud83d\udce1 \u0645\u062d\u0642\u0642\u0627\u0646 \u0646\u0634\u0627\u0646 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0633\u06cc\u06af\u0646\u0627\u0644\u200c\u0647\u0627\u06cc \u0645\u0639\u0645\u0648\u0644\u06cc \u0648\u0627\u06cc\u200c\u0641\u0627\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0641\u0631\u0627\u062f \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a\u06cc \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u06a9\u0627\u0645\u0644 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0646\u0646\u062f \u0648 \u0631\u0648\u062a\u0631\u0647\u0627\u06cc \u0631\u0648\u0632\u0645\u0631\u0647 \u0631\u0627 \u0628\u0647 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0628\u0627\u0644\u0642\u0648\u0647 \u0646\u0638\u0627\u0631\u062a\u06cc \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u062a\u06a9\u0646\u06cc\u06a9 \u0628\u0627 \u062a\u062d\u0644\u06cc\u0644 \u0627\u062e\u062a\u0644\u0627\u0644\u0627\u062a \u0638\u0631\u06cc\u0641 \u062f\u0631 \u0633\u06cc\u06af\u0646\u0627\u0644\u200c\u0647\u0627\u06cc \u0628\u06cc\u200c\u0633\u06cc\u0645 \u0646\u0627\u0634\u06cc \u0627\u0632 \u062d\u0631\u06a9\u062a \u0648 \u0634\u06a9\u0644 \u0628\u062f\u0646\u060c \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \ud83e\udde0 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0645\u0627\u0634\u06cc\u0646\u060c \u0627\u0641\u0631\u0627\u062f \u0631\u0627 \u0645\u0637\u0627\u0628\u0642\u062a \u0645\u06cc\u200c\u062f\u0647\u062f. \u062f\u0631 \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627\u060c \u0627\u06cc\u0646 \u0633\u06cc\u0633\u062a\u0645 \u0628\u0647 \u062f\u0642\u062a\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 \u06f1\u06f0\u06f0\u066a \u062f\u0633\u062a \u06cc\u0627\u0641\u062a \u06a9\u0647 \u0628\u0633\u06cc\u0627\u0631 \u0628\u0647\u062a\u0631 \u0627\u0632 \u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0648\u0627\u06cc\u200c\u0641\u0627\u06cc \u0628\u0648\u062f. \u0627\u06cc\u0646 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0631\u0627 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0648\u0627\u06cc\u200c\u0641\u0627\u06cc \u0647\u0645\u0647\u200c\u062c\u0627 \u062d\u0627\u0636\u0631 \u0627\u0633\u062a \u0648 \u0628\u0631\u0627\u06cc \u0628\u0647\u0631\u0647\u200c\u0628\u0631\u062f\u0627\u0631\u06cc \u0628\u0647 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u062e\u0627\u0635\u06cc \u0646\u06cc\u0627\u0632 \u0646\u062f\u0627\u0631\u062f. \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0639\u0627\u062f\u06cc\u060c \u0627\u06cc\u0646 \u0628\u062f\u0627\u0646 \u0645\u0639\u0646\u0627\u0633\u062a \u06a9\u0647 \u062d\u0636\u0648\u0631 \u0634\u0645\u0627 \u062f\u0631 \u062e\u0627\u0646\u0647 \u06cc\u0627 \u0645\u062d\u0644 \u06a9\u0627\u0631 \u0628\u062f\u0648\u0646 \u062f\u0648\u0631\u0628\u06cc\u0646 \u06cc\u0627 \u062d\u0633\u06af\u0631 \u0642\u0627\u0628\u0644 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0627\u0633\u062a. \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u0647\u0646\u0648\u0632 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062e\u0631\u0628 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u0634\u062f\u0647\u060c \u0627\u06cc\u0646 \u067e\u0698\u0648\u0647\u0634 \ud83d\udd25 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0628\u06cc\u200c\u0633\u06cc\u0645 \u0645\u062d\u06cc\u0637\u06cc \u06cc\u06a9 \u062e\u0637\u0631 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0628\u0631\u0627\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0647\u0633\u062a\u0646\u062f.",
+      "post_title": "\ud83d\udd2c WiFi Signals Can Identify You With Near-Perfect Accuracy",
+      "post_title_fa": "\ud83d\udd2c \u0633\u06cc\u06af\u0646\u0627\u0644\u200c\u0647\u0627\u06cc \u0648\u0627\u06cc\u200c\u0641\u0627\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0634\u0645\u0627 \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a\u06cc \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u06a9\u0627\u0645\u0644 \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u06a9\u0646\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-16T17:10:04+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News Frontpage",
+      "summary": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260811052857.htm\">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321783\">https://news.ycombinator.com/item?id=49321783</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm"
+    },
+    {
+      "category": "research",
+      "duplicate_of": null,
       "post_body": "\ud83e\uddd1\u200d\ud83d\udcbb Security researchers at Rubrik Zero Labs have demonstrated how attackers can hijack n8n's human-in-the-loop (HITL) chat sessions \u2014 the approval step meant to keep AI agents under control. By taking over an active session, a malicious actor can influence what the agent does, effectively bypassing the safety check.\n\n\ud83d\udd10 The technique hits a widely used orchestration platform, so teams building AI workflows on n8n are directly exposed. The report offers hardening guidance rather than a single patch, stressing that session authentication must be treated as a security boundary.",
       "post_body_fa": "\ud83e\uddd1\u200d\ud83d\udcbb \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc Rubrik Zero Labs \u0646\u0634\u0627\u0646 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0645\u0647\u0627\u062c\u0645\u0627\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u062c\u0644\u0633\u0627\u062a \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u0627\u0646\u0633\u0627\u0646-\u062f\u0631-\u062d\u0644\u0642\u0647 (HITL) \u062f\u0631 n8n \u0631\u0627 \u0631\u0628\u0648\u062f\u0647 \u0648 \u0639\u0645\u0644\u0627\u064b \u06a9\u0646\u062a\u0631\u0644 \u0639\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0627\u0632 \u06a9\u0627\u0631\u0628\u0631 \u0628\u06af\u06cc\u0631\u0646\u062f. \u0628\u0627 \u062a\u0635\u0627\u062d\u0628 \u06cc\u06a9 \u062c\u0644\u0633\u0647 \u0641\u0639\u0627\u0644\u060c \u0645\u0647\u0627\u062c\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06a9\u0627\u0631\u0647\u0627\u06cc \u0639\u0627\u0645\u0644 \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f \u0648 \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0627\u0647 \u0686\u06a9 \u0627\u06cc\u0645\u0646\u06cc \u0631\u0627 \u062f\u0648\u0631 \u0628\u0632\u0646\u062f.\n\n\ud83d\udd10 \u0627\u06cc\u0646 \u062a\u06a9\u0646\u06cc\u06a9 \u06cc\u06a9 \u067e\u0644\u062a\u0641\u0631\u0645 \u0627\u0631\u06a9\u0633\u062a\u0631\u0627\u0633\u06cc\u0648\u0646 \u067e\u0631\u06a9\u0627\u0631\u0628\u0631\u062f \u0631\u0627 \u0647\u062f\u0641 \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f\u060c \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u062a\u06cc\u0645\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0631\u0648\u06cc n8n \u06af\u0631\u062f\u0634\u200c\u06a9\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u0633\u0627\u0632\u0646\u062f \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u062f\u0631 \u0645\u0639\u0631\u0636 \u062e\u0637\u0631\u0646\u062f. \u0627\u06cc\u0646 \u06af\u0632\u0627\u0631\u0634 \u0628\u0647\u200c\u062c\u0627\u06cc \u06cc\u06a9 \u0648\u0635\u0644\u0647 \u0648\u0627\u062d\u062f\u060c \u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0645\u0642\u0627\u0648\u0645\u200c\u0633\u0627\u0632\u06cc \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u062a\u0623\u06a9\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \u0627\u062d\u0631\u0627\u0632 \u0647\u0648\u06cc\u062a \u062c\u0644\u0633\u0647 \u0628\u0627\u06cc\u062f \u06cc\u06a9 \u0645\u0631\u0632 \u0627\u0645\u0646\u06cc\u062a\u06cc \u062f\u0631 \u0646\u0638\u0631 \u06af\u0631\u0641\u062a\u0647 \u0634\u0648\u062f.",
       "post_title": "\ud83d\udd13 New research hijacks n8n human-in-the-loop AI chat sessions",
@@ -75003,38 +75075,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/\">https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320343\">https://news.ycombinator.com/item?id=49320343</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
       "title": "Mathematicians Despair as AI Achieves Jaw-Dropping Breakthroughs",
       "url": "https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcf0 Anthropic has introduced invisible watermarks to help identify AI-generated text, but researchers are still sceptical. Nature reports that these watermarks may not be robust enough to curb 'AI slop' \u2014 the flood of low-quality AI content. \ud83d\udca7\n\nThe concern is that determined users can strip or spoof the watermarks, making them unreliable at scale. The stakes are high as platforms seek ways to label synthetic content. \u2696\ufe0f Without stronger methods, misinformation and spam may continue to thrive. \ud83e\udd37",
-      "post_body_fa": "\ud83d\udcf0 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u0631\u0626\u06cc \u0628\u0631\u0627\u06cc \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0645\u062a\u0646\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647\u060c \u0627\u0645\u0627 \u0645\u062d\u0642\u0642\u0627\u0646 \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u062f\u0628\u06cc\u0646 \u0647\u0633\u062a\u0646\u062f. \u0646\u06cc\u0686\u0631 \u06af\u0632\u0627\u0631\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0627\u0641\u06cc \u0645\u0642\u0627\u0648\u0645 \u0646\u0628\u0627\u0634\u0646\u062f \u062a\u0627 \u00ab\u0622\u0634\u063a\u0627\u0644\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u00bb \u2014 \u0633\u06cc\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u0628\u06cc\u200c\u06a9\u06cc\u0641\u06cc\u062a \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u062a\u0648\u0633\u0637 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u2014 \u0631\u0627 \u0645\u0647\u0627\u0631 \u06a9\u0646\u0646\u062f. \ud83d\udca7\n\n\u0646\u06af\u0631\u0627\u0646\u06cc \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0645\u0635\u0645\u0645 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0631\u0627 \u062d\u0630\u0641 \u06cc\u0627 \u062c\u0639\u0644 \u06a9\u0646\u0646\u062f \u0648 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 \u0628\u0632\u0631\u06af \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0627\u0639\u062a\u0645\u0627\u062f \u0634\u0648\u0646\u062f. \u062e\u0637\u0631\u0627\u062a \u0632\u06cc\u0627\u062f \u0627\u0633\u062a\u060c \u0632\u06cc\u0631\u0627 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0631\u0627\u0647\u200c\u0647\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0628\u0631\u0686\u0633\u0628\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062d\u062a\u0648\u0627\u06cc \u0645\u0635\u0646\u0648\u0639\u06cc \u0647\u0633\u062a\u0646\u062f. \u2696\ufe0f \u0628\u062f\u0648\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0642\u0648\u06cc\u200c\u062a\u0631\u060c \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0646\u0627\u062f\u0631\u0633\u062a \u0648 \u0647\u0631\u0632\u0646\u0627\u0645\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647 \u062d\u06cc\u0627\u062a \u062e\u0648\u062f \u0627\u062f\u0627\u0645\u0647 \u062f\u0647\u0646\u062f. \ud83e\udd37",
-      "post_title": "\ud83d\udd0d Anthropic's Invisible Watermarks Face Researcher Skepticism",
-      "post_title_fa": "\ud83d\udd0d \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u0646\u0627\u0645\u0631\u0626\u06cc \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0628\u0627 \u0634\u06a9 \u0648 \u062a\u0631\u062f\u06cc\u062f \u0645\u062d\u0642\u0642\u0627\u0646 \u0645\u0648\u0627\u062c\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a",
-      "priority": "medium",
-      "published": "2026-08-16T13:56:21+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-02503-7\">https://www.nature.com/articles/d41586-026-02503-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320124\">https://news.ycombinator.com/item?id=49320124</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "Can Anthropic's invisible watermarks curb AI slop? Researchers remain sceptical",
-      "url": "https://www.nature.com/articles/d41586-026-02503-7"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcc9 Recent commits to the Qwen repository removed the 35B model, signaling the anticipated release is likely scrapped. The r/LocalLLaMA community \ud83d\udd0d noticed the change and is urging Qwen to reconsider, given the model's popularity among local LLM enthusiasts.\n\nIf confirmed, this would be a letdown \ud83d\udc94 for developers who hoped for a smaller, efficient MoE alternative. The removal hints that Qwen is consolidating efforts around other sizes, but no official statement has been made yet.",
-      "post_body_fa": "\ud83d\udcc9 \u06a9\u0627\u0645\u06cc\u062a\u200c\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631 \u0645\u062e\u0632\u0646 Qwen \u0645\u062f\u0644 35B \u0631\u0627 \u062d\u0630\u0641 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u06a9\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0639\u0631\u0636\u0647 \u0645\u0648\u0631\u062f \u0627\u0646\u062a\u0638\u0627\u0631 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0644\u063a\u0648 \u0634\u062f\u0647 \u0627\u0633\u062a. \u062c\u0627\u0645\u0639\u0647 r/LocalLLaMA \ud83d\udd0d \u0627\u06cc\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0631\u0627 \u0645\u0634\u0627\u0647\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0648 \u0627\u0632 Qwen \u062e\u0648\u0627\u0633\u062a\u0647 \u0627\u0633\u062a \u062a\u062c\u062f\u06cc\u062f \u0646\u0638\u0631 \u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0627\u06cc\u0646 \u0645\u062f\u0644 \u062f\u0631 \u0628\u06cc\u0646 \u0639\u0644\u0627\u0642\u0647\u200c\u0645\u0646\u062f\u0627\u0646 \u0628\u0647 LLM \u0645\u062d\u0644\u06cc \u0628\u0633\u06cc\u0627\u0631 \u0645\u062d\u0628\u0648\u0628 \u0627\u0633\u062a.\n\n\u0627\u06af\u0631 \u062a\u0623\u06cc\u06cc\u062f \u0634\u0648\u062f\u060c \u0627\u06cc\u0646 \u0646\u0627\u0627\u0645\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \ud83d\udc94 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u06a9\u0647 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u06cc\u06a9 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u06a9\u0648\u0686\u06a9\u200c\u062a\u0631 \u0648 \u06a9\u0627\u0631\u0622\u0645\u062f\u062a\u0631 MoE \u0628\u0648\u062f\u0646\u062f. \u062d\u0630\u0641 \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 Qwen \u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0631\u0648\u06cc \u0627\u0646\u062f\u0627\u0632\u0647\u200c\u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0645\u062a\u0645\u0631\u06a9\u0632 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0647\u0646\u0648\u0632 \u0627\u0638\u0647\u0627\u0631\u0646\u0638\u0631 \u0631\u0633\u0645\u06cc \u0645\u0646\u062a\u0634\u0631 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.",
-      "post_title": "\ud83d\udeab Qwen 35B pulled from newer commits, likely canceled",
-      "post_title_fa": "\ud83d\udeab Qwen 35B \u0627\u0632 \u06a9\u0627\u0645\u06cc\u062a\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u062d\u0630\u0641 \u0634\u062f\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u0639\u0631\u0636\u0647 \u0644\u063a\u0648 \u0645\u06cc\u200c\u0634\u0648\u062f",
-      "priority": "medium",
-      "published": "2026-08-16T13:39:26+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\"> <img alt=\"Newer commits removed the Qwen 35B\" src=\"https://external-preview.redd.it/tUAD-zXcA8X5TflnoexZVk3qKe8Q4XJpwE7choNBsYQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2abc6f6b3139d23819bf346822056f319f369cfc\" title=\"Newer commits removed the Qwen 35B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In this commits, the 35B model was removed. Looks like it's confirming the 35B model won't get released.</p> <p>I think they need to be made aware how big the 35 moe is widely used. Think need to make noise on theyre X, huggingface and online places. If they dont know there's no need to release for people group who dont speak up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Local-Cardiologist-5\"> /u/Local-Cardiologist-5 </a> <br /> <span><a href=\"https://github.com/modelscope/ms-swift/commit/a45f1d4f73157ba59062a7fd1f55a40dae759156\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/\">[comments]</a></span> </td></tr></table>",
-      "title": "Newer commits removed the Qwen 35B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpxbm8/newer_commits_removed_the_qwen_35b/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -86008,6 +86048,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "GitHub - Liquid4All/cookbook: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
     "title_norm": "github liquid4allcookbook examples end2end tutorials and apps built using liquid ai foundational models lfm and the leap sdk"
+  },
+  "b6f6a5aa25bff2ef5db0e27e52053b2ea9c9b502779352a61ae11a2b493e10a0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-16T17:36:48.805993+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: I built my 15-year-old game idea in a week with AI",
+    "title_norm": "show hn i built my 15yearold game idea in a week with ai"
   },
   "b6fb28e24e927384d51813eabd5e4152dfde41317604a86870894f42da03fddb": {
     "category": "integration",
