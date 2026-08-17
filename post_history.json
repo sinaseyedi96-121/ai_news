@@ -6621,6 +6621,14 @@
     "title": "Sapphire r9700 fan noise",
     "title_norm": "sapphire r9700 fan noise"
   },
+  "0d9e704bf8bc6f50f1fc428b7b903f1975c12a22f18aaad64087872dec390137": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841431+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Side by side SVG comparison: Qwen3.8-27B vs Muse Glimmer 30B vs Gemma 4 26B A4B & Gemini 3.7 Flash as control.",
+    "title_norm": "side by side svg comparison qwen3827b vs muse glimmer 30b vs gemma 4 26b a4b gemini 37 flash as control"
+  },
   "0da9ecb9fa6750657a7526cc6ea5ca340bd8e0b6f1a640913107a6cbb6830a81": {
     "category": "other",
     "posted": false,
@@ -26261,6 +26269,14 @@
     "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
     "title_norm": "accelerate a world of llms on hugging face with nvidia nim"
   },
+  "3567d6cc9e6af5e8370386faea51d4fcf83d738e75aa536dbb0ae7b749eadd45": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841385+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+    "title_norm": "are microsofts ai plans being held back by a shortage of chips"
+  },
   "3567f79a114416f37eb0e97721e9a433340b4ca217c867d354ee37b5a63ce099": {
     "category": "integration",
     "posted": false,
@@ -26868,6 +26884,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "LFM 2.5 230M running at 1440 tok/s in-browser through a custom backend",
     "title_norm": "lfm 25 230m running at 1440 toks inbrowser through a custom backend"
+  },
+  "367ac8d73bd611caac3e915def4202745d3b67d7fc59a403400659f05ec2ee3a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841400+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Petition to add a rule for people to add their DAMN quant levels to their posts",
+    "title_norm": "petition to add a rule for people to add their damn quant levels to their posts"
   },
   "367c110bc11f7cda7e4dd715ef28d5a52a70453e4081fa5162beac6bd3729298": {
     "category": "other",
@@ -60721,6 +60745,14 @@
     "title": "ScalableRAG: High-Quality RAG at Zero Ingestion Cost",
     "title_norm": "scalablerag highquality rag at zero ingestion cost"
   },
+  "7d7a60c9b9ca1831c5dab49f8ea49a9a061dd5a0bc130133c2c44609ea5bda0e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841417+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Unpopular opinion : Qwen 3.8 27b is not an overthinker",
+    "title_norm": "unpopular opinion qwen 38 27b is not an overthinker"
+  },
   "7d7a7838aff3d4efa9dbe132bab0dd95075d728b7838694daa93269d77b3136a": {
     "category": "research",
     "posted": false,
@@ -63949,6 +63981,14 @@
     "title": "DeepSeek V4 Flash 0731GGUFs with updated template (supports reasoning levels)",
     "title_norm": "deepseek v4 flash 0731ggufs with updated template supports reasoning levels"
   },
+  "84697c618a13c8dfd858188e191cabbdbcc15eaf40b3c442f94444fcad1d01f4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841218+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Beyond the AI Layoff Fear",
+    "title_norm": "beyond the ai layoff fear"
+  },
   "846e1b625d3de3fc3dcf78495f8df0eda643e4e6aad1d3b745dd0110d6a89007": {
     "category": "research",
     "posted": false,
@@ -66280,6 +66320,14 @@
     "source": "Hugging Face Blog",
     "title": "CodeAgents + Structure: A\u00a0Better Way to Execute Actions",
     "title_norm": "codeagents structure a better way to execute actions"
+  },
+  "89995a086fcd143dca15cf00e42233ace434778a9dddb0a7cc0a31d3a96b4536": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841291+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Integrating AI into the Newspeak IDE [video]",
+    "title_norm": "integrating ai into the newspeak ide video"
   },
   "899ad2e55eff9527de4b7edfa8efb222c435e390289f74b5b0bbdf4a873c79fa": {
     "category": "other",
@@ -76709,32 +76757,17 @@
   },
   "_meta": {
     "date": "2026-08-17",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "policy": 1
+      "policy": 1,
+      "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-17-10"
+    "last_slot": "2026-08-17-12"
   },
   "_queue": [
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde9 Researchers introduce HELIX, a framework that lets AI agents improve themselves by co-evolving both the model and its runtime harness. Instead of only updating weights, HELIX also evolves the tools, control flow, and context management that shape an agent's behavior.\n\n\ud83d\udd04 This source-traceable substrate preserves intervention identity while harnesses are rebuilt as capabilities change. \ud83d\ude80 The approach could accelerate progress toward recursive self-improvement, where agents continuously upgrade their own systems. This is a significant step beyond fixed-pipeline agent architectures.",
-      "post_body_fa": "\ud83e\udde9 \u0645\u062d\u0642\u0642\u0627\u0646 \u0686\u0627\u0631\u0686\u0648\u0628 HELIX \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0628\u0647 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u0627 \u062a\u06a9\u0627\u0645\u0644 \u0647\u0645\u0632\u0645\u0627\u0646 \u0645\u062f\u0644 \u0648 \u0647\u0627\u0631\u0646\u0633 (runtime harness) \u062e\u0648\u062f \u0631\u0627 \u0628\u0647\u0628\u0648\u062f \u0628\u062e\u0634\u0646\u062f. \u0628\u0647 \u062c\u0627\u06cc \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0635\u0631\u0641 \u0648\u0632\u0646\u200c\u0647\u0627\u060c HELIX \u0647\u0645\u0686\u0646\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u060c \u062c\u0631\u06cc\u0627\u0646 \u06a9\u0646\u062a\u0631\u0644 \u0648 \u0645\u062f\u06cc\u0631\u06cc\u062a \u0632\u0645\u06cc\u0646\u0647 \u0631\u0627 \u06a9\u0647 \u0631\u0641\u062a\u0627\u0631 \u0639\u0627\u0645\u0644 \u0631\u0627 \u0634\u06a9\u0644 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f\u060c \u062a\u06a9\u0627\u0645\u0644 \u0645\u06cc\u200c\u0628\u062e\u0634\u062f.\n\n\ud83d\udd04 \u0627\u06cc\u0646 \u0628\u0633\u062a\u0631 \u0628\u0627 \u0642\u0627\u0628\u0644\u06cc\u062a \u0631\u062f\u06cc\u0627\u0628\u06cc \u0645\u0646\u0628\u0639\u060c \u0647\u0648\u06cc\u062a \u0645\u062f\u0627\u062e\u0644\u0627\u062a \u0631\u0627 \u062d\u0641\u0638 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0647\u0627\u0631\u0646\u0633\u200c\u0647\u0627 \u0628\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627 \u0628\u0627\u0632\u0633\u0627\u0632\u06cc \u0645\u06cc\u200c\u0634\u0648\u0646\u062f. \ud83d\ude80 \u0627\u06cc\u0646 \u0631\u0648\u06cc\u06a9\u0631\u062f \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u067e\u06cc\u0634\u0631\u0641\u062a \u0628\u0647 \u0633\u0645\u062a \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f\u06cc \u0628\u0627\u0632\u06af\u0634\u062a\u06cc \u0631\u0627 \u062a\u0633\u0631\u06cc\u0639 \u06a9\u0646\u062f\u060c \u062c\u0627\u06cc\u06cc \u06a9\u0647 \u0639\u0648\u0627\u0645\u0644 \u0628\u0647\u200c\u0637\u0648\u0631 \u067e\u06cc\u0648\u0633\u062a\u0647 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0627\u0631\u062a\u0642\u0627 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f. \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0645\u0647\u0645 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0645\u0639\u0645\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u062b\u0627\u0628\u062a \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u0633\u062a.",
-      "post_title": "\ud83d\udd04 HELIX enables models and harnesses to co-evolve for self-improvement",
-      "post_title_fa": "\ud83d\udd04 HELIX \u0627\u0645\u06a9\u0627\u0646 \u062a\u06a9\u0627\u0645\u0644 \u0645\u0634\u062a\u0631\u06a9 \u0645\u062f\u0644 \u0648 \u0647\u0627\u0631\u0646\u0633 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f\u06cc \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f",
-      "priority": "high",
-      "published": "2026-08-17T04:00:00+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "arXiv cs.AI",
-      "summary": "arXiv:2608.13951v1 Announce Type: new \nAbstract: Scaling agent capability has largely focused on improving the model, yet an interactive agent acts through a runtime harness that mediates context, tools, control flow, and stopping. The harness shapes both what a model can accomplish and the trajectories from which it learns. This coupling motivates model-harness co-evolution for recursive self-improvement: build harnesses for a fixed model, update the model from verified sibling trajectories, and rebuild the harnesses as model capabilities change. Realizing this loop requires a controlled way to evolve harnesses while preserving intervention identity and effect. We present HELIX, a source-traceable substrate for harness evolution. HELIX decomposes agent systems into typed ports, reusable atoms, recipes, product shells, and runtime policies. It makes interventions explicit and auditable while retaining trajectories, test outcomes, and provenance. Harness evolution thus serves two linked roles: improving fixed-model execution and producing matched successes, regressions, near misses, and alternative solutions as data for subsequent model improvement. We evaluate HELIX in one evolution round on code repair. A 65-candidate portfolio discovers a fixed harness that improves task coverage by 4.0% over Pi, while the full portfolio exposes up to 58.0% more verified coverage through complementary sibling behavior. Selected candidates are assessed with repeated runs and the SWE-bench evaluator. A 200-slot sibling slice yields 438 verified SFT, critic, filter, and preference records. These results show how harness, model, and data form a feedback system: harness evolution expands current capability and creates learning signal for the next model; model updates motivate the next round of harness evolution. HELIX provides an auditable interface for studying this recursive process. Code is available at https://github.com/HKUDS/HELIX.",
-      "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
-      "url": "https://arxiv.org/abs/2608.13951"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -76880,6 +76913,22 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/"
     },
     {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udca1 Microsoft may be hitting a wall in its AI expansion because of a shortage of advanced chips, according to a Guardian report. Securing enough GPUs for AI workloads is turning into a bottleneck for the company's plans. This isn't just one vendor's problem \u2014 tight supply of AI accelerators could slow product rollouts and raise costs across the industry. \u26a1 For Azure customers, that could mean longer waits for new AI features or capacity limits in some regions. \ud83c\udfed The crunch also shows how dependent Big Tech's AI roadmaps are on Nvidia and other chip suppliers.",
+      "post_body_fa": "\ud83d\udca1 \u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634\u06cc \u0627\u0632 \u06af\u0627\u0631\u062f\u06cc\u0646\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0645\u0627\u06cc\u06a9\u0631\u0648\u0633\u0627\u0641\u062a \u0628\u0647 \u062f\u0644\u06cc\u0644 \u06a9\u0645\u0628\u0648\u062f \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u062f\u0631 \u0645\u0633\u06cc\u0631 \u062a\u0648\u0633\u0639\u0647\u0654 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0648\u062f \u0628\u0627 \u0645\u0627\u0646\u0639 \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u062f. \u062a\u0623\u0645\u06cc\u0646 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627\u06cc \u06af\u0631\u0627\u0641\u06cc\u06a9\u06cc \u06a9\u0627\u0641\u06cc \u0628\u0631\u0627\u06cc \u0628\u0627\u0631 \u06a9\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062d\u0627\u0644 \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0646 \u0628\u0647 \u06cc\u06a9 \u06af\u0644\u0648\u06af\u0627\u0647 \u0628\u0631\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0641\u0642\u0637 \u0645\u0634\u06a9\u0644 \u06cc\u06a9 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u0646\u06cc\u0633\u062a\u061b \u0639\u0631\u0636\u0647\u0654 \u0645\u062d\u062f\u0648\u062f \u0634\u062a\u0627\u0628\u200c\u062f\u0647\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0639\u0631\u0636\u0647\u0654 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0631\u0627 \u06a9\u0646\u062f \u0648 \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627 \u0631\u0627 \u062f\u0631 \u06a9\u0644 \u0635\u0646\u0639\u062a \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u062f. \u26a1 \u0628\u0631\u0627\u06cc \u0645\u0634\u062a\u0631\u06cc\u0627\u0646 Azure\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0627\u0646\u062a\u0638\u0627\u0631 \u0637\u0648\u0644\u0627\u0646\u06cc\u200c\u062a\u0631 \u0628\u0631\u0627\u06cc \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06cc\u0627 \u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0638\u0631\u0641\u06cc\u062a \u062f\u0631 \u0628\u0631\u062e\u06cc \u0645\u0646\u0627\u0637\u0642. \ud83c\udfed \u0627\u06cc\u0646 \u06a9\u0645\u0628\u0648\u062f \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0646\u0642\u0634\u0647 \u0631\u0627\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0641\u0646\u0627\u0648\u0631\u06cc \u0686\u0642\u062f\u0631 \u0628\u0647 \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0648 \u0633\u0627\u06cc\u0631 \u062a\u0623\u0645\u06cc\u0646\u200c\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u062a\u0631\u0627\u0634\u0647 \u0648\u0627\u0628\u0633\u062a\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83c\udfd7\ufe0f Are Microsoft's AI Plans Being Held Back by a Chip Shortage?",
+      "post_title_fa": "\ud83c\udfd7\ufe0f \u0622\u06cc\u0627 \u06a9\u0645\u0628\u0648\u062f \u062a\u0631\u0627\u0634\u0647\u060c \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0627\u06cc\u06a9\u0631\u0648\u0633\u0627\u0641\u062a \u0631\u0627 \u0639\u0642\u0628 \u0627\u0646\u062f\u0627\u062e\u062a\u0647\u061f",
+      "priority": "medium",
+      "published": "2026-08-17T09:02:35+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips\">https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49328136\">https://news.ycombinator.com/item?id=49328136</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips"
+    },
+    {
       "category": "integration",
       "duplicate_of": null,
       "post_body": "\ud83e\udd1d Support for inclusionAI's Ling 3.0 models has been merged into llama.cpp. The family includes Ling 3.0 tiny (8B1B) and Ling 3.0 flash (124B5B), and both are reasoning models despite earlier naming. \ud83e\udd99 The merged PR (#26608) means users can now run these models locally with llama.cpp's efficient inference stack.\n\n\u26a1 This is a big deal for the open-source community, since the flash model is a large MoE with 124B total parameters but only 5B active. \ud83d\udce6 Model weights are already on Hugging Face, so local deployment can start right away. If you run local LLMs, this expands your options for high-capability reasoning models.",
@@ -76894,22 +76943,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Support for the new ling 3.0 models has been merged into llama.cpp:</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/pull/26608#event-29549472828\">https://github.com/ggml-org/llama.cpp/pull/26608#event-29549472828</a></p> <p>Ling tiny 8b1b - <a href=\"https://huggingface.co/inclusionAI/Ling-3.0-tiny\">https://huggingface.co/inclusionAI/Ling-3.0-tiny</a></p> <p>Ling flash 124b5b - <a href=\"https://huggingface.co/inclusionAI/Ling-3.0-flash\">https://huggingface.co/inclusionAI/Ling-3.0-flash</a></p> <p>Both are reasoning models contrary to prior naming.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/parepeg\"> /u/parepeg </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/\">[comments]</a></span>",
       "title": "Ling 3.0 support merged into llama.cpp",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd25 A report backing Australia's teen social media ban appears to include AI-generated content and fabricated citations, The Guardian reports. The discovery raises doubts about how the evidence was compiled and whether it was properly reviewed before being used in a major policy debate.\n\n\ud83d\udccb Lawmakers now face pressure to clarify who generated the text and why the inaccuracies went unnoticed. This matters because policy built on unverified AI output can erode public trust, especially when the issue is internet regulation for minors. \ud83c\udf0d Expect further scrutiny of AI use in government reports worldwide.",
-      "post_body_fa": "\ud83d\udd25 \u06af\u0632\u0627\u0631\u0634\u06cc \u06a9\u0647 \u0627\u0632 \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062d\u0645\u0627\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0638\u0627\u0647\u0631\u0627\u064b \u0634\u0627\u0645\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0627\u0631\u062c\u0627\u0639\u200c\u0647\u0627\u06cc \u062c\u0639\u0644\u06cc \u0627\u0633\u062a\u061b \u06af\u0627\u0631\u062f\u06cc\u0646 \u0627\u06cc\u0646 \u0631\u0627 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0631\u062f\u0647. \u0627\u06cc\u0646 \u06a9\u0634\u0641 \u062a\u0631\u062f\u06cc\u062f\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u062d\u0648\u0647 \u06af\u0631\u062f\u0622\u0648\u0631\u06cc \u0634\u0648\u0627\u0647\u062f \u0648 \u0627\u06cc\u0646\u06a9\u0647 \u0622\u06cc\u0627 \u067e\u06cc\u0634 \u0627\u0632 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062f\u0631 \u06cc\u06a9 \u0628\u062d\u062b \u0633\u06cc\u0627\u0633\u06cc \u0645\u0647\u0645\u060c \u0628\u0647\u200c\u062f\u0631\u0633\u062a\u06cc \u0628\u0631\u0631\u0633\u06cc \u0634\u062f\u0647 \u06cc\u0627 \u0646\u0647\u060c \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83d\udccb \u0642\u0627\u0646\u0648\u0646\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0627\u06a9\u0646\u0648\u0646 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0647\u0633\u062a\u0646\u062f \u062a\u0627 \u0645\u0634\u062e\u0635 \u06a9\u0646\u0646\u062f \u0686\u0647 \u06a9\u0633\u06cc \u0627\u06cc\u0646 \u0645\u062a\u0646 \u0631\u0627 \u062a\u0648\u0644\u06cc\u062f \u06a9\u0631\u062f\u0647 \u0648 \u0686\u0631\u0627 \u0627\u06cc\u0646 \u0646\u0627\u062f\u0631\u0633\u062a\u06cc\u200c\u0647\u0627 \u062f\u06cc\u062f\u0647 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u0633\u06cc\u0627\u0633\u062a\u06cc \u06a9\u0647 \u0628\u0631 \u067e\u0627\u06cc\u0647 \u062e\u0631\u0648\u062c\u06cc \u062a\u0623\u06cc\u06cc\u062f\u0646\u0634\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u0627\u062e\u062a\u0647 \u0634\u0648\u062f \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0639\u062a\u0645\u0627\u062f \u0639\u0645\u0648\u0645\u06cc \u0631\u0627 \u062a\u0636\u0639\u06cc\u0641 \u06a9\u0646\u062f\u060c \u0628\u0647\u200c\u0648\u06cc\u0698\u0647 \u0648\u0642\u062a\u06cc \u0628\u062d\u062b \u062f\u0631\u0628\u0627\u0631\u0647 \u0645\u0642\u0631\u0631\u0627\u062a \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0628\u0631\u0627\u06cc \u062e\u0631\u062f\u0633\u0627\u0644\u0627\u0646 \u0627\u0633\u062a. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0628\u0631\u0631\u0633\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a\u06cc \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646 \u0635\u0648\u0631\u062a \u06af\u06cc\u0631\u062f.",
-      "post_title": "\u2696\ufe0f Australia's social media ban report appears to contain AI hallucinations",
-      "post_title_fa": "\u2696\ufe0f \u06af\u0632\u0627\u0631\u0634 \u062d\u0627\u0645\u06cc \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062d\u0627\u0648\u06cc \u062a\u0648\u0647\u0645\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a",
-      "priority": "medium",
-      "published": "2026-08-17T07:07:06+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb\">https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327382\">https://news.ycombinator.com/item?id=49327382</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Report supporting Australia's teen social media ban appears to contain AI",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -79171,6 +79204,14 @@
     "source": "arXiv cs.AI",
     "title": "Long-term Traffic Scene Prediction via Polynomial Representations in Autonomous Driving",
     "title_norm": "longterm traffic scene prediction via polynomial representations in autonomous driving"
+  },
+  "a4d58fe071ba0c43cffb6854b31db6d4b4717f0079b8eec155fb66cd4e83d28e": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841329+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Octoweb \u2013 A Keyboard-First Browser with AI as a Citizen",
+    "title_norm": "show hn octoweb a keyboardfirst browser with ai as a citizen"
   },
   "a4dac36ec63d4db6b6fda552489fbb471db2e3617598fb71b1bae9137c4c9d7f": {
     "category": "research",
@@ -89266,6 +89307,14 @@
     "title": "ReLTEx: Reliable LLM-based Taxonomy Expansion",
     "title_norm": "reltex reliable llmbased taxonomy expansion"
   },
+  "b91772118ac3c557f695c5c781c5f18b35912eacfd290a9317da457f470ba581": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841353+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Nvidia AI Financing Is the $500B Risk Investors Aren't Watching",
+    "title_norm": "nvidia ai financing is the 500b risk investors arent watching"
+  },
   "b91776164c58f098df76ce78c9816ba27a95eb103604ec1d5526a175b9432fb6": {
     "category": "other",
     "posted": false,
@@ -93679,6 +93728,14 @@
     "source": "arXiv cs.AI",
     "title": "Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG",
     "title_norm": "before reasoning can fail preevidence procedural failures in agentic rag"
+  },
+  "c2025955627897a0b70958ba05a9b54a55c23eb1571d4a2853c025d2ac280ae6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T10:00:34.841371+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The challenge of AI value after deployment",
+    "title_norm": "the challenge of ai value after deployment"
   },
   "c2027debbc2ff658e47edf94726a2b25b08da44e2d2ad290a2ddca750bad6cb4": {
     "category": null,
@@ -109796,7 +109853,13 @@
   },
   "e52c6611828e81acdf11bec3ec2b5a65e748193ef2e43c05df6dae9869aeb7ec": {
     "category": "research",
-    "posted": false,
+    "message_id": 218,
+    "message_id_fa": 192,
+    "post_title": "\ud83d\udd04 HELIX enables models and harnesses to co-evolve for self-improvement",
+    "post_title_fa": "\ud83d\udd04 HELIX \u0627\u0645\u06a9\u0627\u0646 \u062a\u06a9\u0627\u0645\u0644 \u0645\u0634\u062a\u0631\u06a9 \u0645\u062f\u0644 \u0648 \u0647\u0627\u0631\u0646\u0633 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f\u06cc \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+    "posted": true,
+    "posted_at": "2026-08-17T10:00:35.696738+00:00",
+    "priority": "high",
     "seen_at": "2026-08-17T07:17:37.673643+00:00",
     "source": "arXiv cs.AI",
     "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
