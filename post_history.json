@@ -1477,6 +1477,14 @@
     "title": "ProEvent: An Event-centric Benchmark for Proactive Agents",
     "title_norm": "proevent an eventcentric benchmark for proactive agents"
   },
+  "02adff05cbfb1df1f8fa92eb16e8a177daef002bdb0a5a535cc3e796ca3b63ee": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473194+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "David Sacks on X: Some thoughts on Dario's post",
+    "title_norm": "david sacks on x some thoughts on darios post"
+  },
   "02b03aa4edb9fedbe9124bdf5e6464ca1d7ad0bc54c35459ad627e15961b215f": {
     "category": "research",
     "posted": false,
@@ -1788,6 +1796,14 @@
     "source": "arXiv cs.AI",
     "title": "Continual Learning in Transition",
     "title_norm": "continual learning in transition"
+  },
+  "03788f78b7533f168d43bdfdcc1accebf40bf50ca2b2153b1984506257702105": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473361+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "An experiment using a ThinkingCap lora for Qwen 3.6, but on Qwen 3.8",
+    "title_norm": "an experiment using a thinkingcap lora for qwen 36 but on qwen 38"
   },
   "0378c2306209e9ccf2a57a9f36652f1d45164f8df2b399e3c4966082c943f7fd": {
     "category": "research",
@@ -9287,6 +9303,14 @@
     "title": "Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection",
     "title_norm": "dual spatialtemporal attribution architecturealigned posthoc explainability for recurrent graph anomaly detection"
   },
+  "1380f7766171a5a616fa9c577a9838fc6a9a2eedb637829cee254df1dadbabf0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473046+00:00",
+    "source": "OpenAI News",
+    "title": "The Defender\u2019s Window",
+    "title_norm": "the defenders window"
+  },
   "1383a71e000c27af80018094f82845408e310da7c956fb82d508163070563129": {
     "category": "research",
     "posted": false,
@@ -16514,6 +16538,14 @@
     "source": "OpenAI News",
     "title": "Introducing more enterprise-grade features for API customers",
     "title_norm": "introducing more enterprisegrade features for api customers"
+  },
+  "22405ea1e27b33a112e5993768ccd8037502e8807b567c66afebae15a259b5d8": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473146+00:00",
+    "source": "OpenAI News",
+    "title": "OpenAI joins PORTS-Pike project",
+    "title_norm": "openai joins portspike project"
   },
   "2244ef3bdb80538ca5d42cb2f8a7abef3219df89c074d67b207c20989e3f46b8": {
     "category": "research",
@@ -24964,6 +24996,14 @@
     "source": "The Verge AI",
     "title": "OpenAI is losing its second executive this week",
     "title_norm": "openai is losing its second executive this week"
+  },
+  "32bdd6a85699433c5338116d75abbec472a4a779c8fdbda5d242f127f3872f49": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473223+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Mexico Crackdown on Coastal Development Underway",
+    "title_norm": "mexico crackdown on coastal development underway"
   },
   "32be230890de35464cc307d540d651fe95542fe956602fd43fd83afded247954": {
     "category": "other",
@@ -35967,6 +36007,14 @@
     "title": "Puck AI \u2013 Visual AI builder embedded in your app",
     "title_norm": "puck ai visual ai builder embedded in your app"
   },
+  "4a4e9d39417196fd8244bcd145b22691dadafcada6720704049c7ec1f36a58c4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473278+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A local-first scanner for hidden Unicode in AI-generated text",
+    "title_norm": "a localfirst scanner for hidden unicode in aigenerated text"
+  },
   "4a4f0b7fbe2653ec802c508c5c138896a7df54882d5d17cf67cde7555cd1ea86": {
     "category": "integration",
     "posted": false,
@@ -44368,6 +44416,14 @@
     "source": "arXiv cs.AI",
     "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
     "title_norm": "concept drift detection and adaptive retraining of malware classification models"
+  },
+  "5b6ff0e310791e56eb90a12f71f6540a23bdffe4ad85a5391812e13b2949087d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473265+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Who's doing what with watermarking AI content?",
+    "title_norm": "whos doing what with watermarking ai content"
   },
   "5b70015a86a5901be8e740b10d1fe87df28fbef1babdc0ca7454cd4e4c39250f": {
     "category": "other",
@@ -76922,6 +76978,38 @@
     {
       "category": "model_release",
       "duplicate_of": null,
+      "post_body": "\ud83d\udcf7 OpenAI's new vision model GPT-5.6 Sol is being praised as its strongest visual AI yet. A detailed review from Roboflow highlights major gains in image understanding, captioning, and document intelligence. \u26a1 Early tests show it outperforms previous OpenAI vision systems on several benchmarks. For developers, this means more accurate features in photo analytics, OCR, and visual search apps. \ud83d\udd25 Vision-language models are becoming a core part of AI products, and GPT-5.6 Sol appears to raise the bar. \ud83c\udf0d",
+      "post_body_fa": "\ud83d\udcf7 \u0645\u062f\u0644 \u0628\u06cc\u0646\u0627\u06cc\u06cc \u062c\u062f\u06cc\u062f OpenAI \u0628\u0647 \u0646\u0627\u0645 GPT-5.6 Sol \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0642\u0648\u06cc\u200c\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0635\u0631\u06cc \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u062a\u062d\u0633\u06cc\u0646 \u0645\u06cc\u200c\u0634\u0648\u062f. \u06cc\u06a9 \u0628\u0631\u0631\u0633\u06cc \u062f\u0642\u06cc\u0642 \u0627\u0632 Roboflow \u067e\u06cc\u0634\u0631\u0641\u062a\u200c\u0647\u0627\u06cc \u0686\u0634\u0645\u06af\u06cc\u0631\u06cc \u062f\u0631 \u062f\u0631\u06a9 \u062a\u0635\u0648\u06cc\u0631\u060c \u062a\u0648\u0644\u06cc\u062f \u06a9\u067e\u0634\u0646 \u0648 \u0647\u0648\u0634\u0645\u0646\u062f\u06cc \u0627\u0633\u0646\u0627\u062f \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f. \u26a1 \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0627\u0632 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc OpenAI \u062f\u0631 \u0686\u0646\u062f\u06cc\u0646 \u0645\u0639\u06cc\u0627\u0631 \u0628\u0647\u062a\u0631 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u062f\u0642\u062a \u0628\u06cc\u0634\u062a\u0631 \u062f\u0631 \u0622\u0646\u0627\u0644\u06cc\u0632 \u0639\u06a9\u0633\u060c OCR \u0648 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u062c\u0633\u062a\u062c\u0648\u06cc \u0628\u0635\u0631\u06cc. \ud83d\udd25 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646-\u0628\u06cc\u0646\u0627\u06cc\u06cc \u0628\u0647 \u0628\u062e\u0634 \u0627\u0635\u0644\u06cc \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f GPT-5.6 Sol \u0633\u0637\u062d \u0631\u0627 \u0628\u0627\u0644\u0627 \u0628\u0631\u062f\u0647 \u0627\u0633\u062a. \ud83c\udf0d",
+      "post_title": "\ud83d\ude80 GPT-5.6 Sol hailed as OpenAI's best vision model",
+      "post_title_fa": "\ud83d\ude80 \u062c\u06cc\u200c\u067e\u06cc\u200c\u062a\u06cc-\u06f5.\u06f6 \u0633\u0648\u0644 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u0628\u06cc\u0646\u0627\u06cc\u06cc OpenAI \u0645\u0639\u0631\u0641\u06cc \u0634\u062f",
+      "priority": "high",
+      "published": "2026-08-17T12:09:42+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News Frontpage",
+      "summary": "<p>Article URL: <a href=\"https://blog.roboflow.com/openai-gpt-5-6/\">https://blog.roboflow.com/openai-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329575\">https://news.ycombinator.com/item?id=49329575</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/"
+    },
+    {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfed OpenAI has joined the PORTS-Pike project in Southern Ohio, a large infrastructure buildout aimed at creating thousands of local jobs. \ud83d\udcb5 The company says the project will include significant community investment alongside new facilities.\n\nThis is part of OpenAI's massive push to expand compute capacity for future AI models. With this move, Ohio becomes a key hub for AI infrastructure in the U.S. \ud83c\udf0d The project is expected to strengthen the region's economy and power the next generation of AI systems. \u26a1",
+      "post_body_fa": "\ud83c\udfed OpenAI \u0628\u0647 \u067e\u0631\u0648\u0698\u0647 \u067e\u0648\u0631\u062a\u0633-\u067e\u0627\u06cc\u06a9 \u062f\u0631 \u062c\u0646\u0648\u0628 \u0627\u0648\u0647\u0627\u06cc\u0648 \u067e\u06cc\u0648\u0633\u062a\u0647 \u0627\u0633\u062a\u061b \u067e\u0631\u0648\u0698\u0647\u200c\u0627\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u06a9\u0647 \u0647\u062f\u0641 \u0622\u0646 \u0627\u06cc\u062c\u0627\u062f \u0647\u0632\u0627\u0631\u0627\u0646 \u0634\u063a\u0644 \u0645\u062d\u0644\u06cc \u0627\u0633\u062a. \ud83d\udcb5 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0634\u0627\u0645\u0644 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0642\u0627\u0628\u0644 \u062a\u0648\u062c\u0647\u06cc \u062f\u0631 \u06a9\u0646\u0627\u0631 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u062c\u062f\u06cc\u062f \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f.\n\n\u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0628\u062e\u0634\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634 \u06af\u0633\u062a\u0631\u062f\u0647 OpenAI \u0628\u0631\u0627\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u0638\u0631\u0641\u06cc\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0622\u06cc\u0646\u062f\u0647 \u0627\u0633\u062a. \u0628\u0627 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642\u060c \u0627\u0648\u0647\u0627\u06cc\u0648 \u0628\u0647 \u06cc\u06a9\u06cc \u0627\u0632 \u0645\u0631\u0627\u06a9\u0632 \u06a9\u0644\u06cc\u062f\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u0634\u0648\u062f. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0627\u0642\u062a\u0635\u0627\u062f \u0645\u0646\u0637\u0642\u0647 \u0631\u0627 \u062a\u0642\u0648\u06cc\u062a \u06a9\u0646\u062f \u0648 \u0646\u0633\u0644 \u0628\u0639\u062f\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u0648\u0627\u0646\u0645\u0646\u062f \u0633\u0627\u0632\u062f. \u26a1",
+      "post_title": "\ud83c\udfd7\ufe0f OpenAI joins PORTS-Pike, bringing thousands of Ohio jobs",
+      "post_title_fa": "\ud83c\udfd7\ufe0f OpenAI \u0628\u0647 \u067e\u0631\u0648\u0698\u0647 \u067e\u0648\u0631\u062a\u0633-\u067e\u0627\u06cc\u06a9 \u0627\u0648\u0647\u0627\u06cc\u0648 \u067e\u06cc\u0648\u0633\u062a \u0628\u0627 \u0647\u0632\u0627\u0631\u0627\u0646 \u0634\u063a\u0644 \u062c\u062f\u06cc\u062f",
+      "priority": "high",
+      "published": "2026-08-17T05:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "OpenAI News",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
       "post_body": "\ud83d\udce2 MBZUAI, Cerebras, and Inception have released Jais 2, a family of open Arabic-centric LLMs featuring a 70B-parameter flagship \u2014 reportedly the largest open Arabic model trained from scratch \u2014 and a competitive 8B variant. \ud83c\udf0d The models use a custom Arabic vocabulary, improving token efficiency for Arabic text and cutting training cost compared with general-purpose models. \u26a1 Thanks to an optimized architecture and training recipe, Jais 2 achieves strong Arabic benchmark results with a substantially smaller token budget than comparable models.\n\nThe weights are open, so researchers and startups can build Arabic AI products without relying on closed APIs. This is a notable step for Arabic NLP, where high-quality open models have been scarce. \ud83d\udd25",
       "post_body_fa": "\ud83d\udce2 MBZUAI\u060c Cerebras \u0648 Inception \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc Jais 2 \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f\u061b \u0645\u062c\u0645\u0648\u0639\u0647\u200c\u0627\u06cc \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0639\u0631\u0628\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u06a9\u0647 \u0645\u062f\u0644 \u067e\u0631\u0686\u0645\u062f\u0627\u0631 \u06f7\u06f0B \u0622\u0646 \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u0639\u0631\u0628\u06cc \u0622\u0645\u0648\u0632\u0634\u200c\u062f\u06cc\u062f\u0647 \u0627\u0632 \u0635\u0641\u0631 \u0627\u0633\u062a \u0648 \u06cc\u06a9 \u0646\u0633\u062e\u0647 \u0631\u0642\u0627\u0628\u062a\u06cc \u06f8B \u0647\u0645 \u062f\u0627\u0631\u062f. \ud83c\udf0d \u0648\u0627\u0698\u06af\u0627\u0646 \u0633\u0641\u0627\u0631\u0634\u06cc \u0639\u0631\u0628\u06cc \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0628\u0627\u0639\u062b \u0628\u0647\u0631\u0647\u200c\u0648\u0631\u06cc \u0628\u0647\u062a\u0631 \u062a\u0648\u06a9\u0646\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u0645\u062a\u0646 \u0639\u0631\u0628\u06cc \u0648 \u06a9\u0627\u0647\u0634 \u0647\u0632\u06cc\u0646\u0647 \u0622\u0645\u0648\u0632\u0634 \u0646\u0633\u0628\u062a \u0628\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f. \u26a1 \u0628\u0647 \u0644\u0637\u0641 \u0645\u0639\u0645\u0627\u0631\u06cc \u0628\u0647\u06cc\u0646\u0647 \u0648 \u062f\u0633\u062a\u0648\u0631\u0627\u0644\u0639\u0645\u0644 \u0622\u0645\u0648\u0632\u0634\u06cc\u060c Jais 2 \u0628\u0627 \u0628\u0648\u062f\u062c\u0647 \u062a\u0648\u06a9\u0646\u06cc \u0628\u0647\u200c\u0645\u0631\u0627\u062a\u0628 \u06a9\u0648\u0686\u06a9\u062a\u0631 \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u0634\u0627\u0628\u0647\u060c \u0646\u062a\u0627\u06cc\u062c \u0642\u0648\u06cc \u062f\u0631 \u0645\u0639\u06cc\u0627\u0631\u0647\u0627\u06cc \u0639\u0631\u0628\u06cc \u0628\u0647 \u062f\u0633\u062a \u0645\u06cc\u200c\u0622\u0648\u0631\u062f.\n\n\u0648\u0632\u0646\u200c\u0647\u0627 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0647\u0633\u062a\u0646\u062f\u061b \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u0645\u062d\u0642\u0642\u0627\u0646 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u062f\u0648\u0646 \u0648\u0627\u0628\u0633\u062a\u06af\u06cc \u0628\u0647 API\u0647\u0627\u06cc \u0628\u0633\u062a\u0647\u060c \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0639\u0631\u0628\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0633\u0627\u0632\u0646\u062f. \u0627\u06cc\u0646 \u06af\u0627\u0645 \u0645\u0647\u0645\u06cc \u0628\u0631\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634 \u0632\u0628\u0627\u0646 \u0639\u0631\u0628\u06cc \u0627\u0633\u062a\u060c \u062c\u0627\u06cc\u06cc \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0628\u0627\u06a9\u06cc\u0641\u06cc\u062a \u06a9\u0645\u06cc\u0627\u0628 \u0628\u0648\u062f\u0647\u200c\u0627\u0646\u062f. \ud83d\udd25",
       "post_title": "\ud83d\ude80 Jais 2: Open Arabic LLM Family Drops with 70B Flagship",
@@ -77066,34 +77154,18 @@
     {
       "category": "other",
       "duplicate_of": null,
-      "post_body": "\ud83c\udfe6 The European Central Bank's blog has warned that the AI sector could be heading for a sharp correction, pointing to signs of overvaluation in tech stocks. The post argues that hype around AI capabilities has outpaced real-world revenue generation, creating bubble-like conditions. \u26a0\ufe0f If the correction hits, companies with heavy AI spending and weak profitability would be most exposed.\n\nThe ECB's view adds a major institutional voice to growing concerns about frothy AI valuations. \ud83d\udcb5 Investors and startups alike may face a more cautious funding environment in the coming months. \ud83c\udf0d For AI builders, this could mean tougher scrutiny on business models rather than just model performance.",
-      "post_body_fa": "\ud83c\udfe6 \u0648\u0628\u0644\u0627\u06af \u0628\u0627\u0646\u06a9 \u0645\u0631\u06a9\u0632\u06cc \u0627\u0631\u0648\u067e\u0627 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f\u0647 \u06a9\u0647 \u0628\u062e\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647\u200c\u0632\u0648\u062f\u06cc \u0628\u0627 \u0627\u0635\u0644\u0627\u062d \u0634\u062f\u06cc\u062f\u06cc \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u062f \u0648 \u0628\u0647 \u0646\u0634\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u200c\u0627\u0631\u0632\u0634\u200c\u0634\u062f\u06af\u06cc \u062f\u0631 \u0633\u0647\u0627\u0645 \u0641\u0646\u0627\u0648\u0631\u06cc \u0627\u0634\u0627\u0631\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0628\u0647\u200c\u06af\u0641\u062a\u0647 \u0627\u06cc\u0646 \u06cc\u0627\u062f\u062f\u0627\u0634\u062a\u060c \u0647\u06cc\u0627\u0647\u0648\u06cc \u067e\u06cc\u0631\u0627\u0645\u0648\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0632 \u062f\u0631\u0622\u0645\u062f\u0632\u0627\u06cc\u06cc \u0648\u0627\u0642\u0639\u06cc \u062c\u0644\u0648 \u0632\u062f\u0647 \u0648 \u0634\u0631\u0627\u06cc\u0637\u06cc \u0634\u0628\u06cc\u0647 \u062d\u0628\u0627\u0628 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u26a0\ufe0f \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0627\u0635\u0644\u0627\u062d \u0631\u062e \u062f\u0647\u062f\u060c \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0633\u0646\u06af\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0633\u0648\u062f\u0622\u0648\u0631\u06cc \u0636\u0639\u06cc\u0641 \u062f\u0627\u0631\u0646\u062f \u0628\u06cc\u0634\u062a\u0631\u06cc\u0646 \u0622\u0633\u06cc\u0628 \u0631\u0627 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u06cc\u062f.\n\n\u0646\u0638\u0631 ECB \u06cc\u06a9 \u0646\u0647\u0627\u062f \u0645\u0647\u0645 \u0646\u0647\u0627\u062f\u06cc \u0631\u0627 \u0628\u0647 \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u062f\u0627\u063a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udcb5 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0648 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062f\u0631 \u0645\u0627\u0647\u200c\u0647\u0627\u06cc \u0622\u06cc\u0646\u062f\u0647 \u0628\u0627 \u0641\u0636\u0627\u06cc \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062d\u062a\u0627\u0637\u0627\u0646\u0647\u200c\u062a\u0631\u06cc \u0645\u0648\u0627\u062c\u0647 \u0634\u0648\u0646\u062f. \ud83c\udf0d \u0628\u0631\u0627\u06cc \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u0628\u0631\u0631\u0633\u06cc \u062f\u0642\u06cc\u0642\u200c\u062a\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631\u060c \u0646\u0647 \u0641\u0642\u0637 \u0639\u0645\u0644\u06a9\u0631\u062f \u0645\u062f\u0644\u200c\u0647\u0627.",
-      "post_title": "\ud83d\udcc9 ECB warns an AI market correction is coming",
-      "post_title_fa": "\ud83d\udcc9 ECB \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f \u0627\u0635\u0644\u0627\u062d \u0628\u0627\u0632\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0631\u0627\u0647 \u0627\u0633\u062a",
+      "post_body": "\ud83d\udcb5 Wispr, the startup behind AI dictation app Flow, has raised $280 million at a $2 billion valuation. The round brings total funding to over $361 million. \ud83d\udcc8 The company plans to expand beyond dictation into more AI-powered communication tools. This signals strong investor confidence in AI productivity apps. \u2328\ufe0f With text and voice AI evolving fast, Wispr is betting on a future with less typing.",
+      "post_body_fa": "\ud83d\udcb5 \u0648\u06cc\u0633\u067e\u0631\u060c \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0633\u0627\u0632\u0646\u062f\u0647 \u0627\u067e \u062f\u06cc\u06a9\u062a\u0647 \u0647\u0648\u0634\u0645\u0646\u062f Flow\u060c \u0645\u0628\u0644\u063a \u06f2\u06f8\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u06f2 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u062c\u0630\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0645\u062c\u0645\u0648\u0639 \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u0631\u0627 \u0628\u0647 \u0628\u06cc\u0634 \u0627\u0632 \u06f3\u06f6\u06f1 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0645\u06cc\u200c\u0631\u0633\u0627\u0646\u062f. \ud83d\udcc8 \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0642\u0635\u062f \u062f\u0627\u0631\u062f \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u062f\u06cc\u06a9\u062a\u0647\u060c \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0627\u0631\u062a\u0628\u0627\u0637\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0633\u0627\u0632\u062f. \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647 \u0627\u0639\u062a\u0645\u0627\u062f \u0634\u062f\u06cc\u062f \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0628\u0647 \u0627\u067e\u200c\u0647\u0627\u06cc \u0628\u0647\u0631\u0647\u200c\u0648\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a. \u2328\ufe0f \u0628\u0627 \u062a\u0648\u062c\u0647 \u0628\u0647 \u0631\u0634\u062f \u0633\u0631\u06cc\u0639 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062a\u0646\u06cc \u0648 \u0635\u0648\u062a\u06cc\u060c \u0648\u06cc\u0633\u067e\u0631 \u0631\u0648\u06cc \u0622\u06cc\u0646\u062f\u0647\u200c\u0627\u06cc \u0634\u0631\u0637 \u0628\u0633\u062a\u0647 \u06a9\u0647 \u062a\u0627\u06cc\u067e \u06a9\u0645\u062a\u0631\u06cc \u0644\u0627\u0632\u0645 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udcb0 Wispr raises $280M at $2B valuation",
+      "post_title_fa": "\ud83d\udcb0 \u0648\u06cc\u0633\u067e\u0631 \u06f2\u06f8\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u062c\u0630\u0628 \u06a9\u0631\u062f\u061b \u0627\u0631\u0632\u0634 \u0622\u0646 \u0628\u0647 \u06f2 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0631\u0633\u06cc\u062f",
       "priority": "medium",
-      "published": "2026-08-17T12:00:15+00:00",
+      "published": "2026-08-17T13:10:05+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/\">https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329487\">https://news.ycombinator.com/item?id=49329487</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "AI market correction is coming, ECB blog predicts",
-      "url": "https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 A new Wall Street Journal report describes how generative AI has upended book publishing, flooding the market with AI-written titles and creating chaos for authors, agents, and publishers. Platforms are struggling to filter AI-generated books, while human authors face unfair competition from low-quality, high-volume AI output. \ud83c\udf0a The glut is pressuring royalties and making it harder for genuine work to stand out.\n\n\u2696\ufe0f Publishers are now debating disclosure rules and quality controls, but no industry standard has emerged. \ud83d\udcc9 For readers, the flood of AI books could degrade trust in publishing as a whole.",
-      "post_body_fa": "\ud83e\udd16 \u06af\u0632\u0627\u0631\u0634 \u062c\u062f\u06cc\u062f \u0648\u0627\u0644\u200c\u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0648\u0644\u062f \u0686\u06af\u0648\u0646\u0647 \u0635\u0646\u0639\u062a \u0646\u0634\u0631 \u06a9\u062a\u0627\u0628 \u0631\u0627 \u0632\u06cc\u0631 \u0648 \u0631\u0648 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0628\u0627\u0632\u0627\u0631 \u067e\u0631 \u0634\u062f\u0647 \u0627\u0632 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0646\u0648\u0634\u062a\u0647 \u0634\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646\u060c \u0646\u0645\u0627\u06cc\u0646\u062f\u06af\u0627\u0646 \u0648 \u0646\u0627\u0634\u0631\u0627\u0646 \u0628\u0627 \u0647\u0631\u062c\u200c\u0648\u0645\u0631\u062c \u0645\u0648\u0627\u062c\u0647 \u0634\u062f\u0647\u200c\u0627\u0646\u062f. \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u0641\u06cc\u0644\u062a\u0631 \u06a9\u0631\u062f\u0646 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0642\u0644\u0627 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u0648 \u0646\u0648\u06cc\u0633\u0646\u062f\u06af\u0627\u0646 \u0627\u0646\u0633\u0627\u0646\u06cc \u0628\u0627 \u0631\u0642\u0627\u0628\u062a \u0646\u0627\u0639\u0627\u062f\u0644\u0627\u0646\u0647 \u062e\u0631\u0648\u062c\u06cc\u200c\u0647\u0627\u06cc \u06a9\u0645\u200c\u06a9\u06cc\u0641\u06cc\u062a \u0648 \u062d\u062c\u06cc\u0645 \u0631\u0648\u0628\u0647\u200c\u0631\u0648 \u0647\u0633\u062a\u0646\u062f. \ud83c\udf0a \u0627\u06cc\u0646 \u0633\u06cc\u0644\u200c\u0622\u0633\u0627 \u0628\u0647 \u062d\u0642 \u0627\u0645\u062a\u06cc\u0627\u0632\u0647\u0627 \u0641\u0634\u0627\u0631 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f \u0648 \u062f\u06cc\u062f\u0647\u200c\u0634\u062f\u0646 \u0622\u062b\u0627\u0631 \u0648\u0627\u0642\u0639\u06cc \u0631\u0627 \u0633\u062e\u062a\u200c\u062a\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u2696\ufe0f \u0646\u0627\u0634\u0631\u0627\u0646 \u062d\u0627\u0644\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0627\u0641\u0634\u0627 \u0648 \u06a9\u0646\u062a\u0631\u0644 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u062d\u062b \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0627\u0645\u0627 \u0647\u0646\u0648\u0632 \u0627\u0633\u062a\u0627\u0646\u062f\u0627\u0631\u062f \u0635\u0646\u0639\u062a\u06cc \u0645\u0634\u062e\u0635\u06cc \u0634\u06a9\u0644 \u0646\u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a. \ud83d\udcc9 \u0628\u0631\u0627\u06cc \u062e\u0648\u0627\u0646\u0646\u062f\u06af\u0627\u0646\u060c \u0633\u06cc\u0644 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0647 \u06a9\u0644 \u0635\u0646\u0639\u062a \u0646\u0634\u0631 \u0631\u0627 \u062a\u0636\u0639\u06cc\u0641 \u06a9\u0646\u062f.",
-      "post_title": "\ud83d\udcda AI has thrown book publishing into utter chaos",
-      "post_title_fa": "\ud83d\udcda \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0635\u0646\u0639\u062a \u0646\u0634\u0631 \u06a9\u062a\u0627\u0628 \u0631\u0627 \u0628\u0647 \u0647\u0631\u062c\u200c\u0648\u0645\u0631\u062c \u06a9\u0634\u0627\u0646\u062f\u0647 \u0627\u0633\u062a",
-      "priority": "medium",
-      "published": "2026-08-17T11:50:12+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287\">https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329383\">https://news.ycombinator.com/item?id=49329383</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-      "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287"
+      "source": "TechCrunch AI",
+      "summary": "Wispr\u2019s total funding is now over $361 million.",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -79428,6 +79500,14 @@
     "title": "Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research",
     "title_norm": "reconcile once write anytime a trusttiered librarian and a multiagent writer for driftfree pointintime research"
   },
+  "a4ed948c585368a288ae4cbb8dd1025426ff71b498ee8b44cc05cae7c9ffeca1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473208+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+    "title_norm": "buyer cancels showing after deflock shows two cameras utilized by the hoa"
+  },
   "a4f2be4eb8ff345986ca00afdf2fd4ffdfc856355b403894c2813507ff2cb855": {
     "category": "other",
     "posted": false,
@@ -81335,6 +81415,14 @@
     "source": "arXiv cs.AI",
     "title": "Training Variable Long Sequences with Data-Centric Parallel",
     "title_norm": "training variable long sequences with datacentric parallel"
+  },
+  "a8eee3f12a6a73723d7e5b562138a8e689a8ec64163e9718d8ee57271604e456": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473290+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A Test for AI Consciousness",
+    "title_norm": "a test for ai consciousness"
   },
   "a8f2d56ec68a6ffa38bcd83963dca172e9cbe5fa378d54e9f1af9dd9a7c33d28": {
     "category": "infrastructure",
@@ -84005,6 +84093,14 @@
     "source": "Wired AI",
     "title": "AI Influencers Are Heading Into Uncharted Territory",
     "title_norm": "ai influencers are heading into uncharted territory"
+  },
+  "ae091fee217c6dec32741e412397459531aa1a2eac4669971f8f71f7b12195cf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473300+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Who Owns Intelligence? Jensen Huang and the Battle for Open-Weight AI",
+    "title_norm": "who owns intelligence jensen huang and the battle for openweight ai"
   },
   "ae0e7170d393ec135164145ee38f81c31f9a981046c63f4728d22a9606043878": {
     "category": "research",
@@ -89035,6 +89131,14 @@
     "source": "arXiv cs.CL",
     "title": "On Improving Faithfulness of Podcasts from Documents",
     "title_norm": "on improving faithfulness of podcasts from documents"
+  },
+  "b847787c0b44747e7a8b1e284b5927ccaa03539a96fb3b5a7e1cc4197f77a08a": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473237+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "title_norm": "gpt 56 sol is the best vision model openai ever released"
   },
   "b84c1990e8a515b814c1ab9d9c81bc9d832a7edc7e821761ee6b83c699b07342": {
     "category": "other",
@@ -96766,6 +96870,14 @@
     "title": "SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface",
     "title_norm": "switchbraidnet quantisationaware lightweight architecture for hybrid braincomputer interface"
   },
+  "c7de0ac22c0c4ca36afa6ef42647f442030b03a968a0550f38b89b8d52e7bf2f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473172+00:00",
+    "source": "TechCrunch AI",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "title_norm": "wispr raises 280m at 2b valuation as it looks beyond dictation"
+  },
   "c7deda978b626629eecd2661ff62f06e86851b7e7c083d44da43e9f90b7287f8": {
     "category": "research",
     "posted": false,
@@ -97475,6 +97587,14 @@
     "source": "arXiv cs.AI",
     "title": "$\\texttt{DisMorph}$: learning to disentangle technical distortions from true biological change",
     "title_norm": "textttdismorph learning to disentangle technical distortions from true biological change"
+  },
+  "c959f804126e9e91c74073500d6b4519f4cf522dab1671c1d1fb87e3df615b14": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473323+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "tencent/EVIE-Preview-4.5B \u00b7 Hugging Face",
+    "title_norm": "tencenteviepreview45b hugging face"
   },
   "c965047b8e55242d657abddfcf21f71f85f9e3526fd378f1bf9304517bd8ea17": {
     "category": null,
@@ -113380,6 +113500,14 @@
     "title": "model: add NextN/MTP speculative decoding support for GLM_DSA (GLM-5.2)- #25980 MERGED!",
     "title_norm": "model add nextnmtp speculative decoding support for glm_dsa glm52 25980 merged"
   },
+  "ec292695f8548ca11739f6dc6c0c1b07cb03be6dd658e4434d2c302c62241f09": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473251+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+    "title_norm": "who owns commodore the retro pc brand still exists but a lot has changed"
+  },
   "ec2d5d742df5a86dddedc52e8cd1eb0a5aeaeff98ccfe44b07ef108696613b3a": {
     "category": "other",
     "posted": false,
@@ -122345,6 +122473,14 @@
     "source": "arXiv cs.CL",
     "title": "Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers",
     "title_norm": "physics of language models part 41 architecture design and the magic of canon layers"
+  },
+  "ff74a409d2cfb4e4a818fa858f97a5740b4a8831e6c2db99df22a2dd74625408": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T13:12:02.473312+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Am I better because of AI?",
+    "title_norm": "am i better because of ai"
   },
   "ff79c44a5ac37fd92de8420fbb4852933d3e818cf44f58c65e0e5c905e33fe4a": {
     "category": "other",
