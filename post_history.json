@@ -26309,6 +26309,14 @@
     "title": "MathDuels: A Self-Play Benchmark That Grows",
     "title_norm": "mathduels a selfplay benchmark that grows"
   },
+  "358bcc07fa09e7a69f981ed66c64dd24e0507897bef264699b20d00a03945307": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051636+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "On A.I. regulation and messaging",
+    "title_norm": "on ai regulation and messaging"
+  },
   "3591e2e9bd7bbb54a993d1263e61ea633885ad24dc46e770b781b65b5ab09fb0": {
     "category": "research",
     "posted": false,
@@ -26461,6 +26469,14 @@
     "title": "The interface of intonation and lexical tone: Boundary phenomena in Mandarin varieties",
     "title_norm": "the interface of intonation and lexical tone boundary phenomena in mandarin varieties"
   },
+  "35dc58669bfcac13494fa158eedb2d40854d48a999d02178a32efb40f04a3e7a": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051789+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Ling 3.0 support merged into llama.cpp",
+    "title_norm": "ling 30 support merged into llamacpp"
+  },
   "35e5183808da16aba4eea7749cb35469fa7e170e9d545a68aca9489a542a5fc3": {
     "category": "research",
     "posted": false,
@@ -26468,6 +26484,14 @@
     "source": "arXiv cs.CL",
     "title": "Priors Persist Through Suppression: A Stroop Paradigm for Lexical Override",
     "title_norm": "priors persist through suppression a stroop paradigm for lexical override"
+  },
+  "35e5e13d91d2b31d25d4f5b67c4e9c35787c85ff3d0027c8f3bd08948103049e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051772+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8-27B Q8_0 on Strix Halo is seriously impressive",
+    "title_norm": "qwen3827b q8_0 on strix halo is seriously impressive"
   },
   "35e7dbaadace9fad52dcb631c3fd8d3a6bea8be6456235d429d97b4b8625b690": {
     "category": "other",
@@ -76856,6 +76880,22 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/"
     },
     {
+      "category": "integration",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udd1d Support for inclusionAI's Ling 3.0 models has been merged into llama.cpp. The family includes Ling 3.0 tiny (8B1B) and Ling 3.0 flash (124B5B), and both are reasoning models despite earlier naming. \ud83e\udd99 The merged PR (#26608) means users can now run these models locally with llama.cpp's efficient inference stack.\n\n\u26a1 This is a big deal for the open-source community, since the flash model is a large MoE with 124B total parameters but only 5B active. \ud83d\udce6 Model weights are already on Hugging Face, so local deployment can start right away. If you run local LLMs, this expands your options for high-capability reasoning models.",
+      "post_body_fa": "\ud83e\udd1d \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0645\u062f\u0644\u0647\u0627\u06cc Ling 3.0 \u0645\u062a\u0639\u0644\u0642 \u0628\u0647 inclusionAI \u0628\u0647 llama.cpp \u0627\u062f\u063a\u0627\u0645 \u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0634\u0627\u0645\u0644 Ling 3.0 tiny (8B1B) \u0648 Ling 3.0 flash (124B5B) \u0627\u0633\u062a \u0648 \u0647\u0631 \u062f\u0648 \u0628\u0627 \u0648\u062c\u0648\u062f \u0646\u0627\u0645\u06af\u0630\u0627\u0631\u06cc \u0642\u0628\u0644\u06cc\u060c \u0645\u062f\u0644\u0647\u0627\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u06cc \u0647\u0633\u062a\u0646\u062f. \ud83e\udd99 \u0628\u0627 \u0627\u062f\u063a\u0627\u0645 PR \u0634\u0645\u0627\u0631\u0647 26608\u060c \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0645\u06cc\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u06cc\u0646 \u0645\u062f\u0644\u0647\u0627 \u0631\u0627 \u0628\u0647\u0635\u0648\u0631\u062a \u0645\u062d\u0644\u06cc \u0628\u0627 \u067e\u0634\u062a\u0647 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u06a9\u0627\u0631\u0622\u0645\u062f llama.cpp \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f.\n\n\u26a1 \u0627\u06cc\u0646 \u062e\u0628\u0631 \u0628\u0631\u0627\u06cc \u062c\u0627\u0645\u0639\u0647 \u0645\u062a\u0646\u0628\u0627\u0632 \u0627\u0647\u0645\u06cc\u062a \u0632\u06cc\u0627\u062f\u06cc \u062f\u0627\u0631\u062f\u060c \u0686\u0648\u0646 \u0645\u062f\u0644 flash \u06cc\u06a9 MoE \u0628\u0632\u0631\u06af \u0628\u0627 \u06f1\u06f2\u06f4 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u06a9\u0644 \u0648 \u0641\u0642\u0637 \u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u0641\u0639\u0627\u0644 \u0627\u0633\u062a. \ud83d\udce6 \u0648\u0632\u0646 \u0645\u062f\u0644\u0647\u0627 \u0627\u0632 \u0642\u0628\u0644 \u0631\u0648\u06cc Hugging Face \u0645\u0648\u062c\u0648\u062f \u0627\u0633\u062a\u060c \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0645\u062d\u0644\u06cc \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0647\u0645\u06cc\u0646 \u062d\u0627\u0644\u0627 \u0634\u0631\u0648\u0639 \u0634\u0648\u062f. \u0627\u06af\u0631 \u0645\u062f\u0644\u0647\u0627\u06cc \u0632\u0628\u0627\u0646\u06cc \u0645\u062d\u0644\u06cc \u0627\u062c\u0631\u0627 \u0645\u06cc\u06a9\u0646\u06cc\u062f\u060c \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u06af\u0632\u06cc\u0646\u0647\u0647\u0627\u06cc \u0634\u0645\u0627 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u0647\u0627\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u06af\u0633\u062a\u0631\u0634 \u0645\u06cc\u062f\u0647\u062f.",
+      "post_title": "\ud83e\udd1d Ling 3.0 support lands in llama.cpp",
+      "post_title_fa": "\ud83e\udd1d \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0645\u062f\u0644\u0647\u0627\u06cc Ling 3.0 \u0628\u0647 llama.cpp \u0627\u0636\u0627\u0641\u0647 \u0634\u062f",
+      "priority": "medium",
+      "published": "2026-08-17T08:58:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Support for the new ling 3.0 models has been merged into llama.cpp:</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/pull/26608#event-29549472828\">https://github.com/ggml-org/llama.cpp/pull/26608#event-29549472828</a></p> <p>Ling tiny 8b1b - <a href=\"https://huggingface.co/inclusionAI/Ling-3.0-tiny\">https://huggingface.co/inclusionAI/Ling-3.0-tiny</a></p> <p>Ling flash 124b5b - <a href=\"https://huggingface.co/inclusionAI/Ling-3.0-flash\">https://huggingface.co/inclusionAI/Ling-3.0-flash</a></p> <p>Both are reasoning models contrary to prior naming.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/parepeg\"> /u/parepeg </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/\">[comments]</a></span>",
+      "title": "Ling 3.0 support merged into llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqmxpy/ling_30_support_merged_into_llamacpp/"
+    },
+    {
       "category": "policy",
       "duplicate_of": null,
       "post_body": "\ud83d\udd25 A report backing Australia's teen social media ban appears to include AI-generated content and fabricated citations, The Guardian reports. The discovery raises doubts about how the evidence was compiled and whether it was properly reviewed before being used in a major policy debate.\n\n\ud83d\udccb Lawmakers now face pressure to clarify who generated the text and why the inaccuracies went unnoticed. This matters because policy built on unverified AI output can erode public trust, especially when the issue is internet regulation for minors. \ud83c\udf0d Expect further scrutiny of AI use in government reports worldwide.",
@@ -85418,6 +85458,14 @@
     "title": "Keep It Simple: Multi-Key Episodic Memory Retrieval for Ultra-Long Video Understanding",
     "title_norm": "keep it simple multikey episodic memory retrieval for ultralong video understanding"
   },
+  "b18b6c2d252790b2ecf93e6d8def059b8caa08737edbaf2e7dd4645be3929f48": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051744+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Long Review: Qwen 3.8 27B is VERY good at tapping into it's real-world knowledge. It's \"overthinking\" brings it to Sonnet level performance with the potential for Opus level results.",
+    "title_norm": "long review qwen 38 27b is very good at tapping into its realworld knowledge its overthinking brings it to sonnet level performance with the potential for opus level results"
+  },
   "b1945688ad25f359cd4e40c63a9fd6193582e0610f7a843554487e7dfe2a8318": {
     "category": "other",
     "posted": false,
@@ -86195,6 +86243,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "In-house LLM Inference on Kubernetes: A Production Runbook",
     "title_norm": "inhouse llm inference on kubernetes a production runbook"
+  },
+  "b34352f09b382871bec8a654e8df4530fd513bf3017377e62ff763f7a2be6708": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051718+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Winuse \u2013 Cross-platform desktop GUI automation for AI agents",
+    "title_norm": "show hn winuse crossplatform desktop gui automation for ai agents"
   },
   "b3482f52db4a95d1b79bff71b8f94f758ff974e8875d094dd715838ac9f8d98f": {
     "category": "other",
@@ -119987,6 +120043,14 @@
     "source": "arXiv cs.AI",
     "title": "SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence",
     "title_norm": "satedgeagent hardwareintheloop edgeagent orchestration for onboard satellite intelligence"
+  },
+  "fb1f30610811d9aa51c272cb677b4601a14d9f326bd5edd8687a1409137893be": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T09:03:20.051804+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "How to stop Qwen3.8-27b from overthinking",
+    "title_norm": "how to stop qwen3827b from overthinking"
   },
   "fb241a9bd5611a6e0b4a17c827baf9c51c5c962658975a039d7be131c650d9b8": {
     "category": "other",
