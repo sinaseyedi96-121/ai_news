@@ -11799,6 +11799,14 @@
     "title": "Why I Am Not Going to Buy a Computer",
     "title_norm": "why i am not going to buy a computer"
   },
+  "186cfe78ae46567a03d1f5b208c48e44b2c454d476b165258786091badbc6a9c": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254957+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI companies look to the ocean as a place to put more data centers",
+    "title_norm": "ai companies look to the ocean as a place to put more data centers"
+  },
   "18758aabca9443df5f865fbedf66c61bb8839300ff53526bcc1f1c84fc5aa6a9": {
     "category": "research",
     "posted": false,
@@ -19992,6 +20000,14 @@
     "source": "arXiv cs.AI",
     "title": "The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science",
     "title_norm": "the age of ai agents demands a new scientific paradigm to sustain trustworthy science"
+  },
+  "289fadd1efebaafcbc59241177a08997d2e45b2ce12878bbb56d0d01affba909": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254905+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Buy Your Friends Batteries",
+    "title_norm": "buy your friends batteries"
   },
   "289fd0795eb91ba0d7ea5ef2c4aa582d9d06ec03ddb456f62395a3874f13bff2": {
     "category": "other",
@@ -35775,6 +35791,14 @@
     "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
     "title_norm": "passkeys were invented by engineers with zero understanding of consumer brain"
   },
+  "49a07d9b9700055b137eb71113233b0276e1c8720bef2c0c09c4c54832715c1e": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254933+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A million dollars over asking: AI wealth is fueling housing market frenzy in SF",
+    "title_norm": "a million dollars over asking ai wealth is fueling housing market frenzy in sf"
+  },
   "49a3e1794407ba14a3bc0c30c1a33f6918d37710934122a285895ac85ce9f8c7": {
     "category": "other",
     "posted": false,
@@ -49121,6 +49145,14 @@
     "title": "Don't Regenerate, Debug: A Domain-Specific Agent for Repairing Near-Miss Hardware Operators",
     "title_norm": "dont regenerate debug a domainspecific agent for repairing nearmiss hardware operators"
   },
+  "6431206a83dfc5ca25a03ab67aebe66164faf87cb5fd0c9cc9d7fa98998e8f07": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254920+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Canva cuts internal value by $10B amid AI market fears",
+    "title_norm": "canva cuts internal value by 10b amid ai market fears"
+  },
   "6437dd37d7ab0db384266a2aa4ca4ecdd77d5d3dfae0e25a8a62564beb8f223b": {
     "category": "model_release",
     "posted": false,
@@ -50480,6 +50512,14 @@
     "source": "Hacker News AI keyword",
     "title": "The death of AI workflow builders",
     "title_norm": "the death of ai workflow builders"
+  },
+  "673e83b8c176050b714777876cf63a0b4b4c8cca395f9c4c613508f91f6a2d69": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254969+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Be a hater all you want, AI's here to stay",
+    "title_norm": "be a hater all you want ais here to stay"
   },
   "673ffb37fdbef65700c5689426a62f7cc4f53dc101c672be14b2e43761d4d6f5": {
     "category": "other",
@@ -57624,6 +57664,14 @@
     "source": "OpenAI News",
     "title": "Responsible and safe use of AI",
     "title_norm": "responsible and safe use of ai"
+  },
+  "75bb8d6c5587bf665d9f3c2fb1fce40cea3992ed8d3323a88e6e7658dac45adb": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254947+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI adoption and usage patterns from six years of Linear data",
+    "title_norm": "ai adoption and usage patterns from six years of linear data"
   },
   "75bec405bdd778ee152d6126e9206d04c91da9be8e1ed986b67163638eb19fa0": {
     "category": "other",
@@ -76057,6 +76105,14 @@
     "title": "Cool URIs Don't Change (1998)",
     "title_norm": "cool uris dont change 1998"
   },
+  "9d72cda0b3f0a518979058f839396fd61821e8628bfef5596f2cbdd3a30eeb66": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.255025+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8 27B = GPT-5.6 Luna compressed into 27B",
+    "title_norm": "qwen38 27b gpt56 luna compressed into 27b"
+  },
   "9d775c9965d14c935821695957b3b89ccf6aa5cc15a1d20e0953da79d7dbe118": {
     "category": "integration",
     "posted": false,
@@ -77351,6 +77407,22 @@
   },
   "_queue": [
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfaf Artificial Analysis benchmarks show Qwen3.8-27B performing neck and neck with DeepSeek V4 and GPT-5.6 Luna Max despite its compact 27B size. The results place the open-weight model among the top tier, a major win for efficiency-focused AI development.\n\n\ud83d\udcc9 It also signals that small models are closing the gap with frontier giants, cutting the cost and compute needed for high-end AI. \ud83d\udd25 For developers, this could mean near-frontier performance on consumer hardware and cheaper inference. The real test will be real-world deployment, but the hype seems justified.",
+      "post_body_fa": "\ud83c\udfaf \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc Artificial Analysis \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f Qwen3.8-27B \u0628\u0627 \u0648\u062c\u0648\u062f \u0627\u0646\u062f\u0627\u0632\u0647 \u062c\u0645\u0639\u200c\u0648\u062c\u0648\u0631 \u06f2\u06f7 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631\u06cc\u060c \u0639\u0645\u0644\u06a9\u0631\u062f\u06cc \u0647\u0645\u200c\u0633\u0637\u062d DeepSeek V4 \u0648 GPT-5.6 Luna Max \u062f\u0627\u0631\u062f. \u0627\u06cc\u0646 \u0646\u062a\u0627\u06cc\u062c \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0627 \u062f\u0631 \u0631\u062f\u06cc\u0641 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u06cc\u06a9 \u067e\u06cc\u0631\u0648\u0632\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06a9\u0627\u0631\u0622\u0645\u062f \u0645\u062d\u0633\u0648\u0628 \u0645\u06cc\u200c\u0634\u0648\u062f.\n\n\ud83d\udcc9 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u06a9\u0648\u0686\u06a9 \u062f\u0631 \u062d\u0627\u0644 \u0628\u0633\u062a\u0646 \u0634\u06a9\u0627\u0641 \u0628\u0627 \u063a\u0648\u0644\u200c\u0647\u0627\u06cc \u0645\u0631\u0632\u06cc \u0647\u0633\u062a\u0646\u062f \u0648 \u0647\u0632\u06cc\u0646\u0647 \u0648 \u062a\u0648\u0627\u0646 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0627 \u06a9\u0627\u0647\u0634 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f. \ud83d\udd25 \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0645\u0639\u0646\u0627\u06cc \u0639\u0645\u0644\u06a9\u0631\u062f \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0635\u0631\u0641\u200c\u06a9\u0646\u0646\u062f\u0647 \u0648 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0627\u0631\u0632\u0627\u0646\u200c\u062a\u0631 \u0628\u0627\u0634\u062f. \u0622\u0632\u0645\u0627\u06cc\u0634 \u0648\u0627\u0642\u0639\u06cc \u062f\u0631 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0639\u0645\u0644\u06cc \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f\u060c \u0627\u0645\u0627 \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0647\u06cc\u0627\u0647\u0648 \u0645\u0648\u062c\u0647 \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 Qwen3.8-27B matches top models in Artificial Analysis benchmarks",
+      "post_title_fa": "\ud83d\ude80 Qwen3.8-27B \u062f\u0631 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0628\u0647 \u067e\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0631\u0633\u06cc\u062f",
+      "priority": "high",
+      "published": "2026-08-17T17:26:46+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anderspitman\"> /u/anderspitman </a> <br /> <span><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/\">[comments]</a></span>",
+      "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/"
+    },
+    {
       "category": "infrastructure",
       "duplicate_of": null,
       "post_body": "\ud83d\ude80 Groq, once known for its custom AI chips, has raised $350 million at a $3.5 billion valuation to fuel its pivot to a \"neocloud\" business. The former chipmaker is now expanding its data center footprint, powered by Nvidia GPUs, to offer cloud compute to AI customers.\n\n\ud83d\udcb5 This funding round marks a strategic shift as competition in AI hardware intensifies. \ud83c\udf0d With neoclouds emerging as a key market, Groq is betting on being a service provider rather than just a chip vendor. This move could reshape the AI infrastructure landscape.",
@@ -77525,22 +77597,6 @@
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udea8 A captured Russian missile reportedly contains an Nvidia AI chip used to help with targeting in Ukraine, according to The Register. The finding highlights how commercial AI hardware still reaches the battlefield despite export controls.\n\n\ud83c\udf0d Nvidia says it complies with sanctions, and the chip may have arrived through grey-market routes \u2014 but the optics are bad for US AI exporters. \u2699\ufe0f Expect renewed pressure on chip tracking and tighter enforcement, plus a louder debate over AI's military use.",
-      "post_body_fa": "\ud83d\udea8 \u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634 The Register\u060c \u06cc\u06a9 \u0645\u0648\u0634\u06a9 \u0631\u0648\u0633\u06cc \u06a9\u0647 \u062f\u0631 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0647 \u062f\u0633\u062a \u0622\u0645\u062f\u0647 \u062d\u0627\u0648\u06cc \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0628\u0631\u0627\u06cc \u06a9\u0645\u06a9 \u0628\u0647 \u0647\u062f\u0641\u200c\u06af\u06cc\u0631\u06cc \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06cc\u0627\u0641\u062a\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u062a\u062c\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0648\u062c\u0648\u062f \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627\u06cc \u0635\u0627\u062f\u0631\u0627\u062a\u06cc \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u0647 \u0645\u06cc\u062f\u0627\u0646 \u062c\u0646\u06af \u0645\u06cc\u200c\u0631\u0633\u062f.\n\n\ud83c\udf0d \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0628\u0647 \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627 \u067e\u0627\u06cc\u0628\u0646\u062f \u0627\u0633\u062a \u0648 \u0627\u062d\u062a\u0645\u0627\u0644\u0627\u064b \u062a\u0631\u0627\u0634\u0647 \u0627\u0632 \u0645\u0633\u06cc\u0631 \u0628\u0627\u0632\u0627\u0631 \u062e\u0627\u06a9\u0633\u062a\u0631\u06cc \u0648\u0627\u0631\u062f \u0634\u062f\u0647\u061b \u0627\u0645\u0627 \u062f\u0631 \u0647\u0631 \u062d\u0627\u0644 \u062a\u0635\u0648\u06cc\u0631 \u062e\u0648\u0628\u06cc \u0628\u0631\u0627\u06cc \u0635\u0627\u062f\u0631\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0646\u06cc\u0633\u062a. \u2699\ufe0f \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0641\u0634\u0627\u0631 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u062f\u0642\u06cc\u0642\u200c\u062a\u0631 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0648 \u0627\u062c\u0631\u0627\u06cc \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u062a\u062d\u0631\u06cc\u0645\u200c\u0647\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u06cc\u0627\u0628\u062f \u0648 \u0628\u062d\u062b \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0646\u0638\u0627\u0645\u06cc \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u063a\u200c\u062a\u0631 \u0634\u0648\u062f.",
-      "post_title": "\u2696\ufe0f Russian missile reportedly uses Nvidia AI chip for targeting in Ukraine",
-      "post_title_fa": "\u2696\ufe0f \u0645\u0648\u0634\u06a9 \u0631\u0648\u0633\u06cc \u0627\u0632 \u062a\u0631\u0627\u0634\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u062f\u0631 \u0647\u062f\u0641\u200c\u06af\u06cc\u0631\u06cc \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a",
-      "priority": "high",
-      "published": "2026-08-16T16:47:40+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976\">https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321617\">https://news.ycombinator.com/item?id=49321617</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -84765,6 +84821,14 @@
     "title": "Hybrid Analysis for Secure MCP Tool Use in LLM Agents",
     "title_norm": "hybrid analysis for secure mcp tool use in llm agents"
   },
+  "aeb36667951c6ec797d284cb3d1e9d0217cfbdf18bd49169b7fd60c608714729": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254817+00:00",
+    "source": "TechCrunch AI",
+    "title": "How to tell if your AI platforms\u2019 accounts have been hacked",
+    "title_norm": "how to tell if your ai platforms accounts have been hacked"
+  },
   "aec2fcecd95ebb499e080dd60bb62af4c369f51423d0b0fc56cc981c03f1041b": {
     "category": "model_release",
     "posted": false,
@@ -85794,6 +85858,14 @@
     "source": "arXiv cs.AI",
     "title": "CoEvoP&R: Co-Evolving Placement Objectives with Routing Feedback via Large Language Models",
     "title_norm": "coevopr coevolving placement objectives with routing feedback via large language models"
+  },
+  "b0b271d4f8779717c408f78caefca4c90bdc2934463f56701967a32f7f3aa36f": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.255013+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Why do people like coding harnesses like opencode etc instead of an IDE?",
+    "title_norm": "why do people like coding harnesses like opencode etc instead of an ide"
   },
   "b0bfca7aae4b9f5b800871fa4976195a82c38532bf278ff05fd9c25f01090938": {
     "category": "integration",
@@ -97420,6 +97492,14 @@
     "source": "Hacker News Frontpage",
     "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
     "title_norm": "genrec towards llmnative recommendation at netflix"
+  },
+  "c815fefeb48196f2bf98357a615fcf43c6148fff2d1ce0c038c46348b87d185c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254979+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
+    "title_norm": "anthropic says its ai agents are killing rivals and hiding their tracks"
   },
   "c816435a97948cc5f3ec83990fdbabfc4af1b4fe039e41c57a46cafc7b1b9c99": {
     "category": "community_signal",
@@ -110451,6 +110531,14 @@
     "title": "Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction",
     "title_norm": "beyond foundation models dimensionaware neural architecture search with smalldata representation models for cryocooler lifetime prediction"
   },
+  "e4cc38f1bd21979d428c7dfcc5d9280245d1208866610b8d32fa2f8f144fbfea": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254999+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
+    "title_norm": "artificial analysis qwen3827b benchmarks put it neck and neck with deepseek v4 and gpt56 luna max"
+  },
   "e4ccd46451d8f5ccd063c95bfd10de437200e1b6fe51cb03cc880eb7c0cc2ae9": {
     "category": "research",
     "posted": false,
@@ -114706,6 +114794,14 @@
     "source": "arXiv cs.AI",
     "title": "Semantic Semi-Incremental Data-Association-Free Object SLAM",
     "title_norm": "semantic semiincremental dataassociationfree object slam"
+  },
+  "edb0cc123865728e8868c2a9f9374ef27a870fa98ec134ff058a32b5fe586a5c": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-17T17:36:41.254989+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Beginner's Guide to AI Governance",
+    "title_norm": "the beginners guide to ai governance"
   },
   "edb1f586b773428fd463ae491fea85e2a6a1b46f614f6cb6a6736f8e76fe4b77": {
     "category": "research",
