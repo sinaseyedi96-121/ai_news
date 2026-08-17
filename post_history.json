@@ -14373,6 +14373,14 @@
     "title": "Checkup2Action: A Multimodal Clinical Check-up Report Dataset for Patient-Oriented Action Card Generation",
     "title_norm": "checkup2action a multimodal clinical checkup report dataset for patientoriented action card generation"
   },
+  "1d6d9fc5e101e12878e5dd164f6a49f3033640dc069d1a3fe6122762755c3836": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779810+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Has AI started improving itself? RSI depeneds on what \"itself\" means",
+    "title_norm": "has ai started improving itself rsi depeneds on what itself means"
+  },
   "1d71c5b5b36e5e53e2a8f6557ce4f1c2cda43b5c6729e880ba68e635507c96d4": {
     "category": "infrastructure",
     "posted": false,
@@ -30268,6 +30276,14 @@
     "source": "Hacker News Frontpage",
     "title": "JDK 27 G1/Parallel/Serial GC Changes",
     "title_norm": "jdk 27 g1parallelserial gc changes"
+  },
+  "3d4b4eb8babd8a24dee8c841baad775e62bc21fa11c87e691ed63ff972d89bff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779701+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "title_norm": "show hn saggar a mac terminal that keeps sessions and your attention organized"
   },
   "3d4e4fd79cddb69878f413c135cbd7439d919d812510bd6e1f4e4289f75d4075": {
     "category": "other",
@@ -77335,6 +77351,22 @@
   },
   "_queue": [
     {
+      "category": "infrastructure",
+      "duplicate_of": null,
+      "post_body": "\ud83d\ude80 Groq, once known for its custom AI chips, has raised $350 million at a $3.5 billion valuation to fuel its pivot to a \"neocloud\" business. The former chipmaker is now expanding its data center footprint, powered by Nvidia GPUs, to offer cloud compute to AI customers.\n\n\ud83d\udcb5 This funding round marks a strategic shift as competition in AI hardware intensifies. \ud83c\udf0d With neoclouds emerging as a key market, Groq is betting on being a service provider rather than just a chip vendor. This move could reshape the AI infrastructure landscape.",
+      "post_body_fa": "\ud83d\ude80 \u06af\u0631\u0627\u06a9 \u06a9\u0647 \u0632\u0645\u0627\u0646\u06cc \u0628\u0647 \u062e\u0627\u0637\u0631 \u0686\u06cc\u067e\u200c\u0647\u0627\u06cc \u0633\u0641\u0627\u0631\u0634\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u062f\u060c \u06f3\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u06f3.\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0628\u0647 \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631 \u00ab\u0646\u0626\u0648\u06a9\u0644\u0627\u062f\u00bb \u062c\u0630\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0633\u0627\u0628\u0642\u0627\u064b \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0686\u06cc\u067e\u060c \u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 \u062d\u0627\u0644 \u06af\u0633\u062a\u0631\u0634 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u062e\u0648\u062f \u0628\u0627 \u067e\u0631\u062f\u0627\u0632\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0627\u0633\u062a \u062a\u0627 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0627\u0628\u0631\u06cc \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u06cc\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0631\u0627\u0626\u0647 \u062f\u0647\u062f.\n\n\ud83d\udcb5 \u0627\u06cc\u0646 \u062f\u0648\u0631 \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u06cc\u06a9 \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9 \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u0632\u06cc\u0631\u0627 \u0631\u0642\u0627\u0628\u062a \u062f\u0631 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u062f\u062a \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f. \ud83c\udf0d \u0628\u0627 \u0638\u0647\u0648\u0631 \u0646\u0626\u0648\u06a9\u0644\u0627\u062f\u0647\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0628\u0627\u0632\u0627\u0631 \u06a9\u0644\u06cc\u062f\u06cc\u060c \u06af\u0631\u0627\u06a9 \u0634\u0631\u0637 \u0645\u06cc\u200c\u0628\u0646\u062f\u062f \u06a9\u0647 \u0628\u06cc\u0634\u062a\u0631 \u06cc\u06a9 \u0627\u0631\u0627\u0626\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u062e\u062f\u0645\u0627\u062a \u0628\u0627\u0634\u062f \u062a\u0627 \u0641\u0642\u0637 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u0686\u06cc\u067e. \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u06a9\u0646\u062f.",
+      "post_title": "\ud83d\udcb0 Groq Raises $350M to Pivot from AI Chips to Neocloud",
+      "post_title_fa": "\ud83d\udcb0 \u06af\u0631\u0627\u06a9 \u06f3\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0632 \u0686\u06cc\u067e\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0646\u0626\u0648\u06a9\u0644\u0627\u062f \u062c\u0630\u0628 \u06a9\u0631\u062f",
+      "priority": "high",
+      "published": "2026-08-17T16:15:12+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
       "category": "other",
       "duplicate_of": null,
       "post_body": "\ud83d\udcb3 Payments giant Stripe is nearing a deal to acquire OpenRouter, the AI model gateway, for more than $7 billion. OpenRouter gives developers a single API to pick from dozens of LLMs, making it a key distribution hub for AI startups. The 7B deal would let Stripe embed AI model access directly into its payments and infrastructure stack. For developers, the acquisition could reshape how models are billed and accessed, with Stripe's pricing engine behind it. \ud83d\udcb5 The move shows big money flowing into AI infrastructure and API aggregation. \ud83c\udf0d OpenRouter's global user base gives Stripe an instant foothold in the AI economy.",
@@ -84773,6 +84805,14 @@
     "title": "Nvidia's CUDA Faces New Threats from AI Coding Agents",
     "title_norm": "nvidias cuda faces new threats from ai coding agents"
   },
+  "aec807fb8df8b49f43a606c67558af3e5327469ceefd295d0d3c5a9c833d808b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779771+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Text Watermarking Playground",
+    "title_norm": "ai text watermarking playground"
+  },
   "aec9a806dce077eacfbde941b4908ecef7661a279e35f190f78c62a6a8289935": {
     "category": "other",
     "posted": false,
@@ -87138,6 +87178,14 @@
     "source": "arXiv cs.AI",
     "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
     "title_norm": "rlindex reinforcement learning for retrieval index reasoning"
+  },
+  "b3aa16fa9a842b0904859e2f858d6cbe62034248715e5ef9ead346effd63c359": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779848+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Ling 3.0 Tiny is the strongest, fastest and greatest model on my low end PC!",
+    "title_norm": "ling 30 tiny is the strongest fastest and greatest model on my low end pc"
   },
   "b3ab73e24fcfc7a0b9b22eab357e26cb807bfc47e99fe39c139f19b96fc6c9a0": {
     "category": "research",
@@ -96335,6 +96383,14 @@
     "title": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
     "title_norm": "knowing when to stop bayesian optimal stopping for llm evaluations"
   },
+  "c5eaa90030d5ba9866bb567bf9cf643bd69c8468a83ae289a23a90aa8cfafdd6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779677+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "title_norm": "universal health coverage could save 1t and 114k lives a year yale study"
+  },
   "c5ed64e39d0c81b756c46dddd8f3499eac069ec310196970ad87e9a76a236b2b": {
     "category": "model_release",
     "posted": false,
@@ -102409,6 +102465,14 @@
     "title": "Universe",
     "title_norm": "universe"
   },
+  "d3491d6f12c50e39d397271595df1e1992abf4027c15b4f62bb17482408eb520": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779639+00:00",
+    "source": "TechCrunch AI",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "title_norm": "groq raises 350m to fuel its pivot from ai chips to neocloud"
+  },
   "d34b0f510ec468a300bfdf886bc6f2b0d9dcfac17a48b00287c3c3e796196b77": {
     "category": "research",
     "posted": false,
@@ -103536,6 +103600,14 @@
     "source": "Hacker News Frontpage",
     "title": "Codeberg Divides",
     "title_norm": "codeberg divides"
+  },
+  "d65ef77efa265dc7f997171d938241d8c29a836f494263fc9eeb2f72feaa80b7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779791+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Native, Without the Badge",
+    "title_norm": "ai native without the badge"
   },
   "d668ed12a15b45af53adc0571f926db6fa77c1fa867a379285c7482262a521af": {
     "category": "infrastructure",
@@ -105354,6 +105426,14 @@
     "source": "arXiv cs.AI",
     "title": "MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows",
     "title_norm": "mdarena evaluating coding agents on realistic molecular dynamics workflows"
+  },
+  "da17ceef305c5eba8c3c55df9e59d72d871bc8c61837cd156ea14256696b22bc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779540+00:00",
+    "source": "TechCrunch AI",
+    "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+    "title_norm": "amazon once an online bookseller is destroying rare books to train ai models"
   },
   "da18be23846bd49344eba3cbfbe864d3d96936cd8071a9ceefa275a327e40518": {
     "category": null,
@@ -116896,6 +116976,14 @@
     "source": "Hacker News Frontpage",
     "title": "Premier league bans gambling sponsors",
     "title_norm": "premier league bans gambling sponsors"
+  },
+  "f2b60b48e9651bad3d24dbed259c145355843a346566f5e4f89bf708ed3d5573": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T16:48:58.779830+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B Overthinking, It has to be done, it has to be overthinking to punch Opus 4.6",
+    "title_norm": "qwen 38 27b overthinking it has to be done it has to be overthinking to punch opus 46"
   },
   "f2bc954311216ea3188b236b734ca22ea73480980442632fcf47c1472ba804f4": {
     "category": "other",
