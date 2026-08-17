@@ -3641,6 +3641,14 @@
     "title": "What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces",
     "title_norm": "what is good extracting and testing implicit theories of literary quality from llm reasoning traces"
   },
+  "073672a8a96a7d906786f2917e9970f091fdd81fa3c6597346ba662b6e36beb2": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048677+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+    "title_norm": "show hn doberman the ai watchdog that stops claude from deleting your database"
+  },
   "073b0acef1a446bacdbf90511e4edc02b53055041c90c6dcea440bb9f71bbd40": {
     "category": "model_release",
     "message_id": 121,
@@ -61375,6 +61383,14 @@
     "title": "OpenAI Baselines: ACKTR & A2C",
     "title_norm": "openai baselines acktr a2c"
   },
+  "7d49aacaa67b4da8958ea8aea392b8b1ce31d191d2da72537a9068dc4e2c3965": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048654+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "AI;DR (AI; Didn't Read)",
+    "title_norm": "aidr ai didnt read"
+  },
   "7d4bd337285de8d2ab1df2948e047a9a7d9eafb751e029b82cc7d7a3476f1355": {
     "category": "integration",
     "posted": false,
@@ -75435,6 +75451,14 @@
     "title": "Introducing OpenAI",
     "title_norm": "introducing openai"
   },
+  "9b5b295109c03c54a987f13a7573d8ddc8f1ce7cc43584b59edeb2e8078239fa": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048708+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+    "title_norm": "canadian columnist boosting data centres has ties to ai industry"
+  },
   "9b5d327724f9ee394734171635e86dc9af230f658b8658ad0d668a7adb7b002b": {
     "category": "infrastructure",
     "message_id": 41,
@@ -77633,9 +77657,9 @@
   },
   "_meta": {
     "date": "2026-08-17",
-    "posts_today": 7,
+    "posts_today": 8,
     "posts_today_by_category": {
-      "infrastructure": 2,
+      "infrastructure": 3,
       "integration": 1,
       "model_release": 1,
       "other": 1,
@@ -77644,25 +77668,9 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-17-20"
+    "last_slot": "2026-08-17-22"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\ude80 Groq, once known for its custom AI chips, has raised $350 million at a $3.5 billion valuation to fuel its pivot to a \"neocloud\" business. The former chipmaker is now expanding its data center footprint, powered by Nvidia GPUs, to offer cloud compute to AI customers.\n\n\ud83d\udcb5 This funding round marks a strategic shift as competition in AI hardware intensifies. \ud83c\udf0d With neoclouds emerging as a key market, Groq is betting on being a service provider rather than just a chip vendor. This move could reshape the AI infrastructure landscape.",
-      "post_body_fa": "\ud83d\ude80 \u06af\u0631\u0627\u06a9 \u06a9\u0647 \u0632\u0645\u0627\u0646\u06cc \u0628\u0647 \u062e\u0627\u0637\u0631 \u0686\u06cc\u067e\u200c\u0647\u0627\u06cc \u0633\u0641\u0627\u0631\u0634\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u062f\u060c \u06f3\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0627 \u0627\u0631\u0632\u0634\u200c\u06af\u0630\u0627\u0631\u06cc \u06f3.\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0628\u0631\u0627\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0628\u0647 \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631 \u00ab\u0646\u0626\u0648\u06a9\u0644\u0627\u062f\u00bb \u062c\u0630\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u0633\u0627\u0628\u0642\u0627\u064b \u062a\u0648\u0644\u06cc\u062f\u06a9\u0646\u0646\u062f\u0647 \u0686\u06cc\u067e\u060c \u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 \u062d\u0627\u0644 \u06af\u0633\u062a\u0631\u0634 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u062e\u0648\u062f \u0628\u0627 \u067e\u0631\u062f\u0627\u0632\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u0627\u0633\u062a \u062a\u0627 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0627\u0628\u0631\u06cc \u0631\u0627 \u0628\u0647 \u0645\u0634\u062a\u0631\u06cc\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0631\u0627\u0626\u0647 \u062f\u0647\u062f.\n\n\ud83d\udcb5 \u0627\u06cc\u0646 \u062f\u0648\u0631 \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u06cc\u06a9 \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u06a9 \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u0632\u06cc\u0631\u0627 \u0631\u0642\u0627\u0628\u062a \u062f\u0631 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u062f\u062a \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f. \ud83c\udf0d \u0628\u0627 \u0638\u0647\u0648\u0631 \u0646\u0626\u0648\u06a9\u0644\u0627\u062f\u0647\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0628\u0627\u0632\u0627\u0631 \u06a9\u0644\u06cc\u062f\u06cc\u060c \u06af\u0631\u0627\u06a9 \u0634\u0631\u0637 \u0645\u06cc\u200c\u0628\u0646\u062f\u062f \u06a9\u0647 \u0628\u06cc\u0634\u062a\u0631 \u06cc\u06a9 \u0627\u0631\u0627\u0626\u0647\u200c\u062f\u0647\u0646\u062f\u0647 \u062e\u062f\u0645\u0627\u062a \u0628\u0627\u0634\u062f \u062a\u0627 \u0641\u0642\u0637 \u0641\u0631\u0648\u0634\u0646\u062f\u0647 \u0686\u06cc\u067e. \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062f\u06af\u0631\u06af\u0648\u0646 \u06a9\u0646\u062f.",
-      "post_title": "\ud83d\udcb0 Groq Raises $350M to Pivot from AI Chips to Neocloud",
-      "post_title_fa": "\ud83d\udcb0 \u06af\u0631\u0627\u06a9 \u06f3\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0632 \u0686\u06cc\u067e\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0646\u0626\u0648\u06a9\u0644\u0627\u062f \u062c\u0630\u0628 \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-17T16:15:12+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "TechCrunch AI",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -77824,20 +77832,20 @@
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "category": "model_release",
+      "category": "policy",
       "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Alibaba has released HappyShrimp, a new AI music generation model, now in beta. The tool can produce original tracks from text prompts, though specs and pricing are still under wraps. \ud83c\udfbc This move puts Alibaba head-to-head with Suno and Udio in the fast-growing AI music space.\n\nFor creators, it's another serious option for AI-assisted production, backed by a major Chinese tech firm. \ud83c\udf0f Alibaba's broader AI portfolio keeps expanding beyond chat and code into creative fields.",
-      "post_body_fa": "\ud83e\udd16 Alibaba \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u062a\u0648\u0644\u06cc\u062f \u0645\u0648\u0633\u06cc\u0642\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc HappyShrimp \u0631\u0627 \u062f\u0631 \u0646\u0633\u062e\u0647 \u0628\u062a\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0632 \u0631\u0648\u06cc \u0645\u062a\u0646\u060c \u0622\u0647\u0646\u06af\u200c\u0647\u0627\u06cc \u0627\u0635\u0644\u06cc \u0628\u0633\u0627\u0632\u062f\u060c \u0647\u0631\u0686\u0646\u062f \u062c\u0632\u0626\u06cc\u0627\u062a \u0641\u0646\u06cc \u0648 \u0642\u06cc\u0645\u062a\u200c\u06af\u0630\u0627\u0631\u06cc \u0647\u0646\u0648\u0632 \u0627\u0639\u0644\u0627\u0645 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a. \ud83c\udfbc \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 Alibaba \u0631\u0627 \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0645\u0633\u062a\u0642\u06cc\u0645 \u0628\u0627 Suno \u0648 Udio \u062f\u0631 \u062d\u0648\u0632\u0647 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0645\u0648\u0633\u06cc\u0642\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\u0628\u0631\u0627\u06cc \u0633\u0627\u0632\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u06cc\u06a9 \u06af\u0632\u06cc\u0646\u0647 \u062c\u062f\u06cc \u062f\u06cc\u06af\u0631 \u0628\u0631\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f \u0645\u0648\u0633\u06cc\u0642\u06cc \u0628\u0627 \u06a9\u0645\u06a9 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0648\u0633\u0637 \u06cc\u06a9 \u0634\u0631\u06a9\u062a \u0628\u0632\u0631\u06af \u0641\u0646\u0627\u0648\u0631\u06cc \u0686\u06cc\u0646\u06cc \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f. \ud83c\udf0f \u0633\u0628\u062f \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Alibaba \u0647\u0645\u0686\u0646\u0627\u0646 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0686\u062a \u0648 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0628\u0647 \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc \u062e\u0644\u0627\u0642\u0627\u0646\u0647 \u06af\u0633\u062a\u0631\u0634 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f.",
-      "post_title": "\ud83c\udfb5 Alibaba launches HappyShrimp, a new AI music generation model",
-      "post_title_fa": "\ud83c\udfb5 Alibaba \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u062a\u0648\u0644\u06cc\u062f \u0645\u0648\u0633\u06cc\u0642\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc HappyShrimp \u0631\u0627 \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f",
+      "post_body": "\ud83c\udfd7\ufe0f An investigation by DeSmog reveals that a Canadian columnist who has been vocally boosting data centre development has undisclosed ties to the AI industry. The columnist reportedly has financial or professional connections to companies that would benefit from the buildout \u26a0\ufe0f. This raises serious concerns about undisclosed conflicts of interest in Canadian media coverage of AI infrastructure.\n\nThe report underscores how quickly the AI boom is reshaping public discourse \u2014 and who quietly profits from it. For readers, it's a reminder to check who is behind pro-data-centre commentary as billions pour into new facilities \ud83d\udcb0.",
+      "post_body_fa": "\ud83c\udfd7\ufe0f \u062a\u062d\u0642\u06cc\u0642\u0627\u062a DeSmog \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0633\u062a\u0648\u0646\u200c\u0646\u0648\u06cc\u0633 \u06a9\u0627\u0646\u0627\u062f\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0647 \u0637\u0648\u0631 \u0639\u0644\u0646\u06cc \u0627\u0632 \u062a\u0648\u0633\u0639\u0647 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u062d\u0645\u0627\u06cc\u062a \u06a9\u0631\u062f\u0647\u060c \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u067e\u0646\u0647\u0627\u0646\u06cc \u0628\u0627 \u0635\u0646\u0639\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u0631\u062f. \u0627\u06cc\u0646 \u0633\u062a\u0648\u0646\u200c\u0646\u0648\u06cc\u0633 \u0638\u0627\u0647\u0631\u0627\u064b \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u0645\u0627\u0644\u06cc \u06cc\u0627 \u062d\u0631\u0641\u0647\u200c\u0627\u06cc \u0628\u0627 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc\u06cc \u062f\u0627\u0631\u062f \u06a9\u0647 \u0627\u0632 \u0633\u0627\u062e\u062a\u200c\u0648\u0633\u0627\u0632 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0633\u0648\u062f \u0645\u06cc\u200c\u0628\u0631\u0646\u062f \u26a0\ufe0f. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0646\u06af\u0631\u0627\u0646\u06cc \u062c\u062f\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0636\u0627\u062f \u0645\u0646\u0627\u0641\u0639 \u067e\u0646\u0647\u0627\u0646 \u062f\u0631 \u067e\u0648\u0634\u0634 \u0631\u0633\u0627\u0646\u0647\u200c\u0627\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u06a9\u0627\u0646\u0627\u062f\u0627 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u06af\u0632\u0627\u0631\u0634 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0631\u0648\u0646\u0642 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u0633\u0631\u06cc\u0639 \u06af\u0641\u062a\u0645\u0627\u0646 \u0639\u0645\u0648\u0645\u06cc \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \u2014 \u0648 \u0686\u0647 \u06a9\u0633\u06cc \u0628\u06cc\u200c\u0635\u062f\u0627 \u0627\u0632 \u0622\u0646 \u0633\u0648\u062f \u0645\u06cc\u200c\u0628\u0631\u062f. \u0628\u0631\u0627\u06cc \u062e\u0648\u0627\u0646\u0646\u062f\u06af\u0627\u0646\u060c \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0647\u0646\u06af\u0627\u0645 \u0645\u0634\u0627\u0647\u062f\u0647 \u0646\u0638\u0631\u0627\u062a \u062d\u0627\u0645\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0628\u0631\u0631\u0633\u06cc \u06a9\u0646\u0646\u062f \u0686\u0647 \u06a9\u0633\u06cc \u067e\u0634\u062a \u0622\u0646\u200c\u0647\u0627\u0633\u062a\u060c \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u0647\u0627 \u062f\u0644\u0627\u0631 \u0628\u0647 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u062c\u062f\u06cc\u062f \u0633\u0631\u0627\u0632\u06cc\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f \ud83d\udcb0.",
+      "post_title": "\u2696\ufe0f Canadian columnist boosting data centres has undisclosed AI industry ties",
+      "post_title_fa": "\u2696\ufe0f \u0627\u0631\u062a\u0628\u0627\u0637 \u067e\u0646\u0647\u0627\u0646 \u0633\u062a\u0648\u0646\u200c\u0646\u0648\u06cc\u0633 \u06a9\u0627\u0646\u0627\u062f\u0627\u06cc\u06cc \u062d\u0627\u0645\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0628\u0627 \u0635\u0646\u0639\u062a AI",
       "priority": "medium",
-      "published": "2026-08-17T19:10:24+00:00",
+      "published": "2026-08-17T19:43:18+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta\">https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336108\">https://news.ycombinator.com/item?id=49336108</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta"
+      "summary": "<p>Article URL: <a href=\"https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/\">https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336532\">https://news.ycombinator.com/item?id=49336532</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+      "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -93414,6 +93422,14 @@
     "title": "Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study",
     "title_norm": "domainspecific evaluation of texttospeech systems a multimetric benchmarking study"
   },
+  "bf50ec5ce617ac83f0c8191a946860d3cb0cd0d2aa8f71d8bb07d1b2c9c687ea": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048506+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "title_norm": "same cluster 33 points more utilization what changed was the order"
+  },
   "bf51e8a9e9e9760d3cf8b63acde60be0f1fc72194912e6bf0736bb94c8040af6": {
     "category": "research",
     "posted": false,
@@ -102836,7 +102852,13 @@
   },
   "d3491d6f12c50e39d397271595df1e1992abf4027c15b4f62bb17482408eb520": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 224,
+    "message_id_fa": 198,
+    "post_title": "\ud83d\udcb0 Groq Raises $350M to Pivot from AI Chips to Neocloud",
+    "post_title_fa": "\ud83d\udcb0 \u06af\u0631\u0627\u06a9 \u06f3\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0632 \u0686\u06cc\u067e\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0646\u0626\u0648\u06a9\u0644\u0627\u062f \u062c\u0630\u0628 \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-17T20:10:59.176070+00:00",
+    "priority": "high",
     "seen_at": "2026-08-17T16:48:58.779639+00:00",
     "source": "TechCrunch AI",
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -103865,6 +103887,14 @@
     "source": "Reddit r/singularity",
     "title": "Thinking about getting a subscription but really confused with all the new models and options propping up each day, if you had to choose one what would it be?",
     "title_norm": "thinking about getting a subscription but really confused with all the new models and options propping up each day if you had to choose one what would it be"
+  },
+  "d61491bb6ba78d730dfdd0df54cde927ee79b8f1ce5d15767242359caa0cb964": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048722+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
+    "title_norm": "opus 48 thinks too much muse glimmer sits between gemma and qwen thats boring gemma 4 is too lazy"
   },
   "d6176c2c56b2f113dc83169e323213d6663bacadda83b70dac3252b77510cec6": {
     "category": "research",
@@ -117655,6 +117685,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Best models 14b and smaller as of today?",
     "title_norm": "best models 14b and smaller as of today"
+  },
+  "f341fa9898a404246b9bd98eb4eb720744e56a3c7d451115aceef03ce184e6b1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T20:10:58.048695+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Is reviewing AI even possible?",
+    "title_norm": "is reviewing ai even possible"
   },
   "f3463a573c49a310140f9915982c6a9bac27aeaacc3e02415eece3f7b9d91071": {
     "category": "research",
