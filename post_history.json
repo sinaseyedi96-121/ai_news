@@ -13117,6 +13117,14 @@
     "title": "FITTER: Vocabulary-Agnostic Cross-Domain Inference on Temporal Knowledge Graphs",
     "title_norm": "fitter vocabularyagnostic crossdomain inference on temporal knowledge graphs"
   },
+  "1b4b1216de83a61f7b22a1344b63d608351942e7d3126e12f94d7918bd923c26": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.393962+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+    "title_norm": "anthropics watermark text adulteration in claude is a perversion of writing"
+  },
   "1b4cd559dfd17968d4fc30d063f609f590274c54cd7d323a6e84e16b6a185266": {
     "category": "research",
     "posted": false,
@@ -13692,6 +13700,14 @@
     "source": "Hacker News AI keyword",
     "title": "Wordle but small AI mini challanges",
     "title_norm": "wordle but small ai mini challanges"
+  },
+  "1c4bbae984f8bf724662d153271057867a5b73f07b8903450bb10fc5ad9e6ffc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.394046+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Every student is cheating with AI",
+    "title_norm": "every student is cheating with ai"
   },
   "1c51db275442ce813c3a54312ce01ad97305c53b5e8bebc22f6e15deaa963610": {
     "category": "other",
@@ -58687,7 +58703,13 @@
   },
   "790d9637690faca05e5f2c3d002c7f289b5d7afc4d83342d1b503d31d5fb9d00": {
     "category": "policy",
-    "posted": false,
+    "message_id": 217,
+    "message_id_fa": 191,
+    "post_title": "\u2696\ufe0f AI wins landmark unfair dismissal case in Australia",
+    "post_title_fa": "\u2696\ufe0f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0627\u0631\u06cc\u062e\u06cc \u0627\u062e\u0631\u0627\u062c \u0646\u0627\u0639\u0627\u062f\u0644\u0627\u0646\u0647 \u0631\u0627 \u062f\u0631 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u0628\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-17T08:03:10.496075+00:00",
+    "priority": "high",
     "seen_at": "2026-08-17T07:17:37.679273+00:00",
     "source": "Hacker News AI keyword",
     "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
@@ -64663,6 +64685,14 @@
     "title": "The Quadrilateral Loss: Additivity as a Measurable Behavior of Dense Neural Networks",
     "title_norm": "the quadrilateral loss additivity as a measurable behavior of dense neural networks"
   },
+  "86328d9d1207b00a2c3849fcff97226c46f0bcbe623b8117df68fcf0a4ccde63": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.394140+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Report supporting Australia's teen social media ban appears to contain AI",
+    "title_norm": "report supporting australias teen social media ban appears to contain ai"
+  },
   "863e09aa8162ed064ebf8980d1155edf08ace818f3301e1ea7ab7b28822a20a8": {
     "category": "research",
     "posted": false,
@@ -65524,6 +65554,14 @@
     "source": "arXiv cs.AI",
     "title": "LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models",
     "title_norm": "lacache exact caching and precisionadaptive inference for diffusion large language models"
+  },
+  "8811308accfa4b55dd82264deaa51c2081833749c76ce5caa39b36c541521277": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.394065+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "HackEurope 2026: A short rant on AI and hackathons",
+    "title_norm": "hackeurope 2026 a short rant on ai and hackathons"
   },
   "88151601cf8f26f52b95c0639bf58f4038e8055091e1bc66fda890dd26f706dd": {
     "category": "other",
@@ -69702,6 +69740,14 @@
     "source": "OpenAI News",
     "title": "Will Hurd joins OpenAI\u2019s board of directors",
     "title_norm": "will hurd joins openais board of directors"
+  },
+  "91521058cc31d4c9fdf7c6f2442e97696d544119721491a8a65dd2b80f4ada7d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.394080+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "How to Fix Diagonal Speed Bug in Pygame \u2013 No AI \u2013 Pygame Tutorial for Beginners",
+    "title_norm": "how to fix diagonal speed bug in pygame no ai pygame tutorial for beginners"
   },
   "9156b55d7641e30e2f579e4bf01b4c17781bbdaf9f891949afd09b03000a3bd0": {
     "category": "research",
@@ -76639,31 +76685,16 @@
   },
   "_meta": {
     "date": "2026-08-17",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
-      "infrastructure": 1
+      "infrastructure": 1,
+      "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-17-08"
+    "last_slot": "2026-08-17-10"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 An Australian academic won a landmark Fair Work Commission case with help from AI, as reported by the AFR. The AI analyzed evidence and helped build a legal argument that secured a favorable ruling, marking a first for such tribunals. The case could set a precedent for AI's role in litigation and workplace disputes. It shows AI moving from backend tools to active participation in legal outcomes \ud83c\udfdb\ufe0f.",
-      "post_body_fa": "\ud83e\udd16 \u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u0627\u06cc\u200c\u0627\u0641\u200c\u0622\u0631\u060c \u06cc\u06a9 \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u06cc \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627\u06cc\u06cc \u0628\u0627 \u06a9\u0645\u06a9 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u0631\u0648\u0646\u062f\u0647\u200c\u0627\u06cc \u062a\u0627\u0631\u06cc\u062e\u06cc \u0631\u0627 \u062f\u0631 \u06a9\u0645\u06cc\u0633\u06cc\u0648\u0646 \u06a9\u0627\u0631 \u0645\u0646\u0635\u0641\u0627\u0646\u0647 \u0628\u0631\u062f. \u0627\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0634\u0648\u0627\u0647\u062f \u0631\u0627 \u062a\u062d\u0644\u06cc\u0644 \u06a9\u0631\u062f \u0648 \u0628\u0647 \u0633\u0627\u062e\u062a \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u062d\u0642\u0648\u0642\u06cc \u06a9\u0645\u06a9 \u06a9\u0631\u062f \u06a9\u0647 \u0631\u0623\u06cc \u0645\u0637\u0644\u0648\u0628\u06cc \u0628\u0647 \u062f\u0633\u062a \u0622\u0648\u0631\u062f \u0648 \u0627\u06cc\u0646 \u0627\u0648\u0644\u06cc\u0646 \u0628\u0627\u0631 \u0628\u0631\u0627\u06cc \u0686\u0646\u06cc\u0646 \u062f\u0627\u062f\u06af\u0627\u0647\u200c\u0647\u0627\u06cc\u06cc \u0628\u0648\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0627\u0628\u0642\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u0646\u0642\u0634 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062f\u0639\u0627\u0648\u06cc \u0648 \u0627\u062e\u062a\u0644\u0627\u0641\u0627\u062a \u0645\u062d\u0644 \u06a9\u0627\u0631 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u067e\u0634\u062a\u06cc\u0628\u0627\u0646 \u0628\u0647 \u0645\u0634\u0627\u0631\u06a9\u062a \u0641\u0639\u0627\u0644 \u062f\u0631 \u0646\u062a\u0627\u06cc\u062c \u062d\u0642\u0648\u0642\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u200c\u0634\u0648\u062f \ud83c\udfdb\ufe0f.",
-      "post_title": "\u2696\ufe0f AI wins landmark unfair dismissal case in Australia",
-      "post_title_fa": "\u2696\ufe0f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u0631\u0648\u0646\u062f\u0647 \u062a\u0627\u0631\u06cc\u062e\u06cc \u0627\u062e\u0631\u0627\u062c \u0646\u0627\u0639\u0627\u062f\u0644\u0627\u0646\u0647 \u0631\u0627 \u062f\u0631 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u0628\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-17T05:21:39+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m\">https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326817\">https://news.ycombinator.com/item?id=49326817</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
-      "url": "https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m"
-    },
     {
       "category": "research",
       "duplicate_of": null,
@@ -76823,6 +76854,22 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/\"> <img alt=\"Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" title=\"Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/juanviera23\"> /u/juanviera23 </a> <br /> <span><a href=\"https://arxiv.org/abs/2605.06241\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/\">[comments]</a></span> </td></tr></table>",
       "title": "Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpuhh1/paper_claims_rl_for_reasoning_only_changes_13_of/"
+    },
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udd25 A report backing Australia's teen social media ban appears to include AI-generated content and fabricated citations, The Guardian reports. The discovery raises doubts about how the evidence was compiled and whether it was properly reviewed before being used in a major policy debate.\n\n\ud83d\udccb Lawmakers now face pressure to clarify who generated the text and why the inaccuracies went unnoticed. This matters because policy built on unverified AI output can erode public trust, especially when the issue is internet regulation for minors. \ud83c\udf0d Expect further scrutiny of AI use in government reports worldwide.",
+      "post_body_fa": "\ud83d\udd25 \u06af\u0632\u0627\u0631\u0634\u06cc \u06a9\u0647 \u0627\u0632 \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062d\u0645\u0627\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0638\u0627\u0647\u0631\u0627\u064b \u0634\u0627\u0645\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0627\u0631\u062c\u0627\u0639\u200c\u0647\u0627\u06cc \u062c\u0639\u0644\u06cc \u0627\u0633\u062a\u061b \u06af\u0627\u0631\u062f\u06cc\u0646 \u0627\u06cc\u0646 \u0631\u0627 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0631\u062f\u0647. \u0627\u06cc\u0646 \u06a9\u0634\u0641 \u062a\u0631\u062f\u06cc\u062f\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u062d\u0648\u0647 \u06af\u0631\u062f\u0622\u0648\u0631\u06cc \u0634\u0648\u0627\u0647\u062f \u0648 \u0627\u06cc\u0646\u06a9\u0647 \u0622\u06cc\u0627 \u067e\u06cc\u0634 \u0627\u0632 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062f\u0631 \u06cc\u06a9 \u0628\u062d\u062b \u0633\u06cc\u0627\u0633\u06cc \u0645\u0647\u0645\u060c \u0628\u0647\u200c\u062f\u0631\u0633\u062a\u06cc \u0628\u0631\u0631\u0633\u06cc \u0634\u062f\u0647 \u06cc\u0627 \u0646\u0647\u060c \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83d\udccb \u0642\u0627\u0646\u0648\u0646\u200c\u06af\u0630\u0627\u0631\u0627\u0646 \u0627\u06a9\u0646\u0648\u0646 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0647\u0633\u062a\u0646\u062f \u062a\u0627 \u0645\u0634\u062e\u0635 \u06a9\u0646\u0646\u062f \u0686\u0647 \u06a9\u0633\u06cc \u0627\u06cc\u0646 \u0645\u062a\u0646 \u0631\u0627 \u062a\u0648\u0644\u06cc\u062f \u06a9\u0631\u062f\u0647 \u0648 \u0686\u0631\u0627 \u0627\u06cc\u0646 \u0646\u0627\u062f\u0631\u0633\u062a\u06cc\u200c\u0647\u0627 \u062f\u06cc\u062f\u0647 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u0633\u06cc\u0627\u0633\u062a\u06cc \u06a9\u0647 \u0628\u0631 \u067e\u0627\u06cc\u0647 \u062e\u0631\u0648\u062c\u06cc \u062a\u0623\u06cc\u06cc\u062f\u0646\u0634\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u0627\u062e\u062a\u0647 \u0634\u0648\u062f \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0639\u062a\u0645\u0627\u062f \u0639\u0645\u0648\u0645\u06cc \u0631\u0627 \u062a\u0636\u0639\u06cc\u0641 \u06a9\u0646\u062f\u060c \u0628\u0647\u200c\u0648\u06cc\u0698\u0647 \u0648\u0642\u062a\u06cc \u0628\u062d\u062b \u062f\u0631\u0628\u0627\u0631\u0647 \u0645\u0642\u0631\u0631\u0627\u062a \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0628\u0631\u0627\u06cc \u062e\u0631\u062f\u0633\u0627\u0644\u0627\u0646 \u0627\u0633\u062a. \ud83c\udf0d \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0628\u0631\u0631\u0633\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a\u06cc \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646 \u0635\u0648\u0631\u062a \u06af\u06cc\u0631\u062f.",
+      "post_title": "\u2696\ufe0f Australia's social media ban report appears to contain AI hallucinations",
+      "post_title_fa": "\u2696\ufe0f \u06af\u0632\u0627\u0631\u0634 \u062d\u0627\u0645\u06cc \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062d\u0627\u0648\u06cc \u062a\u0648\u0647\u0645\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a",
+      "priority": "medium",
+      "published": "2026-08-17T07:07:06+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb\">https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327382\">https://news.ycombinator.com/item?id=49327382</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "Report supporting Australia's teen social media ban appears to contain AI",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb"
     }
   ],
   "a00a7ed50f6326bc624d486bb36e70944f8fa4bcb7dcef747b920ae72b392b66": {
@@ -102290,6 +102337,14 @@
     "source": "Hacker News Frontpage",
     "title": "I made tinnitus my friend, then it disappeared [video]",
     "title_norm": "i made tinnitus my friend then it disappeared video"
+  },
+  "d5715d6c0ec497bc13214fa21c2511310f81289fa559b77849b9e5bf0af3217c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-17T08:03:09.394117+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: How can I tell articles on HN is AI written or not?",
+    "title_norm": "ask hn how can i tell articles on hn is ai written or not"
   },
   "d571dfdbd3f03b372b4a120d7fb7cc24b0b237f07c7e211ce33a24c11784f8a2": {
     "category": "research",
