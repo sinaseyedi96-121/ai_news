@@ -8551,6 +8551,14 @@
     "title": "GenOS: Compositional Certificates for Semantic Robustness in AI Code Generation",
     "title_norm": "genos compositional certificates for semantic robustness in ai code generation"
   },
+  "10912d2fae3aa16e9f920587524903c2dba521c19f6888837f4caeebd0d1cdb9": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T12:04:03.867330+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Rewriting a production compiler's IR with AI agents in five weeks",
+    "title_norm": "rewriting a production compilers ir with ai agents in five weeks"
+  },
   "10929553542388fe803a15cdc8be587f9652f6478a87d95821297f39481f7e9d": {
     "category": "research",
     "posted": false,
@@ -17750,6 +17758,14 @@
     "source": "arXiv cs.AI",
     "title": "Directional Influence Function: Estimating Training Data Influence in Constrained Learning",
     "title_norm": "directional influence function estimating training data influence in constrained learning"
+  },
+  "22bc845755c614ff892f0fa3c16ebe00d80ba9858de68e3be4be744a50d1b61d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T12:04:03.867293+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Don't Paste the AI, Please",
+    "title_norm": "dont paste the ai please"
   },
   "22c2ff8bad8cfd85b49cffce90ee95128b4cc5c8b213a831da43e944b35eb804": {
     "category": "model_release",
@@ -35860,6 +35876,14 @@
     "source": "Wired AI",
     "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
     "title_norm": "nvidia wants to own every chip inside ai data centers"
+  },
+  "45852df9841cef261bc3da8fb805486ee9c66f5f8d0312607c86c3627c3b05b0": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-18T12:04:03.867190+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+    "title_norm": "as wisconsin cities flee flock its shared camera network loses value"
   },
   "4586c5f3db353f7d037e30fd31269276ba967af06b005053f1d5456ba7abb250": {
     "category": "integration",
@@ -54335,7 +54359,13 @@
   },
   "6985143951d036a96a3bff79cdd1b07454f9cf7d6360089f285cfe4f81272267": {
     "category": "research",
-    "posted": false,
+    "message_id": 228,
+    "message_id_fa": 202,
+    "post_title": "\ud83d\udd2c AI Verifies the Hardest Math Proof Yet",
+    "post_title_fa": "\ud83d\udd2c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u062e\u062a\u200c\u062a\u0631\u06cc\u0646 \u0627\u062b\u0628\u0627\u062a \u0631\u06cc\u0627\u0636\u06cc \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-18T12:04:04.843979+00:00",
+    "priority": "high",
     "seen_at": "2026-08-18T11:33:20.708527+00:00",
     "source": "Hacker News AI keyword",
     "title": "AI Used to Verify Toughest Mathematics Proof Yet",
@@ -81651,33 +81681,18 @@
   },
   "_meta": {
     "date": "2026-08-18",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
       "infrastructure": 1,
       "model_release": 1,
-      "other": 1
+      "other": 1,
+      "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-18-12"
+    "last_slot": "2026-08-18-14"
   },
   "_queue": [
-    {
-      "category": "research",
-      "duplicate_of": null,
-      "post_body": "\u2705 Researchers used AI to verify a famously difficult mathematical proof\u2014the 246-theorem formalization\u2014marking a milestone for machine-checked mathematics. The work, featured in IEEE Spectrum, shows AI can handle complex symbolic reasoning at a scale that was previously impractical. \ud83e\uddee\n\nThis is significant because formal verification could root out errors in math and software that humans miss. For AI news, it signals a genuinely new capability: machines as trustworthy proof assistants. \ud83c\udf0d It may accelerate fields like cryptography and theorem proving.",
-      "post_body_fa": "\u2705 \u0645\u062d\u0642\u0642\u0627\u0646 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06cc\u06a9 \u0627\u062b\u0628\u0627\u062a \u0631\u06cc\u0627\u0636\u06cc \u0628\u0633\u06cc\u0627\u0631 \u062f\u0634\u0648\u0627\u0631 \u2014 \u0631\u0633\u0645\u06cc\u200c\u0633\u0627\u0632\u06cc \u06f2\u06f4\u06f6 \u0642\u0636\u06cc\u0647 \u2014 \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f\u0646\u062f \u06a9\u0647 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641\u06cc \u0628\u0631\u0627\u06cc \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a \u0628\u0631\u0631\u0633\u06cc\u200c\u0634\u062f\u0647 \u0628\u0627 \u0645\u0627\u0634\u06cc\u0646 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u06a9\u0647 \u062f\u0631 IEEE Spectrum \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647\u060c \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u0646\u0645\u0627\u062f\u06cc\u0646 \u067e\u06cc\u0686\u06cc\u062f\u0647 \u0631\u0627 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633\u06cc \u0627\u0646\u062c\u0627\u0645 \u062f\u0647\u062f \u06a9\u0647 \u0642\u0628\u0644\u0627\u064b \u0639\u0645\u0644\u06cc \u0646\u0628\u0648\u062f. \ud83e\uddee\n\n\u0627\u06cc\u0646 \u0645\u0647\u0645 \u0627\u0633\u062a \u0632\u06cc\u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u0631\u0633\u0645\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062e\u0637\u0627\u0647\u0627\u06cc\u06cc \u0631\u0627 \u062f\u0631 \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a \u0648 \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 \u067e\u06cc\u062f\u0627 \u06a9\u0646\u062f \u06a9\u0647 \u0627\u0646\u0633\u0627\u0646\u200c\u0647\u0627 \u0627\u0632 \u062f\u0633\u062a \u0645\u06cc\u200c\u062f\u0647\u0646\u062f. \u0628\u0631\u0627\u06cc \u0627\u062e\u0628\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u200c\u0627\u06cc \u0627\u0632 \u06cc\u06a9 \u0642\u0627\u0628\u0644\u06cc\u062a \u0648\u0627\u0642\u0639\u0627\u064b \u062c\u062f\u06cc\u062f \u0627\u0633\u062a: \u0645\u0627\u0634\u06cc\u0646\u200c\u0647\u0627 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u062f\u0633\u062a\u06cc\u0627\u0631\u0627\u0646 \u0642\u0627\u0628\u0644 \u0627\u0639\u062a\u0645\u0627\u062f \u062f\u0631 \u0627\u062b\u0628\u0627\u062a. \ud83c\udf0d \u0627\u06cc\u0646 \u0627\u0645\u0631 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f \u0631\u0645\u0632\u0646\u06af\u0627\u0631\u06cc \u0648 \u0642\u0636\u0627\u06cc\u0627\u06cc \u0627\u062b\u0628\u0627\u062a\u06cc \u0631\u0627 \u062a\u0633\u0631\u06cc\u0639 \u06a9\u0646\u062f.",
-      "post_title": "\ud83d\udd2c AI Verifies the Hardest Math Proof Yet",
-      "post_title_fa": "\ud83d\udd2c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u062e\u062a\u200c\u062a\u0631\u06cc\u0646 \u0627\u062b\u0628\u0627\u062a \u0631\u06cc\u0627\u0636\u06cc \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-18T11:10:44+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/axiom-math-246-theorem-formalization\">https://spectrum.ieee.org/axiom-math-246-theorem-formalization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343957\">https://news.ycombinator.com/item?id=49343957</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
-      "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -81839,20 +81854,20 @@
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "category": "model_release",
+      "category": "policy",
       "duplicate_of": null,
-      "post_body": "\ud83d\udee1\ufe0f OpenAI introduced ChatGPT for Teens, a dedicated mode combining existing youth safeguards with new safety features. The experience includes healthy-use features, stronger protections, and additional parental controls. \ud83e\uddd1\u200d\ud83c\udf93 It's designed to help teens learn, think critically, and use AI confidently.\n\nThe launch comes amid growing public scrutiny over AI's impact on younger users, making this a timely move. \ud83c\udf0d For parents and educators, it offers more control and peace of mind as AI use in schools grows.",
-      "post_body_fa": "\ud83d\udee1\ufe0f OpenAI \u062d\u0627\u0644\u062a \u0627\u062e\u062a\u0635\u0627\u0635\u06cc ChatGPT \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f \u06a9\u0647 \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc \u0631\u0627 \u0628\u0627 \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u0627\u06cc\u0645\u0646\u06cc \u062c\u062f\u06cc\u062f \u062a\u0631\u06a9\u06cc\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u062a\u062c\u0631\u0628\u0647 \u0634\u0627\u0645\u0644 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0633\u0627\u0644\u0645\u060c \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0642\u0648\u06cc\u200c\u062a\u0631 \u0648 \u06a9\u0646\u062a\u0631\u0644\u200c\u0647\u0627\u06cc \u0627\u0636\u0627\u0641\u06cc \u0628\u0631\u0627\u06cc \u0648\u0627\u0644\u062f\u06cc\u0646 \u0627\u0633\u062a. \ud83e\uddd1\u200d\ud83c\udf93 \u0647\u062f\u0641 \u0622\u0646 \u06a9\u0645\u06a9 \u0628\u0647 \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0628\u0631\u0627\u06cc \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc\u060c \u062a\u0641\u06a9\u0631 \u0627\u0646\u062a\u0642\u0627\u062f\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0628\u0627 \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0647 \u0646\u0641\u0633 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u0639\u0631\u0636\u0647 \u062f\u0631 \u062d\u0627\u0644\u06cc \u0627\u0646\u062c\u0627\u0645 \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0646\u0638\u0627\u0631\u062a \u0639\u0645\u0648\u0645\u06cc \u0628\u0631 \u062a\u0623\u062b\u06cc\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062c\u0648\u0627\u0646 \u0627\u0641\u0632\u0627\u06cc\u0634 \u06cc\u0627\u0641\u062a\u0647 \u0627\u0633\u062a. \ud83c\udf0d \u0628\u0631\u0627\u06cc \u0648\u0627\u0644\u062f\u06cc\u0646 \u0648 \u0645\u0639\u0644\u0645\u0627\u0646\u060c \u0627\u06cc\u0646 \u062d\u0627\u0644\u062a \u06a9\u0646\u062a\u0631\u0644 \u0648 \u0622\u0631\u0627\u0645\u0634 \u062e\u0627\u0637\u0631 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0645\u062f\u0627\u0631\u0633 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0627\u0633\u062a.",
-      "post_title": "\ud83d\ude80 OpenAI Launches ChatGPT for Teens with Extra Protections",
-      "post_title_fa": "\ud83d\ude80 \u0639\u0631\u0636\u0647 ChatGPT \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0628\u0627 \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631",
+      "post_body": "\ud83d\udcf7 Flock\u2019s shared AI-powered license plate camera network is losing value as multiple Wisconsin cities cancel the system. The exodus shrinks the pool of cameras that made the network useful for cross-city tracking, according to Ars Technica.\n\nLocal governments have cited privacy concerns and questionable effectiveness as reasons for leaving. \u2696\ufe0f The trend could accelerate as other municipalities watch the network\u2019s benefits decline. \ud83c\udf0d For readers, it\u2019s a real-world example of how public backlash can reshape private AI surveillance infrastructure.",
+      "post_body_fa": "\ud83d\udcf7 \u0627\u0631\u0632\u0634 \u0634\u0628\u06a9\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646\u0647\u0627\u06cc \u067e\u0644\u0627\u06a9\u062e\u0648\u0627\u0646 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Flock \u0628\u0627 \u062e\u0631\u0648\u062c \u0686\u0646\u062f \u0634\u0647\u0631 \u0648\u06cc\u0633\u06a9\u0627\u0646\u0633\u06cc\u0646 \u06a9\u0627\u0647\u0634 \u0645\u06cc\u06cc\u0627\u0628\u062f. \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 Ars Technica\u060c \u0627\u06cc\u0646 \u062e\u0631\u0648\u062c\u0647\u0627 \u0627\u0633\u062a\u062e\u0631 \u062f\u0648\u0631\u0628\u06cc\u0646\u0647\u0627\u06cc\u06cc \u0631\u0627 \u06a9\u0648\u0686\u06a9 \u0645\u06cc\u06a9\u0646\u062f \u06a9\u0647 \u0634\u0628\u06a9\u0647 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u0628\u06cc\u0646\u0634\u0647\u0631\u06cc \u0645\u0641\u06cc\u062f \u0645\u06cc\u06a9\u0631\u062f.\n\n\u062f\u0648\u0644\u062a\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0646\u06af\u0631\u0627\u0646\u06cc\u0647\u0627\u06cc \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0648 \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0645\u0634\u06a9\u0648\u06a9 \u0631\u0627 \u062f\u0644\u06cc\u0644 \u062a\u0631\u06a9 \u0633\u0631\u0648\u06cc\u0633 \u0639\u0646\u0648\u0627\u0646 \u06a9\u0631\u062f\u0647\u0627\u0646\u062f. \u2696\ufe0f \u0627\u06cc\u0646 \u0631\u0648\u0646\u062f \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0627 \u0645\u0634\u0627\u0647\u062f\u0647 \u06a9\u0627\u0647\u0634 \u0645\u0632\u0627\u06cc\u0627\u06cc \u0634\u0628\u06a9\u0647 \u062a\u0648\u0633\u0637 \u0633\u0627\u06cc\u0631 \u0634\u0647\u0631\u062f\u0627\u0631\u06cc\u0647\u0627 \u0634\u062a\u0627\u0628 \u0628\u06af\u06cc\u0631\u062f. \ud83c\udf0d \u0628\u0631\u0627\u06cc \u062e\u0648\u0627\u0646\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u0646\u0645\u0648\u0646\u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u0627\u0633\u062a \u0627\u0632 \u0627\u06cc\u0646\u06a9\u0647 \u0686\u06af\u0648\u0646\u0647 \u0648\u0627\u06a9\u0646\u0634 \u0639\u0645\u0648\u0645\u06cc \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0635\u0648\u0635\u06cc \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f.",
+      "post_title": "\u2696\ufe0f Wisconsin cities exit Flock, weakening AI camera network",
+      "post_title_fa": "\u2696\ufe0f \u0634\u0647\u0631\u0647\u0627\u06cc \u0648\u06cc\u0633\u06a9\u0627\u0646\u0633\u06cc\u0646 \u0627\u0632 Flock \u062e\u0627\u0631\u062c \u0645\u06cc\u0634\u0648\u0646\u062f \u0648 \u0634\u0628\u06a9\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646 AI \u0636\u0639\u06cc\u0641 \u0645\u06cc\u0634\u0648\u062f",
       "priority": "medium",
-      "published": "2026-08-18T11:00:00+00:00",
+      "published": "2026-08-18T11:27:03+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "OpenAI News",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens"
+      "source": "Hacker News Frontpage",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/\">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344114\">https://news.ycombinator.com/item?id=49344114</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -125729,6 +125744,14 @@
     "title": "Show HN: Chrome Extension Claude Token Usage Bar and Context Use for Claude.ai",
     "title_norm": "show hn chrome extension claude token usage bar and context use for claudeai"
   },
+  "f7bc369c223f1da5cf96d384e012b6e73a82f24aaf2559863f7179656f44d192": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T12:04:03.867313+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Does Not Change Goodhart or the Folly of Tokenmaxxing",
+    "title_norm": "ai does not change goodhart or the folly of tokenmaxxing"
+  },
   "f7bebe3fb5356cb2f0d66690f6c42d2a817e3b442427fd01af5ae4a681f07955": {
     "category": "other",
     "posted": false,
@@ -129794,6 +129817,14 @@
     "source": "Hacker News AI keyword",
     "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
     "title_norm": "microsoft launches new inhouse ai models cuts costs up to 89 versus openai"
+  },
+  "ff6e6fd1c5a564c64733b8742dee67193640a6ee2f096e75218d56cef67c9ecd": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T12:04:03.867266+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: H2AI Chat \u2013 multi-AI debate you can self-host with local models (AGPL)",
+    "title_norm": "show hn h2ai chat multiai debate you can selfhost with local models agpl"
   },
   "ff6f27d66a1e55f7bdf262290ff2df7605c78caa31d944f5ad7ad613eccdd8a8": {
     "category": "research",
