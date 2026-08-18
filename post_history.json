@@ -29329,6 +29329,14 @@
     "title": "How do functions like alloca allocate memory from the stack?",
     "title_norm": "how do functions like alloca allocate memory from the stack"
   },
+  "3843ca84538ea3e0af1ba64bf223d96d69db09ffe9b8a0bffa61311658a9612c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598626+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "When I worked at Apple, I remember seeing code that was 15 years old",
+    "title_norm": "when i worked at apple i remember seeing code that was 15 years old"
+  },
   "38453f2a94d263af2eda674c3f2662b8fe60f54dbaaa7b11f01fc217301f9cb9": {
     "category": null,
     "posted": false,
@@ -30370,6 +30378,14 @@
     "source": "arXiv cs.AI",
     "title": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
     "title_norm": "c2moe consistency and complementarityguided mixture of experts for incomplete multimodal emotion learning"
+  },
+  "3a26ebd48e1618f8971e6001c1ddd3f2f9777eb20f782d27972af876200cc43c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598675+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Kraubex AI",
+    "title_norm": "kraubex ai"
   },
   "3a28a8d2737ce8faad983b3a37331888a3c3ae2ded22ba5452f75963515792ea": {
     "category": "policy",
@@ -31944,6 +31960,14 @@
     "source": "Hacker News AI keyword",
     "title": "Is msnbot being used to train AI models?",
     "title_norm": "is msnbot being used to train ai models"
+  },
+  "3d60e22e4f932aa39c449711fffc3e313ef191e989ccb009ea469b170edec44d": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598706+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Breakthrough as scientists use AI to predict how breast cancer could progress",
+    "title_norm": "breakthrough as scientists use ai to predict how breast cancer could progress"
   },
   "3d63c7f23a1c632d8471a141967c3ec8d16d7fcc46d12dc57dd0b18e92397ae2": {
     "category": "research",
@@ -48248,6 +48272,14 @@
     "source": "arXiv cs.AI",
     "title": "Constraint-Anchored Reasoning Traces",
     "title_norm": "constraintanchored reasoning traces"
+  },
+  "5dd37a721f83ca037c1dfb51e1be54056e24eba6639af092dd5441ba9e4a7bbf": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598773+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The End-State Fallacy: Where Is AI Security Headed?",
+    "title_norm": "the endstate fallacy where is ai security headed"
   },
   "5ddd2738c43172545bfabc8d5375c42bf226fa2d0af1642bdbe85d706bcafcc4": {
     "category": "other",
@@ -78151,6 +78183,14 @@
     "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
     "title_norm": "trl v10 posttraining library built to move with the field"
   },
+  "98c849022938d8bc8192b81477855f7dd7954c1450a208755c518c5c1387ee37": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598592+00:00",
+    "source": "Wired AI",
+    "title": "The Powerful Chinese Model Experts Warned About\u2014and Waited for\u2014Is Here",
+    "title_norm": "the powerful chinese model experts warned aboutand waited foris here"
+  },
   "98ca4f1ba1ba1981a684146e7c2653ff7884380d81a0e7372dee1c4a65d37779": {
     "category": "other",
     "posted": false,
@@ -81544,6 +81584,22 @@
   },
   "_queue": [
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\ude80 Z.ai, a Chinese AI lab, has released its latest model\u2014one that experts had both anticipated and worried about. The open-weight model is powerful enough to help enterprises harden their defenses, but the same capabilities could be abused by attackers.\n\n\ud83d\udd25 This release lands at the center of the ongoing debate over open-weight AI and dual-use risk, especially for models coming out of China. \u2696\ufe0f Western policymakers are already under pressure to regulate such models, making this a major moment for AI security and export-control discussions. Expect security researchers and red teams to start probing it immediately.",
+      "post_body_fa": "\ud83d\ude80 \u0634\u0631\u06a9\u062a \u0686\u06cc\u0646\u06cc Z.ai \u0622\u062e\u0631\u06cc\u0646 \u0645\u062f\u0644 \u062e\u0648\u062f \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0645\u062f\u0644\u06cc \u06a9\u0647 \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u0627\u0646 \u0647\u0645 \u0645\u0646\u062a\u0638\u0631 \u0622\u0646 \u0628\u0648\u062f\u0646\u062f \u0648 \u0647\u0645 \u0646\u06af\u0631\u0627\u0646 \u0622\u0646. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0645\u062a\u0646\u0628\u0627\u0632 \u0628\u0647 \u0627\u0646\u062f\u0627\u0632\u0647\u0627\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0634\u0631\u06a9\u062a\u0647\u0627 \u062f\u0631 \u062a\u0642\u0648\u06cc\u062a \u062f\u0641\u0627\u0639 \u0633\u0627\u06cc\u0628\u0631\u06cc \u06a9\u0645\u06a9 \u06a9\u0646\u062f\u060c \u0627\u0645\u0627 \u0647\u0645\u0627\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a\u0647\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u062a\u0648\u0633\u0637 \u0645\u0647\u0627\u062c\u0645\u0627\u0646 \u0633\u0648\u0621\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0634\u0648\u062f.\n\n\ud83d\udd25 \u0627\u06cc\u0646 \u0627\u0646\u062a\u0634\u0627\u0631 \u062f\u0631 \u0645\u0631\u06a9\u0632 \u0628\u062d\u062b\u0647\u0627\u06cc \u062c\u0627\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647\u0654 \u0645\u062f\u0644\u0647\u0627\u06cc \u0645\u062a\u0646\u0628\u0627\u0632 \u0648 \u062e\u0637\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647\u0654 \u062f\u0648\u06af\u0627\u0646\u0647 \u0642\u0631\u0627\u0631 \u0645\u06cc\u06af\u06cc\u0631\u062f\u060c \u0628\u0647\u0648\u06cc\u0698\u0647 \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0627\u0632 \u0686\u06cc\u0646 \u0645\u06cc\u0622\u06cc\u0646\u062f. \u2696\ufe0f \u0633\u06cc\u0627\u0633\u062a\u06af\u0630\u0627\u0631\u0627\u0646 \u063a\u0631\u0628\u06cc \u0627\u0632 \u062d\u0627\u0644\u0627 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0647\u0633\u062a\u0646\u062f \u062a\u0627 \u0686\u0646\u06cc\u0646 \u0645\u062f\u0644\u0647\u0627\u06cc\u06cc \u0631\u0627 \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0646\u0646\u062f\u060c \u06a9\u0647 \u0627\u06cc\u0646 \u0631\u0627 \u0628\u0647 \u0644\u062d\u0638\u0647\u0627\u06cc \u0645\u0647\u0645 \u0628\u0631\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0628\u062d\u062b\u0647\u0627\u06cc \u06a9\u0646\u062a\u0631\u0644 \u0635\u0627\u062f\u0631\u0627\u062a \u062a\u0628\u062f\u06cc\u0644 \u0645\u06cc\u06a9\u0646\u062f. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f \u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc \u0648 \u062a\u06cc\u0645\u0647\u0627\u06cc \u062a\u0633\u062a \u0646\u0641\u0648\u0630 \u0628\u0644\u0627\u0641\u0627\u0635\u0644\u0647 \u0634\u0631\u0648\u0639 \u0628\u0647 \u0628\u0631\u0631\u0633\u06cc \u0622\u0646 \u06a9\u0646\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Z.ai releases powerful open-weight model\u2014help or hazard?",
+      "post_title_fa": "\ud83d\ude80 \u0645\u062f\u0644 \u0645\u062a\u0646\u0628\u0627\u0632 \u0642\u062f\u0631\u062a\u0645\u0646\u062f Z.ai \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u061b \u06a9\u0645\u06a9 \u06cc\u0627 \u062e\u0637\u0631\u061f",
+      "priority": "high",
+      "published": "2026-08-18T09:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Wired AI",
+      "summary": "Z.ai\u2019s latest AI model release could help companies secure their systems\u2014or find its way into the hands of hackers.",
+      "title": "The Powerful Chinese Model Experts Warned About\u2014and Waited for\u2014Is Here",
+      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
+    },
+    {
       "category": "other",
       "duplicate_of": null,
       "post_body": "\ud83d\udcb3 Payments giant Stripe is nearing a deal to acquire OpenRouter, the AI model gateway, for more than $7 billion. OpenRouter gives developers a single API to pick from dozens of LLMs, making it a key distribution hub for AI startups. The 7B deal would let Stripe embed AI model access directly into its payments and infrastructure stack. For developers, the acquisition could reshape how models are billed and accessed, with Stripe's pricing engine behind it. \ud83d\udcb5 The move shows big money flowing into AI infrastructure and API aggregation. \ud83c\udf0d OpenRouter's global user base gives Stripe an instant foothold in the AI economy.",
@@ -81704,20 +81760,20 @@
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "category": "model_release",
+      "category": "other",
       "duplicate_of": null,
-      "post_body": "\ud83d\udda5\ufe0f Tencent has open-sourced UI-Mate-27B, a foundational GUI agent that can operate across applications and operating systems. The model observes live screenshots, reasons about the interface, and outputs structured keyboard and mouse actions. It supports two modes, including general-purpose desktop interaction, making it a strong candidate for automating everyday tasks.\n\nUnlike many commercial agents, this one is open-weight, so developers can run it locally or fine-tune it for specific workflows \ud83e\udd16. It's a notable step toward open-source computer use, and it gives the community a serious alternative to cloud-based agents. Expect UI automation to become a bigger focus in the open model world soon \ud83d\udcc8.",
-      "post_body_fa": "\ud83d\udda5\ufe0f Tencent \u0645\u062f\u0644 UI-Mate-27B \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647\u060c \u06cc\u06a9 \u0639\u0627\u0645\u0644 GUI \u067e\u0627\u06cc\u0647 \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u06cc\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627 \u0648 \u0633\u06cc\u0633\u062a\u0645\u200c\u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641 \u06a9\u0627\u0631 \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0627\u0633\u06a9\u0631\u06cc\u0646\u200c\u0634\u0627\u062a\u200c\u0647\u0627\u06cc \u0632\u0646\u062f\u0647 \u0631\u0627 \u0645\u06cc\u200c\u0628\u06cc\u0646\u062f\u060c \u0631\u0648\u06cc \u0631\u0627\u0628\u0637 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0633\u0627\u062e\u062a\u0627\u0631\u06cc\u0627\u0641\u062a\u0647 \u06a9\u06cc\u0628\u0648\u0631\u062f \u0648 \u0645\u0627\u0648\u0633 \u062a\u0648\u0644\u06cc\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u0632 \u062f\u0648 \u062d\u0627\u0644\u062a \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u062a\u0639\u0627\u0645\u0644 \u0639\u0645\u0648\u0645\u06cc \u0628\u0627 \u062f\u0633\u06a9\u062a\u0627\u067e\u060c \u0648 \u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0646\u0627\u0633\u0628\u06cc \u0628\u0631\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631\u0633\u0627\u0632\u06cc \u06a9\u0627\u0631\u0647\u0627\u06cc \u0631\u0648\u0632\u0645\u0631\u0647 \u0627\u0633\u062a.\n\n\u0628\u0631\u062e\u0644\u0627\u0641 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0632 \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u062a\u062c\u0627\u0631\u06cc\u060c \u0627\u06cc\u0646 \u0645\u062f\u0644 \u0648\u0632\u0646\u200c\u0628\u0627\u0632 \u0627\u0633\u062a\u061b \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0622\u0646 \u0631\u0627 \u0645\u062d\u0644\u06cc \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f \u06cc\u0627 \u0628\u0631\u0627\u06cc \u06af\u0631\u062f\u0634\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u06cc \u062e\u0627\u0635 \u0641\u0627\u06cc\u0646\u200c\u062a\u06cc\u0648\u0646 \u06a9\u0646\u0646\u062f \ud83e\udd16. \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0645\u0647\u0645 \u0628\u0647 \u0633\u0648\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0627\u0632 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u0627\u0633\u062a \u0648 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u0639\u0627\u0645\u0644\u200c\u0647\u0627\u06cc \u0627\u0628\u0631\u06cc \u0628\u0647 \u062c\u0627\u0645\u0639\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0628\u0647\u200c\u0632\u0648\u062f\u06cc \u0627\u062a\u0648\u0645\u0627\u0633\u06cc\u0648\u0646 \u0631\u0627\u0628\u0637 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0628\u0647 \u06a9\u0627\u0646\u0648\u0646 \u062a\u0648\u062c\u0647 \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f \ud83d\udcc8.",
-      "post_title": "\ud83d\ude80 Tencent Releases UI-Mate-27B Open GUI Agent",
-      "post_title_fa": "\ud83d\ude80 Tencent \u0639\u0627\u0645\u0644 GUI \u0645\u062a\u0646\u200c\u0628\u0627\u0632 UI-Mate-27B \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f",
+      "post_body": "\ud83d\udc40 A leaked video, uncovered by MacRumors inside the macOS Tahoe 26.7 Release Candidate, appears to show Apple's rumored camera-equipped AirPods in action. The clip shows a man wearing the buds holding up a book cover so Visual Intelligence\u2014Apple's on-device AI\u2014can recognize it.\n\n\ud83d\udcf1 This is the clearest look yet at how Apple plans to put cameras in earbuds for real-world AI interactions. \u26a1 If it ships, it could turn AirPods into a discreet alternative to AI glasses and expand Apple's wearable AI ecosystem. No official announcement yet, but the leak suggests a launch may be closer than expected.",
+      "post_body_fa": "\ud83d\udc40 \u06cc\u06a9 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0644\u0648 \u0631\u0641\u062a\u0647 \u06a9\u0647 MacRumors \u0622\u0646 \u0631\u0627 \u062f\u0631 \u0646\u0633\u062e\u0647\u0654 Release Candidate \u0645\u06a9\u0627\u0648\u0627\u0633 Tahoe 26.7 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647\u060c \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u0631\u0633\u062f \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627\u06cc \u062f\u0648\u0631\u0628\u06cc\u0646\u062f\u0627\u0631 \u0634\u0627\u06cc\u0639\u0647\u0634\u062f\u0647\u0654 \u0627\u067e\u0644 \u0631\u0627 \u062f\u0631 \u0639\u0645\u0644 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f. \u062f\u0631 \u0627\u06cc\u0646 \u06a9\u0644\u06cc\u067e\u060c \u0645\u0631\u062f\u06cc \u06a9\u0647 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0631\u0627 \u0628\u0647 \u06af\u0648\u0634 \u062f\u0627\u0631\u062f\u060c \u062c\u0644\u062f \u06a9\u062a\u0627\u0628\u06cc \u0631\u0627 \u0646\u06af\u0647 \u062f\u0627\u0634\u062a\u0647 \u062a\u0627 Visual Intelligence\u2014\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u062e\u0644 \u062f\u0633\u062a\u06af\u0627\u0647 \u0627\u067e\u0644\u2014\u0622\u0646 \u0631\u0627 \u062a\u0634\u062e\u06cc\u0635 \u062f\u0647\u062f.\n\n\ud83d\udcf1 \u0627\u06cc\u0646 \u0648\u0627\u0636\u062d\u062a\u0631\u06cc\u0646 \u0646\u0645\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0627\u06a9\u0646\u0648\u0646 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u0654 \u0627\u067e\u0644 \u0628\u0631\u0627\u06cc \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0646 \u062f\u0648\u0631\u0628\u06cc\u0646 \u062f\u0631 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062f\u06cc\u062f\u0647\u0627\u06cc\u0645. \u26a1 \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u0639\u0631\u0636\u0647 \u0634\u0648\u062f\u060c \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0631\u0627 \u0628\u0647 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0645\u062d\u062a\u0627\u0637\u0627\u0646\u0647 \u0628\u0631\u0627\u06cc \u0639\u06cc\u0646\u06a9\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0646\u062f \u0648 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 \u067e\u0648\u0634\u06cc\u062f\u0646\u06cc\u0647\u0627\u06cc \u0627\u067e\u0644 \u0631\u0627 \u06af\u0633\u062a\u0631\u0634 \u062f\u0647\u062f. \u0647\u0646\u0648\u0632 \u0627\u0639\u0644\u0627\u0645 \u0631\u0633\u0645\u06cc \u0646\u0634\u062f\u0647\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0644\u0648 \u0631\u0641\u062a\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u0639\u0631\u0636\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0646\u0632\u062f\u06cc\u06a9\u062a\u0631 \u0627\u0632 \u0686\u06cc\u0632\u06cc \u0628\u0627\u0634\u062f \u06a9\u0647 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f.",
+      "post_title": "\ud83c\udfa7 Apple's camera AirPods surface in leaked video",
+      "post_title_fa": "\ud83c\udfa7 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627\u06cc \u062f\u0648\u0631\u0628\u06cc\u0646\u062f\u0627\u0631 \u0627\u067e\u0644 \u062f\u0631 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0644\u0648 \u0631\u0641\u062a\u0647 \u0638\u0627\u0647\u0631 \u0634\u062f\u0646\u062f",
       "priority": "medium",
-      "published": "2026-08-18T06:42:32+00:00",
+      "published": "2026-08-18T09:00:01+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/\"> <img alt=\"tencent/UI-Mate-27B \u00b7 Hugging Face\" src=\"https://external-preview.redd.it/iQVwV4Zp4nxbfWtCl4g74UVSscBFno6ALXOozLR2BQE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ea9ff26025c4a71ce2fc519ac5f3218ee47d6d7\" title=\"tencent/UI-Mate-27B \u00b7 Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Overview</h1> <p><strong>UI-Mate-27B</strong> is an open-weight foundation GUI agent for long-horizon work across applications and operating systems. It observes live screenshots, reasons over the visible state, and produces structured keyboard and mouse actions for native desktop interaction.</p> <p>UI-Mate supports two complementary modes:</p> <ul> <li><strong>General computer use:</strong> execute tasks from natural-language instructions and live screenshots.</li> <li><strong>Demonstration-guided computer use:</strong> adapt a reusable workflow extracted from one successful demonstration to a new task.</li> </ul> <p>A demonstration is treated as guidance rather than a fixed action script. The model continues to re-plan from the live interface when the content, layout, or application state differs.</p> <h1>Model Details</h1> <ul> <li><strong>Parameters:</strong> 27B</li> <li><strong>Base model:</strong> <a href=\"https://huggingface.co/Qwen/Qwen3.6-27B\">Qwen3.6-27B</a></li> <li><strong>Input:</strong> task instruction, screenshots, interaction history, and optional demonstration context</li> <li><strong>Output:</strong> reasoning, a concise action description, and structured computer-use tool calls</li> <li><strong>Action space:</strong> mouse, keyboard, scrolling, waiting, user interaction, and task completion</li> <li><strong>Training:</strong> supervised fine-tuning followed by online reinforcement learning in executable GUI environments</li> <li><strong>License:</strong> Apache-2.0</li> </ul> <h1>Highlights</h1> <ul> <li>Strong general computer-use performance across Ubuntu and Windows benchmarks.</li> <li>Long-horizon execution across multiple applications.</li> <li>One-shot procedural learning from demonstrations.</li> <li>Live-screen grounding instead of coordinate replay.</li> <li>Structured actions compatible with <code>pyautogui</code>.</li> <li>OpenAI-compatible serving and client interface.</li> </ul> <ul> <li><strong>arXiv</strong> : <a href=\"https://arxiv.org/abs/2608.15930\">https://arxiv.org/abs/2608.15930</a></li> <li><strong>PDF</strong> : <a href=\"https://arxiv.org/pdf/2608.15930\">https://arxiv.org/pdf/2608.15930</a></li> <li><strong>GitHub</strong> : <a href=\"https://github.com/Tencent/UI-Mate\">https://github.com/Tencent/UI-Mate</a></li> <li><strong>Project</strong> : <a href=\"https://ui-mate.github.io/\">https://ui-mate.github.io/</a> (<strong>Check this page for Demo, Benchmarks &amp; Screenshots</strong>)</li> <li><strong>HuggingFace</strong> : <a href=\"https://huggingface.co/collections/tencent/ui-mate\">https://huggingface.co/collections/tencent/ui-mate</a></li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmttyji\"> /u/pmttyji </a> <br /> <span><a href=\"https://huggingface.co/tencent/UI-Mate-27B\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/\">[comments]</a></span> </td></tr></table>",
-      "title": "tencent/UI-Mate-27B \u00b7 Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrhg08/tencentuimate27b_hugging_face/"
+      "source": "The Verge AI",
+      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -84465,6 +84521,14 @@
     "source": "arXiv cs.AI",
     "title": "Berkeley and Heiserman as an Unexhausted Architecture for Embodied Machine Intelligence",
     "title_norm": "berkeley and heiserman as an unexhausted architecture for embodied machine intelligence"
+  },
+  "a58cc4bbdd6feb70918d328fa043fc91a61a70021feb66bb463c0e26a385450a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598722+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "What if the AI capex bubble may not be a bubble after all?",
+    "title_norm": "what if the ai capex bubble may not be a bubble after all"
   },
   "a58fadf0d59c29b53b33a40945f29d02d0209dac981e40eef0bb09699790af75": {
     "category": "research",
@@ -87292,6 +87356,14 @@
     "title": "Test-Time Coverage: Test-Conditioned Data Curation for Deployment-Aware Learning",
     "title_norm": "testtime coverage testconditioned data curation for deploymentaware learning"
   },
+  "aadc68b9593f2b36b5442fc8951dd3eaa06bfa52139dd8d3f1291599b1f9f5b6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598686+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Arctype \u2013 An AI workspace that builds documents, apps, and handles email",
+    "title_norm": "arctype an ai workspace that builds documents apps and handles email"
+  },
   "aadecb20a4d3336416c758f6528b79550763ec27a22032e99c3171122d1d8d9c": {
     "category": "research",
     "posted": false,
@@ -87795,6 +87867,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI makes weak engineers less harmful",
     "title_norm": "ai makes weak engineers less harmful"
+  },
+  "abe15a101a64c60a28bc347315a812833f5a704a81139d457f8524a5a6ccf176": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598507+00:00",
+    "source": "The Verge AI",
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "title_norm": "apple8217s cameraequipped airpods appear in leaked video"
   },
   "abeae2d27bc60a17d411dab2a6dc15598b70f9d361ea88addcfe2ef71babe50e": {
     "category": "other",
@@ -116298,6 +116378,14 @@
     "title": "Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction",
     "title_norm": "beyond foundation models dimensionaware neural architecture search with smalldata representation models for cryocooler lifetime prediction"
   },
+  "e4c0f4961d503afd924116c3ac6de0570d4955ae3d50d76f91b6271a0539dfdd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598645+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "title_norm": "linux 73 improves performance when running out of vram"
+  },
   "e4cc38f1bd21979d428c7dfcc5d9280245d1208866610b8d32fa2f8f144fbfea": {
     "category": "model_release",
     "message_id": 222,
@@ -119776,6 +119864,14 @@
     "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
     "title_norm": "secretary wright announces first ai genesis mission projects"
   },
+  "eb926440ea98018c8918d0d38602327d47c75b6f27aa957c11c45c5349ef2f4f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598661+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Rethinking Database Programming",
+    "title_norm": "rethinking database programming"
+  },
   "eb9a8702520abacbb9954f7be99ff4e620adc334656a11d90841a45216f0a6a5": {
     "category": "other",
     "posted": false,
@@ -120720,6 +120816,14 @@
     "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
     "title_norm": "recursive superintelligence signs 410 compute deal with amazon"
   },
+  "ed6e12edbcc31308c861a003028efb1682d78f3093b00a44a75f799501fabd62": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598792+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+    "title_norm": "creator of typescript 10x faster typescript why ai wont replace swes video"
+  },
   "ed7978b8f25af53dddc7baf7f35b158a9b6308522f3f9bc27a667d36ff5f2534": {
     "category": null,
     "posted": false,
@@ -121397,6 +121501,14 @@
     "source": "arXiv cs.AI",
     "title": "Seeing Differently: Modeling Interpretive Perspectives in Computational Creativity using a Four-World Framework",
     "title_norm": "seeing differently modeling interpretive perspectives in computational creativity using a fourworld framework"
+  },
+  "eedf6ccbb827592d787db42de3b16b4bcf2df0bab0fe0c33315254d9c979500b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598850+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27b saved me $650+ in API costs this evening",
+    "title_norm": "qwen 38 27b saved me 650 in api costs this evening"
   },
   "eee43be51b7dd732ffa2a87718e04b7e7b7f1258a6c1b92dc3c979eedad23af2": {
     "category": "research",
@@ -122709,6 +122821,14 @@
     "source": "arXiv cs.AI",
     "title": "RadarGen: Automotive Radar Point Cloud Generation from Cameras",
     "title_norm": "radargen automotive radar point cloud generation from cameras"
+  },
+  "f1c3c5aeb9ee768b7c78d155f53ed3477572271fd758aa6cfcba69149ec2ba1f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T09:42:05.598825+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI is like farming. (and the purpose behind what I'm building)",
+    "title_norm": "ai is like farming and the purpose behind what im building"
   },
   "f1c5790f700e0217ff87c725d8a9040ef7903208c79f79cfbcdebcd0b7fc9fba": {
     "category": "model_release",
