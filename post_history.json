@@ -22207,7 +22207,13 @@
   },
   "2a99f0305935cb2f726eb5af05d30fe14a1c9e1e3d5c2ed264e19ce7c29e7fda": {
     "category": "policy",
-    "posted": false,
+    "message_id": 230,
+    "message_id_fa": 204,
+    "post_title": "\u2696\ufe0f US advisory body warns China's data dominance gives it an AI edge",
+    "post_title_fa": "\u2696\ufe0f \u0646\u0647\u0627\u062f \u0645\u0634\u0648\u0631\u062a\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627: \u0628\u0631\u062a\u0631\u06cc \u062f\u0627\u062f\u0647\u200c\u06cc \u0686\u06cc\u0646 \u0628\u0647 \u0622\u0646 \u0645\u0632\u06cc\u062a AI \u0645\u06cc\u200c\u062f\u0647\u062f",
+    "posted": true,
+    "posted_at": "2026-08-18T16:07:42.731513+00:00",
+    "priority": "high",
     "seen_at": "2026-08-18T14:47:32.103257+00:00",
     "source": "Hacker News AI keyword",
     "title": "US advisory body says China's data dominance gives it AI advantage",
@@ -38067,6 +38073,14 @@
     "title": "Genesis-Science-1 (GS1), 1T open-weight model later this year from Arcee AI",
     "title_norm": "genesisscience1 gs1 1t openweight model later this year from arcee ai"
   },
+  "49f3fd795f926403adafc158a0e3b590361234e231028fd7bbc3e49d42b42c1d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T16:07:41.671929+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The coolest anti-surveillance tools at Defcon [video]",
+    "title_norm": "the coolest antisurveillance tools at defcon video"
+  },
   "49f424dc4d5dff70fc572f34a9c8e7cc6840c7bca87e69a8dc627efa3d1f5c7d": {
     "category": "research",
     "posted": false,
@@ -47738,6 +47752,14 @@
     "source": "Hugging Face Blog",
     "title": "Scaling robotics datasets with video encoding",
     "title_norm": "scaling robotics datasets with video encoding"
+  },
+  "5c8a089566fd2469fadd8141f1315a4ea6d1b992ceba0fe774bd0af5fbd603a3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T16:07:41.671988+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Building (and Selling) AI for the Government",
+    "title_norm": "building and selling ai for the government"
   },
   "5c8b58a38fbc9583ffd3194f87b5ccb6797c2fb62fce388328714933387bde44": {
     "category": "other",
@@ -82031,34 +82053,19 @@
   },
   "_meta": {
     "date": "2026-08-18",
-    "posts_today": 5,
+    "posts_today": 6,
     "posts_today_by_category": {
       "infrastructure": 1,
       "model_release": 2,
       "other": 1,
+      "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-18-16"
+    "last_slot": "2026-08-18-18"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udf0f A US advisory body has concluded that China's control over massive amounts of data gives it a strategic advantage in the AI race, according to Reuters. The finding lands as Washington debates how to respond to Chinese advances in AI models and infrastructure \ud83d\udcca.\n\nIt points to data access and scale \u2014 not just chips \u2014 as a decisive factor in who leads the next wave of AI. That could shape new US policy around data pooling, AI governance, and export controls \u2696\ufe0f.",
-      "post_body_fa": "\ud83c\udf0f \u06cc\u06a9 \u0646\u0647\u0627\u062f \u0645\u0634\u0648\u0631\u062a\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0627\u06cc\u0646 \u0646\u062a\u06cc\u062c\u0647 \u0631\u0633\u06cc\u062f\u0647 \u06a9\u0647 \u06a9\u0646\u062a\u0631\u0644 \u0686\u06cc\u0646 \u0628\u0631 \u062d\u062c\u0645 \u0639\u0638\u06cc\u0645 \u062f\u0627\u062f\u0647\u060c \u0645\u0632\u06cc\u062a \u0631\u0627\u0647\u0628\u0631\u062f\u06cc \u062f\u0631 \u0631\u0642\u0627\u0628\u062a AI \u0628\u0647 \u0622\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f\u061b \u0627\u06cc\u0646 \u0631\u0627 \u0631\u0648\u06cc\u062a\u0631\u0632 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06cc\u0627\u0641\u062a\u0647 \u062f\u0631 \u062d\u0627\u0644\u06cc \u0645\u0637\u0631\u062d \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062f\u0631\u0628\u0627\u0631\u0647\u200c\u06cc \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u067e\u06cc\u0634\u0631\u0641\u062a\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646 \u062f\u0631 \u0645\u062f\u0644\u200c\u0647\u0627 \u0648 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc AI \u0628\u062d\u062b \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83d\udcca.\n\n\u0628\u0647 \u06af\u0641\u062a\u0647\u200c\u06cc \u0627\u06cc\u0646 \u0646\u0647\u0627\u062f\u060c \u062f\u0633\u062a\u0631\u0633\u06cc \u0648 \u0645\u0642\u06cc\u0627\u0633 \u062f\u0627\u062f\u0647 \u2014 \u0646\u0647 \u0641\u0642\u0637 \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u2014 \u0639\u0627\u0645\u0644 \u062a\u0639\u06cc\u06cc\u0646\u200c\u06a9\u0646\u0646\u062f\u0647 \u062f\u0631 \u0631\u0647\u0628\u0631\u06cc \u0645\u0648\u062c \u0628\u0639\u062f\u06cc AI \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u06cc\u0627\u0633\u062a\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u062f\u0631 \u0632\u0645\u06cc\u0646\u0647\u200c\u06cc \u0627\u0634\u062a\u0631\u0627\u06a9 \u062f\u0627\u062f\u0647\u060c \u062d\u06a9\u0645\u0631\u0627\u0646\u06cc AI \u0648 \u06a9\u0646\u062a\u0631\u0644\u200c\u0647\u0627\u06cc \u0635\u0627\u062f\u0631\u0627\u062a\u06cc \u0634\u06a9\u0644 \u062f\u0647\u062f \u2696\ufe0f.",
-      "post_title": "\u2696\ufe0f US advisory body warns China's data dominance gives it an AI edge",
-      "post_title_fa": "\u2696\ufe0f \u0646\u0647\u0627\u062f \u0645\u0634\u0648\u0631\u062a\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627: \u0628\u0631\u062a\u0631\u06cc \u062f\u0627\u062f\u0647\u200c\u06cc \u0686\u06cc\u0646 \u0628\u0647 \u0622\u0646 \u0645\u0632\u06cc\u062a AI \u0645\u06cc\u200c\u062f\u0647\u062f",
-      "priority": "high",
-      "published": "2026-08-18T14:08:29+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/\">https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345869\">https://news.ycombinator.com/item?id=49345869</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "title": "US advisory body says China's data dominance gives it AI advantage",
-      "url": "https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/"
-    },
     {
       "category": "other",
       "duplicate_of": null,
@@ -106320,6 +106327,14 @@
     "title": "Revision Prompting: Trades slow (decoded) output tokens for cheap (prefilled) input tokens.",
     "title_norm": "revision prompting trades slow decoded output tokens for cheap prefilled input tokens"
   },
+  "cea6484af1130ef5296af0b04515357fbbf0ac786b2fef3e89c2befda2d8cf7b": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T16:07:41.671977+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Add Session Management and Trajectories to Your AI Agents",
+    "title_norm": "add session management and trajectories to your ai agents"
+  },
   "ceb7585ec62434195c541d740c53448a9c763557e36f52edc376d38f9620e53e": {
     "category": "research",
     "posted": false,
@@ -107523,6 +107538,14 @@
     "source": "arXiv cs.AI",
     "title": "TRACE-CTI: Auditable Post-Extraction Governance of TTP Claims with Knowledge Graphs",
     "title_norm": "tracecti auditable postextraction governance of ttp claims with knowledge graphs"
+  },
+  "d11687041d3d7670b4ae423d562c27fa2054c1aec39d68fa5464b282231544e0": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T16:07:41.671960+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
+    "title_norm": "show hn shoehorn quantize any model down to run on your machine"
   },
   "d11e411f5a32c89758930ee00ff834fca2acfb6315ae93543748b96a96cbe00d": {
     "category": "other",
@@ -110537,6 +110560,14 @@
     "source": "arXiv cs.AI",
     "title": "Autonomous Topology Mutation: Safe Runtime Restructuring for Multi-Agent LLM Systems with Capability, State, and Shadow Invariants",
     "title_norm": "autonomous topology mutation safe runtime restructuring for multiagent llm systems with capability state and shadow invariants"
+  },
+  "d7ba0c763260187bb2bb9f8f70e6cbac8b0e5f19cadebbc0146df44c48ec8be4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T16:07:41.671859+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "What Happens If OpenAI Dies?",
+    "title_norm": "what happens if openai dies"
   },
   "d7ba310b6719b6d5ff4cacc74fc7dc79bbf138721ed4ebcdf6054cdfa7227d94": {
     "category": "research",
