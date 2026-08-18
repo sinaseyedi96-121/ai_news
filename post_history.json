@@ -42649,6 +42649,14 @@
     "title": "Writing by Hand is Good for your Brain",
     "title_norm": "writing by hand is good for your brain"
   },
+  "52a0189a1b8fa2ec2d7904f911d539dd21da4459131d97f24ecf0e6e3a22c8c4": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553714+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B is the DeepSeek moment for local models. It matches frontier intelligence from just a few months ago and outperforms Google\u2019s current frontier model. No big data center is needed as almost every serious local model expert can run it on their own hardware.",
+    "title_norm": "qwen 38 27b is the deepseek moment for local models it matches frontier intelligence from just a few months ago and outperforms googles current frontier model no big data center is needed as almost every serious local model expert can run it on their own hardware"
+  },
   "52aae80e97a53af4dfd3d83161f5332a9d74d512785d85b4c5e1290797dbbdae": {
     "category": "policy",
     "posted": false,
@@ -60341,6 +60349,14 @@
     "title": "Motif-Technologies/Motif-3 official realese",
     "title_norm": "motiftechnologiesmotif3 official realese"
   },
+  "74084d39bcf757cdec128f54e0731c656dc5c74a4c6285b72ebc37cd57616608": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553700+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+    "title_norm": "blind egyptian entrepreneurs ai app helps others see the world"
+  },
   "7408c6cd79dc3a539e394762aebc38ed31f5db1824bbb0d1306ee0c7983420dc": {
     "category": "model_release",
     "posted": false,
@@ -63892,6 +63908,14 @@
     "source": "arXiv cs.AI",
     "title": "Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking",
     "title_norm": "beyond representational similarity sourceconditioned descriptionlength gain for generative plagiarism detection and candidate source reranking"
+  },
+  "7acd210c57699cebda03eb6692caa859b9f3ca07da699f3e5202cbf44913a717": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553678+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Has any one ever used Strands \u2013 the AI Agent SDK by AWS",
+    "title_norm": "has any one ever used strands the ai agent sdk by aws"
   },
   "7acf4e1557de7b02867db094e50d3b72ff40ae4e1c7d93ec619724e42c4d31c6": {
     "category": "other",
@@ -71978,6 +72002,14 @@
     "source": "arXiv cs.CL",
     "title": "ML2B: Benchmarking LLMs on Cross-Lingual ML Pipeline Generation",
     "title_norm": "ml2b benchmarking llms on crosslingual ml pipeline generation"
+  },
+  "8b0832ec4fb1310c7c391513f5a47346a950457e179f29a94f4695b56c9b2836": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553659+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI detection tools are proliferating. Here's why they won't last.",
+    "title_norm": "ai detection tools are proliferating heres why they wont last"
   },
   "8b12d7426e1025b1ba09439f15a0a9e475f0f42e48219d8ef82c4e93fa83436f": {
     "category": "research",
@@ -81227,6 +81259,14 @@
     "title": "TELLME: Test-Enhanced Learning for Language Model Enrichment",
     "title_norm": "tellme testenhanced learning for language model enrichment"
   },
+  "9dacb070e2467d0dbacc2d7daaf0cdd77cd6998b8e3053e276534e8187fb4627": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553740+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+    "title_norm": "alibabas riscv cpu xuantie c950 runs qwen38 27b at 30 tps"
+  },
   "9db26a87f875c8a39e57ab7970681b1459e0ca537709d4d82d380c5d1a54b462": {
     "category": "research",
     "posted": false,
@@ -82464,6 +82504,22 @@
     "last_slot": "2026-08-18-22"
   },
   "_queue": [
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\u26a1 Qwen 3.8 27B is being hailed as a 'DeepSeek moment' for local models, matching frontier intelligence from just a few months ago. It reportedly outperforms Google's current frontier model while running on everyday hardware \u2014 no big data center needed. \ud83d\udcbb Almost every serious local-model expert can run it on their own machine.\n\n\ud83d\udd25 This matters because it pushes frontier AI out of the cloud and into the hands of individuals. Such accessibility could spur rapid experimentation and force big labs to stay competitive. For developers, it's a major step toward private, low-cost, high-performance AI.",
+      "post_body_fa": "\u26a1 \u06a9\u06cc\u0648\u0646 3.8 27B \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u00ab\u0644\u062d\u0638\u0647\u0654 \u062f\u06cc\u067e\u200c\u0633\u06cc\u06a9\u00bb \u0628\u0631\u0627\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0634\u0646\u0627\u062e\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0648 \u0628\u0627 \u0647\u0648\u0634\u0645\u0646\u062f\u06cc \u0645\u0631\u0632\u06cc \u0686\u0646\u062f \u0645\u0627\u0647 \u067e\u06cc\u0634 \u0628\u0631\u0627\u0628\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \u06af\u0641\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0627\u0632 \u0645\u062f\u0644 \u0645\u0631\u0632\u06cc \u0641\u0639\u0644\u06cc \u06af\u0648\u06af\u0644 \u0647\u0645 \u0628\u0647\u062a\u0631 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631 \u0628\u0632\u0631\u06af \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u0634\u0648\u062f. \ud83d\udcbb \u062a\u0642\u0631\u06cc\u0628\u0627\u064b \u0647\u0631 \u0645\u062a\u062e\u0635\u0635 \u062c\u062f\u06cc \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062d\u0644\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0622\u0646 \u0631\u0627 \u0631\u0648\u06cc \u0633\u06cc\u0633\u062a\u0645 \u062e\u0648\u062f\u0634 \u0627\u062c\u0631\u0627 \u06a9\u0646\u062f.\n\n\ud83d\udd25 \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0627\u0647\u0645\u06cc\u062a \u062f\u0627\u0631\u062f \u0686\u0648\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0631\u0632\u06cc \u0631\u0627 \u0627\u0632 \u0627\u0628\u0631 \u0628\u06cc\u0631\u0648\u0646 \u0645\u06cc\u200c\u0622\u0648\u0631\u062f \u0648 \u062f\u0631 \u0627\u062e\u062a\u06cc\u0627\u0631 \u0627\u0641\u0631\u0627\u062f \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0686\u0646\u06cc\u0646 \u062f\u0633\u062a\u0631\u0633\u06cc\u200c\u0627\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639 \u0631\u0627 \u062a\u0634\u0648\u06cc\u0642 \u06a9\u0646\u062f \u0648 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0631\u0627 \u0648\u0627\u062f\u0627\u0631 \u0628\u0647 \u0631\u0642\u0627\u0628\u062a \u06a9\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0628\u0632\u0631\u06af \u0628\u0647\u200c\u0633\u0648\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0635\u0648\u0635\u06cc\u060c \u06a9\u0645\u200c\u0647\u0632\u06cc\u0646\u0647 \u0648 \u067e\u0631\u0642\u062f\u0631\u062a \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 Qwen 3.8 27B brings frontier AI to local hardware",
+      "post_title_fa": "\ud83d\ude80 \u06a9\u06cc\u0648\u0646 3.8 27B \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0631\u0632\u06cc \u0631\u0627 \u0628\u0647 \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u062d\u0644\u06cc \u0645\u06cc\u200c\u0622\u0648\u0631\u062f",
+      "priority": "high",
+      "published": "2026-08-18T19:57:54+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vs05w0/qwen_38_27b_is_the_deepseek_moment_for_local/\"> <img alt=\"Qwen 3.8 27B is the DeepSeek moment for local models. It matches frontier intelligence from just a few months ago and outperforms Google\u2019s current frontier model. No big data center is needed as almost every serious local model expert can run it on their own hardware.\" src=\"https://preview.redd.it/njnrpiejt6kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c81a0d75f7728fe1289c135d19e3aacc64e3392a\" title=\"Qwen 3.8 27B is the DeepSeek moment for local models. It matches frontier intelligence from just a few months ago and outperforms Google\u2019s current frontier model. No big data center is needed as almost every serious local model expert can run it on their own hardware.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/InternationalGap3698\"> /u/InternationalGap3698 </a> <br /> <span><a href=\"https://i.redd.it/njnrpiejt6kh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vs05w0/qwen_38_27b_is_the_deepseek_moment_for_local/\">[comments]</a></span> </td></tr></table>",
+      "title": "Qwen 3.8 27B is the DeepSeek moment for local models. It matches frontier intelligence from just a few months ago and outperforms Google\u2019s current frontier model. No big data center is needed as almost every serious local model expert can run it on their own hardware.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs05w0/qwen_38_27b_is_the_deepseek_moment_for_local/"
+    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -99572,6 +99628,14 @@
     "source": "OpenAI News",
     "title": "OpenAI o3 and o4-mini System Card",
     "title_norm": "openai o3 and o4mini system card"
+  },
+  "c03214cd088cd71ce4a24f9196188e013346f7fd54f6a7e6f2d556ae306e787d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T20:43:21.553588+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Fact check: How do I spot AI-generated images?",
+    "title_norm": "fact check how do i spot aigenerated images"
   },
   "c0358578daef72f1b31c82b7e15acd29631792045fa32235d521a94ac322d6b1": {
     "category": "research",
