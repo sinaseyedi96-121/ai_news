@@ -6031,7 +6031,13 @@
   },
   "0bf3257d6a8b8e24df0ef23785bee09e1f72e178833eae4f02db98943b73dc8c": {
     "category": "infrastructure",
-    "posted": false,
+    "message_id": 226,
+    "message_id_fa": 200,
+    "post_title": "\ud83c\udfd7\ufe0f Micron & SK commit billions to RAM, little before 2028",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0645\u0627\u06cc\u06a9\u0631\u0648\u0646 \u0648 \u0627\u0633\u06a9\u06cc \u0647\u0627\u06cc\u0646\u06cc\u06a9\u0633 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u0647\u0627 \u0628\u0631\u0627\u06cc \u0631\u0645\u060c \u0646\u0647 \u062a\u0627 \u06f2\u06f0\u06f2\u06f8",
+    "posted": true,
+    "posted_at": "2026-08-18T08:47:26.013705+00:00",
+    "priority": "high",
     "seen_at": "2026-08-18T07:48:28.625624+00:00",
     "source": "Hacker News Frontpage",
     "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
@@ -12996,6 +13002,14 @@
     "source": "arXiv cs.AI",
     "title": "Like a Baby: Visually Situated Neural Language Acquisition",
     "title_norm": "like a baby visually situated neural language acquisition"
+  },
+  "199a1af08a760018b580d70f92eb0e1fa2c0bfa4bf9e468b40e4b130bb25c6a9": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T08:47:24.707482+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B is faster than expected",
+    "title_norm": "qwen 38 27b is faster than expected"
   },
   "199e65100bd212b60d242ad7d9c9372e1124b51aef0c26c5fbef309e18759662": {
     "category": "research",
@@ -66531,6 +66545,14 @@
     "title": "Time has started serving ads to AI agents",
     "title_norm": "time has started serving ads to ai agents"
   },
+  "817b48da76ddd4c326b66aa6cdf717c56703457296de13dcbe2644e74cbb48c9": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T08:47:24.707554+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27b vs Deepseek Flash",
+    "title_norm": "qwen 38 27b vs deepseek flash"
+  },
   "817be1b64aeefb03765cd8b6046d2a1fae82862b506ec77993fc1d750646fe5f": {
     "category": "other",
     "posted": false,
@@ -81511,31 +81533,16 @@
   },
   "_meta": {
     "date": "2026-08-18",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
+      "infrastructure": 1,
       "other": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-18-08"
+    "last_slot": "2026-08-18-10"
   },
   "_queue": [
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcb0 Micron and SK Hynix committed billions to expand RAM and HBM capacity, aiming to feed AI's growing appetite for memory. However, reports indicate almost no meaningful new supply lands before 2028 \ud83d\udd52, leaving a potential shortage for AI data centers. \ud83c\udfed The investments cover new fabs and packaging facilities, but construction and yield ramps take years, not quarters. That means near-term pricing for memory is likely to stay high \ud83d\udcb5, squeezing AI infrastructure budgets. For anyone training or deploying large models, this could be a bigger bottleneck than GPUs in the next couple of years.",
-      "post_body_fa": "\ud83d\udcb0 \u0645\u0627\u06cc\u06a9\u0631\u0648\u0646 \u0648 \u0627\u0633\u06a9\u06cc \u0647\u0627\u06cc\u0646\u06cc\u06a9\u0633 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u0647\u0627 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u0627\u0641\u0632\u0627\u06cc\u0634 \u0638\u0631\u0641\u06cc\u062a \u0631\u0645 \u0648 HBM \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u062a\u0627 \u0627\u0634\u062a\u0647\u0627\u06cc \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u062d\u0627\u0641\u0638\u0647 \u0631\u0627 \u062a\u0623\u0645\u06cc\u0646 \u06a9\u0646\u0646\u062f. \u0628\u0627 \u0627\u06cc\u0646 \u062d\u0627\u0644\u060c \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u062a\u0642\u0631\u06cc\u0628\u0627 \u0647\u06cc\u0686 \u0639\u0631\u0636\u0647 \u0642\u0627\u0628\u0644 \u062a\u0648\u062c\u0647\u06cc \u062a\u0627 \u0642\u0628\u0644 \u0627\u0632 \u06f2\u06f0\u06f2\u06f8 \u0628\u0647 \u062f\u0633\u062a \u0646\u0645\u06cc\u200c\u0631\u0633\u062f \ud83d\udd52 \u0648 \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u06a9\u0645\u0628\u0648\u062f\u06cc \u0628\u0631\u0627\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u062f. \ud83c\udfed \u0627\u06cc\u0646 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc\u200c\u0647\u0627 \u0634\u0627\u0645\u0644 \u06a9\u0627\u0631\u062e\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0648 \u062a\u0623\u0633\u06cc\u0633\u0627\u062a \u0628\u0633\u062a\u0647\u200c\u0628\u0646\u062f\u06cc \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u0633\u0627\u062e\u062a \u0648 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0628\u0627\u0632\u062f\u0647\u06cc \u0633\u0627\u0644\u200c\u0647\u0627 \u0637\u0648\u0644 \u0645\u06cc\u200c\u06a9\u0634\u062f\u060c \u0646\u0647 \u0686\u0646\u062f \u0645\u0627\u0647. \u06cc\u0639\u0646\u06cc \u0642\u06cc\u0645\u062a \u062d\u0627\u0641\u0638\u0647 \u062f\u0631 \u06a9\u0648\u062a\u0627\u0647\u200c\u0645\u062f\u062a \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u0628\u0627\u0644\u0627 \u0645\u06cc\u200c\u0645\u0627\u0646\u062f \ud83d\udcb5 \u0648 \u0628\u0648\u062f\u062c\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0631\u0627 \u0622\u0645\u0648\u0632\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f \u06cc\u0627 \u0645\u0633\u062a\u0642\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062f\u0631 \u0686\u0646\u062f \u0633\u0627\u0644 \u0622\u06cc\u0646\u062f\u0647 \u06af\u0644\u0648\u06af\u0627\u0647 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc \u0627\u0632 GPU\u0647\u0627 \u0628\u0627\u0634\u062f.",
-      "post_title": "\ud83c\udfd7\ufe0f Micron & SK commit billions to RAM, little before 2028",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0645\u0627\u06cc\u06a9\u0631\u0648\u0646 \u0648 \u0627\u0633\u06a9\u06cc \u0647\u0627\u06cc\u0646\u06cc\u06a9\u0633 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f\u0647\u0627 \u0628\u0631\u0627\u06cc \u0631\u0645\u060c \u0646\u0647 \u062a\u0627 \u06f2\u06f0\u06f2\u06f8",
-      "priority": "high",
-      "published": "2026-08-18T05:51:42+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028\">https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341774\">https://news.ycombinator.com/item?id=49341774</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-      "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
-      "url": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028"
-    },
     {
       "category": "other",
       "duplicate_of": null,
