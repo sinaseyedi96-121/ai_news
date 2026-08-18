@@ -13507,6 +13507,14 @@
     "title": "Black Hat USA 2026: The 'Breaking' News: The OpenAI\u2013Hugging Face Incident",
     "title_norm": "black hat usa 2026 the breaking news the openaihugging face incident"
   },
+  "1a3ef848db3d87256e3e796081eff9a64e6dd45e8496362ced9e70dfa348c352": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.467975+00:00",
+    "source": "TechCrunch AI",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "title_norm": "openai institutes new safeguards after hugging face breach"
+  },
   "1a3f20c6f9e517a2f01adb09760d1c1d643c6a7fd938a22df2d0fc2b481a259b": {
     "category": "other",
     "posted": false,
@@ -26246,6 +26254,14 @@
     "source": "arXiv cs.AI",
     "title": "JigShape: Evaluating Visual-Geometric Reasoning in VLMs through Jigsaw Puzzles",
     "title_norm": "jigshape evaluating visualgeometric reasoning in vlms through jigsaw puzzles"
+  },
+  "320258f7cfb1289248568be9feaec40dbe707a327893d00290c8ec8adbe07912": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468098+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
+    "title_norm": "ai watermarking nazi enigmas and sherlock holmes"
   },
   "320431fffdc608d8a407381bb41f7569e64a2eec6254a418723e9ecea6a77fb3": {
     "category": "other",
@@ -40539,6 +40555,14 @@
     "title": "Design Is Compromise",
     "title_norm": "design is compromise"
   },
+  "4eaa11b61d416ab92591ca2d63796b7185efd8e8c54dfa1c3867a30b2b094652": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468114+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Return of the Spec: Why AI agents are reviving the software specification",
+    "title_norm": "return of the spec why ai agents are reviving the software specification"
+  },
   "4eaba70bca37cb57e64b173e1a86ea5fa11e702c7291d2a899c966fc34b51b84": {
     "category": "other",
     "posted": false,
@@ -47443,6 +47467,14 @@
     "title": "Tyler Cowen: You'll Learn to Love AI Writing",
     "title_norm": "tyler cowen youll learn to love ai writing"
   },
+  "5be66070721e206e604da0403d668b10918dcbdecc9c61aedf81fe2e759a45dd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468159+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "IP can't save you from AI",
+    "title_norm": "ip cant save you from ai"
+  },
   "5be698adf2495f97e9a0e285dfb6d5524eefc98c85959868cb7eb1e64cce414e": {
     "category": "research",
     "posted": false,
@@ -53938,6 +53970,14 @@
     "source": "OpenAI News",
     "title": "OpenAI\u2019s new economic analysis",
     "title_norm": "openais new economic analysis"
+  },
+  "684bacf7345eca9fd1a83d54ddd8a2356a3f829f2f15ffcdebd1c5813d317aed": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468081+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Claude Code weekly limits reduce by a third tomorrow",
+    "title_norm": "claude code weekly limits reduce by a third tomorrow"
   },
   "685176236dc4e50c90a948d8daf2e86d23c0d95cb7e05691dbb31fabd117792c": {
     "category": "other",
@@ -81573,6 +81613,14 @@
     "title": "Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence",
     "title_norm": "building ai that works esnets pragmatic approach to aidriven operational excellence"
   },
+  "9ebfad155616b9147d58debbc2bc28239468e2435b799c2be37002b32dd3ebe7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468214+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "We really need llama.cpp to support changing thinking amount",
+    "title_norm": "we really need llamacpp to support changing thinking amount"
+  },
   "9ec1b7ba825a9ea448c3344057c92c9ed3d074730368278b6edcb282985c64f0": {
     "category": "research",
     "posted": false,
@@ -82197,9 +82245,9 @@
   },
   "_meta": {
     "date": "2026-08-18",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
-      "infrastructure": 1,
+      "infrastructure": 2,
       "model_release": 2,
       "other": 1,
       "policy": 1,
@@ -82207,7 +82255,7 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-18-18"
+    "last_slot": "2026-08-18-20"
   },
   "_queue": [
     {
@@ -82385,22 +82433,6 @@
       "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
       "title": "OpenAI reportedly disbanded its preparedness team",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
-    },
-    {
-      "category": "infrastructure",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcb0 Nvidia is scaling back the amount of infrastructure financing it may guarantee for OpenAI, according to Reuters. The guarantee was originally linked to a massive $250 billion data center buildout, and the reduction raises questions about who will back the remaining capital. OpenAI still plans to grow its compute capacity, but the move signals shifting risk between the two AI giants \ud83c\udfe2. This matters because big AI infrastructure deals shape GPU supply and the financial health of the whole ecosystem \ud83c\udf0d.",
-      "post_body_fa": "\ud83d\udcb0 \u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u0631\u0648\u06cc\u062a\u0631\u0632\u060c \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u062f\u0631 \u062d\u0627\u0644 \u06a9\u0627\u0647\u0634 \u0645\u06cc\u0632\u0627\u0646 \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0627\u0648\u067e\u0646\u200c\u0627\u06cc\u200c\u0622\u06cc \u062a\u0636\u0645\u06cc\u0646 \u06a9\u0646\u062f. \u0627\u06cc\u0646 \u062a\u0636\u0645\u06cc\u0646 \u062f\u0631 \u0627\u0628\u062a\u062f\u0627 \u0628\u0647 \u0633\u0627\u062e\u062a \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631 \u0639\u0638\u06cc\u0645\u06cc \u0628\u0647 \u0627\u0631\u0632\u0634 \u06f2\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0645\u0631\u062a\u0628\u0637 \u0628\u0648\u062f \u0648 \u0627\u06cc\u0646 \u06a9\u0627\u0647\u0634 \u0627\u06cc\u0646 \u0633\u0624\u0627\u0644 \u0631\u0627 \u0627\u06cc\u062c\u0627\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0686\u0647 \u06a9\u0633\u06cc \u0633\u0631\u0645\u0627\u06cc\u0647 \u0628\u0627\u0642\u06cc\u200c\u0645\u0627\u0646\u062f\u0647 \u0631\u0627 \u062a\u0623\u0645\u06cc\u0646 \u062e\u0648\u0627\u0647\u062f \u06a9\u0631\u062f. \u0627\u0648\u067e\u0646\u200c\u0627\u06cc\u200c\u0622\u06cc \u0647\u0645\u0686\u0646\u0627\u0646 \u0642\u0635\u062f \u062f\u0627\u0631\u062f \u0638\u0631\u0641\u06cc\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u062e\u0648\u062f \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0647\u062f\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u0631\u06cc\u0633\u06a9 \u0628\u06cc\u0646 \u062f\u0648 \u063a\u0648\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a \ud83c\udfe2. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a\u060c \u0632\u06cc\u0631\u0627 \u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0647\u0627\u06cc \u0628\u0632\u0631\u06af \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0631\u0636\u0647 GPU \u0648 \u0633\u0644\u0627\u0645\u062a \u0645\u0627\u0644\u06cc \u06a9\u0644 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 \u0631\u0627 \u0634\u06a9\u0644 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \ud83c\udf0d.",
-      "post_title": "\ud83c\udfd7\ufe0f Nvidia dramatically cuts $250B OpenAI data center guarantee",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0627\u0646\u0648\u06cc\u062f\u06cc\u0627 \u062a\u0636\u0645\u06cc\u0646 \u06f2\u06f5\u06f0 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631 \u0627\u0648\u067e\u0646\u200c\u0627\u06cc\u200c\u0622\u06cc \u0631\u0627 \u0628\u0647\u200c\u0634\u062f\u062a \u06a9\u0627\u0647\u0634 \u062f\u0627\u062f",
-      "priority": "high",
-      "published": "2026-08-16T21:07:10+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323686\">https://news.ycombinator.com/item?id=49323686</a></p>\n<p>Points: 192</p>\n<p># Comments: 86</p>",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -84910,6 +84942,14 @@
     "source": "arXiv cs.AI",
     "title": "Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending",
     "title_norm": "efficient video dataset distillation via clusterguided prototype blending"
+  },
+  "a4ea241f976d0dd709bacc274847b13bdf2a95e964101d0fbafca49feb2aeb58": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468146+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Contributors are AI-first now. Is your project?",
+    "title_norm": "contributors are aifirst now is your project"
   },
   "a4ed705b4939f038b71acc8c7466b5161d378dd23f9486edbf3eee053543334b": {
     "category": "research",
@@ -111727,6 +111767,14 @@
     "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
     "title_norm": "gsagent creating 4d physical worlds with generative simulation"
   },
+  "d975dad9da538d93708524da6502c2b834b93992573a607b2efd7642b795d1d4": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468058+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "title_norm": "data centers raise nearby temperatures by up to 4 degrees in phoenix"
+  },
   "d97821963ad07f686b5c53779ba048cc9e4a85a531e6ce726c4b242c9daabc03": {
     "category": "model_release",
     "posted": false,
@@ -115089,6 +115137,20 @@
     "title": "Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology",
     "title_norm": "social chain of thought a multiagent architecture grounded in medical differential diagnosis methodology"
   },
+  "e044ab8c791de88670101007b7efbcb7353c8e5762e7b3b74808496194e66593": {
+    "category": "infrastructure",
+    "message_id": 231,
+    "message_id_fa": 205,
+    "post_title": "\ud83d\udcb0 AI chip startup Etched doubles valuation to $21B",
+    "post_title_fa": "\ud83d\udcb0 \u0627\u0631\u0632\u0634 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u062a\u0631\u0627\u0634\u0647 Etched \u0628\u0647 \u06f2\u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u0631\u0633\u06cc\u062f",
+    "posted": true,
+    "posted_at": "2026-08-18T18:06:29.784603+00:00",
+    "priority": "high",
+    "seen_at": "2026-08-18T18:06:28.468171+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI chip startup Etched doubles valuation to $21B in under a month",
+    "title_norm": "ai chip startup etched doubles valuation to 21b in under a month"
+  },
   "e044fa67f5dc504a7e5c3db28140a7bfdcc9092d355d4a02541f6086726444a2": {
     "category": "infrastructure",
     "posted": false,
@@ -116312,6 +116374,14 @@
     "source": "Hugging Face Blog",
     "title": "Accelerating Qwen3-8B Agent on Intel\u00ae Core\u2122 Ultra with Depth-Pruned Draft Models",
     "title_norm": "accelerating qwen38b agent on intel core ultra with depthpruned draft models"
+  },
+  "e280d6fe6eb755c986e3b46c225aacbdffa13fddf7029c086e4e8ae7496e03c3": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468186+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I pushed Qwen3.8-27B to 124 tps on a single request on a RTX 3090",
+    "title_norm": "i pushed qwen3827b to 124 tps on a single request on a rtx 3090"
   },
   "e2832ebf0f14b47ab2ddaec1dd2a23810b85dbbd411561988b879c91a5fb1d07": {
     "category": "research",
@@ -117998,6 +118068,14 @@
     "source": "arXiv cs.AI",
     "title": "Detecting Clear Contact Lenses for Iris Recognition: A Two-Stage Mask-Guided Attention Approach",
     "title_norm": "detecting clear contact lenses for iris recognition a twostage maskguided attention approach"
+  },
+  "e5dd8084d2834dfb6d8b287fd70dcb5c7e88e22b9ba5fa7639723c675dd53b8d": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468130+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
+    "title_norm": "a texas university becomes a petri dish for a conservative overhaul using ai"
   },
   "e5de418ece5979000448a5f3d21ee8fa585c4c7c79ab912c306b1c6685c83348": {
     "category": "research",
@@ -120666,6 +120744,14 @@
     "source": "Hacker News Frontpage",
     "title": "Claude: System Prompts",
     "title_norm": "claude system prompts"
+  },
+  "eb50815a89f9c79d214782a64867a6d42dfbb13fe0e8c1b1088bd849d2596ee0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-18T18:06:28.468201+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8 2.4T open weights made a Call of Duty clone",
+    "title_norm": "qwen38 24t open weights made a call of duty clone"
   },
   "eb5233466edbc91bd69dfaba85f8c8e934cabb182a5d1c1497de025653f8333b": {
     "category": "research",
