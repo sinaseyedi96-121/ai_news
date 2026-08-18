@@ -43551,6 +43551,14 @@
     "title": "Duxpath AI",
     "title_norm": "duxpath ai"
   },
+  "553a582dcb3666bc7d480e74d2a6038ece10d73316fed0448aa14c106a64b6ad": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708553+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+    "title_norm": "operation blue skies reducing aviation climate impact with ai"
+  },
   "5543eae6f599212338d1b8c2fcea8b3fcf54ce701c1bca98ff47db9b0ae6bb49": {
     "category": "research",
     "posted": false,
@@ -49017,6 +49025,14 @@
     "title": "Evaluating and Guarding Citation Faithfulness in Agentic Scientific Synthesis",
     "title_norm": "evaluating and guarding citation faithfulness in agentic scientific synthesis"
   },
+  "5f00c5a07a364e72d5a42412b964361eeba336835076f4929755897b9bd942dc": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708595+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Don't ignore llama.cpp RPC with old hardware. Results of a 5070 Ti and 1080 Ti over gigabit ethernet: it's actually functional.",
+    "title_norm": "dont ignore llamacpp rpc with old hardware results of a 5070 ti and 1080 ti over gigabit ethernet its actually functional"
+  },
   "5f00cde600a53847a1c19206ece7ec378fcdf2c502bc15dba96c66091c8dcc1c": {
     "category": "research",
     "posted": false,
@@ -54317,6 +54333,14 @@
     "title": "Stripe's Knowledge AI Platform",
     "title_norm": "stripes knowledge ai platform"
   },
+  "6985143951d036a96a3bff79cdd1b07454f9cf7d6360089f285cfe4f81272267": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708527+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+    "title_norm": "ai used to verify toughest mathematics proof yet"
+  },
   "6986b54614ce183bc7c4d525227255d219f13568c949c025b53b32f6d77fa694": {
     "category": "research",
     "posted": false,
@@ -56378,6 +56402,14 @@
     "source": "TechCrunch AI",
     "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
     "title_norm": "nvidias new 500b plan is risky but brilliant especially for aging gpus"
+  },
+  "6d4ec902c728a02128d0e9d0f2d97315b31b6e3516e9601be6e9577b06f5790c": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708346+00:00",
+    "source": "OpenAI News",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "title_norm": "partnering with codeai to prepare the first ai generation"
   },
   "6d4ffb09f20f01f311e0b6ffb02ab2810f86d30eeadcacc3d1b08a3092d71967": {
     "category": "research",
@@ -59913,6 +59945,14 @@
     "title": "99% of My Website Traffic Is Bots",
     "title_norm": "99 of my website traffic is bots"
   },
+  "7444478960a03aa960f6a75be878d49d2a620fd620b20aed64acda0b446b30e0": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708617+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "DeepSeek V4 Flash 0731 on Strix Halo: draft model, n_max sweep, and a launch line that actually helps",
+    "title_norm": "deepseek v4 flash 0731 on strix halo draft model n_max sweep and a launch line that actually helps"
+  },
   "7444c1b8be7b92e0de0482a6aab75cbdc9e2cd1ef91b58bbb50f6e50421b7d0b": {
     "category": "research",
     "posted": false,
@@ -62508,6 +62548,14 @@
     "source": "arXiv cs.AI",
     "title": "What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research",
     "title_norm": "what we know about responsible ai practices in industry a half decade of empirical research"
+  },
+  "7952cfe3bb5b1d2c1cf63378af7cc152da83065692d8b576d806818283811c08": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708540+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "We still don't know how people are using AI",
+    "title_norm": "we still dont know how people are using ai"
   },
   "7956f081c90305fb4977635fe0815ddaf28e23694db3aad08c7e56fd5f50ed5e": {
     "category": "research",
@@ -81615,6 +81663,22 @@
   },
   "_queue": [
     {
+      "category": "research",
+      "duplicate_of": null,
+      "post_body": "\u2705 Researchers used AI to verify a famously difficult mathematical proof\u2014the 246-theorem formalization\u2014marking a milestone for machine-checked mathematics. The work, featured in IEEE Spectrum, shows AI can handle complex symbolic reasoning at a scale that was previously impractical. \ud83e\uddee\n\nThis is significant because formal verification could root out errors in math and software that humans miss. For AI news, it signals a genuinely new capability: machines as trustworthy proof assistants. \ud83c\udf0d It may accelerate fields like cryptography and theorem proving.",
+      "post_body_fa": "\u2705 \u0645\u062d\u0642\u0642\u0627\u0646 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06cc\u06a9 \u0627\u062b\u0628\u0627\u062a \u0631\u06cc\u0627\u0636\u06cc \u0628\u0633\u06cc\u0627\u0631 \u062f\u0634\u0648\u0627\u0631 \u2014 \u0631\u0633\u0645\u06cc\u200c\u0633\u0627\u0632\u06cc \u06f2\u06f4\u06f6 \u0642\u0636\u06cc\u0647 \u2014 \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f\u0646\u062f \u06a9\u0647 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641\u06cc \u0628\u0631\u0627\u06cc \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a \u0628\u0631\u0631\u0633\u06cc\u200c\u0634\u062f\u0647 \u0628\u0627 \u0645\u0627\u0634\u06cc\u0646 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06a9\u0627\u0631 \u06a9\u0647 \u062f\u0631 IEEE Spectrum \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647\u060c \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0627\u0633\u062a\u062f\u0644\u0627\u0644 \u0646\u0645\u0627\u062f\u06cc\u0646 \u067e\u06cc\u0686\u06cc\u062f\u0647 \u0631\u0627 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633\u06cc \u0627\u0646\u062c\u0627\u0645 \u062f\u0647\u062f \u06a9\u0647 \u0642\u0628\u0644\u0627\u064b \u0639\u0645\u0644\u06cc \u0646\u0628\u0648\u062f. \ud83e\uddee\n\n\u0627\u06cc\u0646 \u0645\u0647\u0645 \u0627\u0633\u062a \u0632\u06cc\u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u0631\u0633\u0645\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062e\u0637\u0627\u0647\u0627\u06cc\u06cc \u0631\u0627 \u062f\u0631 \u0631\u06cc\u0627\u0636\u06cc\u0627\u062a \u0648 \u0646\u0631\u0645\u200c\u0627\u0641\u0632\u0627\u0631 \u067e\u06cc\u062f\u0627 \u06a9\u0646\u062f \u06a9\u0647 \u0627\u0646\u0633\u0627\u0646\u200c\u0647\u0627 \u0627\u0632 \u062f\u0633\u062a \u0645\u06cc\u200c\u062f\u0647\u0646\u062f. \u0628\u0631\u0627\u06cc \u0627\u062e\u0628\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646\u0647\u200c\u0627\u06cc \u0627\u0632 \u06cc\u06a9 \u0642\u0627\u0628\u0644\u06cc\u062a \u0648\u0627\u0642\u0639\u0627\u064b \u062c\u062f\u06cc\u062f \u0627\u0633\u062a: \u0645\u0627\u0634\u06cc\u0646\u200c\u0647\u0627 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u062f\u0633\u062a\u06cc\u0627\u0631\u0627\u0646 \u0642\u0627\u0628\u0644 \u0627\u0639\u062a\u0645\u0627\u062f \u062f\u0631 \u0627\u062b\u0628\u0627\u062a. \ud83c\udf0d \u0627\u06cc\u0646 \u0627\u0645\u0631 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f \u0631\u0645\u0632\u0646\u06af\u0627\u0631\u06cc \u0648 \u0642\u0636\u0627\u06cc\u0627\u06cc \u0627\u062b\u0628\u0627\u062a\u06cc \u0631\u0627 \u062a\u0633\u0631\u06cc\u0639 \u06a9\u0646\u062f.",
+      "post_title": "\ud83d\udd2c AI Verifies the Hardest Math Proof Yet",
+      "post_title_fa": "\ud83d\udd2c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0633\u062e\u062a\u200c\u062a\u0631\u06cc\u0646 \u0627\u062b\u0628\u0627\u062a \u0631\u06cc\u0627\u0636\u06cc \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0631\u062f",
+      "priority": "high",
+      "published": "2026-08-18T11:10:44+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/axiom-math-246-theorem-formalization\">https://spectrum.ieee.org/axiom-math-246-theorem-formalization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343957\">https://news.ycombinator.com/item?id=49343957</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+      "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization"
+    },
+    {
       "category": "other",
       "duplicate_of": null,
       "post_body": "\ud83d\udcb3 Payments giant Stripe is nearing a deal to acquire OpenRouter, the AI model gateway, for more than $7 billion. OpenRouter gives developers a single API to pick from dozens of LLMs, making it a key distribution hub for AI startups. The 7B deal would let Stripe embed AI model access directly into its payments and infrastructure stack. For developers, the acquisition could reshape how models are billed and accessed, with Stripe's pricing engine behind it. \ud83d\udcb5 The move shows big money flowing into AI infrastructure and API aggregation. \ud83c\udf0d OpenRouter's global user base gives Stripe an instant foothold in the AI economy.",
@@ -81775,36 +81839,20 @@
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "category": "other",
+      "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Google has bought the data of bankrupt carrier Spirit Airlines at auction, according to The Register. The data trove, sold during Spirit's bankruptcy proceedings, was reportedly purchased to support Google's AI efforts.\n\n\ud83d\udcb0 The deal shows how hungry AI players are for real-world data, with even a broken airline's customer and operational records becoming a sought-after asset. Expect more such purchases as companies hunt for unique training material to differentiate their models. \ud83c\udf0d This one is a reminder that in the AI gold rush, data is the new oil.",
-      "post_body_fa": "\ud83e\udd16 \u06af\u0648\u06af\u0644 \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 The Register \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0634\u0631\u06a9\u062a \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u06cc\u06cc \u0648\u0631\u0634\u06a9\u0633\u062a\u0647 \u0627\u0633\u067e\u06cc\u0631\u06cc\u062a \u0631\u0627 \u062f\u0631 \u062d\u0631\u0627\u062c \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0645\u062c\u0645\u0648\u0639\u0647 \u062f\u0627\u062f\u0647 \u06a9\u0647 \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u0645\u0631\u0627\u062d\u0644 \u0648\u0631\u0634\u06a9\u0633\u062a\u06af\u06cc \u0627\u0633\u067e\u06cc\u0631\u06cc\u062a \u0641\u0631\u0648\u062e\u062a\u0647 \u0634\u062f\u060c \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0631\u0627\u06cc \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u062a\u0644\u0627\u0634\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u06af\u0648\u06af\u0644 \u062e\u0631\u06cc\u062f\u0627\u0631\u06cc \u0634\u062f\u0647.\n\n\ud83d\udcb0 \u0627\u06cc\u0646 \u0645\u0639\u0627\u0645\u0644\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u0627\u0632\u06cc\u06a9\u0646\u0627\u0646 \u062d\u0648\u0632\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u0628\u0631\u0627\u06cc \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u062f\u0646\u06cc\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u06af\u0631\u0633\u0646\u0647 \u0647\u0633\u062a\u0646\u062f\u061b \u062d\u062a\u06cc \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u0634\u062a\u0631\u06cc\u0627\u0646 \u0648 \u0639\u0645\u0644\u06cc\u0627\u062a \u06cc\u06a9 \u0627\u06cc\u0631\u0644\u0627\u06cc\u0646 \u0648\u0631\u0634\u06a9\u0633\u062a\u0647 \u0628\u0647 \u062f\u0627\u0631\u0627\u06cc\u06cc\u200c\u0627\u06cc \u0627\u0631\u0632\u0634\u0645\u0646\u062f \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647. \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0628\u0627 \u0627\u062f\u0627\u0645\u0647 \u062a\u0644\u0627\u0634 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u06cc\u0627\u0641\u062a\u0646 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u0646\u062d\u0635\u0631\u0628\u0647\u200c\u0641\u0631\u062f \u062c\u0647\u062a \u0645\u062a\u0645\u0627\u06cc\u0632 \u06a9\u0631\u062f\u0646 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc\u0634\u0627\u0646\u060c \u0686\u0646\u06cc\u0646 \u062e\u0631\u06cc\u062f\u0647\u0627\u06cc\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0634\u0648\u062f. \ud83c\udf0d \u0627\u06cc\u0646 \u0631\u0648\u06cc\u062f\u0627\u062f \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u062f\u0631 \u0645\u0633\u0627\u0628\u0642\u0647 \u0637\u0644\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u062f\u0627\u062f\u0647 \u0646\u0641\u062a \u062c\u062f\u06cc\u062f \u0627\u0633\u062a.",
-      "post_title": "\ud83d\udcb0 Google buys bankrupt Spirit Airlines' data for AI",
-      "post_title_fa": "\ud83d\udcb0 \u06af\u0648\u06af\u0644 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0627\u0633\u067e\u06cc\u0631\u06cc\u062a \u0627\u06cc\u0631\u0644\u0627\u06cc\u0646\u0632 \u0648\u0631\u0634\u06a9\u0633\u062a\u0647 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062e\u0631\u06cc\u062f",
+      "post_body": "\ud83d\udee1\ufe0f OpenAI introduced ChatGPT for Teens, a dedicated mode combining existing youth safeguards with new safety features. The experience includes healthy-use features, stronger protections, and additional parental controls. \ud83e\uddd1\u200d\ud83c\udf93 It's designed to help teens learn, think critically, and use AI confidently.\n\nThe launch comes amid growing public scrutiny over AI's impact on younger users, making this a timely move. \ud83c\udf0d For parents and educators, it offers more control and peace of mind as AI use in schools grows.",
+      "post_body_fa": "\ud83d\udee1\ufe0f OpenAI \u062d\u0627\u0644\u062a \u0627\u062e\u062a\u0635\u0627\u0635\u06cc ChatGPT \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0631\u0627 \u0645\u0639\u0631\u0641\u06cc \u06a9\u0631\u062f \u06a9\u0647 \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0642\u0628\u0644\u06cc \u0631\u0627 \u0628\u0627 \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u0627\u06cc\u0645\u0646\u06cc \u062c\u062f\u06cc\u062f \u062a\u0631\u06a9\u06cc\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u062a\u062c\u0631\u0628\u0647 \u0634\u0627\u0645\u0644 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0633\u0627\u0644\u0645\u060c \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0642\u0648\u06cc\u200c\u062a\u0631 \u0648 \u06a9\u0646\u062a\u0631\u0644\u200c\u0647\u0627\u06cc \u0627\u0636\u0627\u0641\u06cc \u0628\u0631\u0627\u06cc \u0648\u0627\u0644\u062f\u06cc\u0646 \u0627\u0633\u062a. \ud83e\uddd1\u200d\ud83c\udf93 \u0647\u062f\u0641 \u0622\u0646 \u06a9\u0645\u06a9 \u0628\u0647 \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0628\u0631\u0627\u06cc \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc\u060c \u062a\u0641\u06a9\u0631 \u0627\u0646\u062a\u0642\u0627\u062f\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0628\u0627 \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0647 \u0646\u0641\u0633 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u0639\u0631\u0636\u0647 \u062f\u0631 \u062d\u0627\u0644\u06cc \u0627\u0646\u062c\u0627\u0645 \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0646\u0638\u0627\u0631\u062a \u0639\u0645\u0648\u0645\u06cc \u0628\u0631 \u062a\u0623\u062b\u06cc\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062c\u0648\u0627\u0646 \u0627\u0641\u0632\u0627\u06cc\u0634 \u06cc\u0627\u0641\u062a\u0647 \u0627\u0633\u062a. \ud83c\udf0d \u0628\u0631\u0627\u06cc \u0648\u0627\u0644\u062f\u06cc\u0646 \u0648 \u0645\u0639\u0644\u0645\u0627\u0646\u060c \u0627\u06cc\u0646 \u062d\u0627\u0644\u062a \u06a9\u0646\u062a\u0631\u0644 \u0648 \u0622\u0631\u0627\u0645\u0634 \u062e\u0627\u0637\u0631 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0645\u062f\u0627\u0631\u0633 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0627\u0633\u062a.",
+      "post_title": "\ud83d\ude80 OpenAI Launches ChatGPT for Teens with Extra Protections",
+      "post_title_fa": "\ud83d\ude80 \u0639\u0631\u0636\u0647 ChatGPT \u0628\u0631\u0627\u06cc \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0628\u0627 \u0645\u062d\u0627\u0641\u0638\u062a\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631",
       "priority": "medium",
-      "published": "2026-08-18T10:13:28+00:00",
+      "published": "2026-08-18T11:00:00+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343559\">https://news.ycombinator.com/item?id=49343559</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
-    },
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udc40 A leaked video, uncovered by MacRumors inside the macOS Tahoe 26.7 Release Candidate, appears to show Apple's rumored camera-equipped AirPods in action. The clip shows a man wearing the buds holding up a book cover so Visual Intelligence\u2014Apple's on-device AI\u2014can recognize it.\n\n\ud83d\udcf1 This is the clearest look yet at how Apple plans to put cameras in earbuds for real-world AI interactions. \u26a1 If it ships, it could turn AirPods into a discreet alternative to AI glasses and expand Apple's wearable AI ecosystem. No official announcement yet, but the leak suggests a launch may be closer than expected.",
-      "post_body_fa": "\ud83d\udc40 \u06cc\u06a9 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0644\u0648 \u0631\u0641\u062a\u0647 \u06a9\u0647 MacRumors \u0622\u0646 \u0631\u0627 \u062f\u0631 \u0646\u0633\u062e\u0647\u0654 Release Candidate \u0645\u06a9\u0627\u0648\u0627\u0633 Tahoe 26.7 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0647\u060c \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u0631\u0633\u062f \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627\u06cc \u062f\u0648\u0631\u0628\u06cc\u0646\u062f\u0627\u0631 \u0634\u0627\u06cc\u0639\u0647\u0634\u062f\u0647\u0654 \u0627\u067e\u0644 \u0631\u0627 \u062f\u0631 \u0639\u0645\u0644 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f. \u062f\u0631 \u0627\u06cc\u0646 \u06a9\u0644\u06cc\u067e\u060c \u0645\u0631\u062f\u06cc \u06a9\u0647 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0631\u0627 \u0628\u0647 \u06af\u0648\u0634 \u062f\u0627\u0631\u062f\u060c \u062c\u0644\u062f \u06a9\u062a\u0627\u0628\u06cc \u0631\u0627 \u0646\u06af\u0647 \u062f\u0627\u0634\u062a\u0647 \u062a\u0627 Visual Intelligence\u2014\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u062e\u0644 \u062f\u0633\u062a\u06af\u0627\u0647 \u0627\u067e\u0644\u2014\u0622\u0646 \u0631\u0627 \u062a\u0634\u062e\u06cc\u0635 \u062f\u0647\u062f.\n\n\ud83d\udcf1 \u0627\u06cc\u0646 \u0648\u0627\u0636\u062d\u062a\u0631\u06cc\u0646 \u0646\u0645\u0627\u06cc\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0627\u06a9\u0646\u0648\u0646 \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647\u0654 \u0627\u067e\u0644 \u0628\u0631\u0627\u06cc \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0646 \u062f\u0648\u0631\u0628\u06cc\u0646 \u062f\u0631 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0628\u0631\u0627\u06cc \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0648\u0627\u0642\u0639\u06cc \u062f\u06cc\u062f\u0647\u0627\u06cc\u0645. \u26a1 \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0645\u062d\u0635\u0648\u0644 \u0639\u0631\u0636\u0647 \u0634\u0648\u062f\u060c \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627 \u0631\u0627 \u0628\u0647 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0645\u062d\u062a\u0627\u0637\u0627\u0646\u0647 \u0628\u0631\u0627\u06cc \u0639\u06cc\u0646\u06a9\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0646\u062f \u0648 \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 \u067e\u0648\u0634\u06cc\u062f\u0646\u06cc\u0647\u0627\u06cc \u0627\u067e\u0644 \u0631\u0627 \u06af\u0633\u062a\u0631\u0634 \u062f\u0647\u062f. \u0647\u0646\u0648\u0632 \u0627\u0639\u0644\u0627\u0645 \u0631\u0633\u0645\u06cc \u0646\u0634\u062f\u0647\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0644\u0648 \u0631\u0641\u062a\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u0639\u0631\u0636\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0646\u0632\u062f\u06cc\u06a9\u062a\u0631 \u0627\u0632 \u0686\u06cc\u0632\u06cc \u0628\u0627\u0634\u062f \u06a9\u0647 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f.",
-      "post_title": "\ud83c\udfa7 Apple's camera AirPods surface in leaked video",
-      "post_title_fa": "\ud83c\udfa7 \u0627\u06cc\u0631\u067e\u0627\u062f\u0647\u0627\u06cc \u062f\u0648\u0631\u0628\u06cc\u0646\u062f\u0627\u0631 \u0627\u067e\u0644 \u062f\u0631 \u0648\u06cc\u062f\u06cc\u0648\u06cc \u0644\u0648 \u0631\u0641\u062a\u0647 \u0638\u0627\u0647\u0631 \u0634\u062f\u0646\u062f",
-      "priority": "medium",
-      "published": "2026-08-18T09:00:01+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "The Verge AI",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
+      "source": "OpenAI News",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -83004,6 +83052,14 @@
     "source": "arXiv cs.AI",
     "title": "Hybrid Semantic and Spectral Ensemble for Robust Synthetic Image Source Attribution",
     "title_norm": "hybrid semantic and spectral ensemble for robust synthetic image source attribution"
+  },
+  "a2628f6253f0639116b05ea080b4e8d67c4cbe30ad77ffbda9e8449fe4850afb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708513+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Finger: Social network that never died",
+    "title_norm": "finger social network that never died"
   },
   "a26392c7a7c410749392c7ecd1fc607ab349923b3d36bc5bc052ce548bca4988": {
     "category": "research",
@@ -92591,6 +92647,14 @@
     "title": "Ask HN: AI-Contributor-Only Projects?",
     "title_norm": "ask hn aicontributoronly projects"
   },
+  "b5041dc74e6d9da581ec7eb2905def846e9aa79c1cb1fb630325f7a85ef19534": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708566+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Tell HN: Use AI to music score your books",
+    "title_norm": "tell hn use ai to music score your books"
+  },
   "b5096ceb3ac7fd16727b7c24d12625659c264a9185e4db9e78fec231168a7ac8": {
     "category": "other",
     "posted": false,
@@ -95463,6 +95527,14 @@
     "title": "On Effectiveness and Efficiency of Agentic Tool-calling and RL Training",
     "title_norm": "on effectiveness and efficiency of agentic toolcalling and rl training"
   },
+  "ba537370f7532a789e1d7272148b63ee52cdf38ab26c2bdf8656c3e9e49ce881": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708494+00:00",
+    "source": "The Verge AI",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "title_norm": "chatgpt is getting a dedicated mode for teens"
+  },
   "ba55eb5d75ce71596299220818ae47bd41e217665a503c44eb40cb4ec4333f1a": {
     "category": "research",
     "posted": false,
@@ -98093,6 +98165,14 @@
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "title_norm": "lerobot v060 imagine evaluate improve"
   },
+  "bf599835c6da6b185439c3fb53a1ac300ce7e156f8af50346daf624bb7e75fc1": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708474+00:00",
+    "source": "The Verge AI",
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "title_norm": "elon musk made flying even worse so palantir could profit"
+  },
   "bf5a32fe240f497fe84f6e0faeea27548a386116a2d15f10671e68edc469dea5": {
     "category": "research",
     "posted": false,
@@ -100492,6 +100572,14 @@
     "source": "OpenAI News",
     "title": "Dreaming: Better memory for a more helpful ChatGPT",
     "title_norm": "dreaming better memory for a more helpful chatgpt"
+  },
+  "c3b0ed374d41680783fa20fc63770995e488c58603f5ef9d743356c3fd37e97e": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-18T11:33:20.708444+00:00",
+    "source": "OpenAI News",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "title_norm": "introducing chatgpt for teens built for learning backed by protections"
   },
   "c3b5fbf2e77406dbc3e79939797be674ce5c6f0b222b1f011c2f3fa89696e675": {
     "category": "research",
