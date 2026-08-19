@@ -10733,6 +10733,14 @@
     "title": "Enlisting Llama in India\u2019s first open source audio language model",
     "title_norm": "enlisting llama in indias first open source audio language model"
   },
+  "1472338b1c71c055ad04617c61970a62c1d156853feff9232387f23653db843a": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606354+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Naeos \u2013 an engineering system for AI coding agents",
+    "title_norm": "show hn naeos an engineering system for ai coding agents"
+  },
   "147319a96101f2f917a3e303a684dee497f0c6c9af8e37e52c6b6b9b5091ef60": {
     "category": "other",
     "posted": false,
@@ -24143,6 +24151,14 @@
     "title": "SkillSmith: Enhancing Locally Deployed Agents via Automatic Skill Construction and Evolution",
     "title_norm": "skillsmith enhancing locally deployed agents via automatic skill construction and evolution"
   },
+  "2ccd3a33b747087e88291d7a90bef6f4f235953c83270753387c0cdb31627479": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606309+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Civic Hygiene \u2013 avoid building technologies that could be used by a police state",
+    "title_norm": "civic hygiene avoid building technologies that could be used by a police state"
+  },
   "2cce0848e14b230f6cb41e101e08fb0a7be14f0345cbd2f166f6948345790008": {
     "category": "other",
     "posted": false,
@@ -27004,6 +27020,14 @@
     "source": "Hacker News AI keyword",
     "title": "Hive_review: Multi-agent AI code-review loop",
     "title_norm": "hive_review multiagent ai codereview loop"
+  },
+  "31ea4c69496d4d37dbcea9a26aa8dd1bba58a4978fe41f7742d1f3db61478ffa": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606370+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
+    "title_norm": "introducing qwen3827b dynamic v3 unsloth ggufs"
   },
   "31ebbe56c910806da31c17e9ff4be61285928883f7ce55606c65a68b9e4e82f5": {
     "category": null,
@@ -64349,6 +64373,14 @@
     "title": "Adversarial Test-Hardening for AI-Written Code: An Instrument Autopsy and a Pre-Registered Causal Estimate of the Critic Loop",
     "title_norm": "adversarial testhardening for aiwritten code an instrument autopsy and a preregistered causal estimate of the critic loop"
   },
+  "7826bcae69384652309dc251b398bef457360e533f7609a02a9eae3b9e5fecf8": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606362+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: LongTerMemory, an AI EdTech Platform",
+    "title_norm": "show hn longtermemory an ai edtech platform"
+  },
   "7835b0b036cfe198fc49ffdaad831022245d9019590195edd8098043554a24e1": {
     "category": "infrastructure",
     "posted": false,
@@ -73642,6 +73674,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "New Unsloth KImi K3 drops! Q1_0 (466GB), TQ1_0(509GB), IQ1_M(649),TQ2_0(551GB)!!",
     "title_norm": "new unsloth kimi k3 drops q1_0 466gb tq1_0509gb iq1_m649tq2_0551gb"
+  },
+  "8a39771417fb2b2bed70cf2e7f8f80ef6f420545220b01f159f9090e50b40c8e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606378+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I posit QWEN team will dust off the old 397B-A17B architecture to compete with Deepseek V4 0731 Flash",
+    "title_norm": "i posit qwen team will dust off the old 397ba17b architecture to compete with deepseek v4 0731 flash"
   },
   "8a408b5ffb882a5184e96654529e92d64949a46485c565e2c6741dcf2d7e6333": {
     "category": "research",
@@ -85076,6 +85116,22 @@
       "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330139\">https://news.ycombinator.com/item?id=49330139</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
       "title": "Stripe to Buy OpenRouter for $7B",
       "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+    },
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde0 Anthropic's invisible watermarks, introduced to meet new EU rules, lasted barely a day before coders posted workarounds online. The prompt-based overrides reportedly let users strip or blur the markers from Claude-generated text, undermining the EU's push for AI traceability.\n\n\u23f1\ufe0f The cat-and-mouse game highlights a core tension: regulation wants provenance, but open-source methods can quickly defeat it. \u2696\ufe0f Expect regulators to revisit watermarking and enforcement while Anthropic races to harden its system. For builders, compliance features are a moving target, not a guarantee.",
+      "post_body_fa": "\ud83e\udde0 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9 \u0646\u0627\u0645\u0631\u0626\u06cc Anthropic \u06a9\u0647 \u0628\u0631\u0627\u06cc \u067e\u06cc\u0631\u0648\u06cc \u0627\u0632 \u0642\u0648\u0627\u0646\u06cc\u0646 \u062c\u062f\u06cc\u062f \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u0645\u0639\u0631\u0641\u06cc \u0634\u062f\u060c \u06a9\u0645\u062a\u0631 \u0627\u0632 \u06cc\u06a9 \u0631\u0648\u0632 \u062f\u0648\u0627\u0645 \u0622\u0648\u0631\u062f \u0648 \u06a9\u062f\u0646\u0648\u06cc\u0633\u200c\u0647\u0627 \u0631\u0627\u0647\u200c\u062d\u0644\u200c\u0647\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u062f\u0648\u0631 \u0632\u062f\u0646\u0634 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0646\u062f. \u0627\u06cc\u0646 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 prompt \u0638\u0627\u0647\u0631\u0627\u064b \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u0645\u0627\u0631\u06a9\u0631\u0647\u0627\u06cc \u0645\u062a\u0648\u0646 \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u062a\u0648\u0633\u0637 Claude \u0631\u0627 \u062d\u0630\u0641 \u06cc\u0627 \u062a\u0627\u0631 \u06a9\u0646\u0646\u062f \u0648 \u062a\u0644\u0627\u0634 \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u062a\u0648\u0644\u06cc\u062f\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u062a\u0636\u0639\u06cc\u0641 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\u23f1\ufe0f \u0627\u06cc\u0646 \u0628\u0627\u0632\u06cc \u06af\u0631\u0628\u0647\u200c\u0648\u0645\u0648\u0634 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u0642\u0631\u0631\u0627\u062a \u0628\u0647\u200c\u062f\u0646\u0628\u0627\u0644 provenance \u0647\u0633\u062a\u0646\u062f\u060c \u0627\u0645\u0627 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u0647\u200c\u0633\u0631\u0639\u062a \u0622\u0646 \u0631\u0627 \u0628\u06cc\u200c\u0627\u062b\u0631 \u06a9\u0646\u0646\u062f. \u2696\ufe0f \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u062a\u0646\u0638\u06cc\u0645\u200c\u06af\u0631\u0647\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0628\u0647 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9 \u0648 \u0627\u062c\u0631\u0627\u06cc \u0642\u0627\u0646\u0648\u0646 \u0628\u0631\u06af\u0631\u062f\u0646\u062f \u0648 Anthropic \u0647\u0645 \u0628\u0631\u0627\u06cc \u0633\u062e\u062a\u200c\u06a9\u0631\u062f\u0646 \u0633\u06cc\u0633\u062a\u0645\u0634 \u0628\u0634\u062a\u0627\u0628\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u0647\u200c\u0647\u0627 \u0627\u06cc\u0646 \u0627\u062a\u0641\u0627\u0642 \u06cc\u0627\u062f\u0622\u0648\u0631 \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0633\u0627\u0632\u06af\u0627\u0631\u06cc \u0628\u0627 \u0642\u0627\u0646\u0648\u0646 \u0647\u062f\u0641\u06cc \u0645\u062a\u062d\u0631\u06a9 \u0627\u0633\u062a\u060c \u0646\u0647 \u062a\u0636\u0645\u06cc\u0646\u06cc.",
+      "post_title": "\u2696\ufe0f Coders Already Crack Claude's Invisible Watermarks",
+      "post_title_fa": "\u2696\ufe0f \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0646\u0648\u06cc\u0633\u0627\u0646 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9 \u0646\u0627\u0645\u0631\u0626\u06cc Claude \u0631\u0627 \u062f\u0648\u0631 \u0632\u062f\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-19T16:44:07+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Wired AI",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -105062,6 +105118,14 @@
     "title": "Evidence-Grounded AI for Musculoskeletal Care",
     "title_norm": "evidencegrounded ai for musculoskeletal care"
   },
+  "c4af28cc56a31010cc543ebdb8a287449f04846a01cc181a7a00ccb1cefa5c8f": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606221+00:00",
+    "source": "Wired AI",
+    "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
+    "title_norm": "coders say they already found workarounds to claudes invisible watermarks"
+  },
   "c4b2356a11fe096c2c5499a9e8f1a318cd2e95d931e2e6aea55693fd90aebba4": {
     "category": "other",
     "posted": false,
@@ -119960,6 +120024,14 @@
     "title": "Try Again, Don't Look Back: Blind Resampling Outperforms Self-Repair in Small Code Models",
     "title_norm": "try again dont look back blind resampling outperforms selfrepair in small code models"
   },
+  "e23acc07445f9e7499ca254ef43bf7f795fea17c083be8fc6de87080b5220c02": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606335+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "title_norm": "ornith15 from selfscaffolding to selfimprovement"
+  },
   "e23ca7325427397e1fffa1cccc3f3d89eb2d1fbad40f4bf2325ff58ff4b508ae": {
     "category": "research",
     "posted": false,
@@ -120039,6 +120111,14 @@
     "source": "Hugging Face Blog",
     "title": "Accelerating Qwen3-8B Agent on Intel\u00ae Core\u2122 Ultra with Depth-Pruned Draft Models",
     "title_norm": "accelerating qwen38b agent on intel core ultra with depthpruned draft models"
+  },
+  "e25b5ed4851ac87bf6b6cdc58b77aada975137c05f4ab7642256e21287652e95": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606345+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Can you tell which AI-generated text is watermarked?",
+    "title_norm": "can you tell which aigenerated text is watermarked"
   },
   "e280d6fe6eb755c986e3b46c225aacbdffa13fddf7029c086e4e8ae7496e03c3": {
     "category": "other",
@@ -120813,6 +120893,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "My GX10 died",
     "title_norm": "my gx10 died"
+  },
+  "e423a77f02f7a7e118e87ebdb12a0ab3e3c375f5e9a219bf7b9608531daca540": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T16:50:31.606324+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "New Casio F-B100W \u2013 Upgrade to the iconic F-91W after 40 years",
+    "title_norm": "new casio fb100w upgrade to the iconic f91w after 40 years"
   },
   "e4309e44a6a15d94ee77a13dacbd13ace2fbd13e967290d12d9224e65486f169": {
     "category": "other",
