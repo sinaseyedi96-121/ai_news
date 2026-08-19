@@ -33349,6 +33349,14 @@
     "title": "AI and efficiency",
     "title_norm": "ai and efficiency"
   },
+  "3e24031df83f42b32130eebb9ac3256ec36f376b29668d93077c8e57df0b55c8": {
+    "category": "infrastructure",
+    "posted": false,
+    "seen_at": "2026-08-19T10:12:08.282750+00:00",
+    "source": "TechCrunch AI",
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "title_norm": "relativity networks raises 22 million to bring a faster kind of fiber to data centers"
+  },
   "3e247d1de95e3069c669bccc775312437d9850cef256f664697ea788c5885068": {
     "category": "research",
     "posted": false,
@@ -55955,7 +55963,13 @@
   },
   "69297276a7159efce893d6f3425e0cc037ef686d35352342f13499a145649fbd": {
     "category": "policy",
-    "posted": false,
+    "message_id": 236,
+    "message_id_fa": 210,
+    "post_title": "\u2696\ufe0f Flock's New AI for Police Goes Far Beyond License Plates",
+    "post_title_fa": "\u2696\ufe0f \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f Flock \u0628\u0631\u0627\u06cc \u067e\u0644\u06cc\u0633 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u067e\u0644\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u0647\u0627",
+    "posted": true,
+    "posted_at": "2026-08-19T10:12:09.342038+00:00",
+    "priority": "high",
     "seen_at": "2026-08-19T09:41:57.480819+00:00",
     "source": "Wired AI",
     "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
@@ -56072,6 +56086,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: AI codebase analyser and auto-fixer",
     "title_norm": "show hn ai codebase analyser and autofixer"
+  },
+  "69747e23d77abe327df1655dad9eb8e58fb0f0cef5982aa45943de5880f66763": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T10:12:08.282862+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Inside Big Tech\u2019s Frantic Race to Quell the Growing Backlash to AI",
+    "title_norm": "inside big techs frantic race to quell the growing backlash to ai"
   },
   "697637229075aaf4f62d7defebbd5e2e47fd929181f4ece831ed19b2be617d08": {
     "category": "research",
@@ -84439,32 +84461,17 @@
   },
   "_meta": {
     "date": "2026-08-19",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
       "infrastructure": 1,
-      "model_release": 1
+      "model_release": 1,
+      "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-19-10"
+    "last_slot": "2026-08-19-12"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udd0d WIRED obtained and reconstructed Flock's next-generation AI system, which is already being used by some police departments. The new tool goes far beyond tracking license plates, adding powerful surveillance capabilities that have sparked fresh outrage. Flock's cameras are already installed in thousands of communities across the US, so this update could impact millions of people.\n\n\u2696\ufe0f The investigation shows AI-driven policing is racing ahead of public oversight and legal frameworks. This matters because it gives law enforcement unprecedented power to monitor citizens, and clear rules for its use are still missing. \ud83d\udd25 Expect more scrutiny on Flock and similar surveillance tech.",
-      "post_body_fa": "\ud83d\udd0d \u0648\u0627\u06cc\u0631\u062f \u06a9\u062f \u0633\u06cc\u0633\u062a\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0646\u0633\u0644 \u062c\u062f\u06cc\u062f Flock \u0631\u0627 \u0628\u0647 \u062f\u0633\u062a \u0622\u0648\u0631\u062f\u0647 \u0648 \u0628\u0627\u0632\u0633\u0627\u0632\u06cc \u06a9\u0631\u062f\u0647\u061b \u0633\u06cc\u0633\u062a\u0645\u06cc \u06a9\u0647 \u062d\u0627\u0644\u0627 \u0628\u0631\u062e\u06cc \u0627\u0632 \u067e\u0644\u06cc\u0633\u200c\u0647\u0627 \u0627\u0632 \u0622\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f \u062e\u06cc\u0644\u06cc \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0631\u062f\u06cc\u0627\u0628\u06cc \u067e\u0644\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u0647\u0627 \u0645\u06cc\u200c\u0631\u0648\u062f \u0648 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f\u06cc \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u062a\u0627\u0632\u0647\u200c\u062a\u0631\u06cc\u0646 \u0645\u0648\u062c \u0627\u0639\u062a\u0631\u0627\u0636\u200c\u0647\u0627 \u0631\u0627 \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a\u0647 \u0627\u0633\u062a. \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc Flock \u062f\u0631 \u0647\u0632\u0627\u0631\u0627\u0646 \u0634\u0647\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0646\u0635\u0628 \u0634\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u067e\u0633 \u0627\u06cc\u0646 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0632\u0646\u062f\u06af\u06cc \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u0646\u0641\u0631 \u0631\u0627 \u062a\u062d\u062a \u062a\u0623\u062b\u06cc\u0631 \u0642\u0631\u0627\u0631 \u062f\u0647\u062f.\n\n\u2696\ufe0f \u0627\u06cc\u0646 \u062a\u062d\u0642\u06cc\u0642 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u067e\u0644\u06cc\u0633\u0650 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0633\u0631\u0639\u062a\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0632 \u0646\u0638\u0627\u0631\u062a \u0639\u0645\u0648\u0645\u06cc \u0648 \u0686\u0627\u0631\u0686\u0648\u0628\u200c\u0647\u0627\u06cc \u0642\u0627\u0646\u0648\u0646\u06cc \u067e\u06cc\u0634 \u0645\u06cc\u200c\u0631\u0648\u062f. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u0628\u0647 \u0645\u062c\u0631\u06cc \u0642\u0627\u0646\u0648\u0646 \u0642\u062f\u0631\u062a\u06cc \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u0628\u0631\u0627\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u0647\u0646\u0648\u0632 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0631\u0648\u0634\u0646\u06cc \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0622\u0646 \u0646\u062f\u0627\u0631\u06cc\u0645. \ud83d\udd25 \u0628\u0627\u06cc\u062f \u0645\u0646\u062a\u0638\u0631 \u0628\u0631\u0631\u0633\u06cc\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 Flock \u0648 \u0641\u0646\u0627\u0648\u0631\u06cc\u200c\u0647\u0627\u06cc \u0645\u0634\u0627\u0628\u0647 \u0628\u0627\u0634\u06cc\u0645.",
-      "post_title": "\u2696\ufe0f Flock's New AI for Police Goes Far Beyond License Plates",
-      "post_title_fa": "\u2696\ufe0f \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f Flock \u0628\u0631\u0627\u06cc \u067e\u0644\u06cc\u0633 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u067e\u0644\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u0647\u0627",
-      "priority": "high",
-      "published": "2026-08-19T09:00:00+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Wired AI",
-      "summary": "Flock\u2019s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "url": "https://www.wired.com/story/flock-safety-os-investigate/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -84626,20 +84633,20 @@
       "url": "https://openai.com/index/openai-joins-ports-pike-project"
     },
     {
-      "category": "model_release",
+      "category": "infrastructure",
       "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Modular, the company behind the AI-focused programming language Mojo, has open-sourced the platform at ModCon and is now part of Qualcomm. Mojo combines Python-like syntax with low-level performance, making it a serious option for AI and ML workloads. The move aims to grow an ecosystem of developers and tools around the language.\n\n\u26a1 Early benchmarks have praised Mojo for performance close to C and CUDA in AI inference tasks. For developers, this means more control and transparency for building AI systems without relying on closed compilers. \ud83d\udd25 With Qualcomm behind it, Mojo could become a bigger player in the AI compute stack.",
-      "post_body_fa": "\ud83e\udd16 \u0634\u0631\u06a9\u062a Modular\u060c \u0633\u0627\u0632\u0646\u062f\u0647 \u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0646\u0648\u06cc\u0633\u06cc \u0645\u0648\u062c\u0648 \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0622\u0646 \u0631\u0627 \u062f\u0631 \u0631\u0648\u06cc\u062f\u0627\u062f ModCon \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u06a9\u0631\u062f \u0648 \u062d\u0627\u0644\u0627 \u0632\u06cc\u0631 \u0646\u0638\u0631 Qualcomm \u0641\u0639\u0627\u0644\u06cc\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0645\u0648\u062c\u0648 \u062a\u0631\u06a9\u06cc\u0628\u06cc \u0627\u0632 \u0646\u062d\u0648\u0650 \u0634\u0628\u06cc\u0647 \u067e\u0627\u06cc\u062a\u0648\u0646 \u0648 \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0633\u0637\u062d \u067e\u0627\u06cc\u06cc\u0646 \u0627\u0633\u062a \u0648 \u06af\u0632\u06cc\u0646\u0647 \u062c\u062f\u06cc \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0645\u0627\u0634\u06cc\u0646 \u0645\u062d\u0633\u0648\u0628 \u0645\u06cc\u200c\u0634\u0648\u062f. \u0647\u062f\u0641 \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645\u060c \u0631\u0634\u062f \u0627\u06a9\u0648\u0633\u06cc\u0633\u062a\u0645 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0648 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u0627\u06cc\u0646 \u0632\u0628\u0627\u0646 \u0627\u0633\u062a.\n\n\u26a1 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0639\u0645\u0644\u06a9\u0631\u062f \u0645\u0648\u062c\u0648 \u0631\u0627 \u062f\u0631 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u0628\u0647 C \u0648 CUDA \u0627\u0631\u0632\u06cc\u0627\u0628\u06cc \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u06cc\u0646 \u06cc\u0639\u0646\u06cc \u06a9\u0646\u062a\u0631\u0644 \u0648 \u0634\u0641\u0627\u0641\u06cc\u062a \u0628\u06cc\u0634\u062a\u0631 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u062f\u0648\u0646 \u0648\u0627\u0628\u0633\u062a\u06af\u06cc \u0628\u0647 \u06a9\u0627\u0645\u067e\u0627\u06cc\u0644\u0631\u0647\u0627\u06cc \u0628\u0633\u062a\u0647. \ud83d\udd25 \u0628\u0627 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u06a9\u0648\u0627\u0644\u06a9\u0627\u0645\u060c \u0645\u0648\u062c\u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0628\u0627\u0632\u06cc\u06af\u0631 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc \u062f\u0631 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f.",
-      "post_title": "\ud83d\ude80 Mojo language is now open-source under Qualcomm",
-      "post_title_fa": "\ud83d\ude80 \u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0646\u0648\u06cc\u0633\u06cc \u0645\u0648\u062c\u0648 \u062a\u0648\u0633\u0637 \u06a9\u0648\u0627\u0644\u06a9\u0627\u0645 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0634\u062f",
+      "post_body": "\ud83c\udfd7\ufe0f Relativity Networks has raised $22 million to commercialize hollow-core fiber, a technology that lets data travel about 30% faster than conventional fiber. The funding round will go toward deploying the cable in data centers, where every microsecond of latency matters for AI workloads. \ud83d\udd25 The startup claims its fiber could become the backbone of next-gen AI infrastructure, easing bottlenecks as models grow hungrier for data.\n\nFaster fiber means lower latency between GPUs and storage, which can directly translate into cheaper, speedier model training and inference. \u26a1 If the tech scales, hyperscalers could see significant performance gains without replacing entire systems. For anyone running or using AI, this is a step toward making data centers faster and more efficient. \ud83c\udf0d",
+      "post_body_fa": "\ud83c\udfd7\ufe0f \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e Relativity Networks \u06f2\u06f2 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u062a\u062c\u0627\u0631\u06cc\u200c\u0633\u0627\u0632\u06cc \u0641\u06cc\u0628\u0631 \u0647\u0633\u062a\u0647\u200c\u062a\u0648\u062e\u0627\u0644\u06cc \u062c\u0630\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a\u061b \u0641\u0646\u0627\u0648\u0631\u06cc \u06a9\u0647 \u062f\u0627\u062f\u0647\u200c\u0647\u0627 \u0631\u0627 \u062d\u062f\u0648\u062f \u06f3\u06f0\u066a \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0627\u0632 \u0641\u06cc\u0628\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0645\u0646\u062a\u0642\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u06af\u0630\u0627\u0631\u06cc \u0635\u0631\u0641 \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u06a9\u0627\u0628\u0644 \u062f\u0631 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u062c\u0627\u06cc\u06cc \u06a9\u0647 \u0647\u0631 \u0645\u06cc\u06a9\u0631\u0648\u062b\u0627\u0646\u06cc\u0647 \u062a\u0623\u062e\u06cc\u0631 \u0628\u0631\u0627\u06cc \u0628\u0627\u0631\u0647\u0627\u06cc \u06a9\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0647\u0645 \u0627\u0633\u062a. \ud83d\udd25 \u0627\u06cc\u0646 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e \u0627\u062f\u0639\u0627 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0641\u06cc\u0628\u0631\u0634 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0633\u062a\u0648\u0646 \u0641\u0642\u0631\u0627\u062a \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0646\u0633\u0644 \u0628\u0639\u062f\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f \u0648 \u06af\u0644\u0648\u06af\u0627\u0647\u200c\u0647\u0627 \u0631\u0627 \u0628\u0627 \u0631\u0634\u062f \u0627\u0634\u062a\u06cc\u0627\u0642 \u0645\u062f\u0644\u200c\u0647\u0627 \u0628\u0647 \u062f\u0627\u062f\u0647 \u06a9\u0627\u0647\u0634 \u062f\u0647\u062f.\n\n\u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0648\u062f\u0646 \u0641\u06cc\u0628\u0631 \u06cc\u0639\u0646\u06cc \u062a\u0623\u062e\u06cc\u0631 \u06a9\u0645\u062a\u0631 \u0628\u06cc\u0646 GPU \u0648 \u0641\u0636\u0627\u06cc \u0630\u062e\u06cc\u0631\u0647\u200c\u0633\u0627\u0632\u06cc \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u0633\u062a\u0642\u06cc\u0645\u0627\u064b \u0628\u0647 \u0622\u0645\u0648\u0632\u0634 \u0648 \u0627\u0633\u062a\u0646\u062a\u0627\u062c \u0645\u062f\u0644 \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0648 \u0627\u0631\u0632\u0627\u0646\u200c\u062a\u0631 \u0628\u06cc\u0646\u062c\u0627\u0645\u062f. \u26a1 \u0627\u06af\u0631 \u0627\u06cc\u0646 \u0641\u0646\u0627\u0648\u0631\u06cc \u0645\u0642\u06cc\u0627\u0633\u200c\u067e\u0630\u06cc\u0631 \u0634\u0648\u062f\u060c \u0627\u0628\u0631\u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u062f\u0648\u0646 \u062a\u0639\u0648\u06cc\u0636 \u06a9\u0644 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u060c \u0639\u0645\u0644\u06a9\u0631\u062f \u0628\u0647\u062a\u0631\u06cc \u0628\u06af\u06cc\u0631\u0646\u062f. \u0628\u0631\u0627\u06cc \u0647\u0631\u06a9\u0633\u06cc \u06a9\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06cc\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f\u060c \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0628\u0647 \u0633\u0648\u06cc \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627\u06cc \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0648 \u06a9\u0627\u0631\u0622\u0645\u062f\u062a\u0631 \u0627\u0633\u062a. \ud83c\udf0d",
+      "post_title": "\ud83d\udcb0 Relativity Networks lands $22M to speed up data centers with hollow-core fiber",
+      "post_title_fa": "\ud83d\udcb0 Relativity Networks \u06f2\u06f2 \u0645\u06cc\u0644\u06cc\u0648\u0646 \u062f\u0644\u0627\u0631 \u0628\u0631\u0627\u06cc \u0641\u06cc\u0628\u0631 \u0633\u0631\u06cc\u0639\u062a\u0631 \u062f\u0631 \u062f\u06cc\u062a\u0627\u0633\u0646\u062a\u0631\u0647\u0627 \u062c\u0630\u0628 \u06a9\u0631\u062f",
       "priority": "medium",
-      "published": "2026-08-19T07:47:19+00:00",
+      "published": "2026-08-19T10:00:00+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News Frontpage",
-      "summary": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-      "url": "https://www.modular.com/blog/modcon-announcements"
+      "source": "TechCrunch AI",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -132443,6 +132450,14 @@
     "source": "Hugging Face Blog",
     "title": "Fine-Tune W2V2-Bert for low-resource ASR with \ud83e\udd17 Transformers",
     "title_norm": "finetune w2v2bert for lowresource asr with transformers"
+  },
+  "fc14efd6740f757ab3d38a0a4e3338e2896ddae4ff2bfc70d799dc5beab8c86d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T10:12:08.282888+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Good result with Qwen3.8 Q6",
+    "title_norm": "good result with qwen38 q6"
   },
   "fc1ad914ddf2fd9da02d673c30d98883ba9a881cd4bebbea655e67130bb690a7": {
     "category": "research",
