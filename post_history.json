@@ -925,6 +925,14 @@
     "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
     "title_norm": "agentdebugx an opensource toolkit for failure observability attribution and recovery in llm agents"
   },
+  "018f83a0a163d17ed3a9c4956b7125622d006b0a2f61d4a4c014f0731839d7f3": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339427+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
+    "title_norm": "we have q38 35b at home 3x new ornith 15 released"
+  },
   "019678574cd79146f35a82b055e9e93eca0dbb264f932152a4b8be4c23bd2fef": {
     "category": "research",
     "posted": false,
@@ -13151,7 +13159,13 @@
   },
   "18fbbf77f8d76b94ba83b48589c4bc5e0627b83c4898232abca70d035c388d28": {
     "category": "other",
-    "posted": false,
+    "message_id": 238,
+    "message_id_fa": 212,
+    "post_title": "\ud83d\udcb0 Anthropic posts first profitable quarter with $115B revenue",
+    "post_title_fa": "\ud83d\udcb0 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0628\u0627 \u062f\u0631\u0622\u0645\u062f \u06f1\u06f1\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0627\u0648\u0644\u06cc\u0646 \u0633\u0647\u0645\u0627\u0647\u0647 \u0633\u0648\u062f\u0622\u0648\u0631 \u0631\u0627 \u062b\u0628\u062a \u06a9\u0631\u062f",
+    "posted": true,
+    "posted_at": "2026-08-19T14:03:29.449656+00:00",
+    "priority": "high",
     "seen_at": "2026-08-19T13:14:21.668637+00:00",
     "source": "Hacker News AI keyword",
     "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
@@ -20758,6 +20772,14 @@
     "source": "Hugging Face Blog",
     "title": "Large-scale Near-deduplication Behind BigCode",
     "title_norm": "largescale neardeduplication behind bigcode"
+  },
+  "26d634ffa0e5cdcd93ff8464d46308213d45616f78147c881cbcb00d24d4fb90": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339403+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "updated unsloth/Qwen3.8-27B-GGUF \u00b7 Hugging Face",
+    "title_norm": "updated unslothqwen3827bgguf hugging face"
   },
   "26d93cffcf9cdad21ee9ef31a6b3073d09b1218f63fde1d69e1a5135f15da0bb": {
     "category": "research",
@@ -31402,6 +31424,14 @@
     "source": "arXiv cs.AI",
     "title": "Procedural Fairness Failures in RLHF from Preference Averaging",
     "title_norm": "procedural fairness failures in rlhf from preference averaging"
+  },
+  "3a10e4f97fbf7e6fb5c374065729c0a2911c3642a04afdd08a50c4d2f8f4f57e": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339392+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "title_norm": "a joke domain purchase turned in geopolitical warfare"
   },
   "3a18f987585813c379dd58398e54bc53915525839c4537de90b24b232629887e": {
     "category": "policy",
@@ -84635,33 +84665,18 @@
   },
   "_meta": {
     "date": "2026-08-19",
-    "posts_today": 4,
+    "posts_today": 5,
     "posts_today_by_category": {
       "infrastructure": 2,
       "model_release": 1,
+      "other": 1,
       "policy": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-19-14"
+    "last_slot": "2026-08-19-16"
   },
   "_queue": [
-    {
-      "category": "other",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udf89 Anthropic has posted its first profitable quarter, a landmark moment for the frontier AI lab. The company reported $115 billion in revenue for Q2 2026, according to Forbes. The result shows that high-end AI services can turn a profit while funding massive compute costs.\n\n\ud83d\udcaa It's a huge signal for the industry, which has been burning cash in the race to AGI. \ud83d\udcca Expect rivals like OpenAI to face mounting pressure to show similar financial discipline.",
-      "post_body_fa": "\ud83c\udf89 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0627\u0648\u0644\u06cc\u0646 \u0633\u0647\u0645\u0627\u0647\u0647 \u0633\u0648\u062f\u0622\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u062b\u0628\u062a \u06a9\u0631\u062f\u0647\u060c \u0644\u062d\u0638\u0647\u0627\u06cc \u062a\u0627\u0631\u06cc\u062e\u06cc \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u067e\u06cc\u0634\u0631\u0648 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc. \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 \u0641\u0648\u0631\u0628\u0633\u060c \u0627\u06cc\u0646 \u0634\u0631\u06a9\u062a \u062f\u0631 \u0633\u0647\u0645\u0627\u0647\u0647 \u062f\u0648\u0645 \u06f2\u06f0\u06f2\u06f6 \u062f\u0631\u0622\u0645\u062f\u06cc \u0645\u0639\u0627\u062f\u0644 \u06f1\u06f1\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631 \u06af\u0632\u0627\u0631\u0634 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0646\u062a\u06cc\u062c\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u062f\u0647\u062f \u062e\u062f\u0645\u0627\u062a \u067e\u06cc\u0634\u0631\u0641\u062a\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u06cc\u062a\u0648\u0627\u0646\u0646\u062f \u062f\u0631 \u0639\u06cc\u0646 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0627\u0632 \u0647\u0632\u06cc\u0646\u0647\u0647\u0627\u06cc \u0639\u0638\u06cc\u0645 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc\u060c \u0633\u0648\u062f\u0622\u0648\u0631 \u0628\u0627\u0634\u0646\u062f.\n\n\ud83d\udcaa \u0627\u06cc\u0646 \u0633\u06cc\u06af\u0646\u0627\u0644 \u0628\u0632\u0631\u06af\u06cc \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0628\u0631\u0627\u06cc AGI \u062f\u0631 \u062d\u0627\u0644 \u0633\u0648\u0632\u0627\u0646\u062f\u0646 \u067e\u0648\u0644 \u0646\u0642\u062f \u0627\u0633\u062a. \ud83d\udcca \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u0631\u0648\u062f \u0631\u0642\u0628\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f OpenAI \u0641\u0634\u0627\u0631 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647\u0627\u06cc \u0628\u0631\u0627\u06cc \u0646\u0634\u0627\u0646 \u062f\u0627\u062f\u0646 \u0627\u0646\u0636\u0628\u0627\u0637 \u0645\u0627\u0644\u06cc \u0645\u0634\u0627\u0628\u0647 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f.",
-      "post_title": "\ud83d\udcb0 Anthropic posts first profitable quarter with $115B revenue",
-      "post_title_fa": "\ud83d\udcb0 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0628\u0627 \u062f\u0631\u0622\u0645\u062f \u06f1\u06f1\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0627\u0648\u0644\u06cc\u0646 \u0633\u0647\u0645\u0627\u0647\u0647 \u0633\u0648\u062f\u0622\u0648\u0631 \u0631\u0627 \u062b\u0628\u062a \u06a9\u0631\u062f",
-      "priority": "high",
-      "published": "2026-08-19T12:11:58+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/\">https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360469\">https://news.ycombinator.com/item?id=49360469</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/"
-    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -84825,18 +84840,18 @@
     {
       "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\u26a1 GLM-5.3, the latest model from Zhipu AI, is now available on Artificial Analysis, the popular model comparison platform. The release has sparked debate over its intelligence-to-cost ratio, with one Reddit user creating an alternative chart to challenge the official one. Early data suggests it delivers competitive performance at a lower price point.\n\n\ud83d\udcca That could shake up the open-weight model market. \ud83d\udd25 Expect more updates as the community runs its own benchmarks.",
-      "post_body_fa": "\u26a1 \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u0634\u0631\u06a9\u062a Zhipu AI \u0628\u0627 \u0646\u0627\u0645 GLM-5.3 \u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 \u067e\u0644\u062a\u0641\u0631\u0645 \u0645\u0642\u0627\u06cc\u0633\u0647 \u0645\u062f\u0644 \u0645\u062d\u0628\u0648\u0628 Artificial Analysis \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u062d\u062b\u200c\u0647\u0627\u06cc\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0646\u0633\u0628\u062a \u0647\u0648\u0634 \u0628\u0647 \u0647\u0632\u06cc\u0646\u0647 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0631\u062f\u0647 \u0648 \u06cc\u06a9 \u06a9\u0627\u0631\u0628\u0631 \u0631\u062f\u06cc\u062a \u0646\u0645\u0648\u062f\u0627\u0631 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0628\u0631\u0627\u06cc \u0628\u0647 \u0686\u0627\u0644\u0634 \u06a9\u0634\u06cc\u062f\u0646 \u0646\u0645\u0648\u062f\u0627\u0631 \u0631\u0633\u0645\u06cc \u0633\u0627\u062e\u062a\u0647 \u0627\u0633\u062a. \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0639\u0645\u0644\u06a9\u0631\u062f \u0631\u0642\u0627\u0628\u062a\u06cc \u0628\u0627 \u0642\u06cc\u0645\u062a \u067e\u0627\u06cc\u06cc\u0646\u200c\u062a\u0631 \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\n\ud83d\udcca \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0632\u0627\u0631 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0627 \u062a\u062d\u062a \u062a\u0623\u062b\u06cc\u0631 \u0642\u0631\u0627\u0631 \u062f\u0647\u062f. \ud83d\udd25 \u0627\u0646\u062a\u0638\u0627\u0631 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631 \u062d\u06cc\u0646 \u0627\u062c\u0631\u0627\u06cc \u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627\u06cc \u0645\u0633\u062a\u0642\u0644 \u062a\u0648\u0633\u0637 \u0627\u0646\u062c\u0645\u0646 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f.",
-      "post_title": "\ud83d\ude80 GLM-5.3 debuts on Artificial Analysis with new price-performance",
-      "post_title_fa": "\ud83d\ude80 GLM-5.3 \u062f\u0631 Artificial Analysis \u0628\u0627 \u0642\u06cc\u0645\u062a-\u0639\u0645\u0644\u06a9\u0631\u062f \u062c\u062f\u06cc\u062f \u0639\u0631\u0636\u0647 \u0634\u062f",
+      "post_body": "\u26a1 Ornith AI has released three new 1.5-generation models: 9B, 35B-A3B (a MoE), and a massive 397B variant. All three are available on Hugging Face with GGUF quantizations for local use. The 35B-A3B is positioned as a Q3.8-class competitor that runs on modest hardware.\n\n\ud83c\udf0d The release gives the open-weights community more choice in size/quality tradeoffs. If you've been looking for a local model in that range, these are worth benchmarking.",
+      "post_body_fa": "\u26a1 \u0634\u0631\u06a9\u062a Ornith AI \u0633\u0647 \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u0646\u0633\u0644 \u06f1.\u06f5 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a: 9B\u060c 35B-A3B (\u06cc\u06a9 \u0645\u062f\u0644 MoE) \u0648 \u0646\u0633\u062e\u0647 \u0639\u0638\u06cc\u0645 397B. \u0647\u0631 \u0633\u0647 \u0645\u062f\u0644 \u0631\u0648\u06cc Hugging Face \u0628\u0627 \u06a9\u0648\u0627\u0646\u062a\u06cc\u0632\u0627\u0633\u06cc\u0648\u0646 GGUF \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u062d\u0644\u06cc \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0647\u0633\u062a\u0646\u062f. \u0646\u0633\u062e\u0647 35B-A3B \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0631\u0642\u06cc\u0628\u06cc \u062f\u0631 \u06a9\u0644\u0627\u0633 Q3.8 \u0645\u0639\u0631\u0641\u06cc \u0634\u062f\u0647 \u06a9\u0647 \u0631\u0648\u06cc \u0633\u062e\u062a\u200c\u0627\u0641\u0632\u0627\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u0634\u0648\u062f.\n\n\ud83c\udf0d \u0627\u06cc\u0646 \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0646\u062a\u062e\u0627\u0628 \u0628\u06cc\u0634\u062a\u0631\u06cc \u0627\u0632 \u0646\u0638\u0631 \u062a\u0639\u0627\u062f\u0644 \u0628\u06cc\u0646 \u0627\u0646\u062f\u0627\u0632\u0647 \u0648 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0647 \u062c\u0627\u0645\u0639\u0647 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06af\u0631 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u06cc\u06a9 \u0645\u062f\u0644 \u0645\u062d\u0644\u06cc \u062f\u0631 \u0627\u06cc\u0646 \u0631\u0646\u062c \u0628\u0648\u062f\u06cc\u062f\u060c \u0627\u06cc\u0646 \u0645\u062f\u0644\u200c\u0647\u0627 \u0627\u0631\u0632\u0634 \u0628\u0646\u0686\u0645\u0627\u0631\u06a9 \u06a9\u0631\u062f\u0646 \u062f\u0627\u0631\u0646\u062f.",
+      "post_title": "\ud83d\ude80 Ornith AI releases three new 1.5 models up to 397B",
+      "post_title_fa": "\ud83d\ude80 Ornith AI \u0633\u0647 \u0645\u062f\u0644 \u062c\u062f\u06cc\u062f \u06f1.\u06f5 \u062a\u0627 \u06f3\u06f9\u06f7B \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f",
       "priority": "medium",
-      "published": "2026-08-19T12:01:30+00:00",
+      "published": "2026-08-19T13:53:01+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vskfzh/glm53_is_out_on_aa_and_im_fed_up_with_their/\"> <img alt=\"GLM-5.3 is out on AA, and I'm fed up with their Intelligence/cost plot\" src=\"https://preview.redd.it/rqr6sfnslbkh1.png?width=140&amp;height=53&amp;auto=webp&amp;s=25cdfc27c99fa4d103d82f291549cb6f41d3b268\" title=\"GLM-5.3 is out on AA, and I'm fed up with their Intelligence/cost plot\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I think AA's intelligence/cost plot is seriously misleading, so I decided to make my own. Their plot is in the second image.</p> <p>All points are at max thinking. All intelligence index scores are from AA. All cost scores are from AA too except where noted below.</p> <p>What changes between AA's plot and mine:</p> <ul> <li>Changed X scale from logarithmic to linear, because people's money is not logarithmic</li> <li>Added DeepSeek V4 Flash 0731 as it is priced today by third party providers on OpenRouter (note: you don't get this today with OpenCode Go/Zen, but it's been promised you will soon).</li> <li>Added GLM-5.3 as it will be priced by third party providers on OpenRouter in &lt;2 weeks, assuming no license changes from 5.2. Note: you don't get this on OpenCode Go/Zen.</li> <li>Added Qwen3.8-27B. Cost per task was crudely calculated from <ul> <li>47,166 output tok/task (AA)</li> <li>tg 55 tok/s @ 350W, as crudely observed on my RTX3090 (IQ4_XS shows negligible quality loss - dedicated post coming soon)</li> <li>today's US median residential electricity price</li> <li>today's UK median residential electricity price + today's GBP/USD fx</li> <li>+15% (finger-in-the-air) for prefill and waiting for tools</li> <li>Hardware priced at 0, on the basis that both a RTX 3090 PC and a 64GB Strix Halo are desirable gaming/work machines anyways.</li> <li>These maths are meant to produce a rough back-of-the-envelope figure and should not be taken authoritatively were you to zoom into the bottom-left corner of the chart. They don't want to answer how much cheaper it is to run Qwen at home vs. DSv4 on OpenRouter, because they are both so cheap that the difference is inconsequential for most of the population.</li> </ul></li> </ul> <p>Note: not including the cost of hardware stops being defensible once you upgrade to a 128GB Strix Halo (almost nobody needs that much RAM if not for AI). This is why I did not add self-hosted DeepSeek IQ2_XXS to the chart; it would likely also sit lower on the intelligence axis than the MXFP4 native model. Same argument for a ~$16k rig needed to run GLM-5.3 IQ4 locally. I'm not saying they're not worth the expense (privacy is priceless), just that pegging them on the plot is a much more nuanced exercise.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/crusaderky\"> /u/crusaderky </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vskfzh\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vskfzh/glm53_is_out_on_aa_and_im_fed_up_with_their/\">[comments]</a></span> </td></tr></table>",
-      "title": "GLM-5.3 is out on AA, and I'm fed up with their Intelligence/cost plot",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vskfzh/glm53_is_out_on_aa_and_im_fed_up_with_their/"
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone tried them yet?</p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-9B\">https://huggingface.co/ornith-ai/Ornith-1.5-9B</a></p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B\">https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B</a></p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-397B\">https://huggingface.co/ornith-ai/Ornith-1.5-397B</a></p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF\">https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF</a></p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF\">https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF</a></p> <p><a href=\"https://huggingface.co/ornith-ai/Ornith-1.5-397B-GGUF\">https://huggingface.co/ornith-ai/Ornith-1.5-397B-GGUF</a></p> <p>Disclaimer: Not affiliated with ornith. I just surf huggingface for new models every 30m or so. I'm addicted.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AppealSame4367\"> /u/AppealSame4367 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/\">[comments]</a></span>",
+      "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -88120,6 +88135,14 @@
     "source": "Hacker News Frontpage",
     "title": "Calling all open source maintainers working with Ruby",
     "title_norm": "calling all open source maintainers working with ruby"
+  },
+  "a6291b992fa380b998c7fbbda0374bfbcdb255a5cb4e185ab0049af628c6c1de": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339364+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "title_norm": "moderna reports first positive phase 3 for mrna neoantigen therapy in melanoma"
   },
   "a6307c8fa261dcdea211271bba6b87b502742bdfa865116220dbc32de21e6744": {
     "category": "research",
@@ -118923,6 +118946,14 @@
     "title": "Show HN: CostPerPrompt \u2013 Live AI API pricing and real-workload cost calculators",
     "title_norm": "show hn costperprompt live ai api pricing and realworkload cost calculators"
   },
+  "e102b8530475e5e7cdafb13da7b08ccc185f60a04ddb564bd1a6b2c370c27bb4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339415+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Finally found a really solid suno-like minimax music UI!!",
+    "title_norm": "finally found a really solid sunolike minimax music ui"
+  },
   "e105479382866bbd65c297683b7aadd4bd9a248e5e08d5aa4a841d22bea1ed13": {
     "category": "other",
     "posted": false,
@@ -121112,6 +121143,14 @@
     "source": "arXiv cs.AI",
     "title": "Local AI pre-screening for human triple-blind peer review in health sciences",
     "title_norm": "local ai prescreening for human tripleblind peer review in health sciences"
+  },
+  "e540fe50eedff49e150d86bf5c277d7d70ecd5b0b244e1f4c5143af02d612994": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339382+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "PostgreSQL for Everything",
+    "title_norm": "postgresql for everything"
   },
   "e5423d8e59ca27d97dbf5a0027b7b161bdb138d6c0e7c1dc42dcf71f8993baa8": {
     "category": "research",
@@ -129326,6 +129365,14 @@
     "source": "arXiv cs.AI",
     "title": "MELLA: Bridging Linguistic Capability and Cultural Groundedness for Low-Resource Language MLLMs",
     "title_norm": "mella bridging linguistic capability and cultural groundedness for lowresource language mllms"
+  },
+  "f56fb1ee13437f3d1c1d8f00ac5022fe0f8999facb1f47e0532e714861148c87": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-19T14:03:28.339281+00:00",
+    "source": "Hugging Face Blog",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "title_norm": "lfm25 q4_0 checkpoints from quantizationaware distillation"
   },
   "f5784d402e9e1066ed57fcb09b05033ae01c9e523c8495a3e1db5f6e047455ff": {
     "category": "research",
