@@ -5367,6 +5367,14 @@
     "title": "A game theory for foundation models shows new paths to rational cooperation through similarity inference",
     "title_norm": "a game theory for foundation models shows new paths to rational cooperation through similarity inference"
   },
+  "0a2e5582eff4a276ca2ad9dc0e522b95116966dd8b0cd11f498552944084ad8b": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-19T09:41:57.480975+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A multi-tenant SaaS built in a 92-hour AI-augmented engineering sprint",
+    "title_norm": "a multitenant saas built in a 92hour aiaugmented engineering sprint"
+  },
   "0a2f1a52fd84aaf32285e3c4b09052a9935324698a057af7f215d0e2e3fec4d1": {
     "category": "research",
     "posted": false,
@@ -36685,6 +36693,14 @@
     "title": "Anyone running DeepSeek-V4-Flash-0731 on MI325X with vLLM? Mine is behaving completely broken",
     "title_norm": "anyone running deepseekv4flash0731 on mi325x with vllm mine is behaving completely broken"
   },
+  "4509debec9cbce134d08b6a3f1936f45000a8c2af6ad72f90b44f065263a0a88": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-19T09:41:57.480952+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Pander Score: How much do AI models mirror what users believe?",
+    "title_norm": "pander score how much do ai models mirror what users believe"
+  },
   "450a5baaa457f3970f8b1bbb947469198190191a0274a8156f3ffa4fe2932fdb": {
     "category": "other",
     "posted": false,
@@ -55937,6 +55953,14 @@
     "title": "WWDC 24: Running Mistral 7B with Core ML",
     "title_norm": "wwdc 24 running mistral 7b with core ml"
   },
+  "69297276a7159efce893d6f3425e0cc037ef686d35352342f13499a145649fbd": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-19T09:41:57.480819+00:00",
+    "source": "Wired AI",
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "title_norm": "flock has a powerful new ai tool for police we got its code"
+  },
   "69372bae18bd34419df386ce7b3c8aa734a357f90361d5698b60589f9d3633af": {
     "category": "other",
     "posted": false,
@@ -57470,6 +57494,14 @@
     "source": "Hacker News Frontpage",
     "title": "Why some people mow a lawn better than others",
     "title_norm": "why some people mow a lawn better than others"
+  },
+  "6bf37415a741170d8960a10f8b25fa908be80714c1f667b286fed91bca4afa8d": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-19T09:41:57.480994+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "title_norm": "251107885 intelligence per watt measuring intelligence efficiency of local ai"
   },
   "6c01b78cd50369cfa213128bba892cfbdfe21e07d47453cae3420ff243698bf3": {
     "category": "research",
@@ -84417,6 +84449,22 @@
     "last_slot": "2026-08-19-10"
   },
   "_queue": [
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udd0d WIRED obtained and reconstructed Flock's next-generation AI system, which is already being used by some police departments. The new tool goes far beyond tracking license plates, adding powerful surveillance capabilities that have sparked fresh outrage. Flock's cameras are already installed in thousands of communities across the US, so this update could impact millions of people.\n\n\u2696\ufe0f The investigation shows AI-driven policing is racing ahead of public oversight and legal frameworks. This matters because it gives law enforcement unprecedented power to monitor citizens, and clear rules for its use are still missing. \ud83d\udd25 Expect more scrutiny on Flock and similar surveillance tech.",
+      "post_body_fa": "\ud83d\udd0d \u0648\u0627\u06cc\u0631\u062f \u06a9\u062f \u0633\u06cc\u0633\u062a\u0645 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0646\u0633\u0644 \u062c\u062f\u06cc\u062f Flock \u0631\u0627 \u0628\u0647 \u062f\u0633\u062a \u0622\u0648\u0631\u062f\u0647 \u0648 \u0628\u0627\u0632\u0633\u0627\u0632\u06cc \u06a9\u0631\u062f\u0647\u061b \u0633\u06cc\u0633\u062a\u0645\u06cc \u06a9\u0647 \u062d\u0627\u0644\u0627 \u0628\u0631\u062e\u06cc \u0627\u0632 \u067e\u0644\u06cc\u0633\u200c\u0647\u0627 \u0627\u0632 \u0622\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f \u062e\u06cc\u0644\u06cc \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0631\u062f\u06cc\u0627\u0628\u06cc \u067e\u0644\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u0647\u0627 \u0645\u06cc\u200c\u0631\u0648\u062f \u0648 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0646\u0638\u0627\u0631\u062a\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f\u06cc \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f\u0647 \u06a9\u0647 \u062a\u0627\u0632\u0647\u200c\u062a\u0631\u06cc\u0646 \u0645\u0648\u062c \u0627\u0639\u062a\u0631\u0627\u0636\u200c\u0647\u0627 \u0631\u0627 \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a\u0647 \u0627\u0633\u062a. \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc Flock \u062f\u0631 \u0647\u0632\u0627\u0631\u0627\u0646 \u0634\u0647\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0646\u0635\u0628 \u0634\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u067e\u0633 \u0627\u06cc\u0646 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0632\u0646\u062f\u06af\u06cc \u0645\u06cc\u0644\u06cc\u0648\u0646\u200c\u0647\u0627 \u0646\u0641\u0631 \u0631\u0627 \u062a\u062d\u062a \u062a\u0623\u062b\u06cc\u0631 \u0642\u0631\u0627\u0631 \u062f\u0647\u062f.\n\n\u2696\ufe0f \u0627\u06cc\u0646 \u062a\u062d\u0642\u06cc\u0642 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u067e\u0644\u06cc\u0633\u0650 \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0633\u0631\u0639\u062a\u06cc \u0628\u06cc\u0634\u062a\u0631 \u0627\u0632 \u0646\u0638\u0627\u0631\u062a \u0639\u0645\u0648\u0645\u06cc \u0648 \u0686\u0627\u0631\u0686\u0648\u0628\u200c\u0647\u0627\u06cc \u0642\u0627\u0646\u0648\u0646\u06cc \u067e\u06cc\u0634 \u0645\u06cc\u200c\u0631\u0648\u062f. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0645\u0647\u0645 \u0627\u0633\u062a \u0686\u0648\u0646 \u0628\u0647 \u0645\u062c\u0631\u06cc \u0642\u0627\u0646\u0648\u0646 \u0642\u062f\u0631\u062a\u06cc \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u0628\u0631\u0627\u06cc \u0646\u0638\u0627\u0631\u062a \u0628\u0631 \u0634\u0647\u0631\u0648\u0646\u062f\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f\u060c \u062f\u0631 \u062d\u0627\u0644\u06cc \u06a9\u0647 \u0647\u0646\u0648\u0632 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0631\u0648\u0634\u0646\u06cc \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0622\u0646 \u0646\u062f\u0627\u0631\u06cc\u0645. \ud83d\udd25 \u0628\u0627\u06cc\u062f \u0645\u0646\u062a\u0638\u0631 \u0628\u0631\u0631\u0633\u06cc\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 Flock \u0648 \u0641\u0646\u0627\u0648\u0631\u06cc\u200c\u0647\u0627\u06cc \u0645\u0634\u0627\u0628\u0647 \u0628\u0627\u0634\u06cc\u0645.",
+      "post_title": "\u2696\ufe0f Flock's New AI for Police Goes Far Beyond License Plates",
+      "post_title_fa": "\u2696\ufe0f \u0627\u0628\u0632\u0627\u0631 \u062c\u062f\u06cc\u062f Flock \u0628\u0631\u0627\u06cc \u067e\u0644\u06cc\u0633 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u067e\u0644\u0627\u06a9 \u062e\u0648\u062f\u0631\u0648\u0647\u0627",
+      "priority": "high",
+      "published": "2026-08-19T09:00:00+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Wired AI",
+      "summary": "Flock\u2019s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/"
+    },
     {
       "category": "model_release",
       "duplicate_of": null,
@@ -120035,6 +120083,14 @@
     "source": "Hacker News AI keyword",
     "title": "The Vertical AI Bubble: We Keep Forgetting That LLMs Roll Dice",
     "title_norm": "the vertical ai bubble we keep forgetting that llms roll dice"
+  },
+  "e3f35877cc05a77a4cd046fb6989f8f370f2d05c708733389df7f5d44fdba002": {
+    "category": null,
+    "posted": false,
+    "seen_at": "2026-08-19T09:41:57.481014+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Why no \"high\" reasoning effort in Qwen 3.8 27b ?",
+    "title_norm": "why no high reasoning effort in qwen 38 27b"
   },
   "e3f6c39df17e7317b15640713e682031210ba15330918526a44f573c04a0cd9d": {
     "category": "infrastructure",
