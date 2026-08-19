@@ -1221,6 +1221,14 @@
     "title": "Anthropic commits $10 million to Canadian AI research",
     "title_norm": "anthropic commits 10 million to canadian ai research"
   },
+  "0222cd4ac51241dd58bb7a9be0fca9982cf91e92f7192ba97835080805967431": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593731+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Are cards like the p40 or mi50 still worth it?",
+    "title_norm": "are cards like the p40 or mi50 still worth it"
+  },
   "02236db0c9d48ecb6629b6c57c0870378f5f0c030ddd879d16c072b31ff03926": {
     "category": "research",
     "posted": false,
@@ -2226,6 +2234,14 @@
     "source": "arXiv cs.AI",
     "title": "When the Judge Should Not Decide: Evidence-Locked, Non-Compensatory Selection Bounds LLM-Judge Failure in Reasoning Pipelines",
     "title_norm": "when the judge should not decide evidencelocked noncompensatory selection bounds llmjudge failure in reasoning pipelines"
+  },
+  "03f75742a47a7eb1ba76a66fd4c0609aea636a4cb9ac6a844fdeec235848f4ec": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593706+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+    "title_norm": "stop anthropomorphisizing intermediate tokens qwen38 doesnt overthink"
   },
   "03f9bae66273deb12f3e74a6741d976067d392cdcac48b9c6ca2fa6f32eca0f6": {
     "category": "other",
@@ -6172,6 +6188,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI Is Superhuman Wherever the Scoreboard Is Cheap",
     "title_norm": "ai is superhuman wherever the scoreboard is cheap"
+  },
+  "0be01a536558fc9129f5a2b26bc3f0ba1a8c2e7f0e53adf41f4a1ae4779063ac": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593587+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+    "title_norm": "common mistakes ive seen that aigenerated apps keep making"
   },
   "0be51744a6aa57797e6d62f47bf193bfbfcaf40b6b74fa68ce2c150582338bed": {
     "category": "other",
@@ -21766,6 +21790,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Mirrors \u2013 Improve AI agents with staging environments",
     "title_norm": "show hn mirrors improve ai agents with staging environments"
+  },
+  "28b161cac00879a38128de1b4071f85b43ca15ea1a80f823cdfe401f3ba3df4f": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593662+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
+    "title_norm": "chinese banks start lending based on ai computingpower usage"
   },
   "28b97314d9e76e26f8c2569ac68de972506cc307f6aa88ead53900ec5bfa1e61": {
     "category": null,
@@ -37920,6 +37952,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI-first development: Stories as a source of truth - by toby [video]",
     "title_norm": "aifirst development stories as a source of truth by toby video"
+  },
+  "479f812179257034d60621d11195ac2f19e330e31440e5875eaf5095d0fb8b9e": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593692+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+    "title_norm": "show hn knownbase an mcp server for persistent ai agent memory"
   },
   "47a192ed60b029382dd6281cc49e489954be82cb5490f94f44118eb21736bf78": {
     "category": "integration",
@@ -84641,6 +84681,22 @@
       "url": "https://openai.com/index/openai-joins-ports-pike-project"
     },
     {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83c\udfe6 Chinese banks have started using AI computing-power usage as a basis for lending decisions, a first-of-its-kind move in the financial sector. Under the program, companies can reportedly use their active compute capacity as collateral to secure loans.\n\nThe policy gives AI-focused startups a new route to credit \ud83d\udcb0 while incentivizing them to scale up their GPU infrastructure \ud83c\udfd7\ufe0f. It also underscores how deeply AI compute is woven into China's economic strategy \ud83c\udf0d, and could inspire similar experiments elsewhere.",
+      "post_body_fa": "\ud83c\udfe6 \u0628\u0627\u0646\u06a9\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u0634\u0631\u0648\u0639 \u0628\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u06cc\u0632\u0627\u0646 \u0645\u0635\u0631\u0641 \u062a\u0648\u0627\u0646 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0645\u0628\u0646\u0627\u06cc \u062a\u0635\u0645\u06cc\u0645\u0627\u062a \u0648\u0627\u0645\u200c\u062f\u0647\u06cc \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f\u061b \u062d\u0631\u06a9\u062a\u06cc \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647 \u062f\u0631 \u0628\u062e\u0634 \u0645\u0627\u0644\u06cc. \u0637\u0628\u0642 \u0627\u06cc\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u060c \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0632 \u0638\u0631\u0641\u06cc\u062a \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0641\u0639\u0627\u0644 \u062e\u0648\u062f \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0648\u062b\u06cc\u0642\u0647 \u0628\u0631\u0627\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u0648\u0627\u0645 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0633\u06cc\u0627\u0633\u062a \u0628\u0647 \u0627\u0633\u062a\u0627\u0631\u062a\u0627\u067e\u200c\u0647\u0627\u06cc \u062d\u0648\u0632\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u0633\u06cc\u0631 \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u0627\u0639\u062a\u0628\u0627\u0631 \ud83d\udcb0 \u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u062a\u0648\u0633\u0639\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc GPU \u062a\u0631\u063a\u06cc\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83c\udfd7\ufe0f. \u0627\u06cc\u0646 \u0645\u0648\u0636\u0648\u0639 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0645\u062d\u0627\u0633\u0628\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u0642\u062f\u0631 \u0639\u0645\u06cc\u0642 \u062f\u0631 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc \u0627\u0642\u062a\u0635\u0627\u062f\u06cc \u0686\u06cc\u0646 \u0631\u06cc\u0634\u0647 \u062f\u0648\u0627\u0646\u062f\u0647 \ud83c\udf0d \u0648 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0627\u0644\u0647\u0627\u0645\u200c\u0628\u062e\u0634 \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627\u06cc \u0645\u0634\u0627\u0628\u0647 \u062f\u0631 \u062c\u0627\u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0628\u0627\u0634\u062f.",
+      "post_title": "\ud83d\udcb0 Chinese Banks Now Lend Based on AI Computing-Power Usage",
+      "post_title_fa": "\ud83d\udcb0 \u0628\u0627\u0646\u06a9\u200c\u0647\u0627\u06cc \u0686\u06cc\u0646\u06cc \u0627\u06a9\u0646\u0648\u0646 \u0628\u0631 \u0627\u0633\u0627\u0633 \u0645\u0635\u0631\u0641 \u062a\u0648\u0627\u0646 \u0645\u062d\u0627\u0633\u0628\u0627\u062a\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648\u0627\u0645 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f",
+      "priority": "medium",
+      "published": "2026-08-19T10:51:26+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.globaltimes.cn/page/202608/1368315.shtml\">https://www.globaltimes.cn/page/202608/1368315.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359750\">https://news.ycombinator.com/item?id=49359750</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
+      "url": "https://www.globaltimes.cn/page/202608/1368315.shtml"
+    },
+    {
       "category": "infrastructure",
       "duplicate_of": null,
       "post_body": "\ud83c\udfd7\ufe0f Relativity Networks has raised $22 million to commercialize hollow-core fiber, a technology that lets data travel about 30% faster than conventional fiber. The funding round will go toward deploying the cable in data centers, where every microsecond of latency matters for AI workloads. \ud83d\udd25 The startup claims its fiber could become the backbone of next-gen AI infrastructure, easing bottlenecks as models grow hungrier for data.\n\nFaster fiber means lower latency between GPUs and storage, which can directly translate into cheaper, speedier model training and inference. \u26a1 If the tech scales, hyperscalers could see significant performance gains without replacing entire systems. For anyone running or using AI, this is a step toward making data centers faster and more efficient. \ud83c\udf0d",
@@ -84655,22 +84711,6 @@
       "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
-    },
-    {
-      "category": "integration",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde9 A new open-source project called SIL (Semantic Interface Layer) aims to make it easier for AI agents to interact with web applications by providing a semantic layer that translates between natural language and app interfaces.\n\nThe project, hosted on GitHub under ais-space/sil, lets developers define a semantic model of their app's capabilities, which agents can query and act upon. This could let AI agents automate complex workflows without brittle, site-specific scripts. The project is early-stage, so expect rough edges, but the approach is worth watching for agentic automation. \ud83c\udf31",
-      "post_body_fa": "\ud83e\udde9 \u06cc\u06a9 \u067e\u0631\u0648\u0698\u0647 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u062f\u06cc\u062f \u0628\u0647 \u0646\u0627\u0645 SIL (\u0644\u0627\u06cc\u0647 \u0631\u0627\u0628\u0637 \u0645\u0639\u0646\u0627\u06cc\u06cc) \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u062a\u0639\u0627\u0645\u0644 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0648\u0628 \u0631\u0627 \u0622\u0633\u0627\u0646\u200c\u062a\u0631 \u06a9\u0646\u062f\u061b \u0627\u06cc\u0646 \u0644\u0627\u06cc\u0647\u060c \u0632\u0628\u0627\u0646 \u0637\u0628\u06cc\u0639\u06cc \u0631\u0627 \u0628\u0647 \u0631\u0627\u0628\u0637\u200c\u0647\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u0648\u0635\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u06a9\u0647 \u062f\u0631 \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u0628\u0647 \u0622\u062f\u0631\u0633 ais-space/sil \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0628\u0647 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u062f\u0644 \u0645\u0639\u0646\u0627\u06cc\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u062e\u0648\u062f \u062a\u0639\u0631\u06cc\u0641 \u06a9\u0646\u0646\u062f \u062a\u0627 \u0627\u06cc\u062c\u0646\u062a\u200c\u0647\u0627 \u0628\u062a\u0648\u0627\u0646\u0646\u062f \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u062c\u0633\u062a\u062c\u0648 \u0648 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0631\u0648\u06cc\u06a9\u0631\u062f \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0627\u06cc\u062c\u0646\u062a\u200c\u0647\u0627 \u0627\u062c\u0627\u0632\u0647 \u062f\u0647\u062f \u06af\u0631\u062f\u0634\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u06cc \u067e\u06cc\u0686\u06cc\u062f\u0647\u200c\u062a\u0631\u06cc \u0631\u0627 \u0628\u062f\u0648\u0646 \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a\u200c\u0647\u0627\u06cc \u0634\u06a9\u0646\u0646\u062f\u0647 \u0648 \u062e\u0627\u0635 \u0647\u0631 \u0633\u0627\u06cc\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0647\u0646\u0648\u0632 \u062f\u0631 \u0645\u0631\u0627\u062d\u0644 \u0627\u0648\u0644\u06cc\u0647 \u0627\u0633\u062a\u060c \u067e\u0633 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0634\u06a9\u0644\u0627\u062a \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0631\u0648\u0634 \u0628\u0631\u0627\u06cc \u0627\u062a\u0648\u0645\u0627\u0633\u06cc\u0648\u0646 \u0639\u0627\u0645\u0644\u200c\u0645\u062d\u0648\u0631 \u0627\u0631\u0632\u0634 \u062f\u0646\u0628\u0627\u0644 \u06a9\u0631\u062f\u0646 \u062f\u0627\u0631\u062f. \ud83c\udf31",
-      "post_title": "\ud83e\udd1d SIL: A semantic interface layer for web apps and AI agents",
-      "post_title_fa": "\ud83e\udd1d SIL: \u0644\u0627\u06cc\u0647 \u0631\u0627\u0628\u0637 \u0645\u0639\u0646\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0648\u0628 \u0648 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
-      "priority": "low",
-      "published": "2026-08-19T10:17:25+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ais-space/sil\">https://github.com/ais-space/sil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359448\">https://news.ycombinator.com/item?id=49359448</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-      "title": "SIL: A semantic interface layer for web applications and AI agents",
-      "url": "https://github.com/ais-space/sil"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -102203,6 +102243,14 @@
     "title": "Show HN: I made some transistor animations",
     "title_norm": "show hn i made some transistor animations"
   },
+  "c075c8f0cc4d5a804cea2999f6a3efd0ef837e9fb2236c1ecf831dc09a955dab": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593719+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+    "title_norm": "am i doing something wrong qwen 38 27b seems useless for agentic coding"
+  },
   "c07a4211b71d03be627cb86e20385649f44740922ee910b9fe55066d56b7ed84": {
     "category": "other",
     "posted": false,
@@ -105200,6 +105248,14 @@
     "source": "Hacker News AI keyword",
     "title": "A research exchange where AI agents attack open problems, scored on Bitcoin",
     "title_norm": "a research exchange where ai agents attack open problems scored on bitcoin"
+  },
+  "c62e10c10310cb73a86cf56a7cdbda7d7af3327ef2dc15fc483fa89b0b06a3bb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T11:33:36.593678+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
+    "title_norm": "confidential ai let ai work for you without handing over your privacy"
   },
   "c62e73da21bf71aff9eb036b4614cd85fbabbf309864630df356606d276675f4": {
     "category": "research",
