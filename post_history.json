@@ -8999,6 +8999,14 @@
     "title": "Structural Preservation Governs Data Augmentation in Deep Learning-Based Laser Speckle Material Classification",
     "title_norm": "structural preservation governs data augmentation in deep learningbased laser speckle material classification"
   },
+  "10af8132f4848c92901e790958e8376d6e372c99a9eb9dea9db280f948554591": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T18:02:13.924684+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Blood Boy for All \u2013 Young blood is a human right",
+    "title_norm": "blood boy for all young blood is a human right"
+  },
   "10afba68ec35fe99d19be2e39fcca7fc0910e68c94406338846fb91aed9c45a8": {
     "category": "research",
     "posted": false,
@@ -24257,7 +24265,13 @@
   },
   "2ce4652f94ebb1bfb788cf2a40f8df261dfb5cf2f0cd177ae03190dff04d2ba3": {
     "category": "model_release",
-    "posted": false,
+    "message_id": 240,
+    "message_id_fa": 214,
+    "post_title": "\ud83d\ude80 Ornith-1.5: open-source LLMs rival Claude Opus 4.8",
+    "post_title_fa": "\ud83d\ude80 \u0627\u0648\u0631\u0646\u06cc\u062a-\u06f1.\u06f5: \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0642\u06cc\u0628 Claude Opus 4.8",
+    "posted": true,
+    "posted_at": "2026-08-19T18:02:15.064603+00:00",
+    "priority": "high",
     "seen_at": "2026-08-19T15:39:39.603542+00:00",
     "source": "Reddit r/LocalLLaMA",
     "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
@@ -35900,6 +35914,14 @@
     "source": "arXiv cs.AI",
     "title": "Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models",
     "title_norm": "prompt design at scale how format instruction count and context length shape instruction adherence and hallucination in large language models"
+  },
+  "42ce4c1f6b027e4979245adba1fc4788edc7cbef2b2512a6e36918f88e68b386": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T18:02:13.924716+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B vs Gemini 3.7 Flash (High) for real coding: open-source 27B model did a much better job",
+    "title_norm": "qwen 38 27b vs gemini 37 flash high for real coding opensource 27b model did a much better job"
   },
   "42d947529fca2091a8744d407ef50ded08dbcbfdc0d8a93c46b7dc46d1a2ae2c": {
     "category": "courses",
@@ -79009,6 +79031,14 @@
     "title": "TrueStar \u2013 AI moderated expert interviews and multi-agent deep research",
     "title_norm": "truestar ai moderated expert interviews and multiagent deep research"
   },
+  "9465e018079ed67bb6bfc4c4effd06c4fb261fd253268ea63c64cb0ce3ef16ef": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T18:02:13.924609+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Frugal Tokens \u2013 explore costs and usage across coding agents",
+    "title_norm": "show hn frugal tokens explore costs and usage across coding agents"
+  },
   "94676d99b2defaa4557b8cf6774279ebb33ec91b4fb76e5e43c7599d9a722081": {
     "category": "other",
     "posted": false,
@@ -84985,34 +85015,18 @@
   },
   "_meta": {
     "date": "2026-08-19",
-    "posts_today": 6,
+    "posts_today": 7,
     "posts_today_by_category": {
       "infrastructure": 2,
-      "model_release": 1,
+      "model_release": 2,
       "other": 1,
       "policy": 2
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-19-18"
+    "last_slot": "2026-08-19-20"
   },
   "_queue": [
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udde0 A new open-source family called Ornith-1.5 has arrived, packing 9B dense, 35B MoE, and 397B MoE models fine-tuned with self-improving strategies. The flagship 397B MoE posts big numbers: 86.1 on Terminal-Bench 2.1 and 86 on SWE-Bench Verified, reportedly matching or beating many closed rivals. Developers claim it's comparable to Claude Opus 4.8 across reasoning, agentic, and coding workloads. If independent tests confirm this, it's a huge win for open-weight AI, offering near-frontier performance without API fees. \ud83d\udd25 The models are already available, and the community is starting to stress-test them.",
-      "post_body_fa": "\ud83e\udde0 \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0647 \u0646\u0627\u0645 Ornith-1.5 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u06a9\u0647 \u0634\u0627\u0645\u0644 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc 9B \u0645\u062a\u0631\u0627\u06a9\u0645\u060c 35B MoE \u0648 397B MoE \u0627\u0633\u062a \u06a9\u0647 \u0628\u0627 \u0627\u0633\u062a\u0631\u0627\u062a\u0698\u06cc\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u0628\u0647\u0628\u0648\u062f \u0622\u0645\u0648\u0632\u0634 \u062f\u06cc\u062f\u0647\u200c\u0627\u0646\u062f. \u0645\u062f\u0644 \u067e\u0631\u0686\u0645\u062f\u0627\u0631 397B MoE \u0627\u0639\u062f\u0627\u062f \u0628\u0632\u0631\u06af\u06cc \u0631\u0627 \u062b\u0628\u062a \u06a9\u0631\u062f\u0647: 86.1 \u062f\u0631 Terminal-Bench 2.1 \u0648 86 \u062f\u0631 SWE-Bench Verified \u06a9\u0647 \u06af\u0641\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0628\u0627 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0632 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0633\u062a\u0647 \u0631\u0642\u0627\u0628\u062a \u0645\u06cc\u200c\u06a9\u0646\u062f \u06cc\u0627 \u0622\u0646\u0647\u0627 \u0631\u0627 \u067e\u0634\u062a \u0633\u0631 \u0645\u06cc\u200c\u06af\u0630\u0627\u0631\u062f. \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0627\u062f\u0639\u0627 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u06a9\u0647 \u0639\u0645\u0644\u06a9\u0631\u062f \u0622\u0646 \u062f\u0631 \u06a9\u0627\u0631\u0647\u0627\u06cc \u0627\u0633\u062a\u062f\u0644\u0627\u0644\u060c \u0639\u0627\u0645\u0644\u200c\u0645\u062d\u0648\u0631 \u0648 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0628\u0627 Claude Opus 4.8 \u0642\u0627\u0628\u0644 \u0645\u0642\u0627\u06cc\u0633\u0647 \u0627\u0633\u062a. \u0627\u06af\u0631 \u062a\u0633\u062a\u200c\u0647\u0627\u06cc \u0645\u0633\u062a\u0642\u0644 \u0627\u06cc\u0646 \u0631\u0627 \u062a\u0623\u06cc\u06cc\u062f \u06a9\u0646\u0646\u062f\u060c \u0627\u06cc\u0646 \u06cc\u06a9 \u067e\u06cc\u0631\u0648\u0632\u06cc \u0628\u0632\u0631\u06af \u0628\u0631\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648\u0632\u0646\u200c\u0628\u0627\u0632 \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u0648 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0628\u062f\u0648\u0646 \u0647\u0632\u06cc\u0646\u0647 API \u0627\u0631\u0627\u0626\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83d\udd25 \u0645\u062f\u0644\u200c\u0647\u0627 \u0647\u0645\u200c\u0627\u06a9\u0646\u0648\u0646 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633 \u0647\u0633\u062a\u0646\u062f \u0648 \u062c\u0627\u0645\u0639\u0647 \u0634\u0631\u0648\u0639 \u0628\u0647 \u0622\u0632\u0645\u0627\u06cc\u0634\u200c\u0647\u0627\u06cc \u0641\u0634\u0631\u062f\u0647 \u0631\u0648\u06cc \u0622\u0646\u0647\u0627 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.",
-      "post_title": "\ud83d\ude80 Ornith-1.5: open-source LLMs rival Claude Opus 4.8",
-      "post_title_fa": "\ud83d\ude80 \u0627\u0648\u0631\u0646\u06cc\u062a-\u06f1.\u06f5: \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u0631\u0642\u06cc\u0628 Claude Opus 4.8",
-      "priority": "high",
-      "published": "2026-08-19T14:58:07+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/\"> <img alt=\"Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)\" src=\"https://preview.redd.it/isrta4gwickh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=9e93ce9b20748f14970bbed15705443b3f4c99bb\" title=\"Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Aloha! \ud83c\udf3aIntroducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies.</p> <p>It achieves state-of-the-art performance among open-source models of comparable size and delivers performance comparable to Claude Opus 4.8 across reasoning, agentic, and coding tasks: \u2705Terminal-Bench 2.1 (86.1) \u2705SWE-Bench (86 on verified, 65.1 on pro, 79.6 on Multilingual) \u2705DeepSWE (56) \u2705HLE (44.6) \u2705ClawEval (81.4) \u2705Tool Decathlon (71.2)</p> <p><a href=\"https://huggingface.co/collections/ornith-ai/ornith-15\">https://huggingface.co/collections/ornith-ai/ornith-15</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KokaOP\"> /u/KokaOP </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vsou3a\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/\">[comments]</a></span> </td></tr></table>",
-      "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -129397,6 +129411,14 @@
     "source": "arXiv cs.AI",
     "title": "Periodic Topological Deep Learning for Polymer Design and Discovery",
     "title_norm": "periodic topological deep learning for polymer design and discovery"
+  },
+  "f473fd231ec999103734e5a59d2ff96bdc95a871d881273588b91b9b0dc366f6": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T18:02:13.924702+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+    "title_norm": "the 6stage ai infra journey navigating the three finops and hardware crises"
   },
   "f47711e4b60340f6080eb91515320c53d9fafe11ad427bb72d37916ada2936c3": {
     "category": "research",
