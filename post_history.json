@@ -6355,6 +6355,14 @@
     "title": "MistyPilot: Enabling Social-Robot Control through Multi-Agent LLM Skill Orchestration",
     "title_norm": "mistypilot enabling socialrobot control through multiagent llm skill orchestration"
   },
+  "0c270f47524c017042f87ff34f29ad052e3919d16bc9ddb923e72cd8c2aba0cd": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T10:49:29.991470+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8 27B without MTP?",
+    "title_norm": "qwen38 27b without mtp"
+  },
   "0c2dbaa737182bef39dd32cb8158cfd8c0e11cfd6e813e1c15ecf999cb987929": {
     "category": "community_signal",
     "posted": false,
@@ -84647,6 +84655,22 @@
       "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+    },
+    {
+      "category": "integration",
+      "duplicate_of": null,
+      "post_body": "\ud83e\udde9 A new open-source project called SIL (Semantic Interface Layer) aims to make it easier for AI agents to interact with web applications by providing a semantic layer that translates between natural language and app interfaces.\n\nThe project, hosted on GitHub under ais-space/sil, lets developers define a semantic model of their app's capabilities, which agents can query and act upon. This could let AI agents automate complex workflows without brittle, site-specific scripts. The project is early-stage, so expect rough edges, but the approach is worth watching for agentic automation. \ud83c\udf31",
+      "post_body_fa": "\ud83e\udde9 \u06cc\u06a9 \u067e\u0631\u0648\u0698\u0647 \u0645\u062a\u0646\u200c\u0628\u0627\u0632 \u062c\u062f\u06cc\u062f \u0628\u0647 \u0646\u0627\u0645 SIL (\u0644\u0627\u06cc\u0647 \u0631\u0627\u0628\u0637 \u0645\u0639\u0646\u0627\u06cc\u06cc) \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u062a\u0639\u0627\u0645\u0644 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0648\u0628 \u0631\u0627 \u0622\u0633\u0627\u0646\u200c\u062a\u0631 \u06a9\u0646\u062f\u061b \u0627\u06cc\u0646 \u0644\u0627\u06cc\u0647\u060c \u0632\u0628\u0627\u0646 \u0637\u0628\u06cc\u0639\u06cc \u0631\u0627 \u0628\u0647 \u0631\u0627\u0628\u0637\u200c\u0647\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u0648\u0635\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u06a9\u0647 \u062f\u0631 \u06af\u06cc\u062a\u200c\u0647\u0627\u0628 \u0628\u0647 \u0622\u062f\u0631\u0633 ais-space/sil \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0645\u06cc\u200c\u0634\u0648\u062f\u060c \u0628\u0647 \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u0645\u062f\u0644 \u0645\u0639\u0646\u0627\u06cc\u06cc \u0627\u0632 \u0642\u0627\u0628\u0644\u06cc\u062a\u200c\u0647\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u062e\u0648\u062f \u062a\u0639\u0631\u06cc\u0641 \u06a9\u0646\u0646\u062f \u062a\u0627 \u0627\u06cc\u062c\u0646\u062a\u200c\u0647\u0627 \u0628\u062a\u0648\u0627\u0646\u0646\u062f \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u062c\u0633\u062a\u062c\u0648 \u0648 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0631\u0648\u06cc\u06a9\u0631\u062f \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0627\u06cc\u062c\u0646\u062a\u200c\u0647\u0627 \u0627\u062c\u0627\u0632\u0647 \u062f\u0647\u062f \u06af\u0631\u062f\u0634\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u06cc \u067e\u06cc\u0686\u06cc\u062f\u0647\u200c\u062a\u0631\u06cc \u0631\u0627 \u0628\u062f\u0648\u0646 \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a\u200c\u0647\u0627\u06cc \u0634\u06a9\u0646\u0646\u062f\u0647 \u0648 \u062e\u0627\u0635 \u0647\u0631 \u0633\u0627\u06cc\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0631\u0648\u0698\u0647 \u0647\u0646\u0648\u0632 \u062f\u0631 \u0645\u0631\u0627\u062d\u0644 \u0627\u0648\u0644\u06cc\u0647 \u0627\u0633\u062a\u060c \u067e\u0633 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0634\u06a9\u0644\u0627\u062a \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0631\u0648\u0634 \u0628\u0631\u0627\u06cc \u0627\u062a\u0648\u0645\u0627\u0633\u06cc\u0648\u0646 \u0639\u0627\u0645\u0644\u200c\u0645\u062d\u0648\u0631 \u0627\u0631\u0632\u0634 \u062f\u0646\u0628\u0627\u0644 \u06a9\u0631\u062f\u0646 \u062f\u0627\u0631\u062f. \ud83c\udf31",
+      "post_title": "\ud83e\udd1d SIL: A semantic interface layer for web apps and AI agents",
+      "post_title_fa": "\ud83e\udd1d SIL: \u0644\u0627\u06cc\u0647 \u0631\u0627\u0628\u0637 \u0645\u0639\u0646\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0648\u0628 \u0648 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc",
+      "priority": "low",
+      "published": "2026-08-19T10:17:25+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ais-space/sil\">https://github.com/ais-space/sil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49359448\">https://news.ycombinator.com/item?id=49359448</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+      "title": "SIL: A semantic interface layer for web applications and AI agents",
+      "url": "https://github.com/ais-space/sil"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -121203,6 +121227,14 @@
     "title": "Schema-Guided Hierarchical Information Extraction and Semantic Evaluation Using Generative AI",
     "title_norm": "schemaguided hierarchical information extraction and semantic evaluation using generative ai"
   },
+  "e5e0f7db117d7508c47e8200aa95a715e6ba9329aee97ac63538df7b7ffd6956": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T10:49:29.991349+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
+    "title_norm": "air theremin a browser theremin you play by waving at your webcam"
+  },
   "e5e2341943e0f33f55b9a1bbcab5c4833be849fdc49d35518b32b9d6a016e462": {
     "category": "research",
     "posted": false,
@@ -124503,6 +124535,14 @@
     "title": "Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity",
     "title_norm": "coupled graphpolicy distillation for personalized medication safety in older adults with multimorbidity"
   },
+  "ec64132676657031f8b23aaedcf25af73e9ec326389f47341a560f00e7e5a2df": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-19T10:49:29.991425+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI reverse-engineered my printer. I just pressed the buttons",
+    "title_norm": "ai reverseengineered my printer i just pressed the buttons"
+  },
   "ec66d2361a8725d97b2ff7a4f10de116cb36827deccb1e53d560b227715207e1": {
     "category": "research",
     "posted": false,
@@ -126340,6 +126380,14 @@
     "source": "Hacker News AI keyword",
     "title": "Personal AI Assistant, Anywhere",
     "title_norm": "personal ai assistant anywhere"
+  },
+  "f010fb373429295bcf18c4d8890c41315ce7c596110c0a7b9bbd9d7cfdd6e40c": {
+    "category": "integration",
+    "posted": false,
+    "seen_at": "2026-08-19T10:49:29.991449+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "SIL: A semantic interface layer for web applications and AI agents",
+    "title_norm": "sil a semantic interface layer for web applications and ai agents"
   },
   "f0193de25e4df1ae141017c9fe8bd6e4a3b0ddcbd435394256e44b7b5ffb889b": {
     "category": null,
