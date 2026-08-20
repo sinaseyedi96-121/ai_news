@@ -23823,7 +23823,13 @@
   },
   "2b5e8aa22d92f0842d5de7a4d3c5519d3609b8e87c10b891ae75259d9b98bc95": {
     "category": "policy",
-    "posted": false,
+    "message_id": 244,
+    "message_id_fa": 218,
+    "post_title": "\u2696\ufe0f Round Hill sues Suno and Anthropic for $1B over AI training data",
+    "post_title_fa": "\u2696\ufe0f \u0634\u06a9\u0627\u06cc\u062a \u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0631\u0627\u0646\u062f \u0647\u06cc\u0644 \u0627\u0632 \u0633\u0648\u0646\u0648 \u0648 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9",
+    "posted": true,
+    "posted_at": "2026-08-20T08:49:34.858283+00:00",
+    "priority": "high",
     "seen_at": "2026-08-20T07:04:33.252712+00:00",
     "source": "Hacker News AI keyword",
     "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
@@ -62653,6 +62659,14 @@
     "title": "LEDOM: Reverse Language Model",
     "title_norm": "ledom reverse language model"
   },
+  "72a58e362480989711e9e85fc02a86f1037a1aa77793bfb9992619cfff740a4c": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T08:49:33.779032+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Influence Level (Ail) v1.0",
+    "title_norm": "ai influence level ail v10"
+  },
   "72a8c49bfa9b83f2deefa47a29bcb63e66f7005bd12a452846adb4b84ad6dd11": {
     "category": "infrastructure",
     "posted": false,
@@ -86709,31 +86723,16 @@
   },
   "_meta": {
     "date": "2026-08-20",
-    "posts_today": 1,
+    "posts_today": 2,
     "posts_today_by_category": {
+      "policy": 1,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-20-08"
+    "last_slot": "2026-08-20-10"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfb5 Music publisher Round Hill has filed a $1 billion lawsuit against Suno and Anthropic over alleged copyright infringement in AI training data. The suit claims both companies used copyrighted songs without permission to train their models \ud83d\udcb0. Round Hill controls a massive catalog, making this one of the biggest music-AI legal battles yet.\n\nThis case could set a major precedent for how AI companies handle licensed music \u2696\ufe0f. For AI developers, it's another reminder that training data sourcing remains a legal minefield \ud83d\udea7.",
-      "post_body_fa": "\ud83c\udfb5 \u0646\u0627\u0634\u0631 \u0645\u0648\u0633\u06cc\u0642\u06cc \u0631\u0627\u0646\u062f \u0647\u06cc\u0644 \u06cc\u06a9 \u0634\u06a9\u0627\u06cc\u062a \u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0639\u0644\u06cc\u0647 \u0633\u0648\u0646\u0648 \u0648 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9 \u0628\u0647 \u0627\u062a\u0647\u0627\u0645 \u0646\u0642\u0636 \u062d\u0642 \u06a9\u067e\u06cc\u200c\u0631\u0627\u06cc\u062a \u062f\u0631 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062b\u0628\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u062f\u0627\u062f\u062e\u0648\u0627\u0647\u06cc \u0627\u062f\u0639\u0627 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0647\u0631 \u062f\u0648 \u0634\u0631\u06a9\u062a \u0628\u062f\u0648\u0646 \u0627\u062c\u0627\u0632\u0647 \u0627\u0632 \u0622\u0647\u0646\u06af\u200c\u0647\u0627\u06cc \u062f\u0627\u0631\u0627\u06cc \u062d\u0642 \u0646\u0634\u0631 \u0628\u0631\u0627\u06cc \u0622\u0645\u0648\u0632\u0634 \u0645\u062f\u0644\u200c\u0647\u0627\u06cc\u0634\u0627\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \ud83d\udcb0. \u0631\u0627\u0646\u062f \u0647\u06cc\u0644 \u06a9\u0627\u062a\u0627\u0644\u0648\u06af \u0628\u0632\u0631\u06af\u06cc \u0631\u0627 \u06a9\u0646\u062a\u0631\u0644 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0646\u0628\u0631\u062f\u0647\u0627\u06cc \u062d\u0642\u0648\u0642\u06cc \u0645\u0648\u0633\u06cc\u0642\u06cc \u0648 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0627 \u0628\u0647 \u0627\u0645\u0631\u0648\u0632 \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0633\u0627\u0628\u0642\u0647 \u0645\u0647\u0645\u06cc \u0628\u0631\u0627\u06cc \u0646\u062d\u0648\u0647 \u0628\u0631\u062e\u0648\u0631\u062f \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 \u0645\u0648\u0633\u06cc\u0642\u06cc \u062f\u0627\u0631\u0627\u06cc \u0645\u062c\u0648\u0632 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u062f \u2696\ufe0f. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u0627\u06cc\u0646 \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u062f\u06cc\u06af\u0631\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0623\u0645\u06cc\u0646 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0648\u0632\u0634\u06cc \u0647\u0645\u0686\u0646\u0627\u0646 \u06cc\u06a9 \u0645\u06cc\u062f\u0627\u0646 \u0645\u06cc\u0646 \u0642\u0627\u0646\u0648\u0646\u06cc \u0627\u0633\u062a \ud83d\udea7.",
-      "post_title": "\u2696\ufe0f Round Hill sues Suno and Anthropic for $1B over AI training data",
-      "post_title_fa": "\u2696\ufe0f \u0634\u06a9\u0627\u06cc\u062a \u06f1 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u062f\u0644\u0627\u0631\u06cc \u0631\u0627\u0646\u062f \u0647\u06cc\u0644 \u0627\u0632 \u0633\u0648\u0646\u0648 \u0648 \u0622\u0646\u062a\u0631\u0648\u067e\u06cc\u06a9",
-      "priority": "high",
-      "published": "2026-08-20T00:40:14+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data\">https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369063\">https://news.ycombinator.com/item?id=49369063</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-      "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
-      "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -86895,20 +86894,20 @@
       "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     },
     {
-      "category": "policy",
+      "category": "model_release",
       "duplicate_of": null,
-      "post_body": "\ud83d\ude94 A Florida police officer is accused of using Flock Safety's AI-powered license-plate cameras to track his ex-wife 717 times over several months. The alleged surveillance went far beyond official police work, according to investigators, and led to criminal charges and his arrest. \ud83d\udccb Court documents reportedly show the officer repeatedly queried the automated camera network to monitor her movements.\n\n\ud83d\udd0d This case shows how AI surveillance infrastructure can be abused by insiders. As cities expand networks like Flock, stronger access controls and independent audits are becoming urgent. \u2696\ufe0f It also fuels the growing debate over regulating police use of AI tools.",
-      "post_body_fa": "\ud83d\ude94 \u06cc\u06a9 \u0627\u0641\u0633\u0631 \u067e\u0644\u06cc\u0633 \u062f\u0631 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0645\u062a\u0647\u0645 \u0627\u0633\u062a \u06a9\u0647 \u0627\u0632 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u067e\u0644\u0627\u06a9\u200c\u062e\u0648\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Flock Safety \u0628\u0631\u0627\u06cc \u062a\u0639\u0642\u06cc\u0628 \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642\u0634 \u06f7\u06f1\u06f7 \u0628\u0627\u0631 \u062f\u0631 \u0686\u0646\u062f \u0645\u0627\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0628\u0647 \u06af\u0641\u062a\u0647 \u0628\u0627\u0632\u0631\u0633\u0627\u0646\u060c \u0627\u06cc\u0646 \u0646\u0638\u0627\u0631\u062a\u200c\u0647\u0627 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0648\u0638\u0627\u06cc\u0641 \u067e\u0644\u06cc\u0633\u06cc \u0628\u0648\u062f \u0648 \u0628\u0647 \u0627\u062a\u0647\u0627\u0645\u0627\u062a \u06a9\u06cc\u0641\u0631\u06cc \u0648 \u0628\u0627\u0632\u062f\u0627\u0634\u062a \u0627\u0648 \u0627\u0646\u062c\u0627\u0645\u06cc\u062f. \ud83d\udccb \u0627\u0633\u0646\u0627\u062f \u062f\u0627\u062f\u06af\u0627\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u0641\u0633\u0631 \u0628\u0627\u0631\u0647\u0627 \u0627\u0632 \u0634\u0628\u06a9\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u0631\u0641\u062a\u200c\u0648\u0622\u0645\u062f \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642\u0634 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.\n\n\ud83d\udd0d \u0627\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0646\u0638\u0627\u0631\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06af\u0648\u0646\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0648\u0633\u0637 \u0627\u0641\u0631\u0627\u062f \u062f\u0627\u062e\u0644\u06cc \u0645\u0648\u0631\u062f \u0633\u0648\u0621\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0642\u0631\u0627\u0631 \u06af\u06cc\u0631\u062f. \u0628\u0627 \u06af\u0633\u062a\u0631\u0634 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f Flock \u062f\u0631 \u0634\u0647\u0631\u0647\u0627\u060c \u06a9\u0646\u062a\u0631\u0644 \u062f\u0633\u062a\u0631\u0633\u06cc \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u0648 \u062d\u0633\u0627\u0628\u0631\u0633\u06cc \u0645\u0633\u062a\u0642\u0644 \u0628\u0647 \u06cc\u06a9 \u0636\u0631\u0648\u0631\u062a \u0641\u0648\u0631\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a. \u2696\ufe0f \u0627\u06cc\u0646 \u0645\u0627\u062c\u0631\u0627 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0647 \u0628\u062d\u062b \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0645\u062d\u062f\u0648\u062f \u06a9\u0631\u062f\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0644\u06cc\u0633 \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u0645\u0646 \u0645\u06cc\u200c\u0632\u0646\u062f.",
-      "post_title": "\u2696\ufe0f Florida officer accused of stalking ex-wife via Flock AI cameras",
-      "post_title_fa": "\u2696\ufe0f \u0627\u0641\u0633\u0631 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0645\u062a\u0647\u0645 \u0628\u0647 \u062a\u0639\u0642\u06cc\u0628 \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642 \u0628\u0627 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Flock",
-      "priority": "low",
-      "published": "2026-08-20T07:39:22+00:00",
+      "post_body": "\ud83e\udd16 Syzygy Research released Mach-1-Additive-35B, a 35B Mixture-of-Experts model quantized to just 7GB. Alongside the GGUF weights, they shipped a custom llama.cpp fork for optimized inference.\n\nBenchmarks show up to 120 tokens/sec on a consumer laptop \ud83d\udca8, making it viable for mobile and edge devices \ud83d\udd25. The small footprint also suits low-memory systems that couldn't run larger local models before. This is a notable step for accessible, high-speed on-device AI \ud83c\udf0d.",
+      "post_body_fa": "\ud83e\udd16 \u06af\u0631\u0648\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a\u06cc Syzygy \u0645\u062f\u0644 Mach-1-Additive-35B \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u061b \u0645\u062f\u0644 Mixture-of-Experts \u0628\u0627 \u06f3\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u06a9\u0647 \u0641\u0642\u0637 \u06f7 \u06af\u06cc\u06af\u0627\u0628\u0627\u06cc\u062a \u062d\u062c\u0645 \u062f\u0627\u0631\u062f. \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0648\u0632\u0646\u200c\u0647\u0627\u06cc GGUF\u060c \u06cc\u06a9 \u0641\u0648\u0631\u06a9 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc llama.cpp \u0646\u06cc\u0632 \u0628\u0631\u0627\u06cc \u0627\u062c\u0631\u0627\u06cc \u0628\u0647\u06cc\u0646\u0647 \u0639\u0631\u0636\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0633\u0631\u0639\u062a \u062a\u0627 \u06f1\u06f2\u06f0 \u062a\u0648\u06a9\u0646 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc \u0644\u067e\u200c\u062a\u0627\u067e \u0645\u0639\u0645\u0648\u0644\u06cc \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \ud83d\udca8 \u06a9\u0647 \u0622\u0646 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062f\u0633\u062a\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0645\u0648\u0628\u0627\u06cc\u0644 \u0648\u8fb9\u7f18 \u0645\u0646\u0627\u0633\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83d\udd25. \u062d\u062c\u0645 \u06a9\u0645 \u0622\u0646 \u0628\u0631\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0628\u0627 \u062d\u0627\u0641\u0638\u0647 \u0645\u062d\u062f\u0648\u062f \u06a9\u0647 \u0642\u0628\u0644\u0627\u064b \u0646\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0633\u062a\u0646\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0631\u0627 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f \u0646\u06cc\u0632 \u0627\u06cc\u062f\u0647\u200c\u0622\u0644 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0645\u0647\u0645 \u062f\u0631 \u062c\u0647\u062a \u062f\u0633\u062a\u0631\u0633\u06cc\u200c\u067e\u0630\u06cc\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062d\u0644\u06cc \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0627\u0633\u062a \ud83c\udf0d.",
+      "post_title": "\ud83d\ude80 Mach-1 Additive 35B: 7GB MoE hits 120 t/s on laptops",
+      "post_title_fa": "\ud83d\ude80 \u0645\u0627\u0634-\u06f1 \u0627\u062f\u062f\u06cc\u062a\u06cc\u0648 \u06f3\u06f5B: \u0645\u062f\u0644 MoE \u0628\u0627 \u062d\u062c\u0645 \u06f7GB \u0628\u0627 \u0633\u0631\u0639\u062a \u06f1\u06f2\u06f0 \u062a\u0648\u06a9\u0646 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc \u0644\u067e\u200c\u062a\u0627\u067e",
+      "priority": "medium",
+      "published": "2026-08-20T07:52:22+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/\">https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371587\">https://news.ycombinator.com/item?id=49371587</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Florida police officer accused of using Flock AI cameras",
-      "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/"
+      "source": "Reddit r/LocalLLaMA",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/\"> <img alt=\"SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face\" src=\"https://external-preview.redd.it/5i0xoC-V8V4uXTRPZZuEu0qce6d2wKL0nga_2e35LCE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c077e05490f3dc7c564eb7e07b4f3c1eee6356a\" title=\"SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>They released both GGUFs &amp; custom llama.cpp fork today. 35B MOE in 7GB size which's good for Mobile &amp; Edge devices(Also low memory systems). Up to 120 t/s on Consumer Laptop.</p> <p><strong>GGUFs</strong>:</p> <ul> <li><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF\">https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF</a></li> <li><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-Multimodal-GGUF\">https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-Multimodal-GGUF</a></li> </ul> <p><strong>Custom llama.cpp fork</strong>:</p> <ul> <li><a href=\"https://github.com/SyzygyResearch/llama.cpp-mach1\">https://github.com/SyzygyResearch/llama.cpp-mach1</a> </li> </ul> <p>Their 2 weeks old tweet below.</p> <blockquote> <p><a href=\"https://xcancel.com/syzygyeng/status/2085120853302472962#m\">Yes, Laguna S2.1 and Qwen 3.8 are on the way!</a></p> </blockquote> <p>BTW Track other similar models here : <a href=\"https://www.reddit.com/r/LocalLLaMA/s/XMJ6PBfgxN\">1-bit / 2-bit / Ternary / Bitnet Models - Updates &amp; Tracking</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmttyji\"> /u/pmttyji </a> <br /> <span><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/\">[comments]</a></span> </td></tr></table>",
+      "title": "SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -91308,6 +91307,14 @@
     "source": "Hacker News AI keyword",
     "title": "Vectorise.me \u2013 image-to-SVG API with an MCP server for AI agents",
     "title_norm": "vectoriseme imagetosvg api with an mcp server for ai agents"
+  },
+  "a7fb35b8eaa53a127b9cce664ba103732f1a1804a40458432f08ac84286f8674": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T08:49:33.779112+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "A perfect example of concept entanglement in generative AI",
+    "title_norm": "a perfect example of concept entanglement in generative ai"
   },
   "a7fc4cf4cc15dc3af4928a6f16222586e2b68422c26c0a3b5dec354be1845642": {
     "category": "research",
@@ -99186,6 +99193,14 @@
     "source": "arXiv cs.AI",
     "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
     "title_norm": "llm framework for discovering major mathematical conjectures ais quest for the next riemann hypothesis"
+  },
+  "b65d11d75ff0185e55ffc45c2d19917ba500d9cc3eb17b4f14a992e5c326eb78": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-20T08:49:33.779128+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face",
+    "title_norm": "syzygyresearchmach1additive35bgguf hugging face"
   },
   "b65e75ea5598e0fe7957e965a75bdb3039f764c01cf8e84caf420a9dd6487e87": {
     "category": "other",
