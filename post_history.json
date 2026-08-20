@@ -22477,7 +22477,13 @@
   },
   "28cbb89b37cc5c04b0bc8be5e9d10fe449a91453b4b14b3b8f68c9aa1d7d56bf": {
     "category": "policy",
-    "posted": false,
+    "message_id": 245,
+    "message_id_fa": 219,
+    "post_title": "\ud83c\udfd7\ufe0f US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "post_title_fa": "\ud83c\udfd7\ufe0f \u0647\u0634\u062f\u0627\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u062d\u0645\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 PLC\u0647\u0627\u06cc \u0632\u06cc\u0645\u0646\u0633 \u062f\u0631 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u062d\u06cc\u0627\u062a\u06cc",
+    "posted": true,
+    "posted_at": "2026-08-20T10:14:21.837076+00:00",
+    "priority": "high",
     "seen_at": "2026-08-20T07:04:33.252731+00:00",
     "source": "Hacker News AI keyword",
     "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
@@ -61455,6 +61461,14 @@
     "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS",
     "title_norm": "aws announces awsbench an opensource benchmark for ai agents on aws"
   },
+  "703437d4ed8e16b1a295a250fa3a8fa27b8e03230200a7f44afd66e0cfb4f839": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:14:20.804455+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI is entertainment's scarlet letter",
+    "title_norm": "ai is entertainments scarlet letter"
+  },
   "7039789a0d0a40eee24d46ea22e5df55936a331da2b25e9308fa7881aba3cb99": {
     "category": "other",
     "posted": false,
@@ -81379,6 +81393,14 @@
     "title": "Evidence-Grounded Constraint Checking in Construction Documents",
     "title_norm": "evidencegrounded constraint checking in construction documents"
   },
+  "95927cd67bb05694193463e5d79b4dd70868814391416c5b956a099b64d33345": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:14:20.804562+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I see some community discussions on Hugging Face about Qwen3.8 27B model being not very good, but it seems people are mostly have positive experiences here. So which is it?",
+    "title_norm": "i see some community discussions on hugging face about qwen38 27b model being not very good but it seems people are mostly have positive experiences here so which is it"
+  },
   "9593325e7b7e089e33d50ce5459d6218dd8766eb582d6ba37d768d5ebda2f707": {
     "category": "other",
     "posted": false,
@@ -86755,32 +86777,16 @@
   },
   "_meta": {
     "date": "2026-08-20",
-    "posts_today": 2,
+    "posts_today": 3,
     "posts_today_by_category": {
-      "policy": 1,
+      "policy": 2,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-20-10"
+    "last_slot": "2026-08-20-12"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udee1\ufe0f US cybersecurity authorities have issued a warning about AI-powered attacks targeting Siemens programmable logic controllers (PLCs) in critical infrastructure. These attacks can autonomously scan for vulnerabilities and craft exploits faster than traditional methods \u26a1. PLCs control vital systems like power grids and water treatment, so a breach could have severe consequences \ud83c\udfed.\n\nThe advisory urges operators to patch, segment networks, and monitor for anomalies. This signals how AI is shifting the threat landscape for industrial systems \ud83c\udf0d.",
-      "post_body_fa": "\ud83d\udee1\ufe0f \u0645\u0642\u0627\u0645\u0627\u062a \u0627\u0645\u0646\u06cc\u062a \u0633\u0627\u06cc\u0628\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u062d\u0645\u0644\u0627\u062a \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u06a9\u0646\u062a\u0631\u0644\u200c\u06a9\u0646\u0646\u062f\u0647\u200c\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u06cc \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u067e\u0630\u06cc\u0631 (PLC) \u0632\u06cc\u0645\u0646\u0633 \u062f\u0631 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u062d\u06cc\u0627\u062a\u06cc \u0647\u0634\u062f\u0627\u0631 \u0635\u0627\u062f\u0631 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u06cc\u0646 \u062d\u0645\u0644\u0627\u062a \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0627\u0632 \u0631\u0648\u0634\u200c\u0647\u0627\u06cc \u0633\u0646\u062a\u06cc \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0627\u0633\u06a9\u0646 \u0648 \u0628\u0647\u0631\u0647\u200c\u0628\u0631\u062f\u0627\u0631\u06cc \u06a9\u0646\u0646\u062f \u26a1. PLC\u0647\u0627 \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u062d\u06cc\u0627\u062a\u06cc \u0645\u0627\u0646\u0646\u062f \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u0642 \u0648 \u062a\u0635\u0641\u06cc\u0647 \u0622\u0628 \u0631\u0627 \u06a9\u0646\u062a\u0631\u0644 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f\u060c \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u0646\u0641\u0648\u0630 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0639\u0648\u0627\u0642\u0628 \u0634\u062f\u06cc\u062f\u06cc \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u062f \ud83c\udfed.\n\n\u0627\u06cc\u0646 \u0647\u0634\u062f\u0627\u0631 \u0627\u0632 \u0627\u067e\u0631\u0627\u062a\u0648\u0631\u0647\u0627 \u0645\u06cc\u200c\u062e\u0648\u0627\u0647\u062f \u0648\u0635\u0644\u0647\u200c\u0647\u0627 \u0631\u0627 \u0627\u0639\u0645\u0627\u0644\u060c \u0634\u0628\u06a9\u0647\u200c\u0647\u0627 \u0631\u0627 \u062a\u0642\u0633\u06cc\u0645\u200c\u0628\u0646\u062f\u06cc \u0648 \u0646\u0627\u0647\u0646\u062c\u0627\u0631\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0645\u0627\u0646\u06cc\u062a\u0648\u0631 \u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06af\u0648\u0646\u0647 \u0686\u0634\u0645\u200c\u0627\u0646\u062f\u0627\u0632 \u062a\u0647\u062f\u06cc\u062f \u0631\u0627 \u0628\u0631\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0635\u0646\u0639\u062a\u06cc \u062a\u063a\u06cc\u06cc\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f \ud83c\udf0d.",
-      "post_title": "\ud83c\udfd7\ufe0f US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "post_title_fa": "\ud83c\udfd7\ufe0f \u0647\u0634\u062f\u0627\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u062d\u0645\u0644\u0627\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 PLC\u0647\u0627\u06cc \u0632\u06cc\u0645\u0646\u0633 \u062f\u0631 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a\u200c\u0647\u0627\u06cc \u062d\u06cc\u0627\u062a\u06cc",
-      "priority": "high",
-      "published": "2026-08-20T00:07:06+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/\">https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368840\">https://news.ycombinator.com/item?id=49368840</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/"
-    },
     {
       "category": "integration",
       "duplicate_of": null,
@@ -118909,6 +118915,14 @@
     "source": "arXiv cs.AI",
     "title": "ForensicNet: Lightweight Attention-Enhanced MobileNetV2 for Automated Face Identification",
     "title_norm": "forensicnet lightweight attentionenhanced mobilenetv2 for automated face identification"
+  },
+  "db56ca1491d6305863f578d846a2f3ab47d60b3714da15bee12a592f1a9dc8ff": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:14:20.804534+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Data enrichment with AI for Pandas DataFrame",
+    "title_norm": "show hn data enrichment with ai for pandas dataframe"
   },
   "db5b94ed1ed8cbfc11095d5d47ac9da87e7fa4c705d67da7ecb434586abe15a4": {
     "category": "research",
