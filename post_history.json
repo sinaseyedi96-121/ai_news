@@ -48107,6 +48107,14 @@
     "title": "America needs to stop getting shocked by Chinese AI",
     "title_norm": "america needs to stop getting shocked by chinese ai"
   },
+  "585dd6f39e70b919e2468a63ee82560b62effeae4b59858f49ed46bde447d071": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268581+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Pine AI getting 75.4% (SoTA) on \u03c4\u00b3-Voice Leaderboard",
+    "title_norm": "pine ai getting 754 sota on \u03c4\u00b3voice leaderboard"
+  },
   "585f037f96e581c9eb6b973560d19f3dc8782fb377a02afd90645b0c38f219f1": {
     "category": null,
     "posted": false,
@@ -59418,6 +59426,14 @@
     "source": "Cohere Blog (unofficial)",
     "title": "Cohere and Second Front bring secure AI to the public sector",
     "title_norm": "cohere and second front bring secure ai to the public sector"
+  },
+  "6c9672c24cee031d764e7331f6397cf7481df11e1ee04e40bc69dd0934a25ebe": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268686+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+    "title_norm": "splunk patches 91 cvss rce in mcp server and 9 flaws in ai toolkit"
   },
   "6c96b00f513cb2f6b094337480b8442853b1c40412a19883f8b096a61533ba4f": {
     "category": "research",
@@ -72648,6 +72664,14 @@
     "source": "Hugging Face Blog",
     "title": "Grabette: an open system to record robot-manipulation data",
     "title_norm": "grabette an open system to record robotmanipulation data"
+  },
+  "854ac7398c669fe034d7aedec0cbb09ce06868940e7e151fefa93c7a46f783eb": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268742+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "G9v3-39A5B on artificialanalysis looks good. Has anyone tested it?",
+    "title_norm": "g9v339a5b on artificialanalysis looks good has anyone tested it"
   },
   "85511183eaded5dcc9af06b8b65aaef60dd071c9fcc991c760b314dc7bb37113": {
     "category": "research",
@@ -86932,6 +86956,38 @@
       "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     },
     {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udcca Pine AI has taken the top spot on the \u03c4\u00b3-Voice Leaderboard with a 75.4% score, the best result yet. The milestone signals a leap in voice/audio model performance. \ud83c\udfc6 It reportedly beats the previous SoTA by a clear margin, though full details remain thin.\n\nFor developers building voice assistants and speech apps, this is a number worth watching. \u26a1 Expect more benchmark runs and third-party checks in the coming days.",
+      "post_body_fa": "\ud83d\udcca Pine AI \u0628\u0627 \u0627\u0645\u062a\u06cc\u0627\u0632 \u06f7\u06f5.\u06f4\u066a \u062f\u0631 \u0635\u062f\u0631 \u062c\u062f\u0648\u0644 \u03c4\u00b3-Voice \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a\u061b \u0628\u0647\u062a\u0631\u06cc\u0646 \u0646\u062a\u06cc\u062c\u0647 \u062a\u0627\u06a9\u0646\u0648\u0646. \u0627\u06cc\u0646 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641 \u0646\u0634\u0627\u0646\u200c\u062f\u0647\u0646\u062f\u0647 \u062c\u0647\u0634 \u062f\u0631 \u0639\u0645\u0644\u06a9\u0631\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0627\u0633\u062a. \ud83c\udfc6 \u06af\u0641\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u0627\u06cc\u0646 \u0646\u062a\u06cc\u062c\u0647 \u0628\u0627 \u0627\u062e\u062a\u0644\u0627\u0641\u06cc \u0645\u062d\u0633\u0648\u0633 \u0627\u0632 \u0631\u06a9\u0648\u0631\u062f \u0642\u0628\u0644\u06cc \u0639\u0628\u0648\u0631 \u06a9\u0631\u062f\u0647\u060c \u0647\u0631\u0686\u0646\u062f \u062c\u0632\u0626\u06cc\u0627\u062a \u06a9\u0627\u0645\u0644 \u0647\u0646\u0648\u0632 \u0645\u0646\u062a\u0634\u0631 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u06cc \u06a9\u0647 \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0648 \u0627\u067e\u200c\u0647\u0627\u06cc \u06af\u0641\u062a\u0627\u0631 \u0645\u06cc\u200c\u0633\u0627\u0632\u0646\u062f\u060c \u0627\u06cc\u0646 \u0639\u062f\u062f \u0627\u0631\u0632\u0634 \u067e\u06cc\u06af\u06cc\u0631\u06cc \u062f\u0627\u0631\u062f. \u26a1 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u062f\u0631 \u0631\u0648\u0632\u0647\u0627\u06cc \u0622\u06cc\u0646\u062f\u0647 \u062a\u0633\u062a\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc \u062a\u0648\u0633\u0637 \u0637\u0631\u0641\u200c\u0647\u0627\u06cc \u0633\u0648\u0645 \u0627\u0646\u062c\u0627\u0645 \u0634\u0648\u062f.",
+      "post_title": "\ud83d\ude80 Pine AI hits 75.4% SoTA on \u03c4\u00b3-Voice Leaderboard",
+      "post_title_fa": "\ud83d\ude80 Pine AI \u0628\u0627 \u06f7\u06f5.\u06f4\u066a \u0631\u06a9\u0648\u0631\u062f SoTA \u0631\u0627 \u062f\u0631 \u03c4\u00b3-Voice \u062b\u0628\u062a \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-20T10:24:06+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"http://taubench.com/leaderboard/\">http://taubench.com/leaderboard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372693\">https://news.ycombinator.com/item?id=49372693</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "title": "Pine AI getting 75.4% (SoTA) on \u03c4\u00b3-Voice Leaderboard",
+      "url": "http://taubench.com/leaderboard/"
+    },
+    {
+      "category": "other",
+      "duplicate_of": null,
+      "post_body": "\ud83d\udee0\ufe0f Splunk shipped fixes for a critical remote code execution vulnerability in its MCP Server, rated 9.1 on the CVSS scale. The same update addresses nine additional flaws in the Splunk AI Toolkit. \ud83d\udd25 Attackers could exploit the RCE to run arbitrary code on affected servers, making patching urgent.\n\nAdmins running Splunk with MCP or AI Toolkit should update immediately. \ud83d\udee1\ufe0f No active exploits have been reported yet, but the severity warrants quick action.",
+      "post_body_fa": "\ud83d\udee0\ufe0f Splunk \u0648\u0635\u0644\u0647\u200c\u0647\u0627\u06cc\u06cc \u0628\u0631\u0627\u06cc \u06cc\u06a9 \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631\u06cc \u0628\u062d\u0631\u0627\u0646\u06cc \u0627\u062c\u0631\u0627\u06cc \u06a9\u062f \u0627\u0632 \u0631\u0627\u0647 \u062f\u0648\u0631 \u062f\u0631 MCP Server \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f \u06a9\u0647 \u0627\u0645\u062a\u06cc\u0627\u0632 \u06f9.\u06f1 \u062f\u0631 \u0645\u0642\u06cc\u0627\u0633 CVSS \u062f\u0627\u0631\u062f. \u0647\u0645\u06cc\u0646 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u0646\u0647 \u0646\u0642\u0635 \u062f\u06cc\u06af\u0631 \u0631\u0627 \u062f\u0631 Splunk AI Toolkit \u0628\u0631\u0637\u0631\u0641 \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83d\udd25 \u0645\u0647\u0627\u062c\u0645\u0627\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0632 \u0627\u06cc\u0646 RCE \u0628\u0631\u0627\u06cc \u0627\u062c\u0631\u0627\u06cc \u06a9\u062f \u062f\u0644\u062e\u0648\u0627\u0647 \u0631\u0648\u06cc \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u0646\u062f\u061b \u0628\u0646\u0627\u0628\u0631\u0627\u06cc\u0646 \u0648\u0635\u0644\u0647\u200c\u06a9\u0631\u062f\u0646 \u0641\u0648\u0631\u06cc \u0636\u0631\u0648\u0631\u06cc \u0627\u0633\u062a.\n\n\u0645\u062f\u06cc\u0631\u0627\u0646\u06cc \u06a9\u0647 Splunk \u0631\u0627 \u0628\u0627 MCP \u06cc\u0627 AI Toolkit \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u0628\u0627\u06cc\u062f \u0647\u0631\u0686\u0647 \u0633\u0631\u06cc\u0639\u200c\u062a\u0631 \u0628\u0647\u200c\u0631\u0648\u0632\u0631\u0633\u0627\u0646\u06cc \u06a9\u0646\u0646\u062f. \ud83d\udee1\ufe0f \u0647\u0646\u0648\u0632 \u0627\u06a9\u0633\u067e\u0644\u0648\u06cc\u062a \u0641\u0639\u0627\u0644\u06cc \u06af\u0632\u0627\u0631\u0634 \u0646\u0634\u062f\u0647\u060c \u0627\u0645\u0627 \u0634\u062f\u062a \u0627\u06cc\u0646 \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631\u06cc \u0627\u0642\u062f\u0627\u0645 \u0633\u0631\u06cc\u0639 \u0631\u0627 \u0627\u06cc\u062c\u0627\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f.",
+      "post_title": "\ud83d\udee1\ufe0f Splunk patches critical RCE in MCP Server, 9 AI Toolkit flaws",
+      "post_title_fa": "\ud83d\udee1\ufe0f Splunk \u0646\u0642\u0635 \u0628\u062d\u0631\u0627\u0646\u06cc RCE \u062f\u0631 MCP Server \u0648 \u06f9 \u0622\u0633\u06cc\u0628\u200c\u067e\u0630\u06cc\u0631\u06cc AI Toolkit \u0631\u0627 \u0648\u0635\u0644\u0647 \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-20T10:10:49+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://cyberupdates365.com/splunk-mcp-server-rce-patch/\">https://cyberupdates365.com/splunk-mcp-server-rce-patch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372596\">https://news.ycombinator.com/item?id=49372596</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+      "url": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/"
+    },
+    {
       "category": "integration",
       "duplicate_of": null,
       "post_body": "\ud83d\udcb1 Binance has launched Agent OS, letting users connect AI agents like ChatGPT, Claude Code, and Cursor to trade on its exchange. The feature opens automated crypto trading to non-coders, but Binance warns that keeping agents in check is largely up to users \u26a0\ufe0f.\n\nThere\u2019s no built-in guardrail for risky trades, so a single bad decision can cost real money \ud83d\udcb8. This is a big step toward autonomous finance \ud83e\udd16, but also a reminder that AI accountability still lives with the human behind the keyboard. Expect regulators to take a close look at agent-driven trading next.",
@@ -86946,22 +87002,6 @@
       "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
-    },
-    {
-      "category": "model_release",
-      "duplicate_of": null,
-      "post_body": "\ud83e\udd16 Syzygy Research released Mach-1-Additive-35B, a 35B Mixture-of-Experts model quantized to just 7GB. Alongside the GGUF weights, they shipped a custom llama.cpp fork for optimized inference.\n\nBenchmarks show up to 120 tokens/sec on a consumer laptop \ud83d\udca8, making it viable for mobile and edge devices \ud83d\udd25. The small footprint also suits low-memory systems that couldn't run larger local models before. This is a notable step for accessible, high-speed on-device AI \ud83c\udf0d.",
-      "post_body_fa": "\ud83e\udd16 \u06af\u0631\u0648\u0647 \u062a\u062d\u0642\u06cc\u0642\u0627\u062a\u06cc Syzygy \u0645\u062f\u0644 Mach-1-Additive-35B \u0631\u0627 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0631\u062f\u061b \u0645\u062f\u0644 Mixture-of-Experts \u0628\u0627 \u06f3\u06f5 \u0645\u06cc\u0644\u06cc\u0627\u0631\u062f \u067e\u0627\u0631\u0627\u0645\u062a\u0631 \u06a9\u0647 \u0641\u0642\u0637 \u06f7 \u06af\u06cc\u06af\u0627\u0628\u0627\u06cc\u062a \u062d\u062c\u0645 \u062f\u0627\u0631\u062f. \u062f\u0631 \u06a9\u0646\u0627\u0631 \u0648\u0632\u0646\u200c\u0647\u0627\u06cc GGUF\u060c \u06cc\u06a9 \u0641\u0648\u0631\u06a9 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc llama.cpp \u0646\u06cc\u0632 \u0628\u0631\u0627\u06cc \u0627\u062c\u0631\u0627\u06cc \u0628\u0647\u06cc\u0646\u0647 \u0639\u0631\u0636\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.\n\n\u0628\u0646\u0686\u0645\u0627\u0631\u06a9\u200c\u0647\u0627 \u0633\u0631\u0639\u062a \u062a\u0627 \u06f1\u06f2\u06f0 \u062a\u0648\u06a9\u0646 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc \u0644\u067e\u200c\u062a\u0627\u067e \u0645\u0639\u0645\u0648\u0644\u06cc \u0631\u0627 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \ud83d\udca8 \u06a9\u0647 \u0622\u0646 \u0631\u0627 \u0628\u0631\u0627\u06cc \u062f\u0633\u062a\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0645\u0648\u0628\u0627\u06cc\u0644 \u0648\u8fb9\u7f18 \u0645\u0646\u0627\u0633\u0628 \u0645\u06cc\u200c\u06a9\u0646\u062f \ud83d\udd25. \u062d\u062c\u0645 \u06a9\u0645 \u0622\u0646 \u0628\u0631\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u200c\u0647\u0627\u06cc \u0628\u0627 \u062d\u0627\u0641\u0638\u0647 \u0645\u062d\u062f\u0648\u062f \u06a9\u0647 \u0642\u0628\u0644\u0627\u064b \u0646\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0633\u062a\u0646\u062f \u0645\u062f\u0644\u200c\u0647\u0627\u06cc \u0628\u0632\u0631\u06af\u200c\u062a\u0631 \u0631\u0627 \u0627\u062c\u0631\u0627 \u06a9\u0646\u0646\u062f \u0646\u06cc\u0632 \u0627\u06cc\u062f\u0647\u200c\u0622\u0644 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u06af\u0627\u0645\u06cc \u0645\u0647\u0645 \u062f\u0631 \u062c\u0647\u062a \u062f\u0633\u062a\u0631\u0633\u06cc\u200c\u067e\u0630\u06cc\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0645\u062d\u0644\u06cc \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0627\u0633\u062a \ud83c\udf0d.",
-      "post_title": "\ud83d\ude80 Mach-1 Additive 35B: 7GB MoE hits 120 t/s on laptops",
-      "post_title_fa": "\ud83d\ude80 \u0645\u0627\u0634-\u06f1 \u0627\u062f\u062f\u06cc\u062a\u06cc\u0648 \u06f3\u06f5B: \u0645\u062f\u0644 MoE \u0628\u0627 \u062d\u062c\u0645 \u06f7GB \u0628\u0627 \u0633\u0631\u0639\u062a \u06f1\u06f2\u06f0 \u062a\u0648\u06a9\u0646 \u0628\u0631 \u062b\u0627\u0646\u06cc\u0647 \u0631\u0648\u06cc \u0644\u067e\u200c\u062a\u0627\u067e",
-      "priority": "medium",
-      "published": "2026-08-20T07:52:22+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Reddit r/LocalLLaMA",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/\"> <img alt=\"SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face\" src=\"https://external-preview.redd.it/5i0xoC-V8V4uXTRPZZuEu0qce6d2wKL0nga_2e35LCE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c077e05490f3dc7c564eb7e07b4f3c1eee6356a\" title=\"SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>They released both GGUFs &amp; custom llama.cpp fork today. 35B MOE in 7GB size which's good for Mobile &amp; Edge devices(Also low memory systems). Up to 120 t/s on Consumer Laptop.</p> <p><strong>GGUFs</strong>:</p> <ul> <li><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF\">https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF</a></li> <li><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-Multimodal-GGUF\">https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-Multimodal-GGUF</a></li> </ul> <p><strong>Custom llama.cpp fork</strong>:</p> <ul> <li><a href=\"https://github.com/SyzygyResearch/llama.cpp-mach1\">https://github.com/SyzygyResearch/llama.cpp-mach1</a> </li> </ul> <p>Their 2 weeks old tweet below.</p> <blockquote> <p><a href=\"https://xcancel.com/syzygyeng/status/2085120853302472962#m\">Yes, Laguna S2.1 and Qwen 3.8 are on the way!</a></p> </blockquote> <p>BTW Track other similar models here : <a href=\"https://www.reddit.com/r/LocalLLaMA/s/XMJ6PBfgxN\">1-bit / 2-bit / Ternary / Bitnet Models - Updates &amp; Tracking</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmttyji\"> /u/pmttyji </a> <br /> <span><a href=\"https://huggingface.co/SyzygyResearch/Mach-1-Additive-35B-GGUF\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/\">[comments]</a></span> </td></tr></table>",
-      "title": "SyzygyResearch/Mach-1-Additive-35B-GGUF \u00b7 Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtcz8t/syzygyresearchmach1additive35bgguf_hugging_face/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -99191,6 +99231,14 @@
     "source": "OpenAI News",
     "title": "Daybreak: Tools for securing every organization in the world",
     "title_norm": "daybreak tools for securing every organization in the world"
+  },
+  "b6430b81f34d2ad2da6727a81cc8a31d1a1e062e68e517df562ad22dafa24683": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268706+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "New benchmark just dropped!",
+    "title_norm": "new benchmark just dropped"
   },
   "b644fb68fc42c20a13d810b2fe9d2896754832e9c9efa208831d5ac9ee4eef64": {
     "category": "infrastructure",
@@ -130012,6 +130060,14 @@
     "title": "Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models",
     "title_norm": "eco3s complex socioeconomic system simulation via agentbased models"
   },
+  "ef915211959e2bea94aecca6a2541325cfcdaebc15fa817f97dc79dabb159f3d": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268662+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Structural Predictions for the AI Era",
+    "title_norm": "structural predictions for the ai era"
+  },
   "ef935fda21318cae55da518c0b0c1eb83df81006b9540755fdea56cb6d50a812": {
     "category": "model_release",
     "posted": false,
@@ -131035,6 +131091,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing W\u00fcrstchen: Fast Diffusion for Image Generation",
     "title_norm": "introducing w\u00fcrstchen fast diffusion for image generation"
+  },
+  "f1cb99ccd847012f7268b31067a0361cd6fd388356e529de7c2987bf8b7d2c95": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T10:53:07.268721+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "TinySearch v0.6.1 - still a lightweight web research tool for local LLMs, now with bring-your-own-browser support",
+    "title_norm": "tinysearch v061 still a lightweight web research tool for local llms now with bringyourownbrowser support"
   },
   "f1d0ef41b15e9bada74559a8871ef225e2abd4088288a5eb29601982b5fd8dcf": {
     "category": "research",
