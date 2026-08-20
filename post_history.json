@@ -16733,6 +16733,14 @@
     "title": "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
     "title_norm": "university of michigan drops firstsemester grades tocurb mental health crisis"
   },
+  "1ec1e0a5dd95adc3aaae021dfb846a228c89f12fe6840f87b94d496dc5cddde4": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364398+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I made Qwen 3.8 27B take the ACT to see if it\u2019s ready for college.",
+    "title_norm": "i made qwen 38 27b take the act to see if its ready for college"
+  },
   "1ec294ada9f40d0a169e6cf8fa1023812cdb1be3e02ba8996c8955382ac7a69b": {
     "category": "integration",
     "posted": false,
@@ -22307,6 +22315,14 @@
     "title": "that's enough internet for today. good night, friends.",
     "title_norm": "thats enough internet for today good night friends"
   },
+  "286c03f66baff58db674056e37305e516582e8b440ea40bb549d1ff107fb2d78": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364269+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Idea to reduce AI token use at large orgs",
+    "title_norm": "idea to reduce ai token use at large orgs"
+  },
   "286fad13c8f215f88a062e543154af726fba86a25059bcbfc5267cc1137464f6": {
     "category": "research",
     "posted": false,
@@ -25255,6 +25271,14 @@
     "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
     "title_norm": "ai makes weather prediction better can windborne make it lucrative"
   },
+  "2daf35a3f67c3184ecd6635da23a74bf7ba8d42a20a2e349ec264de384d7ea71": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364209+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Browser De-Slop",
+    "title_norm": "browser deslop"
+  },
   "2dbb170571f701917f2ffbe4c1f8e5d896945133419239c895b0a0548fb1630b": {
     "category": "research",
     "posted": false,
@@ -26078,6 +26102,14 @@
     "source": "arXiv cs.AI",
     "title": "LLM-Only PDDL Domain Repair with Open-Weight Models",
     "title_norm": "llmonly pddl domain repair with openweight models"
+  },
+  "2f17e3b184ca196a65d2880c312ea8fe010e3a1bcd3754185f67af49972c5d72": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364098+00:00",
+    "source": "TechCrunch AI",
+    "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
+    "title_norm": "meta ais new mac app wants you to talk to your apps"
   },
   "2f1c763575009980bde0ef885ee06637e9a6cddcf256736ce22a45126c52384c": {
     "category": "other",
@@ -37124,6 +37156,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "MindControl - llama.cpp fork to guide the reasoning process via injection during sampling",
     "title_norm": "mindcontrol llamacpp fork to guide the reasoning process via injection during sampling"
+  },
+  "43815858733e533ade4102e120b137123bf05e923bfa78043bb8422fb8e6ccb5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364293+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "LinkedIn cracks down on automated content with AI detection button",
+    "title_norm": "linkedin cracks down on automated content with ai detection button"
   },
   "43928e3158481a8205dc3d9dae373256808103c36dca395e83402c565ca9bdab": {
     "category": "research",
@@ -55677,6 +55717,14 @@
     "title": "NeuroSymActive: Differentiable Neural-Symbolic Reasoning with Active Exploration for Knowledge Graph Question Answering",
     "title_norm": "neurosymactive differentiable neuralsymbolic reasoning with active exploration for knowledge graph question answering"
   },
+  "65a270c2f827b0e8b280355363692064f50a85c4d2dbfe7776b18e5d8a3f4d02": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364330+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Google's AI photoscanner can determine body fat through selfies",
+    "title_norm": "googles ai photoscanner can determine body fat through selfies"
+  },
   "65a654198a61c868a6f214d1acb2e687a15ff572e0e563efd4fedffe469e3475": {
     "category": null,
     "posted": false,
@@ -61110,6 +61158,14 @@
     "source": "arXiv cs.AI",
     "title": "Static Pruning Across Sparse Retrieval Regimes: What Transfers, What Breaks, and What Still Helps",
     "title_norm": "static pruning across sparse retrieval regimes what transfers what breaks and what still helps"
+  },
+  "6f8bb00a85648d07201f811833dd2e18923d06f1b2d5248b509355e52ea7b4b7": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364306+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
+    "title_norm": "financial times ai hasnt gone rogue its worse than that"
   },
   "6f8e29540bebcc6f31aa336a02c706cfa701181e97797b3f63b627fd829a6b2e": {
     "category": "research",
@@ -87075,36 +87131,52 @@
       "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     },
     {
-      "category": "integration",
+      "category": "research",
       "duplicate_of": null,
-      "post_body": "\ud83d\udcac Slack is rolling out Slack Code, dedicated channels where teams can 'vibe code' with AI agents without juggling separate tools. The launch includes open, project-specific code channels with dedicated user tabs, plus features to compare coding changes and preview HTML output before shipping.\n\nIt's a bet on making AI collaboration a native part of team chat rather than a side app. For developers, this could turn Slack into a central hub for AI-assisted coding workflows. \ud83d\udcc8 With more teams adopting vibe coding, expect chat platforms to keep blurring the line between conversation and development.",
-      "post_body_fa": "\ud83d\udcac \u0627\u0633\u0644\u06a9 \u062f\u0631 \u062d\u0627\u0644 \u0639\u0631\u0636\u0647 Slack Code \u0627\u0633\u062a\u061b \u06a9\u0627\u0646\u0627\u0644\u200c\u0647\u0627\u06cc\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u06a9\u0647 \u062a\u06cc\u0645\u200c\u0647\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0628\u062f\u0648\u0646 \u062c\u0627\u0628\u0647\u200c\u062c\u0627\u06cc\u06cc \u0628\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641\u060c \u0628\u0627 \u0639\u0648\u0627\u0645\u0644 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u00ab\u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0648\u06cc\u0628\u06cc\u00bb \u0627\u0646\u062c\u0627\u0645 \u062f\u0647\u0646\u062f. \u0627\u06cc\u0646 \u0639\u0631\u0636\u0647 \u0634\u0627\u0645\u0644 \u06a9\u0627\u0646\u0627\u0644\u200c\u0647\u0627\u06cc \u0628\u0627\u0632 \u0648 \u067e\u0631\u0648\u0698\u0647\u200c\u0645\u062d\u0648\u0631 \u0628\u0627 \u062a\u0628\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc\u060c \u0628\u0647\u200c\u0647\u0645\u0631\u0627\u0647 \u0642\u0627\u0628\u0644\u06cc\u062a \u0645\u0642\u0627\u06cc\u0633\u0647 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u06a9\u062f \u0648 \u067e\u06cc\u0634\u200c\u0646\u0645\u0627\u06cc\u0634 \u062e\u0631\u0648\u062c\u06cc HTML \u0642\u0628\u0644 \u0627\u0632 \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0633\u062a.\n\n\u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u06cc\u06a9 \u0634\u0631\u0637\u200c\u0628\u0646\u062f\u06cc \u0631\u0648\u06cc \u0628\u0648\u0645\u06cc\u200c\u0633\u0627\u0632\u06cc \u0647\u0645\u06a9\u0627\u0631\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u0628\u0633\u062a\u0631 \u0686\u062a \u062a\u06cc\u0645\u06cc \u0627\u0633\u062a\u060c \u0646\u0647 \u06cc\u06a9 \u0627\u0628\u0632\u0627\u0631 \u062c\u0627\u0646\u0628\u06cc. \u0628\u0631\u0627\u06cc \u062a\u0648\u0633\u0639\u0647\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646\u060c \u0627\u0633\u0644\u06a9 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u0645\u0631\u06a9\u0632 \u0627\u0635\u0644\u06cc \u06af\u0631\u062f\u0634\u200c\u06a9\u0627\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u062f. \ud83d\udcc8 \u0628\u0627 \u067e\u0630\u06cc\u0631\u0634 \u0628\u06cc\u0634\u062a\u0631 \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0648\u06cc\u0628\u06cc\u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627\u06cc \u0686\u062a \u0647\u0645\u0686\u0646\u0627\u0646 \u0645\u0631\u0632 \u0628\u06cc\u0646 \u06af\u0641\u062a\u06af\u0648 \u0648 \u062a\u0648\u0633\u0639\u0647 \u0631\u0627 \u0645\u062d\u0648 \u06a9\u0646\u0646\u062f.",
-      "post_title": "\ud83d\ude80 Slack Code launches AI-powered vibe coding channels",
-      "post_title_fa": "\ud83d\ude80 \u0627\u0633\u0644\u06a9 \u06a9\u062f \u0628\u0627 \u06a9\u0627\u0646\u0627\u0644\u200c\u0647\u0627\u06cc \u06a9\u062f\u0646\u0648\u06cc\u0633\u06cc \u0648\u06cc\u0628\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0639\u0631\u0636\u0647 \u0634\u062f",
+      "post_body": "Security researchers have demonstrated a new attack, Cryptographic Context Injection, that smuggles malicious instructions inside encrypted text to bypass Grok's safety filters. The exploit can silently exfiltrate user data, according to Ars Technica. \ud83d\udd10 It's the latest in a growing line of jailbreaks, showing that even guardrails trained to refuse harmful requests can be tricked when content is hidden from inspection.\n\n\ud83e\udd16 The technique works because encrypted input is opaque to moderators, so the model follows instructions it appears never to have received. For anyone building on LLMs, this is a reminder \u26a0\ufe0f that safety layers are not impenetrable.",
+      "post_body_fa": "\u0645\u062d\u0642\u0642\u0627\u0646 \u0627\u0645\u0646\u06cc\u062a\u06cc \u062d\u0645\u0644\u0647\u0654 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0647 \u0646\u0627\u0645 Cryptographic Context Injection \u0631\u0627 \u0646\u0634\u0627\u0646 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u062f\u0633\u062a\u0648\u0631\u0647\u0627\u06cc \u0645\u062e\u0631\u0628 \u0631\u0627 \u062f\u0627\u062e\u0644 \u0645\u062a\u0646 \u0631\u0645\u0632\u0646\u06af\u0627\u0631\u06cc\u200c\u0634\u062f\u0647 \u0642\u0627\u0686\u0627\u0642 \u0645\u06cc\u200c\u06a9\u0646\u062f \u062a\u0627 \u0641\u06cc\u0644\u062a\u0631\u0647\u0627\u06cc \u0627\u06cc\u0645\u0646\u06cc Grok \u0631\u0627 \u062f\u0648\u0631 \u0628\u0632\u0646\u062f. \u0637\u0628\u0642 \u06af\u0632\u0627\u0631\u0634 Ars Technica\u060c \u0627\u06cc\u0646 \u0628\u0647\u0631\u0647\u200c\u0628\u0631\u062f\u0627\u0631\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u06cc\u200c\u0635\u062f\u0627 \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0631\u0627 \u062e\u0627\u0631\u062c \u06a9\u0646\u062f. \ud83d\udd10 \u0627\u06cc\u0646 \u062a\u0627\u0632\u0647\u200c\u062a\u0631\u06cc\u0646 \u0645\u0648\u0631\u062f \u0627\u0632 \u0632\u0646\u062c\u06cc\u0631\u0647\u0654 \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u062f\u0648\u0631 \u0632\u062f\u0646\u200c\u0647\u0627\u0633\u062a \u0648 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u062d\u062a\u06cc \u06af\u0627\u0631\u062f\u0631\u06cc\u0644\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0631\u0627\u06cc \u0631\u062f \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u200c\u0647\u0627\u06cc \u0645\u0636\u0631 \u0622\u0645\u0648\u0632\u0634 \u062f\u06cc\u062f\u0647\u200c\u0627\u0646\u062f\u060c \u0648\u0642\u062a\u06cc \u0645\u062d\u062a\u0648\u0627 \u0627\u0632 \u062f\u06cc\u062f \u0628\u0627\u0632\u0631\u0633\u0627\u0646 \u067e\u0646\u0647\u0627\u0646 \u0627\u0633\u062a \u0641\u0631\u06cc\u0628 \u0645\u06cc\u200c\u062e\u0648\u0631\u0646\u062f.\n\n\ud83e\udd16 \u0627\u06cc\u0646 \u0631\u0648\u0634 \u06a9\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0686\u0648\u0646 \u0648\u0631\u0648\u062f\u06cc \u0631\u0645\u0632\u0646\u06af\u0627\u0631\u06cc\u200c\u0634\u062f\u0647 \u0628\u0631\u0627\u06cc \u0646\u0627\u0638\u0631\u0627\u0646 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644\u200c\u062f\u06cc\u062f\u0646 \u0627\u0633\u062a \u0648 \u0645\u062f\u0644 \u062f\u0633\u062a\u0648\u0631\u0647\u0627\u06cc\u06cc \u0631\u0627 \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u06a9\u0646\u062f \u06a9\u0647 \u0627\u0646\u06af\u0627\u0631 \u0647\u0631\u06af\u0632 \u062f\u0631\u06cc\u0627\u0641\u062a \u0646\u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0628\u0631\u0627\u06cc \u0647\u0631 \u06a9\u0633\u06cc \u06a9\u0647 \u0631\u0648\u06cc LLM \u0628\u0631\u0646\u0627\u0645\u0647 \u0645\u06cc\u200c\u0633\u0627\u0632\u062f\u060c \u0627\u06cc\u0646 \u06cc\u0627\u062f\u0622\u0648\u0631\u06cc \u0627\u0633\u062a \u26a0\ufe0f \u06a9\u0647 \u0644\u0627\u06cc\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0645\u0646\u06cc \u0646\u0641\u0648\u0630\u0646\u0627\u067e\u0630\u06cc\u0631 \u0646\u06cc\u0633\u062a\u0646\u062f.",
+      "post_title": "\ud83d\udee1\ufe0f New cryptographic context injection attack makes Grok leak user data",
+      "post_title_fa": "\ud83d\udee1\ufe0f \u062d\u0645\u0644\u0647\u0654 \u062c\u062f\u06cc\u062f \u062a\u0632\u0631\u06cc\u0642 \u0645\u062a\u0646 \u0631\u0645\u0632\u0646\u06af\u0627\u0631\u06cc\u200c\u0634\u062f\u0647 \u0628\u0627\u0639\u062b \u0646\u0634\u062a \u062f\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 Grok \u0645\u06cc\u200c\u0634\u0648\u062f",
       "priority": "medium",
-      "published": "2026-08-20T12:00:00+00:00",
+      "published": "2026-08-20T13:00:35+00:00",
       "reject_reason": null,
       "relevant": true,
-      "source": "The Verge AI",
-      "summary": "Slack is introducing dedicated channels where teams can vibe code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you [&#8230;]",
-      "title": "Slack is launching collaborative vibe coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
+      "source": "Ars Technica AI",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
     },
     {
-      "category": "policy",
+      "category": "other",
       "duplicate_of": null,
-      "post_body": "\ud83d\udcb8 A new Reuters report shows crypto, AI, and betting companies are pouring record amounts into the 2026 US midterm elections. These 'new kingmakers' are reshaping campaign finance, with AI firms specifically spending heavily to influence tech policy and regulation.\n\nThe surge comes as Washington weighs rules on AI safety, chips, and data centers. \ud83c\udf0d This matters because corporate money could steer the next wave of AI legislation, from liability rules to open-source policies. \ud83d\udcca Expect AI companies to become permanent players in US politics, not just donors.",
-      "post_body_fa": "\ud83d\udcb8 \u06af\u0632\u0627\u0631\u0634 \u062c\u062f\u06cc\u062f \u0631\u0648\u06cc\u062a\u0631\u0632 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u06a9\u0631\u06cc\u067e\u062a\u0648\u060c \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0634\u0631\u0637\u200c\u0628\u0646\u062f\u06cc \u0645\u0628\u0627\u0644\u063a \u0628\u06cc\u200c\u0633\u0627\u0628\u0642\u0647\u200c\u0627\u06cc \u0631\u0627 \u0628\u0647 \u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0645\u06cc\u0627\u0646\u200c\u062f\u0648\u0631\u0647\u200c\u0627\u06cc \u06f2\u06f0\u06f2\u06f6 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0633\u0631\u0627\u0632\u06cc\u0631 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0627\u06cc\u0646 \u00ab\u067e\u0627\u062f\u0634\u0627\u0647\u200c\u0633\u0627\u0632\u0627\u0646 \u062c\u062f\u06cc\u062f\u00bb \u062f\u0631 \u062d\u0627\u0644 \u062a\u063a\u06cc\u06cc\u0631 \u0634\u06a9\u0644 \u062a\u0623\u0645\u06cc\u0646 \u0645\u0627\u0644\u06cc \u06a9\u0645\u067e\u06cc\u0646\u200c\u0647\u0627 \u0647\u0633\u062a\u0646\u062f \u0648 \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647\u200c\u0637\u0648\u0631 \u062e\u0627\u0635 \u0628\u0631\u0627\u06cc \u062a\u0623\u062b\u06cc\u0631\u06af\u0630\u0627\u0631\u06cc \u0628\u0631 \u0633\u06cc\u0627\u0633\u062a\u200c\u0647\u0627 \u0648 \u0645\u0642\u0631\u0631\u0627\u062a \u0641\u0646\u0627\u0648\u0631\u06cc \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0633\u0646\u06af\u06cc\u0646\u06cc \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.\n\n\u0627\u06cc\u0646 \u0645\u0648\u062c \u062f\u0631 \u062d\u0627\u0644\u06cc \u0631\u062e \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0627\u06cc\u0645\u0646\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u060c \u062a\u0631\u0627\u0634\u0647\u200c\u0647\u0627 \u0648 \u0645\u0631\u0627\u06a9\u0632 \u062f\u0627\u062f\u0647 \u0631\u0627 \u0628\u0631\u0631\u0633\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f. \ud83c\udf0d \u0627\u0647\u0645\u06cc\u062a \u0622\u0646 \u062f\u0631 \u0627\u06cc\u0646 \u0627\u0633\u062a \u06a9\u0647 \u067e\u0648\u0644 \u0634\u0631\u06a9\u062a\u06cc \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0645\u0648\u062c \u0628\u0639\u062f\u06cc \u0642\u0648\u0627\u0646\u06cc\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0647\u062f\u0627\u06cc\u062a \u06a9\u0646\u062f\u060c \u0627\u0632 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0645\u0633\u0626\u0648\u0644\u06cc\u062a \u062a\u0627 \u0633\u06cc\u0627\u0633\u062a\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u200c\u0628\u0627\u0632. \ud83d\udcca \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u06cc\u200c\u0631\u0648\u062f \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0647 \u0628\u0627\u0632\u06cc\u06af\u0631\u0627\u0646 \u062f\u0627\u0626\u0645\u06cc \u0633\u06cc\u0627\u0633\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0628\u062f\u06cc\u0644 \u0634\u0648\u0646\u062f\u060c \u0646\u0647 \u0641\u0642\u0637 \u0627\u0647\u062f\u0627\u06a9\u0646\u0646\u062f\u06af\u0627\u0646.",
-      "post_title": "\u2696\ufe0f AI, crypto firms fuel record US midterm spending",
-      "post_title_fa": "\u2696\ufe0f \u0634\u0631\u06a9\u062a\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u06a9\u0631\u06cc\u067e\u062a\u0648 \u0647\u0632\u06cc\u0646\u0647 \u0631\u06a9\u0648\u0631\u062f\u0634\u06a9\u0646 \u0645\u06cc\u0627\u0646\u200c\u062f\u0648\u0631\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u0631\u0642\u0645 \u0632\u062f\u0646\u062f",
+      "post_body": "LinkedIn is cracking down on automated, low-effort posts with a new reporting option that flags content as 'seems like AI slop.' The feature gives users a direct way to mark suspected AI-generated spam as they scroll. \ud83d\udccb It's one of the first major professional networks to add such an explicit AI-content signal.\n\n\ud83e\udd16 For the many creators now using AI tools to draft posts, this could reshape what LinkedIn's algorithm rewards. The move reflects a broader platform backlash \ud83e\uddd0 against generic AI slop.",
+      "post_body_fa": "\u0644\u06cc\u0646\u06a9\u062f\u06cc\u0646 \u0628\u0627 \u06cc\u06a9 \u06af\u0632\u06cc\u0646\u0647\u0654 \u06af\u0632\u0627\u0631\u0634\u200c\u062f\u0647\u06cc \u062c\u062f\u06cc\u062f \u06a9\u0647 \u0645\u062d\u062a\u0648\u0627 \u0631\u0627 \u0628\u0647\u200c\u0639\u0646\u0648\u0627\u0646 \u00ab\u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0645\u062d\u062a\u0648\u0627\u06cc \u0628\u06cc\u200c\u06a9\u06cc\u0641\u06cc\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc\u00bb \u0639\u0644\u0627\u0645\u062a \u0645\u06cc\u200c\u0632\u0646\u062f\u060c \u0628\u0627 \u067e\u0633\u062a\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0648 \u06a9\u0645\u200c\u06a9\u06cc\u0641\u06cc\u062a \u0645\u0642\u0627\u0628\u0644\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0631\u0627\u0647\u06cc \u0645\u0633\u062a\u0642\u06cc\u0645 \u0645\u06cc\u200c\u062f\u0647\u062f \u062a\u0627 \u0627\u0633\u067e\u0645\u200c\u0647\u0627\u06cc \u0645\u0634\u06a9\u0648\u06a9 \u0628\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0631\u0627 \u0647\u0646\u06af\u0627\u0645 \u0645\u0631\u0648\u0631 \u0639\u0644\u0627\u0645\u062a\u200c\u06af\u0630\u0627\u0631\u06cc \u06a9\u0646\u0646\u062f. \ud83d\udccb \u0627\u06cc\u0646 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u0648\u0644\u06cc\u0646 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u062d\u0631\u0641\u0647\u200c\u0627\u06cc \u0628\u0632\u0631\u06af \u0627\u0633\u062a \u06a9\u0647 \u0686\u0646\u06cc\u0646 \u0633\u06cc\u06af\u0646\u0627\u0644 \u0635\u0631\u06cc\u062d\u06cc \u0628\u0631\u0627\u06cc \u0645\u062d\u062a\u0648\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u200c\u06a9\u0646\u062f.\n\n\ud83e\udd16 \u0628\u0631\u0627\u06cc \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0632 \u06a9\u0631\u06cc\u062a\u0648\u0631\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u062d\u0627\u0644\u0627 \u0628\u0627 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u067e\u0633\u062a \u0645\u06cc\u200c\u0646\u0648\u06cc\u0633\u0646\u062f\u060c \u0627\u06cc\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0639\u06cc\u06cc\u0646 \u06a9\u0646\u062f \u06a9\u0647 \u0627\u0644\u06af\u0648\u0631\u06cc\u062a\u0645 \u0644\u06cc\u0646\u06a9\u062f\u06cc\u0646 \u0686\u0647 \u0686\u06cc\u0632\u06cc \u0631\u0627 \u067e\u0627\u062f\u0627\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f. \u0627\u06cc\u0646 \u062d\u0631\u06a9\u062a \u0628\u0627\u0632\u062a\u0627\u0628 \u0648\u0627\u06a9\u0646\u0634 \u06af\u0633\u062a\u0631\u062f\u0647\u200c\u062a\u0631 \u067e\u0644\u062a\u0641\u0631\u0645\u200c\u0647\u0627 \ud83e\uddd0 \u0628\u0647 \u0645\u062d\u062a\u0648\u0627\u06cc \u0628\u06cc\u200c\u06a9\u06cc\u0641\u06cc\u062a \u062a\u0648\u0644\u06cc\u062f\u0634\u062f\u0647 \u0628\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a.",
+      "post_title": "\ud83d\udd75\ufe0f LinkedIn adds AI slop detection button to flag automated posts",
+      "post_title_fa": "\ud83d\udd75\ufe0f \u0644\u06cc\u0646\u06a9\u062f\u06cc\u0646 \u062f\u06a9\u0645\u0647\u0654 \u062a\u0634\u062e\u06cc\u0635 \u0645\u062d\u062a\u0648\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f",
       "priority": "medium",
-      "published": "2026-08-20T11:52:42+00:00",
+      "published": "2026-08-20T12:42:42+00:00",
       "reject_reason": null,
       "relevant": true,
       "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/\">https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373363\">https://news.ycombinator.com/item?id=49373363</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-      "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/"
+      "summary": "<p>Article URL: <a href=\"https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3\">https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373851\">https://news.ycombinator.com/item?id=49373851</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+      "title": "LinkedIn cracks down on automated content with AI detection button",
+      "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3"
+    },
+    {
+      "category": "model_release",
+      "duplicate_of": null,
+      "post_body": "Meta is rolling out a new Mac app that lets you control and dictate to your applications by voice. The company says its Muse Spark model handles the dictation, bringing on-device AI speech to the desktop. \ud83d\udde3\ufe0f The app appears aimed at making everyday workflows faster \u26a1 without switching tools.\n\nIt also puts Meta in more direct competition with OpenAI and Apple in the AI assistant space. \ud83d\udcbb For Mac users, this could be the simplest way yet to talk to their favorite apps.",
+      "post_body_fa": "\u0645\u062a\u0627 \u062f\u0631 \u062d\u0627\u0644 \u0639\u0631\u0636\u0647\u0654 \u06cc\u06a9 \u0627\u067e \u0645\u06a9 \u062c\u062f\u06cc\u062f \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u0627 \u0635\u062f\u0627 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc\u062a\u0627\u0646 \u0631\u0627 \u06a9\u0646\u062a\u0631\u0644 \u0648 \u0628\u0647 \u0622\u0646\u200c\u0647\u0627 \u062f\u06cc\u06a9\u062a\u0647 \u06a9\u0646\u06cc\u062f. \u0634\u0631\u06a9\u062a \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0645\u062f\u0644 Muse Spark \u0627\u06cc\u0646 \u0642\u0627\u0628\u0644\u06cc\u062a \u062f\u06cc\u06a9\u062a\u0647 \u0631\u0627 \u0627\u062c\u0631\u0627 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0635\u0648\u062a\u06cc \u0631\u0627 \u0628\u0647 \u062f\u0633\u06a9\u062a\u0627\u067e \u0645\u06cc\u200c\u0622\u0648\u0631\u062f. \ud83d\udde3\ufe0f \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u062f \u0627\u06cc\u0646 \u0627\u067e \u0647\u062f\u0641\u0634 \u0633\u0631\u0639\u062a \u0628\u062e\u0634\u06cc\u062f\u0646 \u0628\u0647 \u06a9\u0627\u0631\u0647\u0627\u06cc \u0631\u0648\u0632\u0645\u0631\u0647 \u26a1 \u0628\u062f\u0648\u0646 \u062c\u0627\u0628\u0647\u200c\u062c\u0627\u06cc\u06cc \u0628\u06cc\u0646 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u0633\u062a.\n\n\u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u062a\u0627 \u0631\u0627 \u062f\u0631 \u0631\u0642\u0627\u0628\u062a \u0645\u0633\u062a\u0642\u06cc\u0645\u200c\u062a\u0631\u06cc \u0628\u0627 OpenAI \u0648 \u0627\u067e\u0644 \u062f\u0631 \u062d\u0648\u0632\u0647\u0654 \u062f\u0633\u062a\u06cc\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f. \ud83d\udcbb \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0645\u06a9\u060c \u0627\u06cc\u0646 \u0634\u0627\u06cc\u062f \u0633\u0627\u062f\u0647\u200c\u062a\u0631\u06cc\u0646 \u0631\u0627\u0647 \u0628\u0631\u0627\u06cc \u0635\u062d\u0628\u062a \u0628\u0627 \u0627\u067e\u200c\u0647\u0627\u06cc \u0645\u062d\u0628\u0648\u0628\u200c\u0634\u0627\u0646 \u0628\u0627\u0634\u062f.",
+      "post_title": "\ud83d\ude80 Meta launches Mac app with AI dictation powered by Muse Spark",
+      "post_title_fa": "\ud83d\ude80 \u0645\u062a\u0627 \u0627\u067e \u0645\u06a9 \u062e\u0648\u062f \u0631\u0627 \u0628\u0627 \u062f\u06cc\u06a9\u062a\u0647\u0654 Muse Spark \u0639\u0631\u0636\u0647 \u06a9\u0631\u062f",
+      "priority": "medium",
+      "published": "2026-08-20T12:11:57+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "TechCrunch AI",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -92492,6 +92564,14 @@
     "source": "Hacker News AI keyword",
     "title": "Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161",
     "title_norm": "oracle vm virtualbox bug discovered by ai cve202660161"
+  },
+  "a9e7d80754e6f186f92de6d15c8c5bab78734f682d79367822aee2c65d8767ea": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364185+00:00",
+    "source": "Ars Technica AI",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "title_norm": "grok exfiltrates user data when malicious instructions are encrypted"
   },
   "a9e8402080f6bab810e0f5e10cbb8467a42ad06cfb39c7e6c45c1421c184490e": {
     "category": "model_release",
@@ -104217,6 +104297,14 @@
     "title": "Arnold: A multi-task, multi-embodiment muscle transformer policy",
     "title_norm": "arnold a multitask multiembodiment muscle transformer policy"
   },
+  "beb13dba8a15b4ffcb371f35911ffb6fef39dd319bdb17b375b6dd3b4e788d52": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364258+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Risk Engineering",
+    "title_norm": "risk engineering"
+  },
   "beb3da31644bd2abcbe24676f3b0c35c80260a364335c47a963fa2cf0c16a526": {
     "category": "other",
     "posted": false,
@@ -104922,6 +105010,14 @@
     "source": "arXiv cs.CL",
     "title": "Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation",
     "title_norm": "stagereplay divergence follows the kv cache fixedprefix precision controls and bidirectional cache transplantation"
+  },
+  "bfe4f29a2df88b2670c5fcd68bc572048426332c1b10231f3652c9e19465cf93": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364340+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What AI automations have you kept running in production?",
+    "title_norm": "ask hn what ai automations have you kept running in production"
   },
   "bff6a1234dac7b15201c655e58f9fe3cff317a7950ee275e95c6a0f198e73756": {
     "category": "other",
@@ -113830,6 +113926,14 @@
     "source": "arXiv cs.AI",
     "title": "DSTFView: Multi-View Cloud-Edge Workload Forecasting with Dual-Input Spatio-Temporal-Frequency Modeling",
     "title_norm": "dstfview multiview cloudedge workload forecasting with dualinput spatiotemporalfrequency modeling"
+  },
+  "d0effe015763bc556ddc514cfd17c5fface805ef9d4506084977212546b31634": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364318+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+    "title_norm": "ai agent suggested installing a malware package engineer almost took its advice"
   },
   "d0f4ceba8568696fbb45c2add84d134ffb32bb0d3eeee719fd0cab3c9c751cf6": {
     "category": "community_signal",
@@ -125719,6 +125823,14 @@
     "title": "AI Automation Without the Hype",
     "title_norm": "ai automation without the hype"
   },
+  "e716395f6bcd4fb34adfd8074c9441aa7ac7e356df6befb05c9094894083352e": {
+    "category": "model_release",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364222+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "title_norm": "show hn i trained a 125m model to autocomplete piano ondevice"
+  },
   "e7187a004b7051c2ab1351861c51ec535ae6f61244cfa0cddbe330e86b36fae5": {
     "category": "other",
     "posted": false,
@@ -132489,6 +132601,14 @@
     "title": "ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover",
     "title_norm": "impactho importanceaware kv cache transfer for multiuser edge llm handover"
   },
+  "f42f3d2240a9ff9dce4a3596819d860e39dba0458ad8e0a8e453aa03b217873c": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364235+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Australia passes law to levy tech giants that fail to pay for local news",
+    "title_norm": "australia passes law to levy tech giants that fail to pay for local news"
+  },
   "f43e9d407650ba609e2a852e3d65edcc95a58bd22dda2cf1ddce74e531833c3c": {
     "category": "other",
     "posted": false,
@@ -135289,6 +135409,14 @@
     "title": "SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads",
     "title_norm": "smart llmaugmented hybrid retrieval for dynamic product ads"
   },
+  "f987f977374481b4c327f6558ef1c94bd962f1cdc4d9d44e065e54aa7a44d306": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364247+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+    "title_norm": "seeing beyond bmi estimating cardiometabolic risk with smartphone imagery"
+  },
   "f989fb854f984397b54015f1fd1949347cfbb4ebb1458b49a97fb7467be5dfcc": {
     "category": "model_release",
     "posted": false,
@@ -135568,6 +135696,14 @@
     "source": "arXiv cs.AI",
     "title": "Multimodal Model Diffing for Feature Discovery and Control",
     "title_norm": "multimodal model diffing for feature discovery and control"
+  },
+  "f9fe3d897b8ac3f627c73a1e3de68cee763eefdcf5cb43ec3de16e52ec75492f": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T13:15:43.364356+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "[Draft - Open PR] AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 \u00b7 Pull Request #27402 \u00b7 ggml-org/llama.cpp",
+    "title_norm": "draft open pr avx2 speed up large batch size prompt processing of iq models by bartowski1182 pull request 27402 ggmlorgllamacpp"
   },
   "f9ff221789e0942ded4a02e1f52be26f5aaab06ad877ede8e216af949dcb07cc": {
     "category": "model_release",
