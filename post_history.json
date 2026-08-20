@@ -26521,6 +26521,14 @@
     "title": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
     "title_norm": "arc fair relative advantage comparison in openended realworld interaction"
   },
+  "301da6d296537e2f9d263d4dc5ad405c39d349d03cedcaf9aad2b4d7073446bd": {
+    "category": "policy",
+    "posted": false,
+    "seen_at": "2026-08-20T07:50:57.447286+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Florida police officer accused of using Flock AI cameras",
+    "title_norm": "florida police officer accused of using flock ai cameras"
+  },
   "30200b1ff5fb0d4924a7a307bada57379198047b562f026ba598054f067c7d45": {
     "category": "research",
     "posted": false,
@@ -64853,6 +64861,14 @@
     "title": "Unified Pedestrian Path Prediction Using Inverse Reinforcement Learning",
     "title_norm": "unified pedestrian path prediction using inverse reinforcement learning"
   },
+  "768caf5c5ed83c3857a364b45fa42f5a94d467376ce0d394f31ec668a4eb59ab": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T07:50:57.447382+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
+    "title_norm": "qwen 38 27b kv f16 vs q8_0 are not equivalents"
+  },
   "768cdbbcb5c994326ac5a7bf4c34d7d9305f0f965790489338544df239d100a1": {
     "category": "research",
     "posted": false,
@@ -86877,6 +86893,22 @@
       "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
       "title": "Etched\u2019s valuation doubles to $21B in a month",
       "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+    },
+    {
+      "category": "policy",
+      "duplicate_of": null,
+      "post_body": "\ud83d\ude94 A Florida police officer is accused of using Flock Safety's AI-powered license-plate cameras to track his ex-wife 717 times over several months. The alleged surveillance went far beyond official police work, according to investigators, and led to criminal charges and his arrest. \ud83d\udccb Court documents reportedly show the officer repeatedly queried the automated camera network to monitor her movements.\n\n\ud83d\udd0d This case shows how AI surveillance infrastructure can be abused by insiders. As cities expand networks like Flock, stronger access controls and independent audits are becoming urgent. \u2696\ufe0f It also fuels the growing debate over regulating police use of AI tools.",
+      "post_body_fa": "\ud83d\ude94 \u06cc\u06a9 \u0627\u0641\u0633\u0631 \u067e\u0644\u06cc\u0633 \u062f\u0631 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0645\u062a\u0647\u0645 \u0627\u0633\u062a \u06a9\u0647 \u0627\u0632 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u067e\u0644\u0627\u06a9\u200c\u062e\u0648\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Flock Safety \u0628\u0631\u0627\u06cc \u062a\u0639\u0642\u06cc\u0628 \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642\u0634 \u06f7\u06f1\u06f7 \u0628\u0627\u0631 \u062f\u0631 \u0686\u0646\u062f \u0645\u0627\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0628\u0647 \u06af\u0641\u062a\u0647 \u0628\u0627\u0632\u0631\u0633\u0627\u0646\u060c \u0627\u06cc\u0646 \u0646\u0638\u0627\u0631\u062a\u200c\u0647\u0627 \u0641\u0631\u0627\u062a\u0631 \u0627\u0632 \u0648\u0638\u0627\u06cc\u0641 \u067e\u0644\u06cc\u0633\u06cc \u0628\u0648\u062f \u0648 \u0628\u0647 \u0627\u062a\u0647\u0627\u0645\u0627\u062a \u06a9\u06cc\u0641\u0631\u06cc \u0648 \u0628\u0627\u0632\u062f\u0627\u0634\u062a \u0627\u0648 \u0627\u0646\u062c\u0627\u0645\u06cc\u062f. \ud83d\udccb \u0627\u0633\u0646\u0627\u062f \u062f\u0627\u062f\u06af\u0627\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0627\u0641\u0633\u0631 \u0628\u0627\u0631\u0647\u0627 \u0627\u0632 \u0634\u0628\u06a9\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0631\u0627\u06cc \u0631\u062f\u06cc\u0627\u0628\u06cc \u0631\u0641\u062a\u200c\u0648\u0622\u0645\u062f \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642\u0634 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a.\n\n\ud83d\udd0d \u0627\u06cc\u0646 \u067e\u0631\u0648\u0646\u062f\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u06a9\u0647 \u0632\u06cc\u0631\u0633\u0627\u062e\u062a \u0646\u0638\u0627\u0631\u062a \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0686\u06af\u0648\u0646\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0648\u0633\u0637 \u0627\u0641\u0631\u0627\u062f \u062f\u0627\u062e\u0644\u06cc \u0645\u0648\u0631\u062f \u0633\u0648\u0621\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0642\u0631\u0627\u0631 \u06af\u06cc\u0631\u062f. \u0628\u0627 \u06af\u0633\u062a\u0631\u0634 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f Flock \u062f\u0631 \u0634\u0647\u0631\u0647\u0627\u060c \u06a9\u0646\u062a\u0631\u0644 \u062f\u0633\u062a\u0631\u0633\u06cc \u0633\u062e\u062a\u200c\u06af\u06cc\u0631\u0627\u0646\u0647\u200c\u062a\u0631 \u0648 \u062d\u0633\u0627\u0628\u0631\u0633\u06cc \u0645\u0633\u062a\u0642\u0644 \u0628\u0647 \u06cc\u06a9 \u0636\u0631\u0648\u0631\u062a \u0641\u0648\u0631\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a. \u2696\ufe0f \u0627\u06cc\u0646 \u0645\u0627\u062c\u0631\u0627 \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0647 \u0628\u062d\u062b \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0645\u062d\u062f\u0648\u062f \u06a9\u0631\u062f\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u067e\u0644\u06cc\u0633 \u0627\u0632 \u0627\u0628\u0632\u0627\u0631\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0627\u0645\u0646 \u0645\u06cc\u200c\u0632\u0646\u062f.",
+      "post_title": "\u2696\ufe0f Florida officer accused of stalking ex-wife via Flock AI cameras",
+      "post_title_fa": "\u2696\ufe0f \u0627\u0641\u0633\u0631 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0645\u062a\u0647\u0645 \u0628\u0647 \u062a\u0639\u0642\u06cc\u0628 \u0647\u0645\u0633\u0631 \u0633\u0627\u0628\u0642 \u0628\u0627 \u062f\u0648\u0631\u0628\u06cc\u0646\u200c\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Flock",
+      "priority": "low",
+      "published": "2026-08-20T07:39:22+00:00",
+      "reject_reason": null,
+      "relevant": true,
+      "source": "Hacker News AI keyword",
+      "summary": "<p>Article URL: <a href=\"https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/\">https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371587\">https://news.ycombinator.com/item?id=49371587</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "title": "Florida police officer accused of using Flock AI cameras",
+      "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/"
     }
   ],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -97673,6 +97705,14 @@
     "title": "The Youth AI Privacy Act's Privacy Paradox",
     "title_norm": "the youth ai privacy acts privacy paradox"
   },
+  "b3a28205e176413f5de3b1c68eae06a097d724f75441d012e00466a7f752ec78": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T07:50:57.447357+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+    "title_norm": "it used to be our imperfect bodies that made us insecure with ai its our minds"
+  },
   "b3a5c47a73806bedeaa70233950795241c8f9a6281250b0dfdf44e73e6683505": {
     "category": "other",
     "posted": false,
@@ -103430,6 +103470,14 @@
     "source": "arXiv cs.CL",
     "title": "CHiPS: Character Histograms and Positional Signals for Lightweight Authorship Attribution in Romanian Texts",
     "title_norm": "chips character histograms and positional signals for lightweight authorship attribution in romanian texts"
+  },
+  "bde23da97d78fd5e70c509a97126ae60010adc95a97faed4bf7951a2254a36e5": {
+    "category": "other",
+    "posted": false,
+    "seen_at": "2026-08-20T07:50:57.447399+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "3 days benchmarking most llama.cpp flags on my weird 40gb vram laptop + tb4 egpu setup. Got +70% generation, +40% prefill, 60k more context, and filed a bug in llama around MTP. What I learned.",
+    "title_norm": "3 days benchmarking most llamacpp flags on my weird 40gb vram laptop tb4 egpu setup got 70 generation 40 prefill 60k more context and filed a bug in llama around mtp what i learned"
   },
   "bde3609f40bf980dc35d568f63c31c497d85ca67020c2ac4702b555bd7bc995e": {
     "category": "other",
