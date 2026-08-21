@@ -39377,7 +39377,13 @@
   },
   "4b3fa3231f1ae1552344a8ddd25f9a22b8a11e7ac1533d36e3ed6fd269777904": {
     "category": "policy",
-    "posted": false,
+    "message_id": 255,
+    "message_id_fa": 229,
+    "post_title": "\ud83d\udcc9 Youth job losses in South Korea concentrated in AI-exposed fields",
+    "post_title_fa": "\ud83d\udcc9 \u062f\u0631 \u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc \u06f9\u06f4\u066a \u0628\u06cc\u06a9\u0627\u0631\u06cc \u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0635\u0646\u0627\u06cc\u0639 \u062f\u0631 \u0645\u0639\u0631\u0636 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a",
+    "posted": true,
+    "posted_at": "2026-08-21T12:04:16.917127+00:00",
+    "priority": "high",
     "seen_at": "2026-08-19T14:57:26.964132+00:00",
     "source": "Hacker News AI keyword",
     "title": "South Korea youth employment falls sharply in AI-exposed industries, BOK says",
@@ -51625,6 +51631,14 @@
     "title": "I ran Muse Glimmer @ 1M context - All tests passed.",
     "title_norm": "i ran muse glimmer 1m context all tests passed"
   },
+  "6283388dbb7602833cd21dbed317b117fc96aa34786c6130e31a892d0c1f5f4d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057458+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price\u2013CEO Says Profits Could Rise 50%",
+    "title_norm": "delta use ai to cut costs set diff ticket priceceo says profits could rise 50"
+  },
   "628364acf44390038f4d48d6258b205d965b81814aebc9081e67795dc6fc94f4": {
     "category": "research",
     "posted": false,
@@ -62009,6 +62023,14 @@
     "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
     "title_norm": "qwen 38 27b kv f16 vs q8_0 are not equivalents"
   },
+  "76900827bd8bbfff398d6c8f0aa43bfe18128f59d845a59bc4f3689b51e7e07d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057313+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "title_norm": "from atari to eve online building on 15 years of ai research in games"
+  },
   "76963b852e28c23f9b1be3422b8479721b08b01ceba4d5d7b05c2ce8fe7e09c4": {
     "category": "other",
     "message_id": 220,
@@ -68002,6 +68024,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI is changing how we code. Is this positive?",
     "title_norm": "ai is changing how we code is this positive"
+  },
+  "825cc28280e6d7fedfef5d91a43a4cab1c3b179ef8dc5f3925f2ec52135dc603": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057435+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I'm Becoming AI-Blind",
+    "title_norm": "im becoming aiblind"
   },
   "826087820f6092d16e373908334bce154b9cfe19c052dfa9fe4695f578f7682e": {
     "category": "other",
@@ -81453,6 +81483,14 @@
     "title": "Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges",
     "title_norm": "multiturn conversational ai from text to multimodal interaction data models evaluation and open challenges"
   },
+  "9d9e4fbe80b29906125ae8d95500a6f0a6f6871ab5350a08b59e8c0e7528785b": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057393+00:00",
+    "source": "Anthropic News (unofficial mirror)",
+    "title": "Anthropic is donating another $20 million to Public First Action",
+    "title_norm": "anthropic is donating another 20 million to public first action"
+  },
   "9d9f3fb90c99e4354e041bbdf9452d14b3486f59bfd2190f6d706275c929deb5": {
     "category": null,
     "posted": false,
@@ -82717,33 +82755,17 @@
   },
   "_meta": {
     "date": "2026-08-21",
-    "posts_today": 3,
+    "posts_today": 4,
     "posts_today_by_category": {
       "other": 1,
-      "policy": 1,
+      "policy": 2,
       "research": 1
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-21-12"
+    "last_slot": "2026-08-21-14"
   },
   "_queue": [
-    {
-      "category": "policy",
-      "duplicate_of": null,
-      "post_body": "\ud83c\udfdb\ufe0f The Bank of Korea reports that 94% of youth job losses over the past four years were in AI-exposed industries. Sectors like finance, customer service, and clerical work are seeing the biggest drops.\n\n\ud83d\udcca The findings add hard data to the debate on AI-driven unemployment. \u2696\ufe0f Policymakers now face pressure to build retraining and social safety nets.",
-      "post_body_fa": "\ud83c\udfdb\ufe0f \u0628\u0627\u0646\u06a9 \u06a9\u0631\u0647 \u06af\u0632\u0627\u0631\u0634 \u0645\u06cc\u062f\u0647\u062f \u06a9\u0647 \u06f9\u06f4\u066a \u06a9\u0627\u0647\u0634 \u0627\u0634\u062a\u063a\u0627\u0644 \u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0686\u0647\u0627\u0631 \u0633\u0627\u0644 \u06af\u0630\u0634\u062a\u0647 \u062f\u0631 \u0635\u0646\u0627\u06cc\u0639 \u062f\u0631 \u0645\u0639\u0631\u0636 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0648\u062f\u0647 \u0627\u0633\u062a. \u0628\u062e\u0634\u0647\u0627\u06cc\u06cc \u0645\u0627\u0646\u0646\u062f \u0645\u0627\u0644\u06cc\u060c \u062e\u062f\u0645\u0627\u062a \u0645\u0634\u062a\u0631\u06cc \u0648 \u06a9\u0627\u0631\u0647\u0627\u06cc \u062f\u0641\u062a\u0631\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc\u0646 \u06a9\u0627\u0647\u0634 \u0631\u0627 \u062f\u06cc\u062f\u0647\u0627\u0646\u062f.\n\n\ud83d\udcca \u0627\u06cc\u0646 \u06cc\u0627\u0641\u062a\u0647\u0647\u0627 \u062f\u0627\u062f\u0647\u0647\u0627\u06cc \u0639\u06cc\u0646\u06cc \u0628\u0647 \u0628\u062d\u062b \u0628\u06cc\u06a9\u0627\u0631\u06cc \u0646\u0627\u0634\u06cc \u0627\u0632 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0636\u0627\u0641\u0647 \u0645\u06cc\u06a9\u0646\u0646\u062f. \u2696\ufe0f \u0633\u06cc\u0627\u0633\u062a\u06af\u0630\u0627\u0631\u0627\u0646 \u0627\u06a9\u0646\u0648\u0646 \u0628\u0631\u0627\u06cc \u0627\u06cc\u062c\u0627\u062f \u0628\u0631\u0646\u0627\u0645\u0647\u0647\u0627\u06cc \u0628\u0627\u0632\u0622\u0645\u0648\u0632\u06cc \u0648 \u0634\u0628\u06a9\u0647\u0647\u0627\u06cc \u0627\u06cc\u0645\u0646\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u062a\u062d\u062a \u0641\u0634\u0627\u0631 \u0647\u0633\u062a\u0646\u062f.",
-      "post_title": "\ud83d\udcc9 Youth job losses in South Korea concentrated in AI-exposed fields",
-      "post_title_fa": "\ud83d\udcc9 \u062f\u0631 \u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc \u06f9\u06f4\u066a \u0628\u06cc\u06a9\u0627\u0631\u06cc \u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0635\u0646\u0627\u06cc\u0639 \u062f\u0631 \u0645\u0639\u0631\u0636 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0627\u0633\u062a",
-      "priority": "high",
-      "published": "2026-08-19T13:56:32+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646\">https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361692\">https://news.ycombinator.com/item?id=49361692</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-      "title": "South Korea youth employment falls sharply in AI-exposed industries, BOK says",
-      "url": "https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646"
-    },
     {
       "category": "policy",
       "duplicate_of": null,
@@ -88970,6 +88992,14 @@
     "source": "Hacker News AI keyword",
     "title": "A live list of bounties whose sponsors explicitly allow AI agents",
     "title_norm": "a live list of bounties whose sponsors explicitly allow ai agents"
+  },
+  "ab71011971bcbd35def9e4c078d67ae984a4b4c70f718a72442cfb975fe22984": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057533+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "[Benchmark] DFlash2 vs MTP comparison. 5090RTX, Qwen 3.8 27B, Dynamic v3 GGUF, llama.cpp. Token generation, latency and available context.",
+    "title_norm": "benchmark dflash2 vs mtp comparison 5090rtx qwen 38 27b dynamic v3 gguf llamacpp token generation latency and available context"
   },
   "ab7615326c1049ecf6f348244ea2af4a6bb54d1671fb155da7c8cfb522771f1e": {
     "category": "research",
@@ -97654,6 +97684,14 @@
     "source": "Hacker News Frontpage",
     "title": "Optimizing things in the USSR (2016)",
     "title_norm": "optimizing things in the ussr 2016"
+  },
+  "bbbf6df7a2ff65412609db7b7420b16404fbf7bd1d8f29cd94e83bb4267cee5d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T12:04:16.057489+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: What is the best AI Video studio",
+    "title_norm": "ask hn what is the best ai video studio"
   },
   "bbc0390c7da55998a026f29478c7e530120dc717cdffcedae6d311d72bd6e6d9": {
     "category": "research",
