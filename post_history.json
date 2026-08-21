@@ -28625,6 +28625,14 @@
     "title": "I tested DFlash2 for Qwen3.8 27B on a 5090",
     "title_norm": "i tested dflash2 for qwen38 27b on a 5090"
   },
+  "35b3eaabb20f30929fb1b488c1e6624cb656035ded5780566d7a590f04e2f1ab": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T20:00:31.447264+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Wage Effects of Generative AI",
+    "title_norm": "the wage effects of generative ai"
+  },
   "35b908218a1301a783cbfd531cd624c1bcd8fa337c7738ed99773fde112b2a20": {
     "category": "research",
     "posted": false,
@@ -41298,6 +41306,14 @@
     "source": "arXiv cs.AI",
     "title": "Improving Requirements Classification with SMOTE-Tomek Preprocessing",
     "title_norm": "improving requirements classification with smotetomek preprocessing"
+  },
+  "4ea07101daf1d60ea8415bb931a3fda93964bbde47273b4998b12a69241a5829": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-21T20:00:31.447148+00:00",
+    "source": "TechCrunch AI",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "title_norm": "nvidia just showed that the harness not the ai model is now the real hero"
   },
   "4ea084683992b595de6a66b2e57208642c9259027d98789bf73982a6ce4116d4": {
     "category": "other",
@@ -81591,6 +81607,14 @@
     "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
     "title_norm": "agent lightning v10 towards harnessed agentic rl"
   },
+  "9d70b9e9fa4c2e147294d69040b7a7434a553514549891234990485fd3b137db": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T20:00:31.447219+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Tumble Forth \u2013 from assembly to OS with C compiler",
+    "title_norm": "tumble forth from assembly to os with c compiler"
+  },
   "9d7238b4f951f3a4e6a0bd590000480ea77f1fc4cc950d43f649dbe87ee844b5": {
     "category": "other",
     "posted": false,
@@ -82981,8 +83005,9 @@
   },
   "_meta": {
     "date": "2026-08-21",
-    "posts_today": 7,
+    "posts_today": 8,
     "posts_today_by_category": {
+      "integration": 1,
       "model_release": 1,
       "other": 1,
       "policy": 4,
@@ -82990,25 +83015,9 @@
     }
   },
   "_publish_state": {
-    "last_slot": "2026-08-21-20"
+    "last_slot": "2026-08-21-22"
   },
   "_queue": [
-    {
-      "category": "integration",
-      "duplicate_of": null,
-      "post_body": "\ud83d\udcf0 Palantir is leading a new AI data partnership with USA Today, and the newsroom is pushing back hard. The deal, reported by Forbes, has sparked a revolt among journalists who worry about how their work and data will be used for AI systems. Exact financial terms haven't been disclosed, but the deal is significant enough to raise alarms across Gannett's papers \ud83e\udd1d.\n\nStaff see it as a threat to editorial independence and jobs as AI becomes more embedded in news production. For the industry, this is a flashpoint in the growing tension between AI-driven efficiency and journalistic integrity \u2696\ufe0f.",
-      "post_body_fa": "\ud83d\udcf0 Palantir \u0631\u0647\u0628\u0631\u06cc \u06cc\u06a9 \u0645\u0634\u0627\u0631\u06a9\u062a \u062c\u062f\u06cc\u062f \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u0627 USA Today \u0631\u0627 \u0628\u0631 \u0639\u0647\u062f\u0647 \u062f\u0627\u0631\u062f \u0648 \u0627\u062a\u0627\u0642 \u062e\u0628\u0631 \u0628\u0647\u0634\u062f\u062a \u0645\u0642\u0627\u0648\u0645\u062a \u0645\u06cc\u06a9\u0646\u062f. \u0627\u06cc\u0646 \u0645\u0639\u0627\u0645\u0644\u0647 \u06a9\u0647 \u062a\u0648\u0633\u0637 Forbes \u06af\u0632\u0627\u0631\u0634 \u0634\u062f\u0647\u060c \u0634\u0648\u0631\u0634\u06cc \u0631\u0627 \u062f\u0631 \u0645\u06cc\u0627\u0646 \u0631\u0648\u0632\u0646\u0627\u0645\u0647\u0646\u06af\u0627\u0631\u0627\u0646\u06cc \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a\u0647 \u06a9\u0647 \u0646\u06af\u0631\u0627\u0646 \u0646\u062d\u0648\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0622\u062b\u0627\u0631 \u0648 \u062f\u0627\u062f\u0647\u0647\u0627\u06cc\u0634\u0627\u0646 \u062f\u0631 \u0633\u06cc\u0633\u062a\u0645\u0647\u0627\u06cc \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0647\u0633\u062a\u0646\u062f. \u062c\u0632\u0626\u06cc\u0627\u062a \u0645\u0627\u0644\u06cc \u062f\u0642\u06cc\u0642 \u0641\u0627\u0634 \u0646\u0634\u062f\u0647\u060c \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0642\u0631\u0627\u0631\u062f\u0627\u062f \u0628\u0647\u0627\u0646\u062f\u0627\u0632\u0647 \u06a9\u0627\u0641\u06cc \u0645\u0647\u0645 \u0627\u0633\u062a \u06a9\u0647 \u0632\u0646\u06af \u062e\u0637\u0631 \u0631\u0627 \u062f\u0631 \u0633\u0631\u0627\u0633\u0631 \u0631\u0648\u0632\u0646\u0627\u0645\u0647\u0647\u0627\u06cc Gannett \u0628\u0647 \u0635\u062f\u0627 \u062f\u0631\u0622\u0648\u0631\u062f \ud83e\udd1d.\n\n\u06a9\u0627\u0631\u06a9\u0646\u0627\u0646 \u0622\u0646 \u0631\u0627 \u062a\u0647\u062f\u06cc\u062f\u06cc \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u062a\u062d\u0631\u06cc\u0631\u06cc\u0647 \u0648 \u0645\u0634\u0627\u063a\u0644 \u0645\u06cc\u062f\u0627\u0646\u0646\u062f\u060c \u0632\u06cc\u0631\u0627 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0628\u06cc\u0634\u062a\u0631 \u062f\u0631 \u062a\u0648\u0644\u06cc\u062f \u062e\u0628\u0631 \u0627\u062f\u063a\u0627\u0645 \u0645\u06cc\u0634\u0648\u062f. \u0628\u0631\u0627\u06cc \u0635\u0646\u0639\u062a \u0631\u0633\u0627\u0646\u0647\u060c \u0627\u06cc\u0646 \u0646\u0642\u0637\u0647 \u0639\u0637\u0641\u06cc \u062f\u0631 \u062a\u0639\u0627\u0631\u0636 \u0641\u0632\u0627\u06cc\u0646\u062f\u0647 \u0628\u06cc\u0646 \u06a9\u0627\u0631\u0627\u06cc\u06cc \u0645\u0628\u062a\u0646\u06cc \u0628\u0631 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648 \u0635\u062f\u0627\u0642\u062a \u0631\u0648\u0632\u0646\u0627\u0645\u0647\u0646\u06af\u0627\u0631\u06cc \u0627\u0633\u062a \u2696\ufe0f.",
-      "post_title": "\ud83e\udd1d Palantir's AI data deal with USA Today triggers newsroom revolt",
-      "post_title_fa": "\ud83e\udd1d \u0645\u0639\u0627\u0645\u0644\u0647 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Palantir \u0628\u0627 USA Today \u0634\u0648\u0631\u0634 \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u0631\u0627 \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a",
-      "priority": "high",
-      "published": "2026-08-18T19:24:05+00:00",
-      "reject_reason": null,
-      "relevant": true,
-      "source": "Hacker News AI keyword",
-      "summary": "<p>Article URL: <a href=\"https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/\">https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351223\">https://news.ycombinator.com/item?id=49351223</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-      "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/"
-    },
     {
       "category": "infrastructure",
       "duplicate_of": null,
@@ -90384,7 +90393,13 @@
   },
   "ad8cc4d1c7c8d5726dba317ad0f7c7e175174f6e15ad9372534b2832ff17e4e0": {
     "category": "integration",
-    "posted": false,
+    "message_id": 260,
+    "message_id_fa": 234,
+    "post_title": "\ud83e\udd1d Palantir's AI data deal with USA Today triggers newsroom revolt",
+    "post_title_fa": "\ud83e\udd1d \u0645\u0639\u0627\u0645\u0644\u0647 \u062f\u0627\u062f\u0647 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc Palantir \u0628\u0627 USA Today \u0634\u0648\u0631\u0634 \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u0631\u0627 \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a",
+    "posted": true,
+    "posted_at": "2026-08-21T20:00:32.426083+00:00",
+    "priority": "high",
     "seen_at": "2026-08-18T19:36:28.284552+00:00",
     "source": "Hacker News AI keyword",
     "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
@@ -95625,6 +95640,14 @@
     "source": "Hacker News Frontpage",
     "title": "How to put 170 atoms in an atom",
     "title_norm": "how to put 170 atoms in an atom"
+  },
+  "b78b9dbecf9df60ac5ecbc5e50b7854ea4452ce9f8c4a0e90ca6ca5b8c5f0eee": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T20:00:31.447292+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "What\u2019s the best general chat \u201charness\u201d in Aug 2016?",
+    "title_norm": "whats the best general chat harness in aug 2016"
   },
   "b792ba77e4bd1749ed1cb68aa4adb65666c520fd93dd88cc6edfd435711c14a0": {
     "category": "other",
@@ -124765,6 +124788,14 @@
     "source": "arXiv cs.AI",
     "title": "SafeCommit: Certifying When Memory-Grounded Agents May Safely Act",
     "title_norm": "safecommit certifying when memorygrounded agents may safely act"
+  },
+  "f034ee1587ce0876cae192d1fc040203e0d17858ffb1a2dd004d467328dd3875": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-21T20:00:31.447244+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "title_norm": "bringing the cybersecurity capabilities of claude mythos 5 to more defenders"
   },
   "f043fa0d2299e5f6e4bb98c9f06f87e01a337e76244287907af30f2caca89d97": {
     "category": "research",
