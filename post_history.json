@@ -80123,7 +80123,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-08-24-12"
+    "last_slot": "2026-08-24-14"
   },
   "_queue": [],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -109551,6 +109551,14 @@
     "source": "arXiv cs.AI",
     "title": "GRASP: Granularity-Aware Region Alignment and Semantic Prototype Learning for Fine-Grained Cross-Modal Understanding in Drone Views",
     "title_norm": "grasp granularityaware region alignment and semantic prototype learning for finegrained crossmodal understanding in drone views"
+  },
+  "dada62d18b8c6d8869bb433d8c50e36a0208806459b2828d44f833467bdf5598": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T12:04:30.514076+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "GPU Poor - Don't overlook Laguna XS 2.1",
+    "title_norm": "gpu poor dont overlook laguna xs 21"
   },
   "dadd6e1dfff8feb9a32363e34b59fa1822f29530df6ad1fb369c945e3febb1b9": {
     "category": "research",
