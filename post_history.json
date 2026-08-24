@@ -6665,6 +6665,14 @@
     "title": "Please Share Your Experience About Muse Glimmer",
     "title_norm": "please share your experience about muse glimmer"
   },
+  "0d45e9c216920880164cd65cbad55d134466c3e866b5231adc840141a547f328": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262222+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Planning to spend ~$100 benchmarking differnet Qwen3.8-27B quants and kv cache and looking for input before I start",
+    "title_norm": "planning to spend 100 benchmarking differnet qwen3827b quants and kv cache and looking for input before i start"
+  },
   "0d47628fdad41af22783823ba6767d73eadbeb5841e2324207aa68a6e4b1e1eb": {
     "category": "other",
     "posted": false,
@@ -8087,14 +8095,6 @@
     "title": "Depth-Aware Implicit Neural Representation Priors for 3D Gravity Inversion",
     "title_norm": "depthaware implicit neural representation priors for 3d gravity inversion"
   },
-  "0ff3a8bc1c47d9b12b6beb9ba8dec8f844dd1a9ad736d7c776513c337b98ef1e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211315+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Home of local AI and useful web tools",
-    "title_norm": "home of local ai and useful web tools"
-  },
   "0ff444850a32f480e7707ce6082670b5b66bcfd382f91e092d53d68e60592033": {
     "category": "official_labs",
     "posted": false,
@@ -8818,6 +8818,14 @@
     "source": "arXiv cs.AI",
     "title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
     "title_norm": "towards queryagnostic rag evaluation via query coverage and claim verifiability"
+  },
+  "113584368e849150c9203b353459a728cb52a758735c66306d3c28fadbc30801": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.261908+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "title_norm": "llms could control their host machines by exploiting inference engines"
   },
   "11369da8f695009bfd66b1dc0baf979f76872722fddceb78731030b02b9e765d": {
     "category": null,
@@ -16865,14 +16873,6 @@
     "title": "Power Couple? AI Growth and Renewable Energy Investment",
     "title_norm": "power couple ai growth and renewable energy investment"
   },
-  "21a8f044fca66715933935841ffebdea8e31cb3087e64cd918516cdce3c9e54d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211516+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Sanity Check: Using a headless 7800xt desktop to serve LLMs to my Mac for vibe coding. Am I missing anything crucial?",
-    "title_norm": "sanity check using a headless 7800xt desktop to serve llms to my mac for vibe coding am i missing anything crucial"
-  },
   "21a962642f96ca5860ce8d3a0068663954a84e69dff561244c9bccd425318071": {
     "category": "research",
     "posted": false,
@@ -17208,14 +17208,6 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Best current ERP base model that are smart and uncensored?",
     "title_norm": "best current erp base model that are smart and uncensored"
-  },
-  "225f6ee033401188d66655f077a270550b3c29b4aaaefd49b0c9de1422bfb82e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211412+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: What do you do when your AI agents are working?",
-    "title_norm": "ask hn what do you do when your ai agents are working"
   },
   "226006bf93cd159efe0548d372c0e4a4563245515c3669decbbbd98dfc44ad24": {
     "category": "research",
@@ -21080,14 +21072,6 @@
     "source": "arXiv cs.AI",
     "title": "Delay, Plateau, or Collapse: Evaluating the Impact of Systematic Verification Error on RLVR",
     "title_norm": "delay plateau or collapse evaluating the impact of systematic verification error on rlvr"
-  },
-  "296495862b5cabc115c3387fcb0444f840557482ce12e1fcbc15e79835e1445d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211453+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: How's your experience with the Siri AI beta?",
-    "title_norm": "ask hn hows your experience with the siri ai beta"
   },
   "296f1e8a58e34857e2cf113302de9289af22b1b13a4e8a5a265ce85f2b7cceb7": {
     "category": "other",
@@ -26164,14 +26148,6 @@
     "source": "arXiv cs.AI",
     "title": "Regression and Classification with Single-Qubit Quantum Neural Networks",
     "title_norm": "regression and classification with singlequbit quantum neural networks"
-  },
-  "32e0e2e6095633c0b6595a336799625f11e01088292b14c57f7327249791de92": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211349+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
-    "title_norm": "openai agent goes rogue hacks ai community left escape plans in infrastructure"
   },
   "32e6df4423561cb8e2c3d13fe2f318be57b87ac4825098fa76e88a4a609df738": {
     "category": "other",
@@ -49015,14 +48991,6 @@
     "title": "A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs",
     "title_norm": "a comparative analysis of layerwise representational capacity in ar and diffusion llms"
   },
-  "609b7e268acdd3c6e84b687fc81744e1cef9423745a26a2c95eb9fd8d22345ae": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211547+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Best local model for analyzing video",
-    "title_norm": "best local model for analyzing video"
-  },
   "609fce31061c49c14405a12dc626da33242d45dae162534806fe82337cda7182": {
     "category": "community_signal",
     "posted": false,
@@ -51874,6 +51842,14 @@
     "source": "TechCrunch AI",
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "title_norm": "a marc benioffbacked startup thinks ai can solve the ai deployment problem"
+  },
+  "66e7add725a50e83d257637936903f00bf843bacbafbd4a0ba89eb27ca6dcdb3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262028+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I can't prove it, but I think AI is causing me brain damage",
+    "title_norm": "i cant prove it but i think ai is causing me brain damage"
   },
   "66e8d3ae7c5c81b2e4c749e977e47971ad669673069cad5304c1b8c61f643fa9": {
     "category": "infrastructure",
@@ -66713,6 +66689,14 @@
     "title": "Spring Update",
     "title_norm": "spring update"
   },
+  "843eb3434b81c3b6eafe1090618f3a5f5e8b2340e81a5028fd301910b987afaa": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.261971+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+    "title_norm": "hot chips 2026 applying high bandwidth flash hbf"
+  },
   "84496c324c40a18ea0f2f3564c42089ff5c331bb9570d55f5ab544758d0faa99": {
     "category": "other",
     "posted": false,
@@ -79663,6 +79647,14 @@
     "title": "Could we all crowdsource a dataset/model/finetune?",
     "title_norm": "could we all crowdsource a datasetmodelfinetune"
   },
+  "9f2f88fed55dd63f968faec26af477cf226e535341c8a7730ccfd11991726aa0": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262151+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+    "title_norm": "ai billing tool is fast is it accurate enough to pass an audit"
+  },
   "9f31a3d6701c78726f5f1d1762c502e52f8af50f695e4ff886ab20ca588cfd8f": {
     "category": "research",
     "posted": false,
@@ -85202,14 +85194,6 @@
     "title": "New and improved embedding model",
     "title_norm": "new and improved embedding model"
   },
-  "aa07ec0f117468a1acf044a87809a28b29c5726a8b16de3ba846a14b761e258c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211381+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
-    "title_norm": "pyshackle a hard preexecution gate for ai agent tool calls open source"
-  },
   "aa0e49c15e1425cfcb3c92d06c70689a75ae4b857a60f35a8c797f7c957ca459": {
     "category": "research",
     "posted": false,
@@ -85289,14 +85273,6 @@
     "source": "Hacker News AI keyword",
     "title": "TechFlow Intelligence: The AI-Powered Technology Decision Engine",
     "title_norm": "techflow intelligence the aipowered technology decision engine"
-  },
-  "aa32148ae2e51c13f984c54c061034a2119108a30f0f21887b23d93bbb0d4410": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211259+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Jack Conte: The future of creativity on the internet in a world with AI [video]",
-    "title_norm": "jack conte the future of creativity on the internet in a world with ai video"
   },
   "aa33c3d5fa809a5299452ee2388aea24656db473ebfa738df48bc249400263ed": {
     "category": "community_signal",
@@ -93588,14 +93564,6 @@
     "title": "Open Commonplace \u2013 Protecting knowledge from being generalized by AI",
     "title_norm": "open commonplace protecting knowledge from being generalized by ai"
   },
-  "b9f9db68c799349fae977fd45250eb2e8b0c910959d852fb6d3cecb89bba9ee6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211490+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Mobile Offline LLMs: What do you use them for?",
-    "title_norm": "mobile offline llms what do you use them for"
-  },
   "b9fb26cb02f8b4a69d30ccd16fa93038fae3461f2ca6225b770fa995d4c09ced": {
     "category": "research",
     "posted": false,
@@ -97083,14 +97051,6 @@
     "source": "arXiv cs.AI",
     "title": "Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation",
     "title_norm": "automated trajectory evaluation for mobile agents via steplevel consequence reasoning and aggregation"
-  },
-  "c0758e3f3688907d77e92da7ef80d079e0917ef4c4a33b915c8b27dcb845f4ef": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211197+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Show HN: I made some transistor animations",
-    "title_norm": "show hn i made some transistor animations"
   },
   "c075c8f0cc4d5a804cea2999f6a3efd0ef837e9fb2236c1ecf831dc09a955dab": {
     "category": "other",
@@ -102524,6 +102484,14 @@
     "title": "Qwen 3.8 27B for actual local programming",
     "title_norm": "qwen 38 27b for actual local programming"
   },
+  "cb7928ba1a13a260a9b5b33777912b232664293c964c4974a9c6bf8ececed27c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262073+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+    "title_norm": "mistral and humain announce colab to advance ai in saudi arabia and regionally"
+  },
   "cb7ea049b6a2768d9dd2b031adf47e8ad113686432cdece429229cf98a2ee6cf": {
     "category": "other",
     "posted": false,
@@ -104101,6 +104069,14 @@
     "source": "arXiv cs.AI",
     "title": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
     "title_norm": "designing compact neural architectures via neuron gating and mixed activation"
+  },
+  "cf32644c31df28d5b32934a47cb330724195a9c4a9f2e67dbcd31747d1354242": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262001+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+    "title_norm": "porsche inks 15b ai deal with indias tata consultancy"
   },
   "cf340a2b28bbd7f9ef95535b4f158b4c65309f4abdfb23e713192aec366ba57a": {
     "category": "community_signal",
@@ -108514,6 +108490,22 @@
     "title": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
     "title_norm": "cognitive episodes in llm reasoning traces enable interpretable human item difficulty prediction"
   },
+  "d8c2eb25429cd78cd563fd935faaf9b20d43b970ed490c424dfb20a33dfb2f83": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262130+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Autonomous Computer: 2-GPU AI Workstation",
+    "title_norm": "autonomous computer 2gpu ai workstation"
+  },
+  "d8caad14c7e4db8d1b5e03c55542416cbdf2f7d12219a62058463c2d98d87497": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T19:47:21.262100+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I built 270 AI agents in an Obsidian vault \u2013 zero API costs, all open source",
+    "title_norm": "i built 270 ai agents in an obsidian vault zero api costs all open source"
+  },
   "d8cedc64d97ded37e3547c947fa18e52c30ce1c11142856fbbb58d08b91ca85c": {
     "category": "research",
     "posted": false,
@@ -109189,14 +109181,6 @@
     "source": "Hacker News AI keyword",
     "title": "We built our own status page with AI, replacing a $65k SaaS product",
     "title_norm": "we built our own status page with ai replacing a 65k saas product"
-  },
-  "da2075ad7185e7a19b4ea558c1d664b41faf173f87d6d00e4fb9cff79535cc96": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211128+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Tile's security is so bad it's a feature for stalkers",
-    "title_norm": "tiles security is so bad its a feature for stalkers"
   },
   "da228bb31be13b899d60bf4e72719f675c2624ee227941c5b1d1bedbe72c255a": {
     "category": "integration",
@@ -115937,14 +115921,6 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM",
     "title_norm": "show hn i ran 13m simulations to fix trade ai in my browser basketball gm"
-  },
-  "e71b83da9739ab0312d5efec4290bf72f5752555625110a3f57a7f88d792b60a": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T19:11:23.211229+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-    "title_norm": "teardown the bmw harman idc23h infotainment unit b423"
   },
   "e71f804699af1783efd4dcc4f25050a4481a0fb816cbde45e1a906c48cfdc306": {
     "category": "research",
