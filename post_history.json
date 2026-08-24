@@ -311,14 +311,6 @@
     "title": "Show HN: OpsCat \u2013 A single-binary software catalog with MCP for AI agents",
     "title_norm": "show hn opscat a singlebinary software catalog with mcp for ai agents"
   },
-  "009175cbe942fa0887da4247e2f9680b0fea94dd526b8d0c93eb6a075c7b0b62": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244751+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Seriously, what do you do with them?",
-    "title_norm": "seriously what do you do with them"
-  },
   "00940b6c4930a40c8b22c308a57124aa2995f914d6756b0b979acb56fce4728a": {
     "category": "community_signal",
     "posted": false,
@@ -7033,14 +7025,6 @@
     "title": "BRo-JEPA: Learning Modular Transformations in Latent Space",
     "title_norm": "brojepa learning modular transformations in latent space"
   },
-  "0dfb50eb4673918fdb946f59e2fed03b52c558637e13b5cfbb74cd68ff9cdbc1": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244724+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Show HN: Open-source AI bookmark manager for busy people",
-    "title_norm": "show hn opensource ai bookmark manager for busy people"
-  },
   "0e05fd17ca62f45ac4343ad1a44c8d6e1f4542666743a94a2e3333825c2fff33": {
     "category": "research",
     "posted": false,
@@ -8867,14 +8851,6 @@
     "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
     "title_norm": "nxn evaluation hypothesis certification via a conformal crt null"
   },
-  "115e6f4fcf9b70e60d77dd21df464b410653aa96befd9bd665c51173bfbd4005": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244811+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "I've seen this movie before",
-    "title_norm": "ive seen this movie before"
-  },
   "1163d4731ffcd5bab59f09a8face983e62004bb4a857a47ba62361c5d8b66b54": {
     "category": "other",
     "posted": false,
@@ -9686,6 +9662,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI pricing is not broken. We have the answers for how to do it",
     "title_norm": "ai pricing is not broken we have the answers for how to do it"
+  },
+  "1359fc4314dc3d5390bc640d32abf25eed72cf74955c889b97144206c4fcfc94": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742700+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "JetBrains local AI (using Qwen3.6 27B)",
+    "title_norm": "jetbrains local ai using qwen36 27b"
   },
   "135b1941c99a0752429d90fb3ca52e88e3e37bb74d2f7bd51468dbea778e3e51": {
     "category": null,
@@ -10598,6 +10582,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI and quantum computers will be frenemies",
     "title_norm": "ai and quantum computers will be frenemies"
+  },
+  "153e1f15380e121dc24612f6ef64e2e2901038f091e4c0922cb117f9e931df4c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742671+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+    "title_norm": "the teaser period why the ai boom is built to break"
   },
   "153f1dd965cb01e9953376e6e9afee6f89985d3044940ffc3e7573f93ffcb50c": {
     "category": "research",
@@ -13316,6 +13308,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Qwen 27b 3.6 vs 3.8 on web design tasks - first thoughts?",
     "title_norm": "qwen 27b 36 vs 38 on web design tasks first thoughts"
+  },
+  "1a7acd624b3e4982c5a507510aae874fac5d9e61c03480285b65325d0a6ac143": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742726+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Please join r/LowEndLocalAI, a community for running local LLMs on low spec hardware",
+    "title_norm": "please join rlowendlocalai a community for running local llms on low spec hardware"
   },
   "1a804397d52ef44b23ec3071371d7da6d97104db464aaa4c8549f265b7cab2da": {
     "category": "research",
@@ -16410,6 +16410,14 @@
     "source": "arXiv cs.AI",
     "title": "Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree Search",
     "title_norm": "autonomous repair for multiagent systems via montecarlo tree search"
+  },
+  "20ab36ab04d384fe8d2b568d239d2cbc08d7b2b8aeab48a8affd521cd41cedbd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742496+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Greg Abbott says data centers:'basically dug their own grave'",
+    "title_norm": "greg abbott says data centersbasically dug their own grave"
   },
   "20ad106519e5bc50b5bec723a4a1b84751cce0fc64a6f9a1016bd522d273c988": {
     "category": "official_labs",
@@ -21934,6 +21942,14 @@
     "source": "OpenAI News",
     "title": "Introducing Whisper",
     "title_norm": "introducing whisper"
+  },
+  "2b1867bbaa95d1ff36549b9c3c424a197367e659fb1bf660a940eeec7448cca8": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742414+00:00",
+    "source": "TechCrunch AI",
+    "title": "Amjad Masad,\u00a0CEO\u00a0and co-founder\u00a0of\u00a0Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "title_norm": "amjad masad ceo and cofounder of replit joins the disrupt stage at techcrunch disrupt 2026"
   },
   "2b198590e55043523f4f3368eb2b60ced10c037cf90ffb0add7d1645f0b9d112": {
     "category": "other",
@@ -30230,14 +30246,6 @@
     "source": "Hacker News Frontpage",
     "title": "CipherX applies painless permanent tattoos with dissolving microneedle patches",
     "title_norm": "cipherx applies painless permanent tattoos with dissolving microneedle patches"
-  },
-  "3abdbe393e9967a7f9f990cef2e35cb9ef710652f96791425b1d6251f1fadfba": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244509+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-    "title_norm": "producing ammonia and fertiliser using wind power in morris minnesota"
   },
   "3ac4aad93bc79233ddf5f10ecf2a91ce79c1e31b6f8c630dd660aa12c66f826b": {
     "category": "community_signal",
@@ -42305,6 +42313,14 @@
     "title": "Learning from Online User Feedback for Shopping Agents",
     "title_norm": "learning from online user feedback for shopping agents"
   },
+  "53d975e083eaf7f3df887ebd414efede0210af959b10b0b1357e2feefebb47bf": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742564+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Oceans hit highest temperature on record",
+    "title_norm": "oceans hit highest temperature on record"
+  },
   "53dad42cb48f2fc375048e13915ef19e30e6f4eaf621a9a1c61e82fa75f72ca9": {
     "category": null,
     "posted": false,
@@ -48278,6 +48294,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: ButterClaw \u2013 AI agent runtime security, SIGKILL on breach, no cloud",
     "title_norm": "show hn butterclaw ai agent runtime security sigkill on breach no cloud"
+  },
+  "5f3627fe851405762b6d69d965e5d98e0172b722d6457ec4b428edf0ee573d0a": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742619+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Cognitive Surrender with AI",
+    "title_norm": "cognitive surrender with ai"
   },
   "5f3b89c1a732e92cfe18e00eda5b3bd944b3e7702bd5932f4972d7c1c3540785": {
     "category": "official_labs",
@@ -57647,14 +57671,6 @@
     "title": "UGAF-ITS: A Standards Harmonization Framework and Validation Tool for Multi-Framework AI Governance in Distributed Intelligent Transportation Systems",
     "title_norm": "ugafits a standards harmonization framework and validation tool for multiframework ai governance in distributed intelligent transportation systems"
   },
-  "72419031be63158dbce53d598d0c649c74ba3127a23d0ea64139a523f03d7888": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244549+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-    "title_norm": "the growing vigilante movement to knock out flock surveillance cameras"
-  },
   "72421824fed05db9f73644342c7a3b7f82db8c22511d47f86c47ce5162fb8d5e": {
     "category": "research",
     "posted": false,
@@ -60548,14 +60564,6 @@
     "source": "arXiv cs.AI",
     "title": "Beyond BFI: The CSI for Enhanced Reliability and Validity in Evaluating LLM Personality Traits",
     "title_norm": "beyond bfi the csi for enhanced reliability and validity in evaluating llm personality traits"
-  },
-  "77c8ec9018d111ac704520234cf1249ec2600105defe9ec315666a0eefb95e53": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244654+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: What are some popular AI detection software?",
-    "title_norm": "ask hn what are some popular ai detection software"
   },
   "77cac95b8f5e36c64cad8c0ca845fcc4ffd89fe9f5fcd3787f07ffc043cdf3ed": {
     "category": "other",
@@ -69333,6 +69341,14 @@
     "title": "Hand-Written PTX Tensor-Core GEMM Kernels: A Multi-Precision Study on NVIDIA L4",
     "title_norm": "handwritten ptx tensorcore gemm kernels a multiprecision study on nvidia l4"
   },
+  "89b2d0cc5dc8b0d14764a1ae42f0c696a1b19d4db6e84c910e36e50d0a22d0fd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742533+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "title_norm": "a claude code skill that recovers exportblocked kindle highlights"
+  },
   "89b360bfe0870055512cb28c9ac1104a1ba2d2c6e1ee002024a0312218fc1103": {
     "category": "research",
     "posted": false,
@@ -71691,14 +71707,6 @@
     "title": "Why Large Language Models Fail at Tabular Prediction",
     "title_norm": "why large language models fail at tabular prediction"
   },
-  "8ead13ac7549ef5ddc1d4e04fc056980921825c134dfd5e9c71c7433ff230ed6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244783+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "GLM-5.5 Leak: It Beats Fable 5",
-    "title_norm": "glm55 leak it beats fable 5"
-  },
   "8eb25550d0c747a86a7f0356ae144e718a61bfc5386cf9ee97b56a20200e016e": {
     "category": "research",
     "posted": false,
@@ -72706,14 +72714,6 @@
     "source": "arXiv cs.AI",
     "title": "JuryProbe: An Empirical Consensus-Risk Diagnostic for Routing Reference-Free Factuality Judge Panels to Grounded Verification",
     "title_norm": "juryprobe an empirical consensusrisk diagnostic for routing referencefree factuality judge panels to grounded verification"
-  },
-  "90d1e87202045417dd2db839c052cd107023d64a221828ad0c27fc597c95d3e9": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244604+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Show HN: Brolly, a plain-text weather forecast site",
-    "title_norm": "show hn brolly a plaintext weather forecast site"
   },
   "90d798819cdd982ba1a24ba921295237909e0544d111ed6aab7f14387ba92677": {
     "category": "research",
@@ -80091,7 +80091,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-08-24-20"
+    "last_slot": "2026-08-24-22"
   },
   "_queue": [],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -83256,14 +83256,6 @@
     "title": "Show HN: Buddy \u2013 An iOS browser with an AI agent inside",
     "title_norm": "show hn buddy an ios browser with an ai agent inside"
   },
-  "a63b93d733ef904ec15a476585e674ffa776bf5c7effa900717cd4e63d92ac25": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244580+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "The Hitler Salute Was Never German",
-    "title_norm": "the hitler salute was never german"
-  },
   "a63d6f70dbcb74709d9c6c86eb35770bfc61e03457360c516108640743020e13": {
     "category": "other",
     "posted": false,
@@ -86290,6 +86282,14 @@
     "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
     "title_norm": "ladies and gentlemen i present to you qwen38 27b 1bit brain damage quant"
   },
+  "abd52c9f1dde403ea312fe1dcc8f2b7fc27a242eb1ec73041b234fa7076d6a46": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742305+00:00",
+    "source": "OpenAI News",
+    "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+    "title_norm": "advancing priceperformance for developers with gpt56 in kiro"
+  },
   "abd5961eb449b1ca6ca7ed664bc337ec722fbc3e69eeb745451cd4afef76f37b": {
     "category": "research",
     "posted": false,
@@ -89308,14 +89308,6 @@
     "title": "Agentic Planning for Symbolic Execution",
     "title_norm": "agentic planning for symbolic execution"
   },
-  "b1d0c5966f8c61cccb842b24f2b42576be8f039638c5a30b47ec85228abef403": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244425+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-    "title_norm": "show hn proxmox share your hosts bluetooth with a vm over the network"
-  },
   "b1d2ac2f950877d7c4c1f8790b64d7ae351f947fb29b6ec9847dd0ea8385cedc": {
     "category": "other",
     "posted": false,
@@ -89473,14 +89465,6 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "GitHub - deepseek-ai/deepseek-harness",
     "title_norm": "github deepseekaideepseekharness"
-  },
-  "b21b16d2387e0a805a3ddff6fda33fb7c7fbbd52feb07b763762a307f7b384e8": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244629+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Have your say on advancing AI transparency in Canada",
-    "title_norm": "have your say on advancing ai transparency in canada"
   },
   "b21d0c84a35531f11bb3bde63bd232cb731c6d5bace1a5d172e18aaa5271c8f2": {
     "category": null,
@@ -104014,6 +103998,14 @@
     "title": "Make your llama generation time fly with AWS Inferentia2",
     "title_norm": "make your llama generation time fly with aws inferentia2"
   },
+  "cf052f964a80b179ec185039f371b430652f34da8042fe0374a6d8def984769f": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742642+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: AI for people that still browse the web",
+    "title_norm": "show hn ai for people that still browse the web"
+  },
   "cf0768bbe14eb0c93b22690d5b0e054da1dcaecc9208f7fe2aeac1e1b833ccd1": {
     "category": "other",
     "posted": false,
@@ -112025,14 +112017,6 @@
     "source": "Hacker News Frontpage",
     "title": "How to organize Claude Code for product work",
     "title_norm": "how to organize claude code for product work"
-  },
-  "df9b3d985b2894fd93a49631bcb8cce730a9ed6d3d34162d4a1dd8ac25896415": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T20:14:36.244698+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "How are you authorizing AI agents that call MCP servers?",
-    "title_norm": "how are you authorizing ai agents that call mcp servers"
   },
   "df9dbaf06ead9a2f71713763559df05984c313627161e97e8f999d64fe1003f1": {
     "category": null,
@@ -124305,6 +124289,14 @@
     "source": "OpenAI News",
     "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
     "title_norm": "variance reduction for policy gradient with actiondependent factorized baselines"
+  },
+  "f8ca85b331a1187b46b5f115bfc92006f591b7336786a28d48dcaf237b033bff": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T20:40:36.742588+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "title_norm": "autostep yc p26 is hiring aifullstack engineers and a chief of staff"
   },
   "f8caf37ad56e268194c9d62027cdaf4f2bbb541eb56b91a81c2007ce26a97d6b": {
     "category": "research",
