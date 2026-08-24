@@ -17415,14 +17415,6 @@
     "title": "Codex now offers more flexible pricing for teams",
     "title_norm": "codex now offers more flexible pricing for teams"
   },
-  "22c7d32f3a97576de51b7b089950ce56990b1f864fa1bbd23fb79a5fdf753ce4": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608687+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Who ONLY use local models?",
-    "title_norm": "who only use local models"
-  },
   "22cd561fa53a22f021e06ce673a8788375ab2f126f1b1391b100358288a66d23": {
     "category": "research",
     "posted": false,
@@ -24412,14 +24404,6 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Loopers \u2013 Fail-closed reverse proxy and circuit breaker for AI agents",
     "title_norm": "show hn loopers failclosed reverse proxy and circuit breaker for ai agents"
-  },
-  "2fa49538389684a1f3ef7d07a99ae6b74232c49ba225ffa67ba669388b030307": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608523+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
-    "title_norm": "case study ai trainer platform and job board months 16"
   },
   "2fa78cac156a7af8d0c643c15119eb516daf7a4a4cbf5b55d23c2cc2034fb809": {
     "category": "official_labs",
@@ -66305,6 +66289,14 @@
     "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
     "title_norm": "volumetric radiology ai in the era of multimodal large language models"
   },
+  "8335b908821f97f3454885734df033f652ff27f44aee2f0d6372fa5c69ea7cd8": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-24T10:06:45.217007+00:00",
+    "source": "Wired AI",
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "title_norm": "they dedicated their lives to teaching then the deepfakes started"
+  },
   "833ccc96ce61ccf747181e5019fef4da8d1a81a5c8ea48ef422150b4ec002847": {
     "category": "community_signal",
     "posted": false,
@@ -68361,14 +68353,6 @@
     "title": "How Descript engineers multilingual video dubbing at scale",
     "title_norm": "how descript engineers multilingual video dubbing at scale"
   },
-  "878e5664a109441faba9856f407d7957b4eab83fac03b597e5fe14fafa1fb55c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608662+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
-    "title_norm": "at the altar of ai capex google is sacrificing the golden goose"
-  },
   "878e60cf45e34767d0f99241bb0b7a6aba29dad626dfd5ab99edaaef226c43e8": {
     "category": "model_release",
     "posted": false,
@@ -69292,14 +69276,6 @@
     "source": "arXiv cs.AI",
     "title": "CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport",
     "title_norm": "coverprune coveragedriven token pruning for 3d vlms via optimal transport"
-  },
-  "895e7d145820704f6af62b807d20fb9b81d784714fd99be020084f609cea66e5": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608582+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
-    "title_norm": "why a philosopher turned down anthropic ai industry asking the wrong questions"
   },
   "8968eaa0fcda20f19988ea8f5eb97a9588c9dfea0b7083fa7b8aca7ac61e2658": {
     "category": "research",
@@ -80203,7 +80179,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-08-24-10"
+    "last_slot": "2026-08-24-12"
   },
   "_queue": [],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -85601,14 +85577,6 @@
     "source": "arXiv cs.AI",
     "title": "DualityCert: Verifier-Gated Language-Model Repair of Broken Duality Claims in Quantum Field Theory",
     "title_norm": "dualitycert verifiergated languagemodel repair of broken duality claims in quantum field theory"
-  },
-  "aa71858904da367416f1627b42b643e2488d53422cef89621618578960b81310": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608404+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "title_norm": "show hn i simulated closing the strait of hormuz on real oil trade data"
   },
   "aa725438d590ef1e5657e6c9a42b4549fe0575cbbee5ff36a3be04de76f9784a": {
     "category": "official_labs",
@@ -100648,14 +100616,6 @@
     "title": "LITEWAY: LIghtweight HAR via Temporal Efficient highWAY",
     "title_norm": "liteway lightweight har via temporal efficient highway"
   },
-  "c7742d8de62cc691058f6d6f6466f533cba3b23fcd0edf2a952f175cd7b2883f": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608708+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Setup for always on assistant",
-    "title_norm": "setup for always on assistant"
-  },
   "c77cb406e137acce813bf8113d2f6e9db6d7af50883429d65af554a4a8c48145": {
     "category": "research",
     "posted": false,
@@ -113382,14 +113342,6 @@
     "title": "BeeLLama issues",
     "title_norm": "beellama issues"
   },
-  "e1d3ae827a87819ee4b4cf730fafd9d11e2d82dc5b1b900b4d56f6e59f327ab5": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608611+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
-    "title_norm": "show hn ts compiler knowledge graph reducing ai tokens about 90"
-  },
   "e1db10a875ddc86a9d4957f3cbeedf6f58cbefb8a68341db5615b84472028743": {
     "category": "other",
     "posted": false,
@@ -116506,14 +116458,6 @@
     "title": "CIA funding helped keep NeXT afloat in the 80s",
     "title_norm": "cia funding helped keep next afloat in the 80s"
   },
-  "e806b0f1adf83e3c5204fb0939efdb4f9a01428861b65d496bdbc4e29a37cac5": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608471+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
-    "title_norm": "ask hn is neuromorphic computing going to replace traditional ai"
-  },
   "e8074f493edb9da41c8dfca37fe93c1d8c8993ae9cc54917d52c10403f2530bd": {
     "category": "official_labs",
     "posted": false,
@@ -118207,14 +118151,6 @@
     "source": "arXiv cs.AI",
     "title": "Aslema at NADI 2026: Augmentation through Fewshot for SLU",
     "title_norm": "aslema at nadi 2026 augmentation through fewshot for slu"
-  },
-  "eb9177a6d33b54dbfde566040c1c1fdae408630ed57829bc1544d3b5de24fa9c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608638+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Secretary Wright Announces First AI \"Genesis Mission\" Projects",
-    "title_norm": "secretary wright announces first ai genesis mission projects"
   },
   "eb926440ea98018c8918d0d38602327d47c75b6f27aa957c11c45c5349ef2f4f": {
     "category": "other",
@@ -120517,14 +120453,6 @@
     "source": "arXiv cs.AI",
     "title": "Label-free Industrial Fault Detection via Adversarial Inverse Reinforcement Learning: A System for Run-to-Failure Prognostics",
     "title_norm": "labelfree industrial fault detection via adversarial inverse reinforcement learning a system for runtofailure prognostics"
-  },
-  "f068fd9bbf4850ef5ccfd925c7baa1e6f9d0232acbb35a082a4ed449212748c3": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T09:29:27.608555+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Show HN: AI Toolbox supports Claude Opus 5",
-    "title_norm": "show hn ai toolbox supports claude opus 5"
   },
   "f06b6dfc3de7c7f4a5512c9681f79091dc6c7ba7ff19b0a4260cd7cd32f4e5d3": {
     "category": "research",
