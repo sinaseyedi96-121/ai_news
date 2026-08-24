@@ -1069,14 +1069,6 @@
     "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
     "title_norm": "auditable agentic ai for evidencegrounded thyroid ultrasound diagnosis and reporting"
   },
-  "0216d4ac6f3abca53702ceedc17364038ec3c78f12b5642f30fdb07a21336643": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558737+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-    "title_norm": "building a tiny 3d renderer for a tiny handheld"
-  },
   "021e54700ed5d2ce73c3eff4bc0ccf588548d8695ccedbc9d02da45cf9e80358": {
     "category": "research",
     "posted": false,
@@ -3200,6 +3192,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Llama.cpp version 0.2.0 is out!",
     "title_norm": "llamacpp version 020 is out"
+  },
+  "063df3e454ad2f662dea0d9b49fedb5b61fe514e712c9591cc306e1f35af54ed": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T16:50:31.989761+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Best Local Vision Language Models - August 2026",
+    "title_norm": "best local vision language models august 2026"
   },
   "06418baf95405a6d0de3b914d3111fbeb4ed9c297ee29317207bd573884945ae": {
     "category": "other",
@@ -9695,14 +9695,6 @@
     "title": "Divergent large language model predictions from convergent representations in ambiguous word pairs",
     "title_norm": "divergent large language model predictions from convergent representations in ambiguous word pairs"
   },
-  "1373198fead8f8464bbab2fbab275094db460f9cb2d6a254e699c40cc036eace": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558820+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Samsung Electronics, SK Group seal $950B in deals with AI firms",
-    "title_norm": "samsung electronics sk group seal 950b in deals with ai firms"
-  },
   "13776fb5126ca8a4f1cc4360f3fb41d4ae9726bde3df11ce8bb6c4f7c6721154": {
     "category": "research",
     "posted": false,
@@ -14012,6 +14004,14 @@
     "source": "arXiv cs.AI",
     "title": "GridCodex: A RAG-Driven AI Framework for Power Grid Code Reasoning and Compliance",
     "title_norm": "gridcodex a ragdriven ai framework for power grid code reasoning and compliance"
+  },
+  "1be6ea7850ee3c1b3358f8cbe9e1bc9d3e163313ea83a33d41117161d8daa799": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T16:50:31.989825+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Bart: A vintage llm",
+    "title_norm": "bart a vintage llm"
   },
   "1be971c5e35e9c4976dc21f15a0cb64ac2e70e1ca5f7afba25722e3b6a3133f8": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -22832,14 +22832,6 @@
     "source": "Hugging Face Blog",
     "title": "Getting Started with Transformers on Habana Gaudi",
     "title_norm": "getting started with transformers on habana gaudi"
-  },
-  "2c92eb7cc2770b7cb97c91baacd1ee1869d13244c14a3a066818e36ef4c39a4e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.559027+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Getting a second GPU in addition to my RTX3090",
-    "title_norm": "getting a second gpu in addition to my rtx3090"
   },
   "2ca1eac9b7bd1174ff9197ff03c7267b19c34af1247b0fd6303927728d244109": {
     "category": "research",
@@ -38310,14 +38302,6 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "AI labs are about to have a blast of a day. (Composer v3 coming soon lmfao)",
     "title_norm": "ai labs are about to have a blast of a day composer v3 coming soon lmfao"
-  },
-  "4ba52f744cb10d778eb24b92f977f161ffd29ddfe100a50f699bd3c5139deae6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558977+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
-    "title_norm": "google comes out in favor of openweight models it is now every tech giant vs anthropic"
   },
   "4ba61fc646869e349b776d085a9b07711da7263f4ad4df6181496f09c743ad70": {
     "category": "model_release",
@@ -62181,14 +62165,6 @@
     "title": "Measuring Autonomous AI Research",
     "title_norm": "measuring autonomous ai research"
   },
-  "7abab158084c266f6f0e9b7ba853e232492ba41f3ecd23914b9f84307ef32967": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558904+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Why there is confusion around Automation and Agentic AI",
-    "title_norm": "why there is confusion around automation and agentic ai"
-  },
   "7abefdce921c190060505b285b0b8938377309d46941983ca6f2bd783612a16c": {
     "category": "research",
     "posted": false,
@@ -66360,14 +66336,6 @@
     "source": "arXiv cs.AI",
     "title": "DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture Optimization for Efficient Language Model Fine-Tuning",
     "title_norm": "domainpilot domainlevel lossguided twostage data mixture optimization for efficient language model finetuning"
-  },
-  "8375bcf6f69d88da98373d060c8208c9f7440966a1a30de705eea83018c9235e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558877+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "CERN: Genesis Mission will develop and deploy self-improving AI models [pdf]",
-    "title_norm": "cern genesis mission will develop and deploy selfimproving ai models pdf"
   },
   "83835228b837054b8927406c3cc90b1582883eaaa99b290d929efbfa7b388077": {
     "category": "research",
@@ -71859,14 +71827,6 @@
     "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
     "title_norm": "the production ai stack a reference architecture for realtime ai systems"
   },
-  "8efbc95d8012b9e67471d2eaa249f5518f679a79204d8792f30d8ea79a2ebb34": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558674+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Bitchat Is Now on Radicle",
-    "title_norm": "bitchat is now on radicle"
-  },
   "8f0886506c97259e054c6acb5a253f4d7c278e5f503155d2dd51b37afccc678e": {
     "category": "official_labs",
     "posted": false,
@@ -75645,14 +75605,6 @@
     "title": "Steering the Language Axis: From Linear Decodability to Causal Control",
     "title_norm": "steering the language axis from linear decodability to causal control"
   },
-  "9668d16f37b56ed5e23b8ae6226ff4c60dba0cd2dd36d33795091140c004e954": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558848+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "ClerpAI \u2013 AI-verified matching between indie devs and real streamers",
-    "title_norm": "clerpai aiverified matching between indie devs and real streamers"
-  },
   "966cd163f8692d8ca443109be9eebb5cc04899a4c12488381837a35fb8b36194": {
     "category": "other",
     "posted": false,
@@ -77624,6 +77576,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Why Anthropic's battle is meant to poison the wells of open weight models, in 3 steps.",
     "title_norm": "why anthropics battle is meant to poison the wells of open weight models in 3 steps"
+  },
+  "9adfab9c50ae485ff2924afe1cc41be2f23d4652bcf096943265df5cbb4b43b3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T16:50:31.989795+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.",
+    "title_norm": "qwen 38 27b in 9th position on code arena gemma 4 31b is 80th"
   },
   "9aee00427a36b56789285fdbedae5b7eeadfcebb400b8ce7ac307b4cb5e8be3d": {
     "category": "research",
@@ -80107,7 +80067,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-08-24-16"
+    "last_slot": "2026-08-24-18"
   },
   "_queue": [],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -81867,14 +81827,6 @@
     "source": "Hacker News AI keyword",
     "title": "Helping companies control which AI skills their teams can use",
     "title_norm": "helping companies control which ai skills their teams can use"
-  },
-  "a344b5b533a786dca10f79f0d626cc8e474a13d62829b2fd9ab0458d2fee3493": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.559005+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "\u2026 inside Anthropic right now",
-    "title_norm": "inside anthropic right now"
   },
   "a3490ee8a8c167f687708096b1f1029bb584f47b1cb91dc062f60331b0519516": {
     "category": "research",
@@ -98528,14 +98480,6 @@
     "title": "Cyber Operation: Korean-language malware support",
     "title_norm": "cyber operation koreanlanguage malware support"
   },
-  "c3167d7092a0978f658d5af3ac59452c6f866bd5963de49eaa535949de9c666d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558796+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Launched ORBIT AI Sandbox",
-    "title_norm": "launched orbit ai sandbox"
-  },
   "c319c5a571565cbaec4727aab74a65772dd06eabfd0afde03617f42ead67e164": {
     "category": "research",
     "posted": false,
@@ -104268,14 +104212,6 @@
     "title": "NormAct: Benchmarking Embodied Agents' Proactive Compliance with Unspoken Social Norms",
     "title_norm": "normact benchmarking embodied agents proactive compliance with unspoken social norms"
   },
-  "cfb5efad6c21a981e1ae4759c3955b153e4ee3d9a844e561396ba9793731f7bf": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558768+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "The AI Boom Made Average People More Interesting",
-    "title_norm": "the ai boom made average people more interesting"
-  },
   "cfb6bbdbc9ea81d7a7ba35af530f10d6dba0912a7eb870a4936da26d159fb173": {
     "category": "other",
     "posted": false,
@@ -108665,14 +108601,6 @@
     "source": "Hacker News AI keyword",
     "title": "We need to talk about AI in mathematics",
     "title_norm": "we need to talk about ai in mathematics"
-  },
-  "d923a364b09ddb01750cc377e80cd1fe01a6679146f646660491bd3543e0bd4a": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558951+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-    "title_norm": "openweight ai is having its kubernetes moment lets not ruin it"
   },
   "d925d8c91f460a44f07089c2f27b36a626fbcac0f80dde4b561ae3114c0febb2": {
     "category": "official_labs",
@@ -113486,6 +113414,14 @@
     "title": "OpenAI hit the brakes. Now what?",
     "title_norm": "openai hit the brakes now what"
   },
+  "e24a79b33926d2bb51a127b43144e24822d0f3b7cf1e2964c7482a847645b3d8": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-24T16:50:31.989665+00:00",
+    "source": "Ars Technica AI",
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "title_norm": "nvidia senior manager linked to supermicro scheme smuggling ai servers to china"
+  },
   "e2524095f2dd0548d9ad3c54add317ae7a8ca87d22e949a7a521f5dc41aadbb8": {
     "category": "official_labs",
     "posted": false,
@@ -117928,14 +117864,6 @@
     "title": "Study: String theory finally testable thanks to AI",
     "title_norm": "study string theory finally testable thanks to ai"
   },
-  "eb64b3849d076001167ba46a41293d867e8113ae6bbebf3d7019ee393a697697": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-07-25T15:58:48.558927+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "The tech world is suddenly obsessed with one concept in AI: Distillation",
-    "title_norm": "the tech world is suddenly obsessed with one concept in ai distillation"
-  },
   "eb64b9b53a069b2c64f3eb4b5eab56e9a369c847d825e2fa59dbbb94fe5a3949": {
     "category": "research",
     "posted": false,
@@ -120685,6 +120613,14 @@
     "source": "Hacker News Frontpage",
     "title": "Linux Desktop Market Share Surpasses 10% in North America",
     "title_norm": "linux desktop market share surpasses 10 in north america"
+  },
+  "f1283fc8affdd5270b3eb9949222db0c3b0d56431f43c40d503bac7eecab9349": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-24T16:50:31.989841+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "how much VRAM do you need to comfortably run 13B models",
+    "title_norm": "how much vram do you need to comfortably run 13b models"
   },
   "f129937fd242e52ab659d8027b23343372f5f98b67fdf99bbc88566d56bce50f": {
     "category": "model_release",
