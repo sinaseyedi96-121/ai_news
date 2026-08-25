@@ -383,6 +383,14 @@
     "title": "Qwen 3.8 distillations",
     "title_norm": "qwen 38 distillations"
   },
+  "00c8a7db0a349a5274b9133d2afea6a1e6e7c64cb15b202eea63194d783dab0b": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151134+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: Unbox-AI Visualize your AI traces like a JavaScript bundle",
+    "title_norm": "show hn unboxai visualize your ai traces like a javascript bundle"
+  },
   "00c973d0cb7792c30157d2a31ed1626c141648ace29c581005141ccd09b6c1e0": {
     "category": "research",
     "posted": false,
@@ -3608,14 +3616,6 @@
     "source": "arXiv cs.AI",
     "title": "Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling",
     "title_norm": "unleashing the power of llms in dense retrieval with query likelihood modeling"
-  },
-  "06b2864aaa7d8bc3e12c29c09a765b7e481780bf3fded7094bfe4020d1f004ab": {
-    "category": "model_release",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.449973+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
-    "title_norm": "claude code deletes your context history from your device after 30 days"
   },
   "06b5c7568848db076309f251195bd54f24e297e49f03e3b9c5e50aa17d81ed19": {
     "category": "research",
@@ -8399,6 +8399,14 @@
     "title": "Oracle Just Halved Its Always Free ARM Limits",
     "title_norm": "oracle just halved its always free arm limits"
   },
+  "0fd8b3e966a7b78285a750661d31a761fd5a5cf9588e8d6e6ba5471f34d8dc86": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151404+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "It\u2019s over folks.",
+    "title_norm": "its over folks"
+  },
   "0fda1a1b5a24b71ccbe1c606278a414a90e6a6d06c559598303a2a3904d80550": {
     "category": "official_labs",
     "posted": false,
@@ -11757,14 +11765,6 @@
     "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
     "title_norm": "commodification of intelligence good bad and ugly circular ai deals"
   },
-  "166c7c2ab250e04d9f602e1618cd28b603fa7fdc084671c4092796af8713de18": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450065+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Dream Exchange \u2013 a persistent world where AI agents live, not work",
-    "title_norm": "dream exchange a persistent world where ai agents live not work"
-  },
   "16722eee8447c00ce9031f3b602bee4f519a05d0e4c839761b6b174a97eae4f8": {
     "category": "research",
     "posted": false,
@@ -14596,6 +14596,14 @@
     "source": "arXiv cs.AI",
     "title": "Guideline-as-Oracle: Zero-Annotation Training of an Ophthalmic Telephone Triage Agent",
     "title_norm": "guidelineasoracle zeroannotation training of an ophthalmic telephone triage agent"
+  },
+  "1ba042ddbffea508eaeb1b0c3109e260db9db0cfb057760424cd4cec5976c65e": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151205+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Can See Optical Illusions",
+    "title_norm": "ai can see optical illusions"
   },
   "1ba0cd22afd170874f9cbb1c08aab7503e66bbe5118742df27c1f480fad3b4b5": {
     "category": "research",
@@ -25845,14 +25853,6 @@
     "title": "Meet HoloTab by HCompany. Your AI browser companion.",
     "title_norm": "meet holotab by hcompany your ai browser companion"
   },
-  "302fa522e79e2884de203c9260b38f3031853109d591461b51b9ade06c00fbb5": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450096+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "X-OS \u2013 Building an Operating System for the AI Era",
-    "title_norm": "xos building an operating system for the ai era"
-  },
   "3033c57db999fcb8d77f554d8ff86840c0b6347cbe94ddf7377c245e6c9c2987": {
     "category": "research",
     "posted": false,
@@ -29029,14 +29029,6 @@
     "title": "Evaluating Regional Bias in LLMs From Abstract Stereotype to Concrete Social Decision-Making",
     "title_norm": "evaluating regional bias in llms from abstract stereotype to concrete social decisionmaking"
   },
-  "35faed769b0ec72de227d21edd8c2cab510bf154651dc341d728c3703afb2b78": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450148+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "I used local models and embedders to find out how coding agents are making decisions for me and how my coding preferences are being saved",
-    "title_norm": "i used local models and embedders to find out how coding agents are making decisions for me and how my coding preferences are being saved"
-  },
   "35fd55e0d64fe1cb0836685a06439687d399beb96965624e3fb7454e9e6163cf": {
     "category": "research",
     "posted": false,
@@ -29660,6 +29652,14 @@
     "source": "arXiv cs.AI",
     "title": "Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions",
     "title_norm": "iterative tensor network transformations for elementwise evaluation of elementary and filtering functions"
+  },
+  "36e7c020994225c73bc52245d09f1a62f67c91281b6b649585e64b16ae0def71": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151159+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
+    "title_norm": "ai coding has erased the supposed advantage of statically typed languages"
   },
   "36ef3b44e89ba2a4467e1409799d74ccb6385f6a8a5b6d6ad2169a421ff8e16c": {
     "category": "other",
@@ -31249,14 +31249,6 @@
     "title": "A MARL Centered Reference Architecture for Large Language Model Augmentation in Smart Manufacturing",
     "title_norm": "a marl centered reference architecture for large language model augmentation in smart manufacturing"
   },
-  "39fb7bcc3bc51899e357d56d220ad10e7b83cf00417000de4a09a251dc01fbeb": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.449952+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-    "title_norm": "third drone shot down in three days in romanian territory"
-  },
   "3a05e21e3c33c03ea8c864b59b87ece9a4ea8a59756a743c6d82cd6e6cc2fe85": {
     "category": "other",
     "posted": false,
@@ -31280,6 +31272,14 @@
     "source": "arXiv cs.AI",
     "title": "Procedural Fairness Failures in RLHF from Preference Averaging",
     "title_norm": "procedural fairness failures in rlhf from preference averaging"
+  },
+  "3a0f2a8239f8a7b48dc5d30244a0ae968ce74e4a53f9df55b679b0bcb56626bd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151341+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Triangulating AI's Climate Impact, a Look at Studies, Research and Regulation",
+    "title_norm": "triangulating ais climate impact a look at studies research and regulation"
   },
   "3a10e4f97fbf7e6fb5c374065729c0a2911c3642a04afdd08a50c4d2f8f4f57e": {
     "category": "other",
@@ -35010,6 +35010,14 @@
     "source": "arXiv cs.AI",
     "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
     "title_norm": "even more deception objective misalignment in mixedmotive llm multiagent systems"
+  },
+  "4180ac4c4d2a86e09dd771d6e3eee7f1945e59c1551f5b454bf7e5df4345b983": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151184+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "What 219 AI evals job postings that publish a salary pay",
+    "title_norm": "what 219 ai evals job postings that publish a salary pay"
   },
   "418b144085609285a187c26dc1f5fd4aad7079954915e35f01e840dc0c604fe0": {
     "category": "research",
@@ -39886,6 +39894,14 @@
     "source": "arXiv cs.AI",
     "title": "SuTRA : Structurally-Unified Tokenization with Root Awareness",
     "title_norm": "sutra structurallyunified tokenization with root awareness"
+  },
+  "4b5e55a302d76c56f20242b9ea3fe69d4de31f1488f329e1d1e8d3a84c590335": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151244+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Confidential tokens: Routing is coming for the Frontier AI Labs",
+    "title_norm": "confidential tokens routing is coming for the frontier ai labs"
   },
   "4b684d9ca6a54ef2481b778cef53f45cd21e7de563245b851af28c163996b43c": {
     "category": "other",
@@ -45903,14 +45919,6 @@
     "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
     "title_norm": "nvidias 500b plan envelops wall sreett in its ai frenzy"
   },
-  "570bb460d054d51dc6a3aead3b2575dd2111ca00201852537b3035401b544d82": {
-    "category": "model_release",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450138+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Kimi K3 gets open weighted tomorrow!",
-    "title_norm": "kimi k3 gets open weighted tomorrow"
-  },
   "57136f5c591729e966dc7d982d2ecc8ac0977817517493c50965933f30eb80e4": {
     "category": "research",
     "posted": false,
@@ -46340,14 +46348,6 @@
     "source": "OpenAI News",
     "title": "Answering quantum physics questions with OpenAI o1",
     "title_norm": "answering quantum physics questions with openai o1"
-  },
-  "57e76835319097a2108134e79f4fd10ef22e0531f951ac0d5af270094868f95c": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450165+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "is there any video editing model better than wan2.2?",
-    "title_norm": "is there any video editing model better than wan22"
   },
   "57ea7cd9714adcf354fcf8f2f3c799a709af25798ba0e965f971285a49a3c682": {
     "category": "other",
@@ -51473,6 +51473,14 @@
     "title": "When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing",
     "title_norm": "when persona simulations are informative graphstructured signals for pluralistic opinion sensing"
   },
+  "6166bc8756b45556193ec44c435bd0e8c848a0a002242281a1e8abaf1597acd4": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151447+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "me to the model I spent all weekend fine-tuning",
+    "title_norm": "me to the model i spent all weekend finetuning"
+  },
   "6169e1317387fa82f4f623387f7623d387e61fdd387e6734cb7d71ea94336a3e": {
     "category": "official_labs",
     "posted": false,
@@ -54205,6 +54213,14 @@
     "title": "Invideo AI uses OpenAI models to create videos 10x faster",
     "title_norm": "invideo ai uses openai models to create videos 10x faster"
   },
+  "6702caaa7f247ba1817cdafc551b67cb0827fd0d0c4dffc9212766260c4a74d3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151090+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "title_norm": "apple introduces new mac studio with m5 max and m5 ultra"
+  },
   "670415240a89cd2bd7139f4e1e9968ffe2ee43c26f49152b611509e397cb8a28": {
     "category": "other",
     "posted": false,
@@ -55189,14 +55205,6 @@
     "title": "Qwen 35B-A3B MoE vs 27B dense in local coding tests: ~4\u00d7 faster, much smaller quality gap than I expected",
     "title_norm": "qwen 35ba3b moe vs 27b dense in local coding tests 4 faster much smaller quality gap than i expected"
   },
-  "68c466731290dd80ede392222e4861671242e1143941022e649749fefa9eae66": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450053+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "The product function in the age of AI",
-    "title_norm": "the product function in the age of ai"
-  },
   "68cdd3e150b44170e0c318848bcac72eaa5c16fc9f4e9fe88fb22b3b59363ab2": {
     "category": "research",
     "posted": false,
@@ -55356,6 +55364,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you \u2014 point it at a GGUF and the whole agent loop runs offline",
     "title_norm": "ante 02 a 15mb coding agent that manages llamacpp for you point it at a gguf and the whole agent loop runs offline"
+  },
+  "691ae4ffb59a7125d4ff2c7877dcdd93eac949f88db4f8e49e37dc8925baa069": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151469+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+    "title_norm": "apple unveils a more powerful mac mini featuring the allnew m6 and m5 pro"
   },
   "691e319cb18eae36378468b56e82266cd7c79f50c87cddc2ed5b9450c8c4c107": {
     "category": "other",
@@ -57368,6 +57384,14 @@
     "source": "Hacker News AI keyword",
     "title": "Has AI Gone Rogue?",
     "title_norm": "has ai gone rogue"
+  },
+  "6c9c667fbc6b37e7364aa1f69d608da5d06110566c21d45f55647a800661c90d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151426+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Apple releases M5 ultra at 1.2TB/s bandwith",
+    "title_norm": "apple releases m5 ultra at 12tbs bandwith"
   },
   "6cabe7db5b06189e397331bb00c5a67d0f4cddf99ff4fe74bc1e4d53a53a4245": {
     "category": "other",
@@ -61979,14 +62003,6 @@
     "title": "Actions Have Consequences: Detecting Outcome Performativity using Intervention Testing",
     "title_norm": "actions have consequences detecting outcome performativity using intervention testing"
   },
-  "753dbfd6b54f0e4176b319bd53cc7b111ce9aff317885b38963714fafd7add05": {
-    "category": "infrastructure",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.449989+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Google's AI Spending Spree Has Investors Nervous",
-    "title_norm": "googles ai spending spree has investors nervous"
-  },
   "7546de209ea72120f8e011a4915058c63db0adfc3ff37e77304f5ade14115fd7": {
     "category": "research",
     "posted": false,
@@ -64672,6 +64688,14 @@
     "source": "arXiv cs.AI",
     "title": "AI, Brain Death Detection, and Islamic Law",
     "title_norm": "ai brain death detection and islamic law"
+  },
+  "7a3052ca1185aa73f15ddb8289f137b6bf205961213c533cbc68911d5fde7229": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151372+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+    "title_norm": "apple introduces new mac studio with m5 max and m5 ultra up to 512gb of unified memory"
   },
   "7a308b47167fece9d84dcadbac4f6b1707f55f33ae334eb99f858bfd9c3a1188": {
     "category": null,
@@ -76095,6 +76119,14 @@
     "title": "Evaluating LLM Generated Detection Rules in Cybersecurity",
     "title_norm": "evaluating llm generated detection rules in cybersecurity"
   },
+  "912806767a61c36e276da3ab20931d4c8d84dd1e599fad66e1847849fcf4e611": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151294+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ten ways an AI breaks under pressure. How many you can catch?",
+    "title_norm": "ten ways an ai breaks under pressure how many you can catch"
+  },
   "9129eb8fd53ce84033339ac4c6b36a16e30379b146828b2269bc528d10b7c4f0": {
     "category": "other",
     "posted": false,
@@ -76881,14 +76913,6 @@
     "title": "SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response",
     "title_norm": "secrespond benchmarking ai agents for realworld postcompromise incident response"
   },
-  "92c6e44a4fba945a95474f1e989ddd226c45a4622e14f3e02d8647d329439c2a": {
-    "category": "infrastructure",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450082+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Moody's says AI spending threatens credit of Amazon, Meta, Alphabet, others",
-    "title_norm": "moodys says ai spending threatens credit of amazon meta alphabet others"
-  },
   "92d1fce3764425e14c1cc47651bf2e4e3a7b3b6b8428151fbcb0c9585f42a8b5": {
     "category": "official_labs",
     "posted": false,
@@ -77472,14 +77496,6 @@
     "source": "Hacker News AI keyword",
     "title": "Ksumiyo \u2013 AI music generation with producer-level controls",
     "title_norm": "ksumiyo ai music generation with producerlevel controls"
-  },
-  "93f6ed0af18f8e2fd405cd27cf197dc2cc09189757dc256e7d6e5bd69e6760ae": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.449870+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "title_norm": "google discloses 941b in spacex stock marking 6 stake"
   },
   "93f6fec9a9a6eb54c300e22cab2c54a602f5afb3e107ee7a4d36b31b32edbfb1": {
     "category": "research",
@@ -82697,6 +82713,14 @@
     "title": "Accelerating discovery of liver disease mechanisms",
     "title_norm": "accelerating discovery of liver disease mechanisms"
   },
+  "9e45b4388f7fc54b4d8df96a829105c657b9a1ed9e6310a6bd8c51ce5a5d3fde": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151222+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "BitTime: The only solution that replaces currency to restrain AI",
+    "title_norm": "bittime the only solution that replaces currency to restrain ai"
+  },
   "9e4afd9211a12f1465b1d748e2f21cc65caba2c512f683726b6f9b2172bd35bd": {
     "category": "official_labs",
     "posted": false,
@@ -83505,6 +83529,14 @@
     "title": "Glaciers on the Climate Dashboard",
     "title_norm": "glaciers on the climate dashboard"
   },
+  "9fc07d5dcdc21e74f46ea24d4eeffe2ec53f6f4600e0f046628e8a6a7e9775d4": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151112+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+    "title_norm": "qwen 38flashnext releasing tomorrow 125b a6b"
+  },
   "9fc4232d9c9ba9c82c1933d53428606f5acc0b9f14c9e42e2fcd7a436451313f": {
     "category": "other",
     "posted": false,
@@ -83629,7 +83661,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-08-25-14"
+    "last_slot": "2026-08-25-16"
   },
   "_queue": [],
   "a00657352055fe35d4ba88cd86c7f45c1a4d093a0c8f81ac809441d80678ff4e": {
@@ -94806,6 +94838,14 @@
     "title": "Show HN: Maybe AI agents shouldn't decide what's sensitive",
     "title_norm": "show hn maybe ai agents shouldnt decide whats sensitive"
   },
+  "b4a94615cb64fa6b2c18a80cefce4a38e81d4c634316fc36df2bcbe261aad127": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151317+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI chatbots are becoming experts at changing people's minds. What's their edge?",
+    "title_norm": "ai chatbots are becoming experts at changing peoples minds whats their edge"
+  },
   "b4aa2631fab3b635b58b5b0471a20c9a28d8152a2decad7e5dc7cde5644ab022": {
     "category": "other",
     "posted": false,
@@ -99400,6 +99440,14 @@
     "title": "SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges",
     "title_norm": "sag sqlretrieval augmented generation with querytime dynamic hyperedges"
   },
+  "bd040b9b56597bc352c3d4f01d57064ba1fed48d89dd61ee0f6b36117ada6c30": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151267+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Sablejs 2.0 \u2013 An AOT sandbox for AI-generated JavaScript",
+    "title_norm": "sablejs 20 an aot sandbox for aigenerated javascript"
+  },
   "bd0c05a966cb398dfc48ecde7eb5195ca301aea8bbdcd50cfa739f72aaa720f2": {
     "category": "other",
     "posted": false,
@@ -102067,6 +102115,14 @@
     "source": "arXiv cs.CL",
     "title": "LongChart VQA: A Comprehensive Benchmark for MLLMs with Complex Multi-Chart Reasoning",
     "title_norm": "longchart vqa a comprehensive benchmark for mllms with complex multichart reasoning"
+  },
+  "c1e31a3255ae290d266618516c84abb77b4bc747316bbb237d1b39d2b2f7ba7a": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151037+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The state of AI in 2026: On the road to ROI",
+    "title_norm": "the state of ai in 2026 on the road to roi"
   },
   "c1e46d0b2b5da196d5917b8222bd2b75ff0c85b7df84dd0a5090a69be70b2da7": {
     "category": "research",
@@ -106010,6 +106066,14 @@
     "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
     "title_norm": "we built a structured entity graph for an ai agent then we removed most of it"
   },
+  "c9ad041cedfbe656fe2ff3c3756466e0d080516a8817d332086c7c37d9058b31": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.150992+00:00",
+    "source": "Ars Technica AI",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "title_norm": "apples new desktop computers are designed specifically for local ai development"
+  },
   "c9b972aef52d6dcfa7910ce8f6d141a8021dc8f45da1258dded4bf001e5723f7": {
     "category": "research",
     "posted": false,
@@ -106912,14 +106976,6 @@
     "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
     "title_norm": "kaisel routes as values dart 3 native router for flutter"
   },
-  "cb495d8c63c15a675f3c14092136bbf0aedf03ef52c61eef0d583f5a4c8c225a": {
-    "category": "infrastructure",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450109+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Bond market anxiety is growing over AI capex budgets",
-    "title_norm": "bond market anxiety is growing over ai capex budgets"
-  },
   "cb5a1f2f85d32c19238c6988e6d3c71bca12e88d994082a5acc6e1cd3ad67483": {
     "category": null,
     "posted": false,
@@ -107659,6 +107715,14 @@
     "source": "arXiv cs.AI",
     "title": "FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting",
     "title_norm": "fmllm a frequencyenhanced mixtureofexperts framework for adapting llms to time series forecasting"
+  },
+  "cd36e34ebecc2c2e78f49551d9d80a5123c9145dc025182f67b1ae484674d853": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.150906+00:00",
+    "source": "The Verge AI",
+    "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
+    "title_norm": "openai says its jalape\u00f1o chip can power faster ai responses than the competition"
   },
   "cd370662bf45514c60d859223a630a0b38ee038f3fb0b5094fe7516e39d5d8a0": {
     "category": "other",
@@ -112997,14 +113061,6 @@
     "source": "OpenAI News",
     "title": "Ingredients for robotics research",
     "title_norm": "ingredients for robotics research"
-  },
-  "d8329230406ae01a0391d4ff6ec1e4d5b25686368474c4b69d92f829e42eb912": {
-    "category": "policy",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450121+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "CEO of Hugging Face: \"In the spirit of transparency, here\u2019s what I asked OpenAI\"",
-    "title_norm": "ceo of hugging face in the spirit of transparency heres what i asked openai"
   },
   "d833c58d43d2393aed2bff307970393e6030749ed274dbe84714445ba2158bfb": {
     "category": "research",
@@ -122432,14 +122488,6 @@
     "title": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course",
     "title_norm": "patterns of learnerai interaction and academic performance in an objectoriented programming course"
   },
-  "ea12f9bc9e8ca2bfb9b647f8e32a8da146178ea1679c31440c4f1df0ae51404c": {
-    "category": "infrastructure",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450034+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "ARIA \u2013 Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)",
-    "title_norm": "aria voicenative 3d spatial ai soc with governed autonomy bsl 11"
-  },
   "ea153b4bd6bbf07ea694925c2a9627960c841218f044014d0f0ebf7e9ea585f1": {
     "category": "other",
     "posted": false,
@@ -127554,14 +127602,6 @@
     "title": "Australia passes law to levy tech giants that fail to pay for local news",
     "title_norm": "australia passes law to levy tech giants that fail to pay for local news"
   },
-  "f43e9d407650ba609e2a852e3d65edcc95a58bd22dda2cf1ddce74e531833c3c": {
-    "category": "other",
-    "posted": false,
-    "seen_at": "2026-07-26T13:05:24.450002+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Making 3 AI's Count to 100 Together [video]",
-    "title_norm": "making 3 ais count to 100 together video"
-  },
   "f43f9509f57f83845b90dbe5e54819240ba555fd71dde38c38be0e2d4e82340a": {
     "category": "research",
     "posted": false,
@@ -131873,6 +131913,14 @@
     "source": "Hacker News AI keyword",
     "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
     "title_norm": "study reveals that almost 40 of music released globally in july 2026 used ai"
+  },
+  "fc7b989d60495ed4938aaeb952764451b696498007eb7aaf5ab50a01599d3797": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-08-25T14:06:45.151065+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "US data centers tripled annual water consumption to 17B gallons",
+    "title_norm": "us data centers tripled annual water consumption to 17b gallons"
   },
   "fc7ba0e6431073ab51298323a3f17f7986f00c40ad38b23de497bf4b0c59a51c": {
     "category": "research",
