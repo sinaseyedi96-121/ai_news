@@ -607,14 +607,6 @@
     "title": "Apple Music 404 Not Found",
     "title_norm": "apple music 404 not found"
   },
-  "0139f84d8e8be97b6a6cd0b13d29b6f7589d2cf9001afbf57c154281715f6d3e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208287+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "The Lightbulb Computer",
-    "title_norm": "the lightbulb computer"
-  },
   "013a0eb472eca94cc61bb9470006284e4741ee66e65b5f38c9ace6e0da448f0f": {
     "category": "community_signal",
     "posted": false,
@@ -934,6 +926,14 @@
     "source": "arXiv cs.AI",
     "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
     "title_norm": "reprobridge building reproducibility into ml research artifacts"
+  },
+  "01f30fd1ba60d71269c022d0fa9bb6b90ca0e05784ff3cb25c059a6ed2af6615": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866321+00:00",
+    "source": "OpenAI News",
+    "title": "Inside GPT-5 for Work",
+    "title_norm": "inside gpt5 for work"
   },
   "01f3dd12554851c88ddb9dfdd37c630626e0aa74388515cb0e566a313be5b40d": {
     "category": "research",
@@ -1382,6 +1382,14 @@
     "source": "arXiv cs.CL",
     "title": "Why is AI-generated language so hard to understand?",
     "title_norm": "why is aigenerated language so hard to understand"
+  },
+  "02e9abf47eaf3fa01f98fe0d8703230a8e6faa4dd4f2fb401bd0d8381c4ff554": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866033+00:00",
+    "source": "OpenAI News",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "title_norm": "coderabbit scales agentic software development and ships 20x more"
   },
   "02eac071a6a0b020f1988573b60ab4f91d465dfa5b24f8a246eb45761e130317": {
     "category": "research",
@@ -1871,6 +1879,14 @@
     "title": "Time Delay System for Sequence Modeling",
     "title_norm": "time delay system for sequence modeling"
   },
+  "03c46726276b69485a3653ed1db9214f4747dd2476473dbeae1562b47b227965": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867221+00:00",
+    "source": "TechCrunch AI",
+    "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+    "title_norm": "from the front row to the hot seat what the midterms mean for big tech"
+  },
   "03c5e9f912450e567c4981847ef6b613092d9e22aa617845a0ea0d796ac078f3": {
     "category": "research",
     "posted": false,
@@ -1958,6 +1974,14 @@
     "source": "arXiv cs.AI",
     "title": "FIRME: Registry-Anchored Memory Graphs for Evolving, Heterogeneous Investor Knowledge",
     "title_norm": "firme registryanchored memory graphs for evolving heterogeneous investor knowledge"
+  },
+  "03fd9302c61cd3ba5a3f9453ea0e97d59c24324b96647de176046e7e0fc169c7": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867885+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The Red Queen hypothesis \u2013 a new way forward for self-improving AI",
+    "title_norm": "the red queen hypothesis a new way forward for selfimproving ai"
   },
   "04078ea8b1da0d7fe06336d5f7ac0da03f16af0f2cb7cf94f4e1d8adc59400e4": {
     "category": "community_signal",
@@ -2807,6 +2831,14 @@
     "title": "Novellas with Groff",
     "title_norm": "novellas with groff"
   },
+  "05e31abb81030e94daf9e1de5c7882de3be9f45e8966f4c80ac0665709d5abc2": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867240+00:00",
+    "source": "The Verge AI",
+    "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+    "title_norm": "david ellison says ai could be the biggest creative unlock in modern history"
+  },
   "05e3c78bc14c2574fe8fdabbd0800362d4774e6e441ed0b93fb7b0d4b57c2e47": {
     "category": "research",
     "posted": false,
@@ -3295,14 +3327,6 @@
     "title": "It's the Memory Latency, Stupid",
     "title_norm": "its the memory latency stupid"
   },
-  "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208172+00:00",
-    "source": "Hugging Face Blog",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "title_norm": "rebuilding automatic1111 with gradio workflow"
-  },
   "0765deb144589280c16b6c389f4ff0fb7d519b5edcb7c4cad6d5247ca7a27572": {
     "category": "official_labs",
     "posted": false,
@@ -3663,14 +3687,6 @@
     "title": "Robotics AI Suite",
     "title_norm": "robotics ai suite"
   },
-  "081601c279be28d3ef5aa58c1540b9bc9f0ea3d8209b55f9f8aeb4a2083ecf36": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.970996+00:00",
-    "source": "OpenAI News",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "title_norm": "expanding daybreak as the cyber defense window narrows"
-  },
   "081d2afb18f35c00e64d8dc14042f5c7d23d8094a52c704692baa0d27531cf48": {
     "category": "research",
     "posted": false,
@@ -3790,6 +3806,14 @@
     "source": "arXiv cs.AI",
     "title": "What Should LLMs Forget: Reinforcement Unlearning of Knowledge Associations",
     "title_norm": "what should llms forget reinforcement unlearning of knowledge associations"
+  },
+  "086eb057df4745d84c70fdf06fc1eda0d843f1f754a3095f4132695406a1ead9": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866359+00:00",
+    "source": "OpenAI News",
+    "title": "Using Codex across the software development lifecycle",
+    "title_norm": "using codex across the software development lifecycle"
   },
   "086f05fb924ad5a00cfb8fce60a37e114795d48d36e76de157509906ecb8510e": {
     "category": "community_signal",
@@ -6519,14 +6543,6 @@
     "title": "PULSE: Personalized Opportunistic Learning for Wearable Devices",
     "title_norm": "pulse personalized opportunistic learning for wearable devices"
   },
-  "0e82d8998833621ad9c9d4a868b3fa853ac8b7bff6ddfee6c0a999eed463befc": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208148+00:00",
-    "source": "OpenAI News",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "title_norm": "virgin atlantic sharpens customer journeys with chatgpt work"
-  },
   "0e8b8c47eeb76ba03795e7c456b48a1326322ebf150a36b78a8b36bd9b1133cd": {
     "category": "research",
     "posted": false,
@@ -7319,6 +7335,14 @@
     "title": "Build an Automatic AI Accountant with Muse, Unsiloed, and Jev",
     "title_norm": "build an automatic ai accountant with muse unsiloed and jev"
   },
+  "10495d0e64701fb311783fce996be7b59568d15cd9c20695db7b1aa8140f8ccf": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866378+00:00",
+    "source": "OpenAI News",
+    "title": "How OpenAI uses ChatGPT Atlas at work",
+    "title_norm": "how openai uses chatgpt atlas at work"
+  },
   "1049dc57f07cd6c9651afe2abc21006ebd084ceb422694a6eeac8706589f8699": {
     "category": "community_signal",
     "posted": false,
@@ -7366,6 +7390,14 @@
     "source": "arXiv cs.AI",
     "title": "Persona Learning from Feedback for Personalized AI Assistants",
     "title_norm": "persona learning from feedback for personalized ai assistants"
+  },
+  "1068278eb7a02a06b7a0293768d2ecd8c3e722cb94200be6af5fab9a798a2291": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867692+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+    "title_norm": "the first 300millimeter power silicon carbide sic wafer"
   },
   "106dbb5ec8bc46d49a6aac3c3964815fd41d98588adfc20e3eb96c62055412ba": {
     "category": "research",
@@ -7663,6 +7695,14 @@
     "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
     "title_norm": "when planning problems become hard for llms separating structural complexity from semantic interpretability"
   },
+  "10fe9d0c673254a4bd77f93f7d0e7d0737d110e7550478b9e9572a3b82967282": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866640+00:00",
+    "source": "OpenAI News",
+    "title": "Writing with canvas in ChatGPT",
+    "title_norm": "writing with canvas in chatgpt"
+  },
   "10ff9df7a5585aaf706ba8d3ba5cc67072e32a605a0ce9d832161f71fc47ec87": {
     "category": "tech_news",
     "posted": false,
@@ -7854,14 +7894,6 @@
     "source": "Hacker News AI keyword",
     "title": "Tokens aren't valuable: No more AI",
     "title_norm": "tokens arent valuable no more ai"
-  },
-  "116ccaaa83ba49698a1a9635f1215e4904cbd3a0e5130a056501f097a6fbb27e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971336+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-    "title_norm": "anthropic ai model went rogue submitted fake unsolved murder tip"
   },
   "116d828d700e1d0e035de88b9ea413f81cd8d0376d0242bed963831d526c7431": {
     "category": "research",
@@ -10079,14 +10111,6 @@
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "title_norm": "training and finetuning multivector embedding models with sentence transformers"
   },
-  "171acb28f6a04b245c65ed29b49d92518944101f7164814ec2fd0eefd9188b68": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208468+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "AI and Bottlenecks in Software Production [pdf]",
-    "title_norm": "ai and bottlenecks in software production pdf"
-  },
   "171daebfa31656f1c7af7c0539389fb2765c45cbfeb8effa4be13f147761c8aa": {
     "category": "research",
     "posted": false,
@@ -11671,6 +11695,14 @@
     "title": "OrderFlowDiT: Transport-Regularized Diffusion Transformer for Probabilistic Limit-Order Supply Forecasting",
     "title_norm": "orderflowdit transportregularized diffusion transformer for probabilistic limitorder supply forecasting"
   },
+  "1a2427fc03e91d3a2c3195745a75ec9fba5a047d044c55d67cf29004faa0f00d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867487+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Mathematicians Are Like Luddites",
+    "title_norm": "mathematicians are like luddites"
+  },
   "1a262793e5f32e1f5bea897b22b45e2b9130af45fd13f5523a1b3ede68e17cfb": {
     "category": "research",
     "posted": false,
@@ -11878,14 +11910,6 @@
     "source": "Hacker News Frontpage",
     "title": "HackerTube: YouTube built from videos recommended by HN",
     "title_norm": "hackertube youtube built from videos recommended by hn"
-  },
-  "1aa2ad4df569ef6e7b669e28157d27701c38f00abcdf3a40b9490979879e3490": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971245+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "I would like the value of my home to rise, while my property taxes fall",
-    "title_norm": "i would like the value of my home to rise while my property taxes fall"
   },
   "1aa3d2d5bbf03812c7cbfc2509dc82a86903d54fc86a70f9ddc290e2587ff664": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -12919,6 +12943,14 @@
     "title": "Top Astrophysicist Leaves U.S.",
     "title_norm": "top astrophysicist leaves us"
   },
+  "1cd01b15863e291ad4ce315f1c236c0c8cc0c0073c23c49c868e8f7873eb2b8e": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867552+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Locating the source of a mysterious beep",
+    "title_norm": "locating the source of a mysterious beep"
+  },
   "1cd33358fa8ed608bec699fcbf4f590566e728cfbc5d79ffd30e077563cdab03": {
     "category": "research",
     "posted": false,
@@ -13342,6 +13374,14 @@
     "source": "Google DeepMind Blog",
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "title_norm": "developing gemini 4 argon responsibly and safely"
+  },
+  "1dcbe1dc4097af7ed488b9e772a0481032a4d40bf01d2b9ee8b75a317203d40d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866783+00:00",
+    "source": "OpenAI News",
+    "title": "Solving complex problems with OpenAI o1 models",
+    "title_norm": "solving complex problems with openai o1 models"
   },
   "1dcea8b0f8acab144d9449d9a882270327a9c7315cef0dad2195f7c1e05184af": {
     "category": "official_labs",
@@ -13822,6 +13862,14 @@
     "source": "arXiv cs.AI",
     "title": "Unlocking the Specialization Capability of PPG Foundation Models for Wearable Signals through Structured Pruning and Adaptive Fine-Tuning",
     "title_norm": "unlocking the specialization capability of ppg foundation models for wearable signals through structured pruning and adaptive finetuning"
+  },
+  "1eed19afa11f8e8d8b7c57903090fcf8635b4e24cf6577f210af9f8d2e1610d9": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867513+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Ultorg: The User Interface for Relational Databases",
+    "title_norm": "ultorg the user interface for relational databases"
   },
   "1ef088d02a39c0481fd2877c09194cada9e9a863ad0918ff5679f2eacadcff3c": {
     "category": "research",
@@ -15407,14 +15455,6 @@
     "title": "VELD-QA: A Large-Scale Dataset for Visual Evidence Grounding and Question Answering in Long Documents",
     "title_norm": "veldqa a largescale dataset for visual evidence grounding and question answering in long documents"
   },
-  "227c45dd91a58569ea4357de94119ee82e70c2e625dd9f2e3ee181c0875f6a15": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208384+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Integrated Circuits, AI, and Wallabies",
-    "title_norm": "integrated circuits ai and wallabies"
-  },
   "227c6c87545048c4cbe5c87feb5162ff11942625a9ea61fd99b2d3975b3a08fb": {
     "category": "community_signal",
     "posted": false,
@@ -16911,6 +16951,14 @@
     "title": "Pollard: Governed Semantic Execution Trees for Framework-Independent AI Agent Control and Replay",
     "title_norm": "pollard governed semantic execution trees for frameworkindependent ai agent control and replay"
   },
+  "25603029fc927a2770eda190146565fa34a122a45916019a2d68b441687c8ee9": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867918+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
+    "title_norm": "trump says he told ai executive to kiss his family goodbye before going to jail"
+  },
   "2560dd467c8ec978761e41ac4938ca61b408c7e4833f94aa0c9e2e8dc2ac5613": {
     "category": "community_signal",
     "posted": false,
@@ -16966,6 +17014,14 @@
     "source": "arXiv cs.AI",
     "title": "Prism: Bidirectional Self-Teaching for Unified Multimodal Models",
     "title_norm": "prism bidirectional selfteaching for unified multimodal models"
+  },
+  "257c4d9403c23a076eb929405b0ad414e3757ef2154679fbb07131ad7f668763": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867933+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI Second Brain Masterclass [video]",
+    "title_norm": "ai second brain masterclass video"
   },
   "257c907e3257afa3add6a0f8dd86c83b579cb7846736f3a5eb656682c4a160e8": {
     "category": "research",
@@ -17047,6 +17103,14 @@
     "title": "Category-Anchored Large Language Models for Next POI Recommendation",
     "title_norm": "categoryanchored large language models for next poi recommendation"
   },
+  "25988e5d933a42c7f7813ff0cf4d58195d6ad35d7bea64f96412041b865f1599": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867980+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: AI Frothiness Index. Daily reading of how stretched the AI boom is",
+    "title_norm": "show hn ai frothiness index daily reading of how stretched the ai boom is"
+  },
   "259d3fb662e9583c1c3f6eb36bed886e06726877b595f6b95b0965963aa77b9e": {
     "category": "research",
     "posted": false,
@@ -17062,14 +17126,6 @@
     "source": "arXiv cs.AI",
     "title": "When LLM Reward Design Fails: Diagnostic-Driven Refinement for Sparse Structured RL",
     "title_norm": "when llm reward design fails diagnosticdriven refinement for sparse structured rl"
-  },
-  "25a145f4bcfe032b18185c53c88180f9e52c84150d431626c94d0b3d26a6cf56": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208312+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Recent AI models struggled to match a human algorithmic innovation",
-    "title_norm": "recent ai models struggled to match a human algorithmic innovation"
   },
   "25adcaa1c831fe23ba3fe7569d490c5ab54ea916647e094e48c6f94f036eff28": {
     "category": "official_labs",
@@ -17102,6 +17158,14 @@
     "source": "arXiv cs.AI",
     "title": "When Reviews Are Scarce: Structure-Aware Review Imputation for Recommendation in Realistic Sparse Review Settings",
     "title_norm": "when reviews are scarce structureaware review imputation for recommendation in realistic sparse review settings"
+  },
+  "25b33fecf05b4e543a47c0cc1240b7d396d1ac3592d002f41f33874bb559b1e7": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866550+00:00",
+    "source": "OpenAI News",
+    "title": "Market research with ChatGPT",
+    "title_norm": "market research with chatgpt"
   },
   "25b88f279bd31c921617d51756fd90f21c5270da1fb7513d0035df8471e558f0": {
     "category": "research",
@@ -17382,14 +17446,6 @@
     "source": "arXiv cs.AI",
     "title": "Social Priors: Descriptions of AI Users Shape How Language Models Trust and Cooperate",
     "title_norm": "social priors descriptions of ai users shape how language models trust and cooperate"
-  },
-  "2640e3ae8dcdb9be477dde0cff0c3b14658acc0936c400db7c88754f49ec140d": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971077+00:00",
-    "source": "TechCrunch AI",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "title_norm": "here are the top ai agents that can live in your text messages"
   },
   "2643cd9dc3c97ae68395b6581bb6e338ffabe0ee303d16d8878f37294efe18ab": {
     "category": "research",
@@ -18615,6 +18671,14 @@
     "title": "New Nvidia unlock works on Chinese 3080 20GB too",
     "title_norm": "new nvidia unlock works on chinese 3080 20gb too"
   },
+  "28bf67cf1684b7b254ce9aae754bbc3ee5442e19ee7a2939469f4481b1668339": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867006+00:00",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "title_norm": "jensen huang reportedly engaged a pr firm with a history of handling highprofile sex scandals a year ago"
+  },
   "28c39744a6cb58094fff6d2766e93b154cfdb56a03e02818bce9281f1b9b4ec3": {
     "category": "research",
     "posted": false,
@@ -19047,14 +19111,6 @@
     "title": "Multimodal Ambivalence and Hesitancy Recognition with Bidirectional Audio--Text Cross-Attention",
     "title_norm": "multimodal ambivalence and hesitancy recognition with bidirectional audiotext crossattention"
   },
-  "29b0e61ec6cd1ed38342bd3f0d233e41901ac8706bcd8411d89efe21c8f9b7d6": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.970976+00:00",
-    "source": "OpenAI News",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "title_norm": "putting frontier cyber models in more trusted hands"
-  },
   "29b2238cb492f0339a04cac213ca9ead82150c4e1e49edde331eb7fe5bf9a87c": {
     "category": "research",
     "posted": false,
@@ -19102,14 +19158,6 @@
     "source": "arXiv cs.CL",
     "title": "Teach, Abstract, Apply: A Framework for Dialogue-Driven Task Learning with Collaborative Robots",
     "title_norm": "teach abstract apply a framework for dialoguedriven task learning with collaborative robots"
-  },
-  "29d1be4640d9ba99e43dd0c9513cad6a6f02698cc8db31f1f5e89bd779da8bcd": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208276+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Unikernels were hard. key word: were",
-    "title_norm": "unikernels were hard key word were"
   },
   "29d9cfec160595dad8f1842516c5fce187f36d9d1f730c89f1f1114ca38ce207": {
     "category": "official_labs",
@@ -19390,14 +19438,6 @@
     "source": "arXiv cs.CL",
     "title": "ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics",
     "title_norm": "electrochemllm a multimodal llm pipeline for highfidelity electrochemical informatics"
-  },
-  "2a5c0cad5d8b2f9d8e4a65a1f9a6b8a448a2a46b92e808a3d233f6af6db02405": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971016+00:00",
-    "source": "OpenAI News",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "title_norm": "premium seats are coming to chatgpt business"
   },
   "2a61ad98a80763bdeadbb82c38bc04fa2713601619e12b23eb1de32b8be5100a": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -20439,14 +20479,6 @@
     "title": "Struggling to Pick the Right AI Model? Let's Break It Down.",
     "title_norm": "struggling to pick the right ai model lets break it down"
   },
-  "2ca3d7a8b94cb0f063ffae027711283f168d325fdc98ced6516a38a862b69f2e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971163+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-    "title_norm": "pvx001 opensource covid19 vaccine starts phase 1 trial"
-  },
   "2ca59887f5f948e8975903083b5cbd8839a1d3fe2ec3d909503641a5589a3af0": {
     "category": "data_center",
     "posted": false,
@@ -20486,14 +20518,6 @@
     "source": "Hacker News Frontpage",
     "title": "Every processor die anyone has photographed and given away",
     "title_norm": "every processor die anyone has photographed and given away"
-  },
-  "2cb3a137fdacf97b97e97e730c4d76c1eaf07a38ac7a5506f310990a019b5e0e": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971497+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
-    "title_norm": "ai is supercharging a scam economy bigger than the cocaine trade"
   },
   "2cb75eeeb0291ade2e3a4132b0a519ac42c33eab0d77360482ffb482d51a2ba2": {
     "category": "research",
@@ -20718,14 +20742,6 @@
     "source": "arXiv cs.AI",
     "title": "From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic",
     "title_norm": "from fuzzy to exact the halo architecture for infinitedepth reasoning via rational arithmetic"
-  },
-  "2d1f2d4c877e6dc27e889de58e869280355d6f8cf9393b157cd11768b3741c02": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971283+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-    "title_norm": "nvidiabacked upscale ai launches platform to connect chips from rival suppliers"
   },
   "2d247043498472e1a36a9148c75f9b041797dbd934fcc3398fc2c6100b2875f0": {
     "category": "official_labs",
@@ -21231,6 +21247,14 @@
     "title": "VenusGenome: Genome-Aware Masked Autoencoding for Microbial Genome Representation Learning",
     "title_norm": "venusgenome genomeaware masked autoencoding for microbial genome representation learning"
   },
+  "2e34e84f0999c607fcd026638ba274edf1639ff07c6ab06d851f57d1a6442eba": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866058+00:00",
+    "source": "OpenAI News",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "title_norm": "kuken industries searches 70 years of drawings in minutes"
+  },
   "2e35d4543b05465eaf65e67853bd4bc5a614d62fd8282dc02af439e54a83b233": {
     "category": "community_signal",
     "posted": false,
@@ -21390,14 +21414,6 @@
     "source": "arXiv cs.AI",
     "title": "LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures",
     "title_norm": "labinstruct benchmarking situated instructional video generation for lab procedures"
-  },
-  "2ea73f1769e1284372301cf7a109cb78913010f04004913bb3b57bb88b2140f6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208323+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
-    "title_norm": "cyber resilience guide zero trust ai security and ransomware recovery"
   },
   "2eab227ef51d8719e165966f84d3f910e3defd555df4777477eddea472bbcf33": {
     "category": "community_signal",
@@ -22967,6 +22983,14 @@
     "title": "SSMCGM-Stream: A Streaming State-Space Model for Personalized Diabetes Management",
     "title_norm": "ssmcgmstream a streaming statespace model for personalized diabetes management"
   },
+  "31ac460c075a1fd1fc149ced479d08891c2dbe2e41853c0775b0baedbe49b8e5": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866448+00:00",
+    "source": "OpenAI News",
+    "title": "Personalize ChatGPT with custom instructions",
+    "title_norm": "personalize chatgpt with custom instructions"
+  },
   "31ad9adfb05ac4219401f01988abd68d019d64a02bbc7d1dd238a2a3d1ba2c08": {
     "category": "official_labs",
     "posted": false,
@@ -22990,14 +23014,6 @@
     "source": "arXiv cs.AI",
     "title": "Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction",
     "title_norm": "dynamic conflict clustering with lightweight learning and strategic repair for distributed constraint satisfaction"
-  },
-  "31b3b6615fddd9860e0c78f658be4e98d7d70dc1d330d34f5e6c551c52f2a25c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208395+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: What's your plan if AI takes your job?",
-    "title_norm": "ask hn whats your plan if ai takes your job"
   },
   "31b4f3a68020acd372c30304c981015ad58f33a5eab1aef48c9dd475071c668c": {
     "category": "official_labs",
@@ -23407,14 +23423,6 @@
     "title": "Rethinking the Evaluation of LLM Fact-Checkers",
     "title_norm": "rethinking the evaluation of llm factcheckers"
   },
-  "32ac942893ce66e105c4e0178507d65d57f7b4c43d1610ece4bdd01886e6604c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971428+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "AI stance is not binary",
-    "title_norm": "ai stance is not binary"
-  },
   "32ae6d5dafe0bc1877a5abf92a9a7f58d5290b28bfa9a4febe2a432407a0b5d9": {
     "category": "research",
     "posted": false,
@@ -23670,14 +23678,6 @@
     "source": "Cohere Blog (unofficial)",
     "title": "A comprehensive guide to reinforcement learning",
     "title_norm": "a comprehensive guide to reinforcement learning"
-  },
-  "333ccaae81484d3a4e17f3d07427086a4f15c586f13019420a43c3e347dda8d9": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.970924+00:00",
-    "source": "OpenAI News",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "title_norm": "gpt6 astra the next generation in intelligence for work"
   },
   "33450739c50bc1d623bb86e5f07d31f662b010296ce2e451ee305b2cc702437d": {
     "category": "research",
@@ -24270,14 +24270,6 @@
     "source": "arXiv cs.CL",
     "title": "A Capitulation Direction Emerges With Scale and Is Causally Load-Bearing Where Validation Is Strong: Eight Models, Two Families, and Five Measurement Hazards",
     "title_norm": "a capitulation direction emerges with scale and is causally loadbearing where validation is strong eight models two families and five measurement hazards"
-  },
-  "346ac849b05f075f791697f2295615dce5629dded566c7adf23c5461673cf133": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971219+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "FDA may allow some toxic chemicals to be added to food without safety review",
-    "title_norm": "fda may allow some toxic chemicals to be added to food without safety review"
   },
   "346add6fc3348aeb6401669675a120cbe764616edd6690402cea104175daf161": {
     "category": "research",
@@ -24886,6 +24878,14 @@
     "source": "arXiv cs.AI",
     "title": "Reconciling Privacy with Provenance for Language Model Watermarks",
     "title_norm": "reconciling privacy with provenance for language model watermarks"
+  },
+  "35a155e412ad027fe39d53887b3343cb0df674a0dc790a9c43f6209b37087f2d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867574+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "title_norm": "fable 52 oneshotted my nephews dream game"
   },
   "35a2e7727fd830399fe281c2bb5997989105728d25f02ef16ad61185bb75841c": {
     "category": "research",
@@ -26103,6 +26103,14 @@
     "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
     "title_norm": "reinforcement learning with metacognitive feedback elicits faithful uncertainty expression in llms"
   },
+  "38597062943c675332eea3d1db50b70efe48dbb3c255497acdd1df7d71045114": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867102+00:00",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+    "title_norm": "jensen huangs affair with alleged chinese spy puts nvidias china ambitions under scrutiny"
+  },
   "385d039c9521cc9838d14496585eeede4bf7ae6ee7279240b3bc617250940df9": {
     "category": "research",
     "posted": false,
@@ -26390,6 +26398,14 @@
     "source": "arXiv cs.AI",
     "title": "Green-Routed Neural Operators: Physics Determines Where the Network Reads",
     "title_norm": "greenrouted neural operators physics determines where the network reads"
+  },
+  "38ea5b66d259522356b1fd73eab5aead985ba155990b27facb1d91bc6d476ec6": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867298+00:00",
+    "source": "The Verge AI",
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "title_norm": "everything we know so far about the nvidia spy scandal targeting ceo jensen huang"
   },
   "38eb394f24497bf2e0140d4421bdb9a4253129daa03e4051b525d2e4b3dfb10f": {
     "category": "community_signal",
@@ -26991,6 +27007,14 @@
     "title": "FLAWS: A Benchmark for Error Identification and Localization in Scientific Papers",
     "title_norm": "flaws a benchmark for error identification and localization in scientific papers"
   },
+  "3a3ea27b30526f5b6846e82b3ec0b9e792b8809efdf42e3c4e0672e591d159d4": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867375+00:00",
+    "source": "The Verge AI",
+    "title": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+    "title_norm": "the future of ai hinges on jensen huangs sex life"
+  },
   "3a41f9480808b68557197066692a0e9ca966549c3ab609d92fa0fd90845b1157": {
     "category": "community_signal",
     "posted": false,
@@ -27006,14 +27030,6 @@
     "source": "Hugging Face Blog",
     "title": "Efficient MultiModal Data Pipeline",
     "title_norm": "efficient multimodal data pipeline"
-  },
-  "3a494901514f9f6bdf9f9a27d1d0e5c37e4437e8ed879a8e26810a0c84840386": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971412+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
-    "title_norm": "patient disputed 85000 hospital bill then an ai sweep added nearly 20k"
   },
   "3a495e46fb0452a4a5fa7f43485eb9fe727d372b10d49c5a6fc2691f75792b45": {
     "category": "community_signal",
@@ -27038,14 +27054,6 @@
     "source": "Hacker News Frontpage",
     "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
     "title_norm": "roblox downloaded 145gb models from us including adult content without asking"
-  },
-  "3a5e8cf4cd93873dcb7c58d9f157dd178403756a1e8df70e2e7de3ade1686601": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208588+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
-    "title_norm": "engineer developer observations of gemma431b qwen3827b and 61sol for software engineering work"
   },
   "3a60cc9fb455e16f2c299cb2f2ad224fd064ba524752a60499e9c215add4176e": {
     "category": "community_signal",
@@ -27951,6 +27959,14 @@
     "title": "Beyond Aggregate Accuracy: Item-Level Transitions in Prompt Optimization",
     "title_norm": "beyond aggregate accuracy itemlevel transitions in prompt optimization"
   },
+  "3c86ca6a06f60e03f055bef4f191b63269c4ba809b750447246478418e1574e2": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867624+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "title_norm": "usps now offers official zip code boundary polygons"
+  },
   "3c8c6b550e770900be43915d00e4888c2fe8a8b47eaba7896ee5914aca195b67": {
     "category": "official_labs",
     "posted": false,
@@ -28230,6 +28246,14 @@
     "source": "arXiv cs.AI",
     "title": "UpSafe$^\\circ$C: Upcycling for Controllable Safety in Large Language Models",
     "title_norm": "upsafecircc upcycling for controllable safety in large language models"
+  },
+  "3d196224ab27a2df369cbcf0994d8b85125e1e44f774a26b897579f4f210801c": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866210+00:00",
+    "source": "OpenAI News",
+    "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "title_norm": "openais letter to governor abbott on responsible ai infrastructure in texas"
   },
   "3d1bf543c576a303a775b351d0b94834e922079ab496db6dd8606484db16b7c7": {
     "category": "research",
@@ -29039,6 +29063,14 @@
     "title": "AI isn't just a tool and it might be dangerous",
     "title_norm": "ai isnt just a tool and it might be dangerous"
   },
+  "3eb3e9557eb7038ef8ad3df076aa5e92d0cbd3c59ac0c798d17083acd964491d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866103+00:00",
+    "source": "OpenAI News",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "title_norm": "paul christiano joins openai foundation board"
+  },
   "3eb975a966e00b88d18ba6b90448fd810acfecadd2cfb2c6b2e5352c74fe7b12": {
     "category": "research",
     "posted": false,
@@ -29102,6 +29134,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "2x 3090, 3x 3060 potential (smart and informed) future upgrade paths (send help)",
     "title_norm": "2x 3090 3x 3060 potential smart and informed future upgrade paths send help"
+  },
+  "3ee14dd2a8f1293a74f3f756eac0307b57a3f8f355c01ee4f13ca1d1a036a3ff": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867679+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "title_norm": "show hn meowdisplay is iphone mirroring but in reverse"
   },
   "3eec9fb139cb49c358193a43c443e84242a5e5885bc0bfa5cbaccc1292495899": {
     "category": "official_labs",
@@ -29926,14 +29966,6 @@
     "source": "arXiv cs.AI",
     "title": "GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision",
     "title_norm": "geobridge evolving transferable decoder topologies for geometric vision"
-  },
-  "40d5c1d6fa0c81e717cb0153ff3ae5abc2b5127f6e1191d56725af26e1f3a09d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208646+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "I asked 3 Qwen 3.8 models to solve recent AtCoder problems at 4 thinking efforts",
-    "title_norm": "i asked 3 qwen 38 models to solve recent atcoder problems at 4 thinking efforts"
   },
   "40e02ac52743a94781d163376649fb9295c7abe176d40962ea4be9ab9cf5aecf": {
     "category": "tech_news",
@@ -31359,14 +31391,6 @@
     "title": "SceneWeave: Audience-Guided Scene Exploration for Dramatic Adaptation",
     "title_norm": "sceneweave audienceguided scene exploration for dramatic adaptation"
   },
-  "4445812bafe5629af074b98faa41cb79b65d3448713f91ba2a24f06c0d5636b8": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971515+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Google expands SynthID Detector for AI content",
-    "title_norm": "google expands synthid detector for ai content"
-  },
   "444a3f5f145ada0d86baef11300967852f7210cb12d08f1eec7768802d592ddb": {
     "category": "research",
     "posted": false,
@@ -31503,14 +31527,6 @@
     "title": "How \ud83e\udd17 Accelerate runs very large models thanks to PyTorch",
     "title_norm": "how accelerate runs very large models thanks to pytorch"
   },
-  "447b4731444cc25a5bd973a339a98084eb5f0cb694267c147265b8b747ee4ce6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971351+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "How do Lightroom/DxO achieve such good AI denoising results?",
-    "title_norm": "how do lightroomdxo achieve such good ai denoising results"
-  },
   "44862ebe09b5fe27a385440fe5bcfb11ddaee4002a2567a7376b0dd1dbb4c1bf": {
     "category": "community_signal",
     "posted": false,
@@ -31590,6 +31606,14 @@
     "source": "arXiv cs.AI",
     "title": "Beyond Discrimination: Evaluating Probability Calibration in Radiomics-Image Fusion for Renal Cell Carcinoma Classification",
     "title_norm": "beyond discrimination evaluating probability calibration in radiomicsimage fusion for renal cell carcinoma classification"
+  },
+  "44bb6093a440b817c078f5dd5e242811c586c73cceb6ffccfdde3de3669dbe29": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867260+00:00",
+    "source": "The Verge AI",
+    "title": "What could China get from Jensen Huang?",
+    "title_norm": "what could china get from jensen huang"
   },
   "44c4feee1295775ebac885cbdc3626db91ae5177a4b6ff5756b0a9dfcc613cb5": {
     "category": "community_signal",
@@ -32471,6 +32495,14 @@
     "title": "Edit Policy-Aligned Text Simplification",
     "title_norm": "edit policyaligned text simplification"
   },
+  "466447842229de9e16d10dbd481375b0acbbd0c1f7a3d65c66880e63f72a9153": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866609+00:00",
+    "source": "OpenAI News",
+    "title": "Prototyping with canvas in ChatGPT",
+    "title_norm": "prototyping with canvas in chatgpt"
+  },
   "46651376c66c81453b519c34612e1edb2b48145a79c0c02e61e87819bae62de2": {
     "category": "research",
     "posted": false,
@@ -32670,14 +32702,6 @@
     "source": "arXiv cs.AI",
     "title": "LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution",
     "title_norm": "legalevolver agentic legal judgment prediction via rubricguided selfevolution"
-  },
-  "46e7174ef4268e5d5befebe3d46447143912b43a9e4f645848ed0d560dab7344": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208539+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
-    "title_norm": "show hn flopper is a hardware explorer for ai infrastructure and beyond"
   },
   "46e84bd81adf839a8d42b23f4484ff35378f0349aa6931bdb1efb0cdb50aa375": {
     "category": "research",
@@ -33295,6 +33319,14 @@
     "title": "Exploration via Activation-Space Steering for Reinforcement Learning with Verifiable Rewards",
     "title_norm": "exploration via activationspace steering for reinforcement learning with verifiable rewards"
   },
+  "48342b8edd073355e6308eba751ad47f2ef92b78397dba00384c8fc6fbe7f0d2": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867730+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Can You Explain a Zipper? Why AI Makes You Feel Smarter Than You Are [video]",
+    "title_norm": "can you explain a zipper why ai makes you feel smarter than you are video"
+  },
   "4837f271ec4b3e5ac01599c3037b58fdb077509d7354997776662bfe0405317a": {
     "category": "research",
     "posted": false,
@@ -33526,6 +33558,14 @@
     "source": "arXiv cs.CL",
     "title": "Enhancing Multimodal RLVR with Pairwise Token Contrast and Adaptive Trajectory Confidence",
     "title_norm": "enhancing multimodal rlvr with pairwise token contrast and adaptive trajectory confidence"
+  },
+  "48b9783d0be504133140909dcbcaf9fda2c57948c95df79b65ef337ea11ad6da": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867182+00:00",
+    "source": "TechCrunch AI",
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "title_norm": "anthropic joins ais natural gas frenzy buys 34b worth of turbines"
   },
   "48bc6876456276a883f37ce582845ec34c2d494a971e32802ece102ec905c27a": {
     "category": "community_signal",
@@ -33942,14 +33982,6 @@
     "source": "arXiv cs.AI",
     "title": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
     "title_norm": "localization does not imply steerability a mechanistic study of sign errors in llm mathematics"
-  },
-  "498030eadd312a222ba1e7e0ceb5842f65dc380148bb0206b6c2b04296d8f2a4": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208191+00:00",
-    "source": "TechCrunch AI",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "title_norm": "apple discloses deal to hire team and license tech from personalized podcast startup huxe"
   },
   "4981e30400be8474cc90912e76f4bf860b0800b70e4dbf73aa4f64fb1790846a": {
     "category": "research",
@@ -35095,14 +35127,6 @@
     "title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents",
     "title_norm": "hybrid computer use a unified programmatic semantic and visual interface for general agents"
   },
-  "4c0c4760b46321d2bbdd907665d9714a77dbf39058e0ae29c3b11e7010f046f7": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208425+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "I don't trust Lean code from AI",
-    "title_norm": "i dont trust lean code from ai"
-  },
   "4c10c539123df75883b60c46c7748ab201a9a4871cf9b57a4e3e95f33ba89f78": {
     "category": "community_signal",
     "posted": false,
@@ -35719,6 +35743,14 @@
     "title": "Can AI help solve the COBOL code crisis?",
     "title_norm": "can ai help solve the cobol code crisis"
   },
+  "4d65d900aa41fc6b8b20e81d199ac792f3f4eab593ceba5e61626f3cfda1e8ec": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867761+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Hire AI Agents and Pay in Monero (XMR)",
+    "title_norm": "hire ai agents and pay in monero xmr"
+  },
   "4d6d798434ea5d0472877c0b5722ab99843dbf04133c9e78a816c446af389081": {
     "category": "research",
     "posted": false,
@@ -36263,14 +36295,6 @@
     "title": "Adaptive Duration Model for Text Speech Alignment",
     "title_norm": "adaptive duration model for text speech alignment"
   },
-  "4e3dd727b793f881e47c9cca03f89915125ebf127b088389aba58d9201b863de": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971233+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Bitwarden Dual License Model",
-    "title_norm": "bitwarden dual license model"
-  },
   "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634": {
     "category": "official_labs",
     "posted": false,
@@ -36687,6 +36711,14 @@
     "title": "Techniques for training large neural networks",
     "title_norm": "techniques for training large neural networks"
   },
+  "4f4fd1b1da1f00aa7f0392bf457d5cab8463de8aa6afb24c9df05be6bfb9ff6c": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866988+00:00",
+    "source": "TechCrunch AI",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "title_norm": "anthropic reportedly plans to move forward with ipo plans"
+  },
   "4f53fa68a975abebadabb1b9a9de1bc250545411e1fa60a1bb3a305bf4328b45": {
     "category": "research",
     "posted": false,
@@ -37046,6 +37078,14 @@
     "source": "TechCrunch AI",
     "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
     "title_norm": "amazon updates alexa to help you manage shopping lists and subscriptions and update delivery instructions"
+  },
+  "503e9c2326e78f3e54698b505fc7f3dd73547fa559154576a0082b0cd2cdb79c": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866122+00:00",
+    "source": "OpenAI News",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "title_norm": "how gpt56 sol helps run quantum computing experiments"
   },
   "503f0a36cbe13586e76e74fb0ef6bff28f457d9e04e738b7cd3e026678dfc42a": {
     "category": "community_signal",
@@ -38423,14 +38463,6 @@
     "title": "Everything we announced at our first-ever LlamaCon",
     "title_norm": "everything we announced at our firstever llamacon"
   },
-  "5367cc95a8fd98172eb15540985f3472c41b6f393d6d65c9bf889b4f9238cbc1": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.970954+00:00",
-    "source": "OpenAI News",
-    "title": "What building an AI-native finance function taught me",
-    "title_norm": "what building an ainative finance function taught me"
-  },
   "536f23cd94f139849c62e2753108d37e174f900ce6ec52ef90b6a207f9a80da1": {
     "category": "official_labs",
     "posted": false,
@@ -38782,14 +38814,6 @@
     "source": "arXiv cs.AI",
     "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
     "title_norm": "cepo a general framework for improving prompt optimization in multiagent systems"
-  },
-  "542f9c8db315238f1580327cedc81ef8872a86fcdbb1581a883ef4fe4cda29c0": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971439+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Can AI Break Cryptography?",
-    "title_norm": "can ai break cryptography"
   },
   "54312a2c7f3ff0fe603bcb68a7c8bb9df8e2ac9294e06b6c6bb717ca0e4f1cd9": {
     "category": "research",
@@ -39823,6 +39847,14 @@
     "title": "Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse",
     "title_norm": "uncovering shortcut amplification in video rlvr through the lens of perceptual uncertainty collapse"
   },
+  "562ed066dd9ee82b1e725339ddbb0d0bcceda9e4253f77b404a7f325b3b5b879": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867793+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+    "title_norm": "tell hn notion ai chat sessions have been exposed via fireworks ai hack"
+  },
   "563088c9525e2dfa354cfc54e8e54af7f26aec3d0c587dac0728d3cdd456ef7a": {
     "category": "research",
     "posted": false,
@@ -40318,6 +40350,14 @@
     "source": "arXiv cs.AI",
     "title": "Machine Learning and Time-Series Foundation Models for Day-Ahead Electricity Forecasting in a University Building",
     "title_norm": "machine learning and timeseries foundation models for dayahead electricity forecasting in a university building"
+  },
+  "57554f45696b97e40acf53389e2897476c75fca073398770b837f4938c22e7f9": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867499+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Your TV can see through walls",
+    "title_norm": "your tv can see through walls"
   },
   "575971a63ca3280440cca30c119cc28f6be298c74431a429d801d629e7d610d5": {
     "category": "tech_news",
@@ -40926,14 +40966,6 @@
     "source": "arXiv cs.AI",
     "title": "Cognitive Foundations for Reasoning and Their Manifestation in LLMs",
     "title_norm": "cognitive foundations for reasoning and their manifestation in llms"
-  },
-  "5890b1cfd4cc38aa3885e02e9fc3010d881da63d5d8b82ee82ae0ed7c4531d58": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971034+00:00",
-    "source": "Hugging Face Blog",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "title_norm": "build lowlatency multilingual voice agents open weights full deployment control with nvidia magpie tts"
   },
   "5890d12f61d9b9355dd9663112ec16d47603672cf3fcbaea8742b0cbb5fe6688": {
     "category": "community_signal",
@@ -41702,14 +41734,6 @@
     "source": "Hugging Face Blog",
     "title": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving",
     "title_norm": "deploying tensorflow vision models in hugging face with tf serving"
-  },
-  "5a119d510dc0b04417bc012a1446f20e0226708464ab1d15590442154f18440c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208566+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
-    "title_norm": "ai driving game demo forces developer to take out bank loan to keep it running"
   },
   "5a13c59d7e75780f0f66a0686cd59b035c39600860354c9566815748970e57e6": {
     "category": "community_signal",
@@ -43519,14 +43543,6 @@
     "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
     "title_norm": "the future of the global opensource ai ecosystem from deepseek to ai"
   },
-  "5de84d0f34ad8c1378c85b3073edac87793e3e92b23215ef47cc364bd71242f2": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971323+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
-    "title_norm": "evolocity is hiring ai researchers and engineers in los altos"
-  },
   "5dea17a76f90bf7624d4b1189b05193d3b8dbe3e127dd7bee44d71fe32314e6e": {
     "category": "community_signal",
     "posted": false,
@@ -43558,6 +43574,14 @@
     "source": "arXiv cs.AI",
     "title": "Graph Serializations for Reasoning LLMs: A Study Across Knowledge Extraction and Structural Reasoning",
     "title_norm": "graph serializations for reasoning llms a study across knowledge extraction and structural reasoning"
+  },
+  "5e08b55168f5b9e06d9215f31eaa88ecaa08523e1f37dc793995beb6eaf0fa3f": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866485+00:00",
+    "source": "OpenAI News",
+    "title": "Create on-brand visuals with image generation",
+    "title_norm": "create onbrand visuals with image generation"
   },
   "5e0ac3407ade9439247e34f06004220cbdf4b678746e9143eac1fc3d8b21f024": {
     "category": "research",
@@ -43958,6 +43982,14 @@
     "source": "Hacker News AI keyword",
     "title": "Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy",
     "title_norm": "doctors and lawyers are joining ais 400anhour gig economy"
+  },
+  "5ef93d9981a0db1c3c84437ab5811829aef63e6de91977c9d1183cc45f9056d9": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867319+00:00",
+    "source": "The Verge AI",
+    "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+    "title_norm": "apples 50 intelligence usage packs extend access to some ai features"
   },
   "5ef96bda92f480d3b9a655eea4167bb454aff34f93a771e303441561388ab15f": {
     "category": "tech_news",
@@ -45375,6 +45407,14 @@
     "title": "Similar Models, Broken Odds: Where Luce's Axiom Fails in Chatbot Arena",
     "title_norm": "similar models broken odds where luces axiom fails in chatbot arena"
   },
+  "62000c24e4d486165c77df2afecb4bc4614a121bfddc1cc65c0b476774d7f7fe": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867816+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "FLEY AI-Voce \u2013 a voice AI assistant you but can also control your PC and phone",
+    "title_norm": "fley aivoce a voice ai assistant you but can also control your pc and phone"
+  },
   "62003111f3b592c56acd9673289136816214f0ea1151bdbce20616ed93526390": {
     "category": "official_labs",
     "posted": false,
@@ -46543,14 +46583,6 @@
     "title": "Anthropic hacked by AI startup in less than 12hrs",
     "title_norm": "anthropic hacked by ai startup in less than 12hrs"
   },
-  "644e5c71285614bef99a2e61d7ac386a7fd0dbd2b9411af752ec5ce24cdf7d2b": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208481+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Is AI Killing the Value of Human Writing?",
-    "title_norm": "is ai killing the value of human writing"
-  },
   "6456da898a3c4461cec49ab8c430d26041b285670ec78e9f00b5d00202782edc": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -46598,14 +46630,6 @@
     "source": "arXiv cs.AI",
     "title": "cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation",
     "title_norm": "cuarms gpuaccelerated conflictbased planning for multiarm manipulation"
-  },
-  "6476741ad7bd8e8e5ea0fb928bdcb77743ddeeb67c37e2872fd06e087ad2deef": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208075+00:00",
-    "source": "OpenAI News",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "title_norm": "how zapier transformed core marketing processes with chatgpt work"
   },
   "647ca4ca99cd5fca71d1eabe3baf9f3b60b0322d50642f6c26c55675727634ac": {
     "category": "research",
@@ -46726,14 +46750,6 @@
     "source": "arXiv cs.AI",
     "title": "Computation, not weight access: large language models as auditors of clinical prediction networks",
     "title_norm": "computation not weight access large language models as auditors of clinical prediction networks"
-  },
-  "64d611cb434d3a75f10cecca217b7a8e7155c24141a25ec686ca9dc601ae00b8": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208349+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Try On-Device AI with FM",
-    "title_norm": "try ondevice ai with fm"
   },
   "64d93569d8dac6e937290a6edb63cd14fc5254f2ebc65e9a76df197c402f7708": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -48351,13 +48367,13 @@
     "title": "Learned Control Variates for Rare Grid-Outage Estimation at Electric Vehicle Charging Stations",
     "title_norm": "learned control variates for rare gridoutage estimation at electric vehicle charging stations"
   },
-  "6881d1d1d4dceecc4528d0ad66fa38589467ccb8853b5870ad12fccb2c56fe77": {
-    "category": "community_signal",
+  "6883843c228001e0fc629cadc9f011c37c6aa02f6092be10305c3ba82ee77508": {
+    "category": "official_labs",
     "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971272+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Is AI Psychosis Real?",
-    "title_norm": "is ai psychosis real"
+    "seen_at": "2026-11-10T07:13:57.866467+00:00",
+    "source": "OpenAI News",
+    "title": "Collaborate and write with GPT-4o",
+    "title_norm": "collaborate and write with gpt4o"
   },
   "6884a6e823f1b5970b33c1786aa7752be8545022863cca8f607888932310ede8": {
     "category": "research",
@@ -49087,6 +49103,14 @@
     "title": "Nemotron 3.5 Bolt vs Nemo 3.5 Super vs Qwen 3.8 27B/FN",
     "title_norm": "nemotron 35 bolt vs nemo 35 super vs qwen 38 27bfn"
   },
+  "6a1b51b3e148c43c4795448aceaf10c29751e99b885f28ab0e1da98fd69ebef3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867587+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Exact \u2013 a new cross platform UI framework",
+    "title_norm": "exact a new cross platform ui framework"
+  },
   "6a1b8aa6dbb14c0072ddff39aafbab6258a2bfe24a4b4d9da8e065ae381b81a1": {
     "category": "research",
     "posted": false,
@@ -49806,14 +49830,6 @@
     "source": "arXiv cs.AI",
     "title": "MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion",
     "title_norm": "mritoct translation of spinal images via anatomyguided pseudopairing and adversarial diffusion"
-  },
-  "6b8774da863739d3a5374d1f15d6ca5eff9075163887d129edaca39fecc53c2d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208612+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
-    "title_norm": "is anyone running qwen38 flash next with a 1m context"
   },
   "6b894453ab8a4583e377c1f0dd8b2a78d4a0da6490838c1e271efd332095b234": {
     "category": "research",
@@ -50654,14 +50670,6 @@
     "source": "arXiv cs.AI",
     "title": "ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer",
     "title_norm": "shellelastic scalable elastic pretraining with simultaneous maximal updates and hyperparameter transfer"
-  },
-  "6d57a260d9ad3ce2f42a8b41b0722b530fc4629438ef24a3112bd8b878e1f2ee": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208211+00:00",
-    "source": "The Verge AI",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "title_norm": "distrokid has been quietly taking down songs in response to umg lawsuit"
   },
   "6d5a403735e09ddd02269c74de6dddf4358016fb462c2e812e7ae2cdd58f42c2": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -52983,14 +52991,6 @@
     "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
     "title_norm": "analysts followed ai agents randomly assigned preferences in 86 of decisions"
   },
-  "723b850001d8c3d35257729d5279321f4b7d9bfc6aa6f51b957110d8fd247a5a": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971528+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
-    "title_norm": "fired openai researchers ask company to preserve visibility into ai reasoning"
-  },
   "724ade21f496c1420c10564b3a14ba8d9477db35b426452d5af825173d52db0c": {
     "category": "research",
     "posted": false,
@@ -54374,6 +54374,14 @@
     "source": "arXiv cs.AI",
     "title": "Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit",
     "title_norm": "differenceindifferences on a censored rating scale can manufacture an effect evidence from a preregistered llmjudge audit"
+  },
+  "75b8249853afbebac0c779d15ac77fcac8777250ae1962dac70fd22159ea8ffe": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866504+00:00",
+    "source": "OpenAI News",
+    "title": "Automate complex workflows with OpenAI o3",
+    "title_norm": "automate complex workflows with openai o3"
   },
   "75b919f85f53267a3d05dbe2b5b39afc9b8305e799ba154ed2d0a5a36a1e33cf": {
     "category": "community_signal",
@@ -56111,6 +56119,14 @@
     "title": "Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout",
     "title_norm": "can advertising fund free ai evidence from chatgpts advertising rollout"
   },
+  "799c58d6b4cf518b7be01909d03175e3d08ef7be6aedac94240d1ece759d144c": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866411+00:00",
+    "source": "OpenAI News",
+    "title": "GPT-5: Our best model for work",
+    "title_norm": "gpt5 our best model for work"
+  },
   "799e4ac409b2250d956b58c5763d6869b4b10b4cf9154165ffc22670c5b46495": {
     "category": "research",
     "posted": false,
@@ -56254,6 +56270,14 @@
     "source": "arXiv cs.AI",
     "title": "Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability",
     "title_norm": "measuring crossmodal synergy a benchmark for vlm explainability"
+  },
+  "79ef2673e46d01bcba748f9ade6fc5c8fbd7a7aef4e172a21a62abdb66ccce93": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867853+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Aipicks.ca \u2013 Using multi-sport AI models to find edges in table tennis",
+    "title_norm": "aipicksca using multisport ai models to find edges in table tennis"
   },
   "79ef2c97ceeeecfc48cd02a9bf9ac1ed3dec3fc899cbf682820a7f6e142483cc": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -57575,6 +57599,14 @@
     "title": "Deep Learning Warm Starts for Trajectory Optimization on the International Space Station",
     "title_norm": "deep learning warm starts for trajectory optimization on the international space station"
   },
+  "7cb7f032d2e09ebb1309930ce3d4267391a9130fffdb19029d40b7f269103529": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867564+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Horible public key tricks",
+    "title_norm": "horible public key tricks"
+  },
   "7cbb1e8e79a45712035a2c9524c1c0e42f5904a763eadf0f404e4a97a65bbe92": {
     "category": "community_signal",
     "posted": false,
@@ -57630,6 +57662,14 @@
     "source": "Hacker News Frontpage",
     "title": "OpenAI raises $11B at a $1.25T valuation",
     "title_norm": "openai raises 11b at a 125t valuation"
+  },
+  "7cea50907b9af2ddea78a33ad943095dba63c209beedaa12f1de07657f6c47fc": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867395+00:00",
+    "source": "Ars Technica AI",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "title_norm": "claude code is accidentally exposing secrets all over github"
   },
   "7ceb84b78420657fcaeb5136e0ce2e2320a3af11ccbbb15731ecf05d96cd81c4": {
     "category": "community_signal",
@@ -58350,14 +58390,6 @@
     "source": "OpenAI News",
     "title": "How Fanatics and OpenAI streamline the fan experience",
     "title_norm": "how fanatics and openai streamline the fan experience"
-  },
-  "7e7448367783e448570928e28ed4d26743c46a28319e05b2d97bd72b8a58054f": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971309+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "title_norm": "500b tokens later letting ai agents decompile a firstperson shooter"
   },
   "7e79a5ea45735966aa2d846f29386cdca207ef37741ae73e32ee291aef03650f": {
     "category": "official_labs",
@@ -59199,6 +59231,14 @@
     "title": "SkillLifeBench: Benchmarking Security Across the Lifecycle of Agent Skills",
     "title_norm": "skilllifebench benchmarking security across the lifecycle of agent skills"
   },
+  "804184d9d644a5ca5409c67fc7a53ecac0f982f582144f8a82035144e98b952d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867650+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Show HN: Someone Was Here \u2013 Find out who used your Mac while you were away",
+    "title_norm": "show hn someone was here find out who used your mac while you were away"
+  },
   "804274e294ad068c56f525c6ecc314aa0e766ac0a111708ee2cf85844eb22be5": {
     "category": "community_signal",
     "posted": false,
@@ -59695,6 +59735,14 @@
     "title": "LLM Voice",
     "title_norm": "llm voice"
   },
+  "815edfe6383208a72cfe7f7d043ea0afc2543b1ffb0ccb04372202c8f4eb8186": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866929+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "title_norm": "making knowledge distillation cheap enough to run at scale"
+  },
   "816eebb0cea626716d02612722d9c514b32ac56cf1882a0619852dd4971bb6fe": {
     "category": "research",
     "posted": false,
@@ -59758,14 +59806,6 @@
     "source": "Hacker News Frontpage",
     "title": "The Double Headed Stack Allocator",
     "title_norm": "the double headed stack allocator"
-  },
-  "818f4dcf830d117b3a347d0a3a3a39c38d7d63192aa9f53b8c2bc606210898be": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971096+00:00",
-    "source": "The Verge AI",
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "title_norm": "anthropic is cutting off its internal evaluations from the internet"
   },
   "81939e28f078ffc33f48840524dd83df37e47832e1c5ee4a50375e97dc6606ef": {
     "category": "research",
@@ -59862,6 +59902,14 @@
     "source": "arXiv cs.CL",
     "title": "PsyCLIENT: Client Simulation via Conversational Trajectory Modeling for Trainee Practice and Model Evaluation in Mental Health Counseling",
     "title_norm": "psyclient client simulation via conversational trajectory modeling for trainee practice and model evaluation in mental health counseling"
+  },
+  "81cd30ad3d84d73eb384045931be4ff4bb3553f074cfcffc738fa4199231f604": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866279+00:00",
+    "source": "OpenAI News",
+    "title": "A Practical Guide to Building AI Agents",
+    "title_norm": "a practical guide to building ai agents"
   },
   "81d00eb2331952bf760b7a3e6b08c5f76bd926270b87d7904820b5c596302711": {
     "category": "research",
@@ -60335,6 +60383,22 @@
     "title": "LSA-PAST: Layer-Specific Adaptation and Prototype Transport for Compositional Incremental Learning",
     "title_norm": "lsapast layerspecific adaptation and prototype transport for compositional incremental learning"
   },
+  "82f91c53d861c9ac0ac64e19090b06d3f2a949514f34ce69798ba07a83f1dd6d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866522+00:00",
+    "source": "OpenAI News",
+    "title": "Connect internal knowledge from Google Drive",
+    "title_norm": "connect internal knowledge from google drive"
+  },
+  "83011de3fa8acffa114e1c745942b9ab6c81a3db1a29f8d6f4fa4d93b091f0fa": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867871+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
+    "title_norm": "autonomous ai agents conduct endtoend research with human participants"
+  },
   "83028b0ac17ed8f1f756b264864a50d2e81ce7b7c18b67949a66a8753febd183": {
     "category": "research",
     "posted": false,
@@ -60622,14 +60686,6 @@
     "source": "arXiv cs.CL",
     "title": "When No Answer Is Correct: Diagnosing Absent Answer Detection for MLLMs in Video Understanding",
     "title_norm": "when no answer is correct diagnosing absent answer detection for mllms in video understanding"
-  },
-  "83776155835466c3335027c447885be40ef6d2872c902f79a13c9b2e0b6a2795": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971558+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "No more RTX 5090",
-    "title_norm": "no more rtx 5090"
   },
   "837fe3abcc9c5e2b92b6bdaf4b485d2d331fa2dbeef3ef6b37c60f3c36ab1f5c": {
     "category": "community_signal",
@@ -61127,6 +61183,14 @@
     "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
     "title_norm": "nvidia nemotron 35 bolt e4b 4gb posttrained gemma 4 e4b"
   },
+  "84799fb71cec5d1ec642326461cf306bd849ff8c13cabe5c74b679afb73d2c56": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866340+00:00",
+    "source": "OpenAI News",
+    "title": "How OpenAI Uses Codex to Accelerate Engineering",
+    "title_norm": "how openai uses codex to accelerate engineering"
+  },
   "8482165f5075ddb49392b1f868d5a6ec27c25bb563a77a2295329a8d8688d85b": {
     "category": "research",
     "posted": false,
@@ -61206,14 +61270,6 @@
     "source": "arXiv cs.AI",
     "title": "MAS-Loop: Beyond One-Shot Orchestration towards Self-Evolving Multi-Agent Systems",
     "title_norm": "masloop beyond oneshot orchestration towards selfevolving multiagent systems"
-  },
-  "84956f52c2d8ce7fda082c29a409947dfcbfd017d921792d9e7356d8eb138974": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208300+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "How strong is the strong interaction?",
-    "title_norm": "how strong is the strong interaction"
   },
   "8499c87f8ca9c300d646568b96273705385cd0cb1dd31eb09341a86a330cef4e": {
     "category": "official_labs",
@@ -61823,14 +61879,6 @@
     "title": "LoopAhead: Speculating Ahead for Faster Decoding in Looped Language Models",
     "title_norm": "loopahead speculating ahead for faster decoding in looped language models"
   },
-  "85c94c1916d324abf1387b596e9f4b9a9353744054262c9e65be616b8b19e5a0": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208634+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "SLM community telenovela: what do you guys think about this arguement?",
-    "title_norm": "slm community telenovela what do you guys think about this arguement"
-  },
   "85cdf0194016f23c8c8e14629ed8c7dc375694eb6475d7ffc7b8d3da4d6f3200": {
     "category": "official_labs",
     "posted": false,
@@ -62055,14 +62103,6 @@
     "title": "How to Formalize All of Mathematics",
     "title_norm": "how to formalize all of mathematics"
   },
-  "86643e937450ef1f935a1174d63c00ce85a4e3e15ab7ea3fe790dcc0715e2021": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971612+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "How was your experience with this model?",
-    "title_norm": "how was your experience with this model"
-  },
   "86685a01860027dee20e60a45cb25bcdeb9ca725ffe4daa8835ba6c6e332ff59": {
     "category": "official_labs",
     "posted": false,
@@ -62166,6 +62206,14 @@
     "source": "arXiv cs.CL",
     "title": "Safety and accuracy diverge across deployment conditions in clinical large language models",
     "title_norm": "safety and accuracy diverge across deployment conditions in clinical large language models"
+  },
+  "86992df8e81dce2808c7cf3bb46e3e245bdedacff6220a469523b1b1e20801f3": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867455+00:00",
+    "source": "Wired AI",
+    "title": "Jensen Huang\u2019s Troubles Leave the AI Industry Reeling",
+    "title_norm": "jensen huangs troubles leave the ai industry reeling"
   },
   "869a43ba6e7cb32bab896644fef8f6328d7e43c2d374e1408b9d0b99cad585d9": {
     "category": "research",
@@ -62871,14 +62919,6 @@
     "title": "TRACE: Training-aware Robustness and Challenge Evaluation for Text-Vision Embedding Models",
     "title_norm": "trace trainingaware robustness and challenge evaluation for textvision embedding models"
   },
-  "88197c937ec7d65d996ae26d082be23ace1ee43153fbb1647866eac229595586": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208622+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Benefits of using bigger models than Qwen 3.8 flash next?",
-    "title_norm": "benefits of using bigger models than qwen 38 flash next"
-  },
   "881b1fdf1b15a1a20d3549048e1a6744541e2695dc9a5a7ce086668cb40f563c": {
     "category": "research",
     "posted": false,
@@ -62926,14 +62966,6 @@
     "source": "Cohere Blog (unofficial)",
     "title": "What are AI platforms?",
     "title_norm": "what are ai platforms"
-  },
-  "88315179a2ad18b23aea629c65d090132663e326321a7db24f476dc508d4f0b4": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208453+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Google AI Edge Foresight \u2013 meeting notetaker on-device",
-    "title_norm": "google ai edge foresight meeting notetaker ondevice"
   },
   "8838ae921a65324f74aacd91cc5a9429170afa684bb028223ceddf2260f5b5f7": {
     "category": "research",
@@ -63319,14 +63351,6 @@
     "title": "Sample, Mix, or Verify? Allocating Test-Time Compute under Imperfect Verifiers",
     "title_norm": "sample mix or verify allocating testtime compute under imperfect verifiers"
   },
-  "890b49f9187cd775fbed263638ca805455a854689399f806dd253a2cfa551954": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208372+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "The state of AI-assisted reverse-engineering of Apple Macs",
-    "title_norm": "the state of aiassisted reverseengineering of apple macs"
-  },
   "890f114888d2b8607277443bdc7660270cd878e9405c81a7e28d93fe068b38b3": {
     "category": "tech_news",
     "posted": false,
@@ -63438,14 +63462,6 @@
     "source": "OpenAI News",
     "title": "Our response to the TanStack npm supply chain attack",
     "title_norm": "our response to the tanstack npm supply chain attack"
-  },
-  "89471a929644c61b882d8b242428c90c4809021d77e4160636bb63c7e21d1a1a": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208336+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
-    "title_norm": "ai browser agents seo security and implementation playbook for 2026"
   },
   "89478491dd8962a35ae379811f5af16be1123eb8545614a54678d5909133f4f0": {
     "category": "research",
@@ -64263,14 +64279,6 @@
     "title": "WorkBorne: Discovering Agentic Tasks from Real-World Artifact Transitions",
     "title_norm": "workborne discovering agentic tasks from realworld artifact transitions"
   },
-  "8ae1f35825243b102a50ce00dc1d8ae0f34462f44f3020b2a5f46ed4a82ee7c9": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971056+00:00",
-    "source": "TechCrunch AI",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "title_norm": "3 days to techcrunch disrupt 2026 meet the startups before they hit mainstream"
-  },
   "8ae590bc78052ec06680e05d210b6d8e9e929d598e1165201e3f4b9056a71e05": {
     "category": "research",
     "posted": false,
@@ -64863,14 +64871,6 @@
     "title": "GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented Generation",
     "title_norm": "gemsrag graphgrounded engineering multimodal standards retrievalaugmented generation"
   },
-  "8cba259cd103107b11a9bc00731f802a67ccef012a5955741023fd047eda477b": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971259+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Rampart: Browser native on-device PII radaction",
-    "title_norm": "rampart browser native ondevice pii radaction"
-  },
   "8cc1837ba6892f6f01dc38185929b53fbe3b15b5cedc5b62ef48466eba668cdb": {
     "category": "official_labs",
     "posted": false,
@@ -65006,6 +65006,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Kinoloom \u2013 A local AI film studio for an 8 GB GPU",
     "title_norm": "show hn kinoloom a local ai film studio for an 8 gb gpu"
+  },
+  "8cf9334714204e6a1b07dc558b4775d06678d97bf13db3b99cd0a310aea6fff1": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867636+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "title_norm": "parkingapp convenience fees in 312 us cities median 035 per session"
   },
   "8cf9bf8f5d921c48f0eb26381ae0bd9ebdd1f80a6f14fb6410a2609d44cbc816": {
     "category": "research",
@@ -66278,6 +66286,14 @@
     "source": "OpenAI News",
     "title": "OpenAI o3-mini System Card",
     "title_norm": "openai o3mini system card"
+  },
+  "8ff158020bbab8c73add002a8cee0990142f1b50c69fd60b25dcf05c83bac435": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867838+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "I don't want AI in my online search. What options do I have?",
+    "title_norm": "i dont want ai in my online search what options do i have"
   },
   "9004ae4768ff921d519ce851adffb2847076882ed193d07e06573ce50bfa900d": {
     "category": "research",
@@ -68599,6 +68615,14 @@
     "title": "PATMT2: Two-stage domain adaptation for multilingual patent translation",
     "title_norm": "patmt2 twostage domain adaptation for multilingual patent translation"
   },
+  "952d2516af2e905436adea3bc1ec3df5f6a7559eef98c6b3c275da646bdd61ac": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.865999+00:00",
+    "source": "OpenAI News",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "title_norm": "control room a central system to track and stop model workloads across our research infrastructure"
+  },
   "953374a2e101afb89d50465559fbf3b8d686ddd8bc7d946b025461bbd30f8451": {
     "category": "community_signal",
     "posted": false,
@@ -68815,14 +68839,6 @@
     "title": "Releasing the Inner Jev: A Simple Recipe for Open Decision Models",
     "title_norm": "releasing the inner jev a simple recipe for open decision models"
   },
-  "959fc477579442d9cb71646f910d30f171fa784214a68c154cf7330443ac170d": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208438+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-    "title_norm": "nicolas cage refused to sign amazon ai waiver im not an aifriendly actor"
-  },
   "95a4dce76755d444f06b68ef067e9ff8c87318f07fd27bd0e3e9786c78fc8fcb": {
     "category": "community_signal",
     "posted": false,
@@ -68959,13 +68975,13 @@
     "title": "Solidworks launches AI hw design features [video]",
     "title_norm": "solidworks launches ai hw design features video"
   },
-  "95f82b1ceed82e15b96ac1fa14f0d96d26c548f46031e0f1d73da9315c5893cf": {
-    "category": "community_signal",
+  "95f74aeac90a93bb12cebd08a06d378eabf5fb66ffb6f949438941dc9bb3bdbe": {
+    "category": "official_labs",
     "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971139+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Knuth Reward Check",
-    "title_norm": "knuth reward check"
+    "seen_at": "2026-11-10T07:13:57.866236+00:00",
+    "source": "OpenAI News",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "title_norm": "model ml completes finance work more efficiently with gpt56 sol"
   },
   "95f98221fce2c56326b5f28b2ea90fafc800f0e007d493f0e35cdbc9c4a17c9d": {
     "category": "official_labs",
@@ -69070,14 +69086,6 @@
     "source": "Cohere Blog (unofficial)",
     "title": "Architects of AI: Women Powering ML Ops",
     "title_norm": "architects of ai women powering ml ops"
-  },
-  "962693cb7ee87f74ea682c0f61bcfb671c57022d42c659aaf0e97baab9336a08": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208265+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Why DuckDB 2.0 is faster",
-    "title_norm": "why duckdb 20 is faster"
   },
   "962e1e61ef0905ba3da530397930d9eb26aad071c0b7dca69a4f6a89002033fa": {
     "category": "community_signal",
@@ -71335,14 +71343,6 @@
     "title": "OpenAI and Apple announce partnership",
     "title_norm": "openai and apple announce partnership"
   },
-  "9ade69b622d6e02facf34b31b03b9aefeed36838c60e589404dca4a266bd7e09": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208602+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Goodbye Coding Plans",
-    "title_norm": "goodbye coding plans"
-  },
   "9ae7c3eee4b5bcd8129ac2f0ba507ab120ee6963a4080447775e7180802b164e": {
     "category": "research",
     "posted": false,
@@ -71822,6 +71822,14 @@
     "source": "arXiv cs.AI",
     "title": "What the Model Cannot See: Covert and Provable Text Invisibility in LLMs",
     "title_norm": "what the model cannot see covert and provable text invisibility in llms"
+  },
+  "9bf93d58cc35db9987f8bca45379eba94bc31d29b6afb6124531fcd7a11cbc41": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866081+00:00",
+    "source": "OpenAI News",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "title_norm": "asana cuts model costs 76x in browser tests with gpt61 sol"
   },
   "9bfb505e6670695ea20c27fa7579ccbf50c29d2421e3d8bb4ec6d64c7de48d22": {
     "category": "research",
@@ -72375,14 +72383,6 @@
     "title": "American Medical Association releases governance framework for agentic AI",
     "title_norm": "american medical association releases governance framework for agentic ai"
   },
-  "9d499bb92cf6c7cb95c56a2becc86962a40510df6db5a7579dc9009d411c144a": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208526+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Nvidia in talks to acquire Reflection AI (makers of Beam)",
-    "title_norm": "nvidia in talks to acquire reflection ai makers of beam"
-  },
   "9d4b9e1fe5ab58191ec5f3a0ed8384ef87dc36aa1d49b09fcdafe7188a3d87cf": {
     "category": "community_signal",
     "posted": false,
@@ -72878,6 +72878,14 @@
     "source": "Google DeepMind Blog",
     "title": "Accelerating discovery of liver disease mechanisms",
     "title_norm": "accelerating discovery of liver disease mechanisms"
+  },
+  "9e49d60946fc878e5b62797cc9500ec2734a3c736065a15d87fbdac33e15b4f7": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866872+00:00",
+    "source": "OpenAI News",
+    "title": "Fine-tuning GPT-4o webinar",
+    "title_norm": "finetuning gpt4o webinar"
   },
   "9e49e6d93707d1f63c27dd58d2b879caed0c16bbf9d51b1452e309f2200022fc": {
     "category": "research",
@@ -73598,12 +73606,12 @@
     "weekly_digest_date_fa": "2026-10-25"
   },
   "_meta": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "posts_today": 0,
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-09-16"
+    "last_slot": "2026-11-10-08"
   },
   "_queue": [],
   "a008a0bb5a2e614ee9e3c538201db0daba37494cf3ab72c02c105f06a63405a9": {
@@ -73989,14 +73997,6 @@
     "source": "arXiv cs.AI",
     "title": "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning",
     "title_norm": "how much does the hint matter scope conditions for hindsight selfdistillation in financial reasoning"
-  },
-  "a0d795fea973f2e7d64edbbc410d5eac2a88397f932098aebb5be4a5afc97043": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208551+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "ShareBox \u2013 share the web tools your AI agent builds, like a Google Doc",
-    "title_norm": "sharebox share the web tools your ai agent builds like a google doc"
   },
   "a0d94e244ab25515fb29a8871c51e1b7b6a80e8959d2f5939af99fe61e581200": {
     "category": "research",
@@ -74454,6 +74454,14 @@
     "title": "FPGA-Based Neural Network Accelerators for Space Applications: A Survey",
     "title_norm": "fpgabased neural network accelerators for space applications a survey"
   },
+  "a1b72811dd254b5043b516f3ea7a8da4d179aec7a12b38de59f64e80e43d4193": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866184+00:00",
+    "source": "OpenAI News",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "title_norm": "1password increases engineering productivity 21 with codex"
+  },
   "a1baa558b4e163954bd61b0576ff599d257137e38e622bf0a45233cad74f8020": {
     "category": "research",
     "posted": false,
@@ -74765,14 +74773,6 @@
     "source": "arXiv cs.AI",
     "title": "Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images",
     "title_norm": "morphologyaware deep learning predicts colorectal cancer survival from wholeslide images"
-  },
-  "a260f36729f04dd8efe96bd8e84412da8447fea507f7c055211021d19136264f": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971451+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Enzo's \u2013 AI home search that shows cap rate and flags overpriced homes",
-    "title_norm": "enzos ai home search that shows cap rate and flags overpriced homes"
   },
   "a265d48b4f148f96c04de0b7a575395596a16458dc371d68111f5dd659e2755c": {
     "category": "research",
@@ -75126,6 +75126,14 @@
     "title": "Medical research with GPT-5",
     "title_norm": "medical research with gpt5"
   },
+  "a3178e8ee26ee3712ff41654103c735ac81d912f6f255be91e61341050fd4095": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867952+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: ZTHR \u2013 what replaces code review when AI agents write all the code",
+    "title_norm": "show hn zthr what replaces code review when ai agents write all the code"
+  },
   "a3194684b950f9892290e4ddd75bb70e342aa467f11e0624bbe271775d91c7eb": {
     "category": "research",
     "posted": false,
@@ -75381,6 +75389,14 @@
     "source": "Meta AI Blog (unofficial)",
     "title": "How Cornerstone is transforming XR training to build essential skills for the modern workforce",
     "title_norm": "how cornerstone is transforming xr training to build essential skills for the modern workforce"
+  },
+  "a3bc8ca770f44f2d283586dea0b9803e953497c6447c206a739ff27b330279a0": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867085+00:00",
+    "source": "TechCrunch AI",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "title_norm": "anthropic releases new mythos and fable models amid rsi concerns"
   },
   "a3bdd866d25dd22f0f2d10bb3b792f9d3b60b74973c71e6e884c45650662286d": {
     "category": "community_signal",
@@ -77270,6 +77286,14 @@
     "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
     "title_norm": "how far can the gemma 4 speech encoder go without changing its weights saudi and gulf arabic speech recognition with a frozen and an adapteraugmented encoder"
   },
+  "a7b39cb0698327aa7f2535085e5ff22ca7e636782abfa74072f3b8860eed86c0": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867599+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "TPU 8tx and TPU 8i Max",
+    "title_norm": "tpu 8tx and tpu 8i max"
+  },
   "a7b83d7996366dd5f02bcb1e7725308ed5149ff89a9d2049233d12239705c4bc": {
     "category": "research",
     "posted": false,
@@ -77309,14 +77333,6 @@
     "source": "Cohere Blog (unofficial)",
     "title": "How To Train Your Pet LLM: Prompt Engineering",
     "title_norm": "how to train your pet llm prompt engineering"
-  },
-  "a7c183de5112de4747c23486d7487a321f4ddb9d54d97fdfcde71054c47a0d6e": {
-    "category": "official_labs",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.970858+00:00",
-    "source": "OpenAI News",
-    "title": "The AI policy window is open. We need to act.",
-    "title_norm": "the ai policy window is open we need to act"
   },
   "a7caf59272b369ac7ff0cfefdfd2255d384ea4e8763e7be163a865bb206f8bf7": {
     "category": "research",
@@ -77541,6 +77557,14 @@
     "source": "arXiv cs.AI",
     "title": "ECHO: An Auditable Dual-Path Memory System for Long-Horizon Agents",
     "title_norm": "echo an auditable dualpath memory system for longhorizon agents"
+  },
+  "a847d1340755ee53c98dcc252499cd0603506bd00b99f9169eee55a050ca3039": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867706+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "title_norm": "google gemini routes personal drive files and emails to human annotators"
   },
   "a849b7080e2b2d2ad21c39b3e09aab8708df3e8bda85af78d9151a642b1e96dd": {
     "category": "research",
@@ -78245,6 +78269,14 @@
     "source": "arXiv cs.AI",
     "title": "Following Delegation Traces to Study Human Oversight in Interaction with Multimodal AI",
     "title_norm": "following delegation traces to study human oversight in interaction with multimodal ai"
+  },
+  "a989f1582084d0cf153c32d2fa32483a4ec12dee696b65f0f20a1d5ab4b8abfd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867719+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "title_norm": "claude fable 52 and mythos 52"
   },
   "a98a34dd9950048acb9e34a064c93d5367485325f4fd0bd24045e02859068462": {
     "category": "official_labs",
@@ -80302,6 +80334,14 @@
     "title": "Every finite group admits a just finite presentation",
     "title_norm": "every finite group admits a just finite presentation"
   },
+  "ae69059d9d37c3d72485ddb21d7aa1f9db0f6fc38bb451fc7c7f775ff0bbb602": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866899+00:00",
+    "source": "OpenAI News",
+    "title": "Enabling a data-driven workforce",
+    "title_norm": "enabling a datadriven workforce"
+  },
   "ae6e49210029e41a672a7f639a040f260b0aeb7595e36baced9dfc8765964be4": {
     "category": "research",
     "posted": false,
@@ -80333,14 +80373,6 @@
     "source": "arXiv cs.AI",
     "title": "CORMA: Constraint-Routed Decision Mamba for Generalizable Multi-Constraint Offline Safe Reinforcement Learning",
     "title_norm": "corma constraintrouted decision mamba for generalizable multiconstraint offline safe reinforcement learning"
-  },
-  "ae7c9336500624c075ad076488da09cdd76378234452f00a5c833c3af5ddf1ac": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208249+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-    "title_norm": "vibe coded browser ports of halo the simpsons hit and run gta work well"
   },
   "ae82aef1405e78542bb3a5aafb020cbe349f879944871a3d0ab6e90c7afd7d09": {
     "category": "research",
@@ -80766,6 +80798,14 @@
     "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
     "title_norm": "show hn nes contra 1987 port asm c and then c webassembly"
   },
+  "af71f35d86eeb9d84515886989e5431152f3fb46e86d53a10cc3887280954df5": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866694+00:00",
+    "source": "OpenAI News",
+    "title": "Shipping code to your IDE with ChatGPT",
+    "title_norm": "shipping code to your ide with chatgpt"
+  },
   "af759329883a77b26a45b9cc1310f3e97ecba0416853b35e09278ec7d8d9e8bc": {
     "category": "research",
     "posted": false,
@@ -80877,6 +80917,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "I use local AI to generate personal value on my massive NAS-based archive / library",
     "title_norm": "i use local ai to generate personal value on my massive nasbased archive library"
+  },
+  "afbf3bfda829c0175e534a8f3a061dd52b3fd8516c9c4c4a08144248d8117405": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866723+00:00",
+    "source": "OpenAI News",
+    "title": "Strategic planning with ChatGPT",
+    "title_norm": "strategic planning with chatgpt"
   },
   "afc01f438235ba88065fa97bbe8475ab3f39fb4976097434731c3d7c7b72e661": {
     "category": "research",
@@ -81341,14 +81389,6 @@
     "source": "arXiv cs.CL",
     "title": "Taking Tokenization off the Host for Agentic LLM Serving",
     "title_norm": "taking tokenization off the host for agentic llm serving"
-  },
-  "b0aa68d3c941a6b93771c3f6f686c0076d6d430d4f74767454de85edcf0cb668": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971380+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
-    "title_norm": "boro nvidias opensource effort for aiassisted linux kernel development"
   },
   "b0afba20cc8cfea3c1cb6cc5a4b13a7f3387ff86f22a20952c0d785a984f4115": {
     "category": "research",
@@ -83422,6 +83462,14 @@
     "title": "Probing the Limits of the Lie Detector Approach to LLM Deception",
     "title_norm": "probing the limits of the lie detector approach to llm deception"
   },
+  "b5679cf365d4f71abc703503a3a43388954c77a1900130081f20a3911b1fd9b6": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867541+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Formalizing CPython",
+    "title_norm": "formalizing cpython"
+  },
   "b569b425c7b4edc0a8d2f07712662c6640b0f09843ebd0eae6f91c22b9887e1d": {
     "category": "research",
     "posted": false,
@@ -83558,6 +83606,14 @@
     "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
     "title_norm": "revisiting tabular deep regression objectives and the limits of global early stopping"
   },
+  "b5b36394e50a1ce9f5b402b7a6f9559ffe57cf828fcfea53f7815b421fb57d40": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866430+00:00",
+    "source": "OpenAI News",
+    "title": "Delegate work to ChatGPT agent",
+    "title_norm": "delegate work to chatgpt agent"
+  },
   "b5b5c5c86899b61a983a4d4dcd7684bc495feb6b9b19dc4e12c1bcf5fba39126": {
     "category": "community_signal",
     "posted": false,
@@ -83589,14 +83645,6 @@
     "source": "Hacker News Frontpage",
     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
     "title_norm": "qwen 38 27b on my laptop can interpret model weights too"
-  },
-  "b5ce65b17e07032a2ef1e1bc6478c1930d895defe0f2b0d0f5286c0a53b1375c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208492+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
-    "title_norm": "ask hn why did microsoft invest in ai that could rewrite its apps from scratch"
   },
   "b5d18c04f7f67bab650de071ee075bf027eddddbdd6c84d84abc41f33a9171b7": {
     "category": "official_labs",
@@ -83725,6 +83773,14 @@
     "source": "Hacker News Frontpage",
     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
     "title_norm": "the astra can read and write weights to improve qwen post is misleading"
+  },
+  "b61ba34289d3e8db137dbf3bf26d0f70783ace432db3c8ef209c418d1d8ba32b": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867432+00:00",
+    "source": "Wired AI",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "title_norm": "a new ai tool from google deepmind proved the signal protocol is secure"
   },
   "b61cb7f4a5958f02d476b4cc7fabcc6c692fdaf0e032ea448e13de3da1253269": {
     "category": "research",
@@ -85958,6 +86014,14 @@
     "title": "PlagiaCorpus: A Bilingual, Adversarial, and Cross-Lingual Dataset for Forensic Plagiarism Detection",
     "title_norm": "plagiacorpus a bilingual adversarial and crosslingual dataset for forensic plagiarism detection"
   },
+  "bac63a1f98f3a85bc9831a6e1dd257afc385765d66b8fc987c0b7728be1ad28c": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866843+00:00",
+    "source": "OpenAI News",
+    "title": "Put AI to work: Lessons from hundreds of successful deployments",
+    "title_norm": "put ai to work lessons from hundreds of successful deployments"
+  },
   "bac890a6f5c691d3181060b1198894f6311fe3bf5490bbe147497e73a1f82508": {
     "category": "research",
     "posted": false,
@@ -86734,14 +86798,6 @@
     "title": "Anthropic pitches its own AI safety bill to lawmakers",
     "title_norm": "anthropic pitches its own ai safety bill to lawmakers"
   },
-  "bc2d6bf527f4b63c86434ce313a9d2ba9cc88495177097fea409d1c408bf4b63": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971397+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Show HN: I asked 10k people to describe AI in 1 word",
-    "title_norm": "show hn i asked 10k people to describe ai in 1 word"
-  },
   "bc2dc8728b2349be2805bdb67dad45e6f0401a59f344f08d0219b3a2e4fbb29f": {
     "category": "research",
     "posted": false,
@@ -86997,6 +87053,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "inclusionAI/Ming-3.0-TTS-0.5B",
     "title_norm": "inclusionaiming30tts05b"
+  },
+  "bcace0364e202b58b5185d8416bd4dae3995750ca7f76c906090944b939eb00a": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867994+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Microsoft patent: turning idle gaming GPUs into paid AI training hardware",
+    "title_norm": "microsoft patent turning idle gaming gpus into paid ai training hardware"
   },
   "bcb0a69795da3c4a7bce36f24244dbbcd402abbf8d013b6f934913fb8d406c58": {
     "category": "official_labs",
@@ -87533,6 +87597,14 @@
     "source": "arXiv cs.AI",
     "title": "MIND: Lightweight and Effective Memory Injection Defense for LLM Agents via Intent-Aware Information Bottleneck",
     "title_norm": "mind lightweight and effective memory injection defense for llm agents via intentaware information bottleneck"
+  },
+  "bda3011897fcd94668c2f3a2cee226f21816c8fb4d5ed54e0846843189cbd914": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867051+00:00",
+    "source": "TechCrunch AI",
+    "title": "The race is on to sue Nvidia",
+    "title_norm": "the race is on to sue nvidia"
   },
   "bda9dea2f66bef80235048a81d451475f80a0f25d463074cd805e86cd9226386": {
     "category": "community_signal",
@@ -88637,14 +88709,6 @@
     "source": "The Verge AI",
     "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
     "title_norm": "google is entirely disabling search in schools that don8217t want ai"
-  },
-  "c01ab8d598e4f85164b821de09e732a6ed30655b4f9cfccb76a165ddeb54da90": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208578+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Is AI eating marketing jobs?",
-    "title_norm": "is ai eating marketing jobs"
   },
   "c01c6ae59b314f2f4cec2d35572b9eb500187fb0bcfc82df19d12648ff44e4fc": {
     "category": "research",
@@ -90382,14 +90446,6 @@
     "title": "LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents",
     "title_norm": "lowagent a lowresource multilingual benchmark for web agents"
   },
-  "c3f7bc5148a8e6b06789ea29bcd809259cbdff146d942e4752ed115ec8cd5e77": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971542+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what\u2019s in them",
-    "title_norm": "opensource mac app that runs embeddinggemma 2 locally to search your files by whats in them"
-  },
   "c3f7fa7fd4deebe573f5b65c61d2a545f8e4d2f761b50a53c43af167f81540ac": {
     "category": "research",
     "posted": false,
@@ -90909,14 +90965,6 @@
     "source": "Hacker News Frontpage",
     "title": "Every AI model has the same \"controversial\" take on humans",
     "title_norm": "every ai model has the same controversial take on humans"
-  },
-  "c4f3bf23d924126ad718dc0558632705176ad438c74a5419d7da15a430ba7913": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971468+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
-    "title_norm": "i tested whether ai agents obey text you never see 4 of 8 did every time"
   },
   "c4f56b3e7f2dc7bf266f3c081794ef54ac79eb22ff952fe1146dd87031e47b41": {
     "category": "community_signal",
@@ -92918,14 +92966,6 @@
     "title": "Geometric Alignment without Functional Equivalence: A Layer-wise Analysis of the Speech-Text Modality Gap",
     "title_norm": "geometric alignment without functional equivalence a layerwise analysis of the speechtext modality gap"
   },
-  "c9390824224ecd5bf3e13e60b809593a5cbf1325a3e21894a054f7a97ccf89cf": {
-    "category": "tech_news",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971110+00:00",
-    "source": "The Verge AI",
-    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-    "title_norm": "ai agent makers are promising privacy will they deliver"
-  },
   "c93b7e81affd5ab467f67109e222d8844817b238ac1cdd19f171e2b9f21c1d40": {
     "category": "research",
     "posted": false,
@@ -93278,14 +93318,6 @@
     "title": "Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal",
     "title_norm": "rebuild dossier mechanicallyenforced specs for agentic app rebuilds and what modeltier failures reveal"
   },
-  "c9f8263218d16e7752e2b6e1e02bd6fd1777825f9718a20befcfc7a7104cc4c4": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971297+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Building a safer path to autonomous industrial AI",
-    "title_norm": "building a safer path to autonomous industrial ai"
-  },
   "c9fa27356ba6c3feb0cd98579328368075fed3390efe61377b685ae5ab8f9b77": {
     "category": "research",
     "posted": false,
@@ -93621,6 +93653,14 @@
     "source": "Meta AI Blog (unofficial)",
     "title": "How Sofya is taking clinical reasoning to the next level with Llama",
     "title_norm": "how sofya is taking clinical reasoning to the next level with llama"
+  },
+  "caa9073cefb43725f1a58e80c726b61b1142cf3c90f98b3ffe382a94354b7081": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.865934+00:00",
+    "source": "OpenAI News",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "title_norm": "chatgpt enterprise now available in aws marketplace"
   },
   "cab0c2e06ee89ee80093d5da47326f52edeb10e1dd02969e2e76540c2867561d": {
     "category": "official_labs",
@@ -94045,14 +94085,6 @@
     "source": "arXiv cs.AI",
     "title": "Does Every Instance Count Equally? Order Effects in LLM Multi-Instance Processing",
     "title_norm": "does every instance count equally order effects in llm multiinstance processing"
-  },
-  "cb934642242e6805698b7076e4c09c6f6aa2df1da84361b4a3cec6156317c4d6": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208224+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Takeshi's Castle",
-    "title_norm": "takeshis castle"
   },
   "cb9c81d170e4dc984c0c32253a2ed4e0b5a5372556022a7c28df8d91e10c75db": {
     "category": "research",
@@ -94518,6 +94550,14 @@
     "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
     "title_norm": "visual task modeling and automated planning for humanoid robots in education of individuals with autism spectrum disorder"
   },
+  "ccc979e1da2b25eea51370081a3fe0b656ca6a5195680b39d39786824acf8b7e": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867413+00:00",
+    "source": "Wired AI",
+    "title": "Security Flaws Across UK Government Sites Exposed \u2018God-Tier\u2019 Information",
+    "title_norm": "security flaws across uk government sites exposed godtier information"
+  },
   "cccfb0d841489f09d0cac72101b15384aeca297b7781d363e09a015ac795a845": {
     "category": "research",
     "posted": false,
@@ -94573,6 +94613,14 @@
     "source": "arXiv cs.CL",
     "title": "How Far Can You Steer? Behavior-Capability Frontiers in Contrastive Activation Addition",
     "title_norm": "how far can you steer behaviorcapability frontiers in contrastive activation addition"
+  },
+  "cd027b24b17aebafb49fa17e007a55d98206a753760f91069d43da663f945f38": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867279+00:00",
+    "source": "The Verge AI",
+    "title": "Here\u2019s what Trump said he knew about Jensen Huang",
+    "title_norm": "heres what trump said he knew about jensen huang"
   },
   "cd02d1c1e00acde5d6217936f16ea38dcd2bd3be845729d5f49f7363d24f5999": {
     "category": "community_signal",
@@ -95166,6 +95214,14 @@
     "title": "Fine-Tune MMS Adapter Models for low-resource ASR",
     "title_norm": "finetune mms adapter models for lowresource asr"
   },
+  "ce4dbf8bda2b02295b7b8c5eafff70f8088cf04b8b7b3438a6010933c740cc2e": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867473+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "title_norm": "amazon saves millions by replacing sonnet 46 with strands decider"
+  },
   "ce51f664f195624a38b34224344811624860fc5304855340dc0f56b2dd69231e": {
     "category": "research",
     "posted": false,
@@ -95685,6 +95741,14 @@
     "source": "Hugging Face Blog",
     "title": "Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)",
     "title_norm": "yes transformers are effective for time series forecasting autoformer"
+  },
+  "cf2829ad74c8e9e2273e5fdb3f134428596d23f924577dbc4fb73309de28d235": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867357+00:00",
+    "source": "The Verge AI",
+    "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+    "title_norm": "instagrams effect builder makes new filters from ai prompts"
   },
   "cf2fe0f60075b9647a9edc3cb0db03b5a7350a635ab21ae1aa5e669c58cd0355": {
     "category": "research",
@@ -97686,14 +97750,6 @@
     "title": "An introduction to AI API",
     "title_norm": "an introduction to ai api"
   },
-  "d3eeb0753ebb5aa2dedac311355ef6503a6ecc7e08b6996991133e67b93238fc": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971202+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-    "title_norm": "tom brown used gop ties to broker a 125bmonth spacex compute deal"
-  },
   "d3f7fa4d546260382820ca24f209eec971f3ea3b57de7657c68428b83410a9a1": {
     "category": "community_signal",
     "posted": false,
@@ -98678,6 +98734,14 @@
     "title": "Persistent Retrieval for Conversational Agents: A Study of Retrieval Efficiency",
     "title_norm": "persistent retrieval for conversational agents a study of retrieval efficiency"
   },
+  "d65b75d7c2a2b265ec1ba058018f1c3e12344b71d2369606bdc39c773cb7586c": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867200+00:00",
+    "source": "TechCrunch AI",
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "title_norm": "mediums new tk app brings ai assistance directly into the writing process"
+  },
   "d66231a0c81bfe99d2cfc2206224cb9b76b46dee41963722ff522d345208ee35": {
     "category": "community_signal",
     "posted": false,
@@ -99445,6 +99509,14 @@
     "source": "arXiv cs.CL",
     "title": "MediaWiki Code2Code Search: Neural Retrieval for the Semantic Discovery of Open-Source Software Entities",
     "title_norm": "mediawiki code2code search neural retrieval for the semantic discovery of opensource software entities"
+  },
+  "d7d4ba3d3c0eba0fe108cc0805b36d0a69e7cf9c733869f2bb2cee102a2358a4": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867777+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "We're launching an in-game AI agent for WoW",
+    "title_norm": "were launching an ingame ai agent for wow"
   },
   "d7d765dfbca30cf508fa94986365569795febf774381b4c6ae60b9901839528a": {
     "category": "community_signal",
@@ -100278,14 +100350,6 @@
     "title": "Hazel (YC W24) Is Hiring",
     "title_norm": "hazel yc w24 is hiring"
   },
-  "d97094e29ce578d98ebd5044ef862ab066d18f8ac66b244a667885f8eee64ce7": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971483+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "My personal AI agent posted my bank details on company Slack",
-    "title_norm": "my personal ai agent posted my bank details on company slack"
-  },
   "d9735b2df60fd74a38e00ceef6501c72bf434670f0b710954ec9c44631c91b93": {
     "category": "community_signal",
     "posted": false,
@@ -100341,6 +100405,14 @@
     "source": "Hacker News Frontpage",
     "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
     "title_norm": "as the japanese countryside empties out wildlife is disappearing"
+  },
+  "d98e79f87911521c1f8716e71008f7804cf9976d05b9d45c1a832426e6753f0a": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866259+00:00",
+    "source": "OpenAI News",
+    "title": "Think Bigger: How Small Teams Win with ChatGPT",
+    "title_norm": "think bigger how small teams win with chatgpt"
   },
   "d998321699cc294530c811c5fe367522fb38724f549d4e22b7182aa7391169c5": {
     "category": "research",
@@ -102262,14 +102334,6 @@
     "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
     "title_norm": "beyond the answer studentconditioned trace construction for reasoning distillation"
   },
-  "dd6ce8fc42cea2a55e226ed17547334be926f064932dc2f8f28550f28f2c26b3": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208360+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Is AI conscious? Anthropic says 'maybe'",
-    "title_norm": "is ai conscious anthropic says maybe"
-  },
   "dd73139d2e3dcd4c1e4b506e29f09bd5c1b6a55186dfb93e70e88f44c3b919f8": {
     "category": "official_labs",
     "posted": false,
@@ -103238,14 +103302,6 @@
     "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
     "title_norm": "trustbank uses ai agents to personalize furusato nozei gifts"
   },
-  "df8a475937f9bf86815782e0643b29ddfe54c6dc6f7c9aa7fd081f12c7dcdcd3": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208513+00:00",
-    "source": "Hacker News AI keyword",
-    "title": "Phonebox \u2013 Cloud Android phones for AI agents",
-    "title_norm": "phonebox cloud android phones for ai agents"
-  },
   "df8f12302a5b421ac18657dd3c98b85f0bbbcdb55f27a7a2a1e94cd20d3dde6b": {
     "category": "official_labs",
     "posted": false,
@@ -103309,6 +103365,14 @@
     "source": "arXiv cs.CL",
     "title": "Can LLM Annotators Match Human Consistency? Benchmarking Human Agreement and Optimizing Multi-Agent with Contrastive Knowledge",
     "title_norm": "can llm annotators match human consistency benchmarking human agreement and optimizing multiagent with contrastive knowledge"
+  },
+  "dfb586131bf3d3cb04b45c447ddda1020a0bfabb4f918d58630b10079556383d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866948+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "title_norm": "meta is back with muse glimmer local agentic multimodal and open source"
   },
   "dfbd48c663b59684a8751d66810b39b5832efc71a95bd8aeffbb3230f5aaa27d": {
     "category": "official_labs",
@@ -103990,6 +104054,14 @@
     "title": "McKinsey is making job applicants spar with a fake AI client",
     "title_norm": "mckinsey is making job applicants spar with a fake ai client"
   },
+  "e105484703996e34195d7ca95e82b43a2d4c870785e1b8bab6fbcaa3702f44a3": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867028+00:00",
+    "source": "TechCrunch AI",
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "title_norm": "a short seller flagged nvidia ceos ties to a suspected chinese spy six months before the scandal"
+  },
   "e1069d46adacdb059ec0f6892c98ff92c9723eee5454f8452e2b4fd9319cc339": {
     "category": "research",
     "posted": false,
@@ -104501,14 +104573,6 @@
     "source": "arXiv cs.CL",
     "title": "DIAL: Direct Iterative Adversarial Learning for Realistic Multi-Turn Dialogue Simulation",
     "title_norm": "dial direct iterative adversarial learning for realistic multiturn dialogue simulation"
-  },
-  "e25e7869900e76e9dfbea2be7f1a679cb8fa21fd17eee8314af2b11672563e9c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971127+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "AI Is Throwing a Roadside Picnic",
-    "title_norm": "ai is throwing a roadside picnic"
   },
   "e2623de702fd7a72824cdd53f46d5ecd2e36668c197f22d344398591544d319f": {
     "category": "research",
@@ -106966,6 +107030,14 @@
     "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
     "title_norm": "im building lynx an opensource daw inspired by fl studio freecrossplatform"
   },
+  "e7b41c563c8e101b7fe3236848945c79c49cb853f184a2d8c359f45b2f139327": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867067+00:00",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "title_norm": "jensen huang pulls out of elevenlabs summit amid nvidia controversy"
+  },
   "e7b8ac319d53b4c93efe6f67fce76e9d9db335bed868844d55950cf76cc5fba7": {
     "category": "tech_news",
     "posted": false,
@@ -107029,6 +107101,14 @@
     "source": "arXiv cs.AI",
     "title": "When Agents Collude: Weak-to-Strong On-Policy Distillation for Mitigating Strategic Deception in Multi-Agent Systems",
     "title_norm": "when agents collude weaktostrong onpolicy distillation for mitigating strategic deception in multiagent systems"
+  },
+  "e7d9d1552b0e69602474771fc2334499b10f4c2f34c6e1ba92ee0f901589a2fd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867528+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "title_norm": "coreweave bond yield tops 16 as ai credit stress rises"
   },
   "e7e01b0b0dbdcbfd0948571d25c99d13d6128c7dfe7aa6c53c34372c706855d4": {
     "category": "research",
@@ -107325,6 +107405,14 @@
     "source": "arXiv cs.CL",
     "title": "Quantum Vision Theory Applied to Audio Classification for Deepfake Speech Detection",
     "title_norm": "quantum vision theory applied to audio classification for deepfake speech detection"
+  },
+  "e8884a0ba45abd7629fdc7cfc69248bb7092da8b1cf5a102b40c8d4e35041a56": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867128+00:00",
+    "source": "TechCrunch AI",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "title_norm": "meta releases muse ember a new lightweight model for agent execution"
   },
   "e88fd557dccf163c3dc6aa0411f808d31ecce95b531b3f210c846ecd14b939a1": {
     "category": "research",
@@ -107773,14 +107861,6 @@
     "source": "arXiv cs.AI",
     "title": "Good Scores, Bad Data: A Metric for Multimodal Coherence",
     "title_norm": "good scores bad data a metric for multimodal coherence"
-  },
-  "e97655b68188441983d6f00788bb5b3cd0a72b3e1e4dd6a26099266212e79620": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971151+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "How Protein Took over the World",
-    "title_norm": "how protein took over the world"
   },
   "e9812e81eab5586b58286aba577b888ade34210b67a48669f0236ae5a3be6a8e": {
     "category": "research",
@@ -108270,6 +108350,14 @@
     "title": "Empires of AI: The Rise and Fall of a New Global Order",
     "title_norm": "empires of ai the rise and fall of a new global order"
   },
+  "ea9e2270122931419f9b2e1c27ee99619ac89aba556d98f2ca86d4384d059d20": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867339+00:00",
+    "source": "The Verge AI",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "title_norm": "anthropic launches new claude fable and mythos 52 models"
+  },
   "ea9ecc5119c8cf4ddfb858dbf65e9244cb2dcee8c43aea7601755daa7ed162cd": {
     "category": "community_signal",
     "posted": false,
@@ -108493,6 +108581,14 @@
     "source": "arXiv cs.AI",
     "title": "Agents' Last Exam",
     "title_norm": "agents last exam"
+  },
+  "eb1bda381c5850db3e94df9f209184ac9229702165775902354f6523357b0f4c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867969+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Charleston AI",
+    "title_norm": "charleston ai"
   },
   "eb230394cfa121baf486824bccbed36970779449f273584b26436d82742569ce": {
     "category": "research",
@@ -108957,6 +109053,14 @@
     "source": "arXiv cs.CL",
     "title": "LED: Improving Masked Diffusion Language Models by Lookahead Editing",
     "title_norm": "led improving masked diffusion language models by lookahead editing"
+  },
+  "ec3126d6bd370413bc5e3d0787786bda23be546d5785bc354dba34e760dd5ea0": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.868007+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "title_norm": "nvidias ai advantage is moving beyond the gpu"
   },
   "ec35d431d4e1fe002b8ddb2be957146e0442eebe45a19ee922698d2f0af9a652": {
     "category": "research",
@@ -110078,6 +110182,14 @@
     "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
     "title_norm": "prefill and decode for concurrent requests optimizing llm performance"
   },
+  "ee9f77bc7cfbdb9716b0b079419382a541516623f83d90ab7aea9693fcd322d4": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866667+00:00",
+    "source": "OpenAI News",
+    "title": "Vision and voice in ChatGPT",
+    "title_norm": "vision and voice in chatgpt"
+  },
   "eea2728bca276433047312475fd7a3c1fa253b0fd6b5b9555b502208f3545d22": {
     "category": "research",
     "posted": false,
@@ -110173,6 +110285,14 @@
     "source": "The Verge AI",
     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
     "title_norm": "why a new report on anthropic automating ai development is alarming researchers"
+  },
+  "eed116caed0195cd0325822f35ead8e38a8a6c9ac5377571736df18a6d98658c": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866582+00:00",
+    "source": "OpenAI News",
+    "title": "Creating a contextual workspace in ChatGPT",
+    "title_norm": "creating a contextual workspace in chatgpt"
   },
   "eed838b223c85b08afb1ebb952851153674a2e6acd4196137ca6d890ac004793": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -110902,6 +111022,14 @@
     "title": "When Skills Remain But Access Fails: Factorized Skill Memory for Continual Skill Internalization",
     "title_norm": "when skills remain but access fails factorized skill memory for continual skill internalization"
   },
+  "f0bbea0e148a88b8a8311c95074407e45260e5541698091bc599f01040e3e328": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866812+00:00",
+    "source": "OpenAI News",
+    "title": "Put AI to work: Automate and scale financial operations",
+    "title_norm": "put ai to work automate and scale financial operations"
+  },
   "f0be6325bfc4dec9fdd9097f3d2d2ad93fdd6b7051f0f628564c709ff5a230de": {
     "category": "tech_news",
     "posted": false,
@@ -111133,6 +111261,14 @@
     "source": "arXiv cs.AI",
     "title": "PaceReasoner: Label-Free Learning to Answer Briefly from Long Reasoning",
     "title_norm": "pacereasoner labelfree learning to answer briefly from long reasoning"
+  },
+  "f135716141c4145eb925415dbdb68be59007943db7a6755e89d777cadd19de13": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.868020+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "title_norm": "american express is cutting 5 of its workforce to prepare for ai"
   },
   "f1446772e2d1ceffd02077968bd26a09c50e119bf3bb9995ca1e275ca8083b56": {
     "category": "research",
@@ -111606,6 +111742,14 @@
     "title": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
     "title_norm": "show hn ai agent swarms test if new cves are exploitable in your env"
   },
+  "f2826d61744e1e47a7f315a9fe27e1667397fc1b9b8e5c74d7237a32a6c28e5c": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867900+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Ask HN: Are companies making money by using AI?",
+    "title_norm": "ask hn are companies making money by using ai"
+  },
   "f282bcdc97e33a39a20dde0c30390a4ce145fd206741f782b39988ada16a694f": {
     "category": "official_labs",
     "posted": false,
@@ -111845,14 +111989,6 @@
     "source": "The Verge AI",
     "title": "Claude did not invent scorpion antivenom",
     "title_norm": "claude did not invent scorpion antivenom"
-  },
-  "f2f9717d1d70cc239cf3e6580b51c5a5888700862033c7c1ea06bad290622ad2": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971570+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
-    "title_norm": "qwen3827b on a single 3090 140 toks on code with a custom megakernel"
   },
   "f2fa7c35752895f8ee5d22e8f2e5c5c338ec8d8755b7d31ad1060c4fb4d28a14": {
     "category": "research",
@@ -113389,6 +113525,14 @@
     "source": "Ars Technica AI",
     "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
     "title_norm": "highway thieves are spoofing gps to steal millions in data centerbound cargo"
+  },
+  "f64cbf7f3d1da5b7bfa9fdd1be09e675b3a3050a857326059f56a23d8675ca8d": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866969+00:00",
+    "source": "Cohere Blog (unofficial)",
+    "title": "Shared or dedicated inference for Embed & Rerank",
+    "title_norm": "shared or dedicated inference for embed rerank"
   },
   "f650128f337315b2b21b4080206f66c8916d073c88c39c54b34bd8634592691e": {
     "category": "community_signal",
@@ -114934,14 +115078,6 @@
     "title": "The Show-Up Attack: When Subagents Win Over Their Supervisor",
     "title_norm": "the showup attack when subagents win over their supervisor"
   },
-  "f99fcef30e32557d63b230dadfdd832581025c52feaa6a7d5c551905c5fcd907": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971597+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Is there a better option than llama.cpp for 4GB VRAM for Higher tokens/sec?",
-    "title_norm": "is there a better option than llamacpp for 4gb vram for higher tokenssec"
-  },
   "f9a06db5981496d8d8b781f13dccc141384574f26cc5118773f7adf284f4ff1b": {
     "category": "research",
     "posted": false,
@@ -115502,14 +115638,6 @@
     "title": "Regression-adjusted Monte Carlo Estimators for Shapley Values and Probabilistic Values",
     "title_norm": "regressionadjusted monte carlo estimators for shapley values and probabilistic values"
   },
-  "faae279da7bb3bbbba638a2d4ce6bb25c74540d2a9ba0e97b88f58a3d67e8b9c": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T17:26:41.971585+00:00",
-    "source": "Reddit r/LocalLLaMA",
-    "title": "Improve token per second without touching quant",
-    "title_norm": "improve token per second without touching quant"
-  },
   "fab81bec3f8e14fdeb8b1630579949655450fcd4cd913b7857d66e97d099dae1": {
     "category": "research",
     "posted": false,
@@ -115637,6 +115765,14 @@
     "source": "arXiv cs.AI",
     "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents",
     "title_norm": "autonomous structural discovery of bioprocess dynamics and kinetics via llmdriven agents"
+  },
+  "fb1bea5088a1cbe35c9e44fdd46b99d6acfea83fa6bbfab614819231174ee55e": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866751+00:00",
+    "source": "OpenAI News",
+    "title": "Put AI to work for marketing teams",
+    "title_norm": "put ai to work for marketing teams"
   },
   "fb273174ecc838373823cf9b30595d248e841f0b78f727b5f6c1d8d6011570db": {
     "category": "research",
@@ -115981,6 +116117,14 @@
     "source": "arXiv cs.AI",
     "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
     "title_norm": "autovend benchmarking llm agents on longhorizon autonomous vending operations"
+  },
+  "fbdf36c6d0b0b031c7bc7614ffde87312900439bb99e93d85ef2dfed43491371": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867611+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "title_norm": "claude fable 52 scores 65 on artificial analysis highest so far"
   },
   "fbdf830290c2d36ed0fc14f303d8b88f612ea2ad67176b8eb4d728b7e773423c": {
     "category": "research",
@@ -116421,6 +116565,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "I tested Qwen3.8 27B KLD for 21 Models at 9 different KV quants that fit on 16GB VRAM (189 benchmarks).",
     "title_norm": "i tested qwen38 27b kld for 21 models at 9 different kv quants that fit on 16gb vram 189 benchmarks"
+  },
+  "fca505743bb9dd49a35a603b95a375b07bb4d3f3b83752f27f96ad6a76fe5a0b": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.867666+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "title_norm": "emeans outperforming kmeans in onetenth the epochs"
   },
   "fca607241175e5323bc0664d4ef94ce687ff0f67575846bd3dc4aedd655cdce7": {
     "category": "community_signal",
@@ -117502,6 +117654,14 @@
     "title": "Quad9 (DNS Resolver) to Exit France",
     "title_norm": "quad9 dns resolver to exit france"
   },
+  "feff5c589b8ce53b1458ca90dd36623e8290f4c99f4a5e4edbdd603d778d92be": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:13:57.866299+00:00",
+    "source": "OpenAI News",
+    "title": "Building with the GPT-5 Model Series: A Practical Guide",
+    "title_norm": "building with the gpt5 model series a practical guide"
+  },
   "ff02c0290aa26d035595ee641e36f77ecae7851154ec98c5c7432a860af10211": {
     "category": "research",
     "posted": false,
@@ -117733,14 +117893,6 @@
     "source": "arXiv cs.AI",
     "title": "SarcasTraps: Effect of Sarcasm on Turkish Hate Speech Detection",
     "title_norm": "sarcastraps effect of sarcasm on turkish hate speech detection"
-  },
-  "ff937c40252284431292beae6a7a9f200cd28a2d8e1688a50fffda47505a8d14": {
-    "category": "community_signal",
-    "posted": false,
-    "seen_at": "2026-10-10T20:40:14.208235+00:00",
-    "source": "Hacker News Frontpage",
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "title_norm": "nvidia in talks to acquire us open model startup reflection ai"
   },
   "ff94710294a7bce7f2e337e4ddcccddaa1d7eecd0323185228bd47f0afd4b11c": {
     "category": "research",
