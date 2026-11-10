@@ -3327,6 +3327,14 @@
     "title": "It's the Memory Latency, Stupid",
     "title_norm": "its the memory latency stupid"
   },
+  "075fed980e67c694db46cedaac3bb03714e2e805b3a4b8d5ecbdb92fb4704bd4": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010793+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "title_norm": "rebuilding automatic1111 with gradio workflow"
+  },
   "0765deb144589280c16b6c389f4ff0fb7d519b5edcb7c4cad6d5247ca7a27572": {
     "category": "official_labs",
     "posted": false,
@@ -3647,6 +3655,14 @@
     "title": "Predictive Closure: A Set-Level Characterization of JEPA's Feature Selection",
     "title_norm": "predictive closure a setlevel characterization of jepas feature selection"
   },
+  "07f683ca61fcbcaa8a822ec74b447d53d61fba61d743b9b754ca19ae070b9bd0": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011454+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Australian Finetunes",
+    "title_norm": "australian finetunes"
+  },
   "07fa9a811fb585b61c9e6391fb07be1af4b6168f9bcb80f2605a54da97b4afe9": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -3686,6 +3702,14 @@
     "source": "Hacker News AI keyword",
     "title": "Robotics AI Suite",
     "title_norm": "robotics ai suite"
+  },
+  "081601c279be28d3ef5aa58c1540b9bc9f0ea3d8209b55f9f8aeb4a2083ecf36": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010656+00:00",
+    "source": "OpenAI News",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "title_norm": "expanding daybreak as the cyber defense window narrows"
   },
   "081d2afb18f35c00e64d8dc14042f5c7d23d8094a52c704692baa0d27531cf48": {
     "category": "research",
@@ -4870,6 +4894,14 @@
     "source": "Wired AI",
     "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
     "title_norm": "finding new drugs is laborious this ai startup is skipping the lab work"
+  },
+  "0acd63d06b18fcc33f72a5857c8af17a017844201feac38b9839adf74cc579d7": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011056+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?",
+    "title_norm": "qwen38flashnext have you tried swapping the ngrams as per their latest version"
   },
   "0acd80bf552d6b5e0bdab201c58508ce3d8d14e55e1a3660910e5b557fd9cc23": {
     "category": "research",
@@ -6542,6 +6574,14 @@
     "source": "arXiv cs.AI",
     "title": "PULSE: Personalized Opportunistic Learning for Wearable Devices",
     "title_norm": "pulse personalized opportunistic learning for wearable devices"
+  },
+  "0e82d8998833621ad9c9d4a868b3fa853ac8b7bff6ddfee6c0a999eed463befc": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010726+00:00",
+    "source": "OpenAI News",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "title_norm": "virgin atlantic sharpens customer journeys with chatgpt work"
   },
   "0e8b8c47eeb76ba03795e7c456b48a1326322ebf150a36b78a8b36bd9b1133cd": {
     "category": "research",
@@ -16103,6 +16143,14 @@
     "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
     "title_norm": "run a chatgptlike chatbot on a single gpu with rocm"
   },
+  "23bd1c39fda6e306d09728a37f7db40c1efb3e65dc486ab22baa4cfe3187a3fb": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010891+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Is ArtificialAnalysis biased against open weight models?",
+    "title_norm": "is artificialanalysis biased against open weight models"
+  },
   "23bd4ae49d88a2fef735aedb48dbecddd893bc334f4ce988d559a4915d0653c4": {
     "category": "research",
     "posted": false,
@@ -17399,6 +17447,14 @@
     "title": "EnergyCal: Taming Loss Spikes in Muon-Family Optimizers for Sparse MoE Training",
     "title_norm": "energycal taming loss spikes in muonfamily optimizers for sparse moe training"
   },
+  "2622a6b5538404d6d61911c2b7988550e3cbf76185039fd1f9b61ac84f21d2cf": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011473+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality",
+    "title_norm": "dialectic requirements and verifiable tests will drastically increase your models code output quality"
+  },
   "2626b1c0ee9974c32a76ac8b24b1a92da7e807eaf6c1a529c59af97ab91bed25": {
     "category": "research",
     "posted": false,
@@ -18391,6 +18447,14 @@
     "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
     "title_norm": "optimal correction sets for provable redress of contestable causal discovery"
   },
+  "2829e9620c2eccaf2c92e6576fc42ca668e96bee3add8d68d42a71e010e319dd": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011109+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "How to mess around with neurons... a short guide",
+    "title_norm": "how to mess around with neurons a short guide"
+  },
   "282d03fbbbdd15e7c5fa43363c575416ffaa63f8a351a4d805ec82d4ead2e0ff": {
     "category": "research",
     "posted": false,
@@ -19111,6 +19175,14 @@
     "title": "Multimodal Ambivalence and Hesitancy Recognition with Bidirectional Audio--Text Cross-Attention",
     "title_norm": "multimodal ambivalence and hesitancy recognition with bidirectional audiotext crossattention"
   },
+  "29b0e61ec6cd1ed38342bd3f0d233e41901ac8706bcd8411d89efe21c8f9b7d6": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010620+00:00",
+    "source": "OpenAI News",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "title_norm": "putting frontier cyber models in more trusted hands"
+  },
   "29b2238cb492f0339a04cac213ca9ead82150c4e1e49edde331eb7fe5bf9a87c": {
     "category": "research",
     "posted": false,
@@ -19438,6 +19510,14 @@
     "source": "arXiv cs.CL",
     "title": "ElectroChemLLM: A Multimodal LLM Pipeline for High-Fidelity Electrochemical Informatics",
     "title_norm": "electrochemllm a multimodal llm pipeline for highfidelity electrochemical informatics"
+  },
+  "2a5c0cad5d8b2f9d8e4a65a1f9a6b8a448a2a46b92e808a3d233f6af6db02405": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010761+00:00",
+    "source": "OpenAI News",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "title_norm": "premium seats are coming to chatgpt business"
   },
   "2a61ad98a80763bdeadbb82c38bc04fa2713601619e12b23eb1de32b8be5100a": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -23678,6 +23758,14 @@
     "source": "Cohere Blog (unofficial)",
     "title": "A comprehensive guide to reinforcement learning",
     "title_norm": "a comprehensive guide to reinforcement learning"
+  },
+  "333ccaae81484d3a4e17f3d07427086a4f15c586f13019420a43c3e347dda8d9": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010506+00:00",
+    "source": "OpenAI News",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "title_norm": "gpt6 astra the next generation in intelligence for work"
   },
   "33450739c50bc1d623bb86e5f07d31f662b010296ce2e451ee305b2cc702437d": {
     "category": "research",
@@ -30151,6 +30239,14 @@
     "title": "OpenAI\u2019s letter to Governor Newsom on harmonized regulation",
     "title_norm": "openais letter to governor newsom on harmonized regulation"
   },
+  "414ae9ca17c98144dd3c914498bcca61f63fcad53680ae2e054cd13385a336a1": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011162+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Omni Voice is the fastest and best voice clone TTS out there. I've tested them all.",
+    "title_norm": "omni voice is the fastest and best voice clone tts out there ive tested them all"
+  },
   "414f04fbc2cea7c0b8e97fb38be8f3c35cbbd6a05fa6d046f911bfc93978cfd7": {
     "category": "research",
     "posted": false,
@@ -33406,6 +33502,14 @@
     "source": "Hacker News Frontpage",
     "title": "Gemini Omni 1.2 Flash",
     "title_norm": "gemini omni 12 flash"
+  },
+  "485bd5b24a1b0e984382d173ef7c0a4ed68c80330aeab406d4e045b2f80bc797": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011273+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)",
+    "title_norm": "i made a 400m model for npc judgement calls in games apache20 01s on a 3060 ti"
   },
   "4862f3d2c68fb1ad680a585cc64e80bc967fc99b89a1e7fef84c985e61d958c6": {
     "category": "official_labs",
@@ -38463,6 +38567,14 @@
     "title": "Everything we announced at our first-ever LlamaCon",
     "title_norm": "everything we announced at our firstever llamacon"
   },
+  "5367cc95a8fd98172eb15540985f3472c41b6f393d6d65c9bf889b4f9238cbc1": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010579+00:00",
+    "source": "OpenAI News",
+    "title": "What building an AI-native finance function taught me",
+    "title_norm": "what building an ainative finance function taught me"
+  },
   "536f23cd94f139849c62e2753108d37e174f900ce6ec52ef90b6a207f9a80da1": {
     "category": "official_labs",
     "posted": false,
@@ -40151,6 +40263,14 @@
     "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
     "title_norm": "deepseek search and fetch 075 per 1000 successful requests"
   },
+  "56e9c0488e1f24f2ab9d0743587d23c2f80edc4ec6c8b94a72bbf55cce72a1c0": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011398+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Audio embeddings inference in C++/GGML with clap.cpp",
+    "title_norm": "audio embeddings inference in cggml with clapcpp"
+  },
   "56ed6f5b1a23b5b5c199b40841440614bfe0821861a8f0d1390a66f1cdb56f15": {
     "category": "community_signal",
     "posted": false,
@@ -40966,6 +41086,14 @@
     "source": "arXiv cs.AI",
     "title": "Cognitive Foundations for Reasoning and Their Manifestation in LLMs",
     "title_norm": "cognitive foundations for reasoning and their manifestation in llms"
+  },
+  "5890b1cfd4cc38aa3885e02e9fc3010d881da63d5d8b82ee82ae0ed7c4531d58": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010825+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "title_norm": "build lowlatency multilingual voice agents open weights full deployment control with nvidia magpie tts"
   },
   "5890d12f61d9b9355dd9663112ec16d47603672cf3fcbaea8742b0cbb5fe6688": {
     "category": "community_signal",
@@ -44327,6 +44455,14 @@
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "title_norm": "hp inc launches frontier strategic partnership with openai"
   },
+  "5f8b7f84e6096cc9e6482d2efa2c397ea09f794607c020d552a556656403fe64": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011246+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "ConceptCountry/qwen-concept-27b \u00b7 Hugging Face",
+    "title_norm": "conceptcountryqwenconcept27b hugging face"
+  },
   "5f9892d3258292c8bf9d1ef6c80ad4e9e5f37e7e467791d44a699be13b17dfe9": {
     "category": "community_signal",
     "posted": false,
@@ -46630,6 +46766,14 @@
     "source": "arXiv cs.AI",
     "title": "cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation",
     "title_norm": "cuarms gpuaccelerated conflictbased planning for multiarm manipulation"
+  },
+  "6476741ad7bd8e8e5ea0fb928bdcb77743ddeeb67c37e2872fd06e087ad2deef": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010691+00:00",
+    "source": "OpenAI News",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "title_norm": "how zapier transformed core marketing processes with chatgpt work"
   },
   "647ca4ca99cd5fca71d1eabe3baf9f3b60b0322d50642f6c26c55675727634ac": {
     "category": "research",
@@ -53343,6 +53487,14 @@
     "title": "When Does Better Confidence Improve a Knowledge-Graph Audit?",
     "title_norm": "when does better confidence improve a knowledgegraph audit"
   },
+  "733763a71073d205f75fd8c1af0a5959d8ef33afa2e32f222663a54ff749ae57": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011337+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+    "title_norm": "cudarocm dualbackends llm inference for mixedvendor gpus up to 48 faster"
+  },
   "7339e10bcdac8587fe3c6b85bcc298813041e0787be2490cc2014f7a52f1bcad": {
     "category": "official_labs",
     "posted": false,
@@ -53846,6 +53998,14 @@
     "source": "arXiv cs.AI",
     "title": "Faithful Explanations under Missing Modalities in Multimodal Dementia Prognosis",
     "title_norm": "faithful explanations under missing modalities in multimodal dementia prognosis"
+  },
+  "745b0d08761121f5d769976f77b9da5ec3c7e638fd4b65332fdab4d42b33819b": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010966+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+    "title_norm": "same prompt deepseek v41 flash vs qwen 38 fn 94 toks vs 350 toks"
   },
   "745cade4a69feb19eaa9ef3e7d4a05073d8664180e8109aba72cb781479040c2": {
     "category": "official_labs",
@@ -57287,6 +57447,14 @@
     "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
     "title_norm": "factorized hypothesis search for evidencetotaxonomy retrieval"
   },
+  "7bfe8065675893c6cd3c05d2d9444f7643729ce340cc8d0298c1e55126b0e9ec": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011086+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Qwen 3.8 FN getting stressed from messing up",
+    "title_norm": "qwen 38 fn getting stressed from messing up"
+  },
   "7c02b87d7e2ef9b0ef96c4ed2994cbce4c01d1cccb9df894ae7e3695229fb27f": {
     "category": "research",
     "posted": false,
@@ -58446,6 +58614,14 @@
     "source": "arXiv cs.AI",
     "title": "NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment",
     "title_norm": "novgauge a finegrained benchmark for diagnosing llms capability in paper novelty assessment"
+  },
+  "7e9572136b261aab4e38e8f28106af729104c4af641a00bee662ee89f7e08d3d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010941+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "More interesting and unusual Qwen3.5-4B neurons",
+    "title_norm": "more interesting and unusual qwen354b neurons"
   },
   "7e9f6ea02fca1b321ce5f82a956c17bcd7a4f23b50c8ae9beded621732d5c281": {
     "category": "research",
@@ -60975,6 +61151,14 @@
     "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
     "title_norm": "more rules longer lists benchmarking selfevolving agents on a hiddenrule curriculum"
   },
+  "840879697c3b4553ce57d3ba3199c0168c865e97acf93fe5d0abd787e5c49969": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011423+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
+    "title_norm": "i finetuned a 2b decision model to play doom on my mac in 43 minutes open source mlx"
+  },
   "840914614472367c08c2e0938844cfb958fde7cc213f355d37f73023f1c4f6d6": {
     "category": "research",
     "posted": false,
@@ -62134,6 +62318,14 @@
     "source": "arXiv cs.AI",
     "title": "DST-Net: Decomposed Spatio-Temporal Network for Time Series Forecasting",
     "title_norm": "dstnet decomposed spatiotemporal network for time series forecasting"
+  },
+  "86708699833d3a97966600b802e469ca582767ce90cf5e85b1122261eddb89ec": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010865+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Muse Ember: Our smallest, most efficient model",
+    "title_norm": "muse ember our smallest most efficient model"
   },
   "8673266567fad23139a854b7c8c43acd225458ba00e4248b3d51459eb20f9ff1": {
     "category": "research",
@@ -73071,6 +73263,14 @@
     "title": "Serbia just elected the world's brainiest parliament",
     "title_norm": "serbia just elected the worlds brainiest parliament"
   },
+  "9e935f97ab6cce775ba624f109c86a50c5e4dd56dc38e1b3f1de9f9b3c60054f": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011191+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
+    "title_norm": "these names are wild but i love themnew model davidau qwen3840bultimatehereticuncensoredturbobrilliance50xagineogguf"
+  },
   "9e9679bff96a53770d6d9151722ac70ca8bbf29f2485d543da0297a15af68fd2": {
     "category": "research",
     "posted": false,
@@ -77333,6 +77533,14 @@
     "source": "Cohere Blog (unofficial)",
     "title": "How To Train Your Pet LLM: Prompt Engineering",
     "title_norm": "how to train your pet llm prompt engineering"
+  },
+  "a7c183de5112de4747c23486d7487a321f4ddb9d54d97fdfcde71054c47a0d6e": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010405+00:00",
+    "source": "OpenAI News",
+    "title": "The AI policy window is open. We need to act.",
+    "title_norm": "the ai policy window is open we need to act"
   },
   "a7caf59272b369ac7ff0cfefdfd2255d384ea4e8763e7be163a865bb206f8bf7": {
     "category": "research",
@@ -83198,6 +83406,14 @@
     "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
     "title_norm": "amazons antitokenmaxxing memo says engineers should be pickier about using ai"
   },
+  "b4e61923b251b7ac87b29da8ce709a1648ba85bfea49b7829c852baf9fd7d138": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011134+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
+    "title_norm": "multiverse computings comet 60b a12b ggufs with the mtp head"
+  },
   "b4e6733b0dd9869e90f1c49d1033096d3ba6db94dc08092009ca50be3da013c2": {
     "category": "research",
     "posted": false,
@@ -85774,6 +85990,14 @@
     "title": "From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2",
     "title_norm": "from training exposure to membership evidence a controlled study of olmo 2"
   },
+  "ba4d2b05d53c871c28378733719b8bd69c8c90c4a6c7322e8e41bbb85171dbf8": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010997+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "From the finest minds of our age to the dumbest monkeys on the planet",
+    "title_norm": "from the finest minds of our age to the dumbest monkeys on the planet"
+  },
   "ba4da06dd51d3d5c5402a079a61741727a14d31826968a96edfd4ee5f8aa3900": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -87925,6 +88149,14 @@
     "source": "arXiv cs.AI",
     "title": "The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls",
     "title_norm": "the reliance hypothesis chainofthought faithfulness rises as language resource level falls"
+  },
+  "be412c3c78f9db409c1c1c1229b4e6f77f9a0e846a57f41c0820df11c0b857b5": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011306+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Unpopular opinion: LLMs without thinking are useless for agentic work because they can't follow instructions",
+    "title_norm": "unpopular opinion llms without thinking are useless for agentic work because they cant follow instructions"
   },
   "be45563be2308845bee024a8298f315552eb7a22588e0bca411abae55d60053b": {
     "category": "community_signal",
@@ -102750,6 +102982,14 @@
     "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
     "title_norm": "codequant2 enhanced outlier mitigation and adaptive clustering for lowprecision lrms"
   },
+  "de33db3cfa888f260b4825152e1c93ad107fafbf5603081c177dfa0ea4326527": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011366+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs",
+    "title_norm": "prediction more enthusiasts will get custom quantisations build by opus and asta for their hardware and precision needs"
+  },
   "de3503476385d6960ddb3fac10d626f8c36661a5c1f6aa8435213b9f98626d08": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -107142,6 +107382,14 @@
     "title": "Dolly Parton's Imagination Library",
     "title_norm": "dolly partons imagination library"
   },
+  "e7fe3a9cc251c8f48e97bc1d42a5719f0d0942d166f493fa1ffa4c9c3e160c76": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.010918+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Got another good reminder why local matters today",
+    "title_norm": "got another good reminder why local matters today"
+  },
   "e802dff447713bdacf984d13237406524a43d9114951820e989d7ab3e1f08d87": {
     "category": "community_signal",
     "posted": false,
@@ -107605,6 +107853,14 @@
     "source": "arXiv cs.AI",
     "title": "MuQ-Eval: An Open-Source Per-Sample Quality Metric for AI Music Generation Evaluation",
     "title_norm": "muqeval an opensource persample quality metric for ai music generation evaluation"
+  },
+  "e8fa0c126a20c0da2578b5d82a382760a4ca87bf3bc1aa0fe1254ef88aadfe09": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-10T07:23:09.011024+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+    "title_norm": "muse ember zuck promised to open source muse spark 12 but continues to release to more closed models"
   },
   "e8fbd857a8b6b0ff954ad3e75e49798e7f2c1786eab173af672f7bbe77673372": {
     "category": "tech_news",
