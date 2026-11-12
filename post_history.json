@@ -13975,6 +13975,14 @@
     "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
     "title_norm": "openais isolated ai agents found ways to talk to each other through cpu cache"
   },
+  "1dc99b611b2499a3b88164db8987de9abe06ce048ee9d7f334432d8aa41fb6b9": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566265+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "title_norm": "developing gemini 4 argon responsibly and safely"
+  },
   "1dcbe1dc4097af7ed488b9e772a0481032a4d40bf01d2b9ee8b75a317203d40d": {
     "category": "official_labs",
     "posted": false,
@@ -25614,6 +25622,14 @@
     "source": "arXiv cs.AI",
     "title": "VLMProbe: An Open-source Library for VLM Probing and Interpretation",
     "title_norm": "vlmprobe an opensource library for vlm probing and interpretation"
+  },
+  "353217afc4f706b5339de407629065a4820f98bc0f70c28c174d08c10ec6ab52": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566395+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "title_norm": "record train and deploy from one place with strands agents lerobot and hugging face storage buckets"
   },
   "3532ab5b92af49473e6766fc3181cd6115ec49c6f0b9980accad1d1effd1d56a": {
     "category": "research",
@@ -37559,6 +37575,14 @@
     "title": "Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning",
     "title_norm": "hear no evil detecting gradient leakage by malicious servers in federated learning"
   },
+  "4e31b829ae6885914a657352bbac8811fbc1f8727398eacb2a4f78ce30e284bb": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566315+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "title_norm": "gemini 4 argon built to solve your hardest problems"
+  },
   "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134": {
     "category": "official_labs",
     "posted": false,
@@ -39943,6 +39967,14 @@
     "title": "Seems weight space programming is an emergent capability on new fronteir models",
     "title_norm": "seems weight space programming is an emergent capability on new fronteir models"
   },
+  "53911f98c21c784fce1ad32ff03581a81f8dabebaf6d23b86827f6c51a0cda80": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566366+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "title_norm": "run fast private agents ondevice with lfm2524ba2b"
+  },
   "5391dd65c2ff8205afecd539714bb5b68df8107d10e404c5e9b927b48fdd58e9": {
     "category": "research",
     "posted": false,
@@ -41255,6 +41287,14 @@
     "title": "UCVE: Graph Structured Retrieval for Compliance Validation",
     "title_norm": "ucve graph structured retrieval for compliance validation"
   },
+  "55fbf1e051939662c797eccdde9760d0d7ff95683042fd47878e22c1dc25e640": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566482+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Keenable 1.0: Search at the Speed of AI",
+    "title_norm": "keenable 10 search at the speed of ai"
+  },
   "55fd80c808408e709dab204528ca1727ed2ea1d0c2dac8d6a777d8b9a964ccbc": {
     "category": "research",
     "posted": false,
@@ -42326,6 +42366,14 @@
     "source": "arXiv cs.AI",
     "title": "Are You Sure Your LLM Is Sure? Repairing and Auditing Confidence",
     "title_norm": "are you sure your llm is sure repairing and auditing confidence"
+  },
+  "57f8b7f378e9c39afee2b695124e64c9f4d434320943b412f6cfb54e9fb0229e": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566430+00:00",
+    "source": "Hugging Face Blog",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "title_norm": "what we learned by reproducing 2200 papers from icml"
   },
   "57fd8230f85db521613aa2b69a701ebff6aa2a5bb22789697e81af6a73deb738": {
     "category": "community_signal",
@@ -49495,6 +49543,14 @@
     "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
     "title_norm": "moderna and merck say their mrna cancer vaccine cut death recurrence by 42"
   },
+  "66d7924dfe8cf47061566dd084803e50d996123a6b921bfb5242bf519cc779b6": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566511+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "MoE and expert offloading on llama, exllamav3, strata on 9070XT",
+    "title_norm": "moe and expert offloading on llama exllamav3 strata on 9070xt"
+  },
   "66e5f8f34cffa75c96d0f269125c69f82b7132c4ae39c4f1c06a93a431985110": {
     "category": "official_labs",
     "posted": false,
@@ -53415,6 +53471,14 @@
     "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
     "title_norm": "rubricem metarl with rubricguided policy decomposition beyond verifiable rewards"
   },
+  "6eaab463a55def8752bc46f2c536b71667c705dda0554f0b21cc44218f91b669": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566237+00:00",
+    "source": "OpenAI News",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "title_norm": "openai appoints dali rajic as chief revenue officer"
+  },
   "6ead0cea19641e2a8ab7d158d7082ec37b429f9c02386f136c2c252acec4e0ec": {
     "category": "community_signal",
     "posted": false,
@@ -53742,6 +53806,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI Hallucination Google Trends",
     "title_norm": "ai hallucination google trends"
+  },
+  "6f8368ac763b73731923fdf243c388a7d207e8e71307ee44061b49625d794f6b": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566176+00:00",
+    "source": "OpenAI News",
+    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "title_norm": "the builders guide to gpt56"
   },
   "6f87092a646730c1db1418526891b9c9c057add0376f374d69761f508b960658": {
     "category": "official_labs",
@@ -60390,6 +60462,14 @@
     "source": "Ars Technica AI",
     "title": "Google DeepMind just mathematically verified key parts of Signal",
     "title_norm": "google deepmind just mathematically verified key parts of signal"
+  },
+  "7dba63c1720126ef27226db3de5e115740f0cb8cd0adabfa3ec686cd31ea5c5f": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566495+00:00",
+    "source": "Reddit r/LocalLLaMA",
+    "title": "New Model \"Ernie 5.5 Flash Preview\" hits strongly at a low parameter count (280B, 14B Active)",
+    "title_norm": "new model ernie 55 flash preview hits strongly at a low parameter count 280b 14b active"
   },
   "7dbc2543e7cc5a5526e8cd3111bc7690db011aa0a3fc9990fdc13aad51b71bdc": {
     "category": "research",
@@ -67902,6 +67982,14 @@
     "source": "The Verge AI",
     "title": "The NYT Cooking app is testing AI recipe modifications",
     "title_norm": "the nyt cooking app is testing ai recipe modifications"
+  },
+  "8d45898e533e591d4241f4c1821bbb7b4d6f05ca764b796c7fbe29eb68dd7bc4": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566139+00:00",
+    "source": "OpenAI News",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "title_norm": "higgsfield takes ai video from 1 minute to over 10"
   },
   "8d4cb3a6c8f7024a414304666b6b0207ede830e2c5a1216621079a7f62177c2c": {
     "category": "research",
@@ -79013,6 +79101,14 @@
     "source": "Hacker News AI keyword",
     "title": "Harms of the Generative AI",
     "title_norm": "harms of the generative ai"
+  },
+  "a491aa90d650ab2bf91e0a7d38a72e157edfbef974240c627de775007f1696bc": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566050+00:00",
+    "source": "OpenAI News",
+    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+    "title_norm": "how amplitude ships product improvements in 12 days with openai"
   },
   "a4978faa7e166cdb12b818c5397aad221fe34e5d74e2dc0c479fe886ef474c07": {
     "category": "community_signal",
@@ -92582,6 +92678,14 @@
     "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
     "title_norm": "wikipedias operator says a bad ai copyright ruling could threaten the open web"
   },
+  "c0986f6628d189a1ac370992d714e2906f134950b6ed170922abe5ac2caf0e49": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566208+00:00",
+    "source": "OpenAI News",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "title_norm": "previewing ultrafast mode gpt56 sol at up to 14x the speed"
+  },
   "c09a935a3f16e32cb31bcaacb749a38c503da0f2562fb46b58ab7882a8590366": {
     "category": "community_signal",
     "posted": false,
@@ -103846,6 +103950,14 @@
     "title": "Judging Before Propagation: Task-Graph Contextual Integrity for Multi-Agent Privacy",
     "title_norm": "judging before propagation taskgraph contextual integrity for multiagent privacy"
   },
+  "d8531b3bebbaf6641750e3efb410170dc9d4eacb196bd3e1d8ae895c0bc27335": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566342+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "Introducing Gemini 3.7 Flash",
+    "title_norm": "introducing gemini 37 flash"
+  },
   "d857ba5874c1d423566f3dacffbc6651c2c7c9ff5168d050840d113ccd09827e": {
     "category": "research",
     "posted": false,
@@ -104430,6 +104542,14 @@
     "title": "Invariant Discovery for Networked Systems",
     "title_norm": "invariant discovery for networked systems"
   },
+  "d96a2391b623b2cb26cccc9034a5b5415f5ab7d9111c82be0f5983c8615db4d0": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566291+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "title_norm": "gemini 4 argon for robotics"
+  },
   "d96d74e4eea849e4a58b58db37c037f8657e5c93d9adeff89a002c7595aea75f": {
     "category": "community_signal",
     "posted": false,
@@ -104949,6 +105069,14 @@
     "source": "arXiv cs.AI",
     "title": "Autonomous Optimization of Numerical Algorithms by an AI Agent: Application to Atomistic Simulation",
     "title_norm": "autonomous optimization of numerical algorithms by an ai agent application to atomistic simulation"
+  },
+  "da6d776cd06e63d8217fcd030b92c339cc135825e0748dee80967601e4bcab15": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566465+00:00",
+    "source": "Wired AI",
+    "title": "Jensen Huang Didn\u2019t Name His Own Replacement as One of Tech\u2019s Most Powerful Women",
+    "title_norm": "jensen huang didnt name his own replacement as one of techs most powerful women"
   },
   "da76362e586b5404fcee244a7d63e5359b36361c4dd1612aca48360fde353244": {
     "category": "research",
@@ -110909,6 +111037,14 @@
     "source": "Hacker News AI keyword",
     "title": "SUSE Laying Off 10% of Its Workforce Due to AI and Automation",
     "title_norm": "suse laying off 10 of its workforce due to ai and automation"
+  },
+  "e699e9bae2542438eaf0937ed9f9262ef036409fde057bc12668a6d35e36efae": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-12T20:36:59.566449+00:00",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "title_norm": "jensen huang was having a third affair reuters reports"
   },
   "e69b32bde93cda6293869130d851393183869ad728e8d67ab67b2acda0da1a8e": {
     "category": "community_signal",
