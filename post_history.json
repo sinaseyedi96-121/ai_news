@@ -199,6 +199,14 @@
     "title": "QUAL: Quantile Alignment Improves Zero-Shot Time-Series Foundation Models",
     "title_norm": "qual quantile alignment improves zeroshot timeseries foundation models"
   },
+  "004cd593adabcd24c97d9e96a166c251028359017ae1a6a5fbaa8f542a33706f": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144401+00:00",
+    "source": "OpenAI News",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "title_norm": "sentinelone cuts malware analysis from weeks to hours"
+  },
   "0052db55dfd78e7be0548aebefbe94737e380d974218b26ddca0c0870938fa94": {
     "category": "official_labs",
     "posted": false,
@@ -4390,6 +4398,14 @@
     "source": "arXiv cs.AI",
     "title": "Secure Formal Raising: Protecting the Development of AI through Executable Properties",
     "title_norm": "secure formal raising protecting the development of ai through executable properties"
+  },
+  "094807ea04cf59e2f47563d463c48334d2976dc178bae6c52576e0d1bfd80248": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144512+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+    "title_norm": "microsoft outage gives customers a crash course in dependence on redmond"
   },
   "094e75574f6bdf4f0803ef8c5a146293165913fbbd154e9eeb32264e51d0cb87": {
     "category": "community_signal",
@@ -20262,6 +20278,14 @@
     "source": "arXiv cs.CL",
     "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
     "title_norm": "detect before you disambiguate perturbationbased input ambiguity detection in llms"
+  },
+  "2a2a1ba43b526aa1467135d2679f04bb0e61ba19d0c11edd9f2dad532bc1f22a": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144523+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI escapes from containers faster than me \u2013 so what?",
+    "title_norm": "ai escapes from containers faster than me so what"
   },
   "2a2d1ea92447e7230bdcc99554a7ebb65bacfcf42c104dcfe4f8e22335c8d1e0": {
     "category": "research",
@@ -42415,6 +42439,14 @@
     "title": "Whatever happened to TurboQuant?",
     "title_norm": "whatever happened to turboquant"
   },
+  "57c3309db5bedcdec4e0532a65e896970f7cad30f5011350fb2a735b14cb8cdd": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144324+00:00",
+    "source": "OpenAI News",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "title_norm": "amp puts ai agents to work beyond code with openai models"
+  },
   "57c925af8fea231c00fdd00e50fef19bb34ff2da1a3881100fb964a390b61015": {
     "category": "research",
     "posted": false,
@@ -61615,6 +61647,14 @@
     "title": "Maine\u2019s data center revolt will decide who controls the Senate",
     "title_norm": "maines data center revolt will decide who controls the senate"
   },
+  "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144424+00:00",
+    "source": "OpenAI News",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "title_norm": "how fyxer built an ai executive assistant people trust"
+  },
   "7f834061e35eea46e0f4a75710d5d9283535401abecfb4808f9cbf17fb4216c3": {
     "category": "research",
     "posted": false,
@@ -64302,6 +64342,14 @@
     "source": "OpenAI News",
     "title": "Collective alignment: public input on our Model Spec",
     "title_norm": "collective alignment public input on our model spec"
+  },
+  "85052f9befba2c4e17fa41a5b103c0c0ae8459b0b1c3561b24bc565188ff9e10": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144442+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "title_norm": "async grpo with lora across hf jobs a bucket a proxy and no nccl"
   },
   "85094eb209ca92975d43973514c028f440f7b4d4aa98eec2b355a8ba1be33bc5": {
     "category": "research",
@@ -67142,6 +67190,14 @@
     "source": "Hacker News AI keyword",
     "title": "Using AI to write a Wine-like layer for running macOS apps on Linux",
     "title_norm": "using ai to write a winelike layer for running macos apps on linux"
+  },
+  "8ab0b4cf7204cea0b8aae68bad1aec9a75557d57a92f9fdfd8d703026e530169": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144474+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Someone's Impersonating This Blog",
+    "title_norm": "someones impersonating this blog"
   },
   "8ab3f9bd1feb86d566ff04464476449da764db2fa25fa07e934dd9013e3f826f": {
     "category": "community_signal",
@@ -76767,6 +76823,14 @@
     "title": "FormInv: A Measurement Protocol for Semantic Invariance in Mathematical Reasoning Benchmarks",
     "title_norm": "forminv a measurement protocol for semantic invariance in mathematical reasoning benchmarks"
   },
+  "9f740ea2709545794cea9039f9f2f94e93bf3f98f24227dc96c0f77a6236d3e3": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144487+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "Found: A protein that drives ageing without unleashing inflammation",
+    "title_norm": "found a protein that drives ageing without unleashing inflammation"
+  },
   "9f77cba9ee6117f00669a5aca423ed41d169aa1b21a6a022b5050931d8f3d0eb": {
     "category": "research",
     "posted": false,
@@ -83565,6 +83629,14 @@
     "source": "Hacker News AI keyword",
     "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
     "title_norm": "brave sells its search index to ai and your website is probably in it"
+  },
+  "ad577cc4d385593cb7c01bf987f497d37cde5b45e9e2ed8312c055180c24ff3e": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144461+00:00",
+    "source": "Anthropic News (unofficial mirror)",
+    "title": "Preparing for the 2026 US midterms",
+    "title_norm": "preparing for the 2026 us midterms"
   },
   "ad59926492e5c47e0f8532c48ee41ec777192ab3b6201d4cf18ba2ab65ffcd18": {
     "category": "research",
@@ -116109,6 +116181,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "need you opinion on avx2 vs avx512",
     "title_norm": "need you opinion on avx2 vs avx512"
+  },
+  "f0b640ae51573bd157abcf395f92783e13df6ef66e887daae1695b10c3e2f2e9": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-13T20:22:42.144500+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "title_norm": "114m in nvidia hardware vanishes during shipment from ca to tx"
   },
   "f0b7a01ce9aed711a23a0e94cbfdd27df4b0916c12282e82a4f4303ff9c5a03b": {
     "category": "research",
