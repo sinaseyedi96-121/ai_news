@@ -19223,6 +19223,14 @@
     "title": "How Endava builds an agentic organization with Codex",
     "title_norm": "how endava builds an agentic organization with codex"
   },
+  "2aae90d5ea61fe81db807aef9b725c1a6c5958e5a0ecf609424a3fb835db5b7d": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836508+00:00",
+    "source": "Cohere Blog (unofficial)",
+    "title": "AI for utilities requires capability and control",
+    "title_norm": "ai for utilities requires capability and control"
+  },
   "2ac023fe2b68178d7da6b60248c31ff6c383b871b4a71e16218d4a8766cd548e": {
     "category": "research",
     "posted": false,
@@ -21775,6 +21783,14 @@
     "title": "AI Artifacts: An interview with Ruben Fro and Benjamin Bardou",
     "title_norm": "ai artifacts an interview with ruben fro and benjamin bardou"
   },
+  "30675e872d93fd1966664b4b91eebb4961c32008977191f8a108dea03fb61471": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836523+00:00",
+    "source": "Cohere Blog (unofficial)",
+    "title": "Agent sprawl: How to manage agent proliferation in the enterprise",
+    "title_norm": "agent sprawl how to manage agent proliferation in the enterprise"
+  },
   "306bc5a7444b9f6d026d83cec2c580ca9db4659de210ebd914983f1c06b3fc00": {
     "category": "official_labs",
     "posted": false,
@@ -23294,6 +23310,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "chinese hardware",
     "title_norm": "chinese hardware"
+  },
+  "33886b5fc6cc22adf456faf74c75262e14ff4a44ca1d34da74185e9ceede7021": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836560+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+    "title_norm": "wojakbench 3d which ai is best at 3d printing"
   },
   "338aa18944ca445de19b8f023fa777e449711ef7ddf22864d4411fe87625c880": {
     "category": "community_signal",
@@ -26886,6 +26910,14 @@
     "source": "arXiv cs.AI",
     "title": "DealsFlow: An Evidence-Gated Agentic Harness for Venture Capital Deal Triage",
     "title_norm": "dealsflow an evidencegated agentic harness for venture capital deal triage"
+  },
+  "3b88e631408680364ea9a152f6e9efd2ecc78ea8cf4125966179efcad826634d": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836392+00:00",
+    "source": "Google DeepMind Blog",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "title_norm": "accelerating the search for antimicrobial peptides with google antigravity"
   },
   "3b89614b2a7af4e25cf59d34f42926197ce9e465ae0d7c037265cf254665d59c": {
     "category": "research",
@@ -40286,6 +40318,14 @@
     "source": "arXiv cs.AI",
     "title": "PromptSense: Sentiment-Aware Mental Health Chatbot with Dynamic Prompting",
     "title_norm": "promptsense sentimentaware mental health chatbot with dynamic prompting"
+  },
+  "58deb18717b4d0fce44fbbd42dbb978468ffe6419cf6a55aada2fc3f4b838969": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836536+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "The 'europoors' rants reflect an American insecurity",
+    "title_norm": "the europoors rants reflect an american insecurity"
   },
   "58e556911c12094fe1b93dec87076a7ffda4178725c808c75553beaef01c990e": {
     "category": "research",
@@ -73934,6 +73974,14 @@
     "title": "CAMEL: Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Retinal Foundation Models",
     "title_norm": "camel crossarchitecture masked embedding learning for ultralightweight retinal foundation models"
   },
+  "a337e14be4d0e069d646282ea605533134fa9c6a91a30c0fd690bca49e2e0453": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836548+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "WhatWeRun, a database of real production AI agent stacks",
+    "title_norm": "whatwerun a database of real production ai agent stacks"
+  },
   "a33f20cc107915a7e88b407105de7c1f6c101746e073aa22791cd17003218da9": {
     "category": "official_labs",
     "posted": false,
@@ -88869,6 +88917,14 @@
     "source": "arXiv cs.CL",
     "title": "They Know Where It Is, But Not What It Says: A Bilingual Hallucination Benchmark of Hadith Recall in Open LLMs",
     "title_norm": "they know where it is but not what it says a bilingual hallucination benchmark of hadith recall in open llms"
+  },
+  "c3f9aa1e97f35f2465d0af14f3b196ebc11ad7498a8811b869b071034882ea93": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836493+00:00",
+    "source": "Anthropic News (unofficial mirror)",
+    "title": "An update on independent evaluators",
+    "title_norm": "an update on independent evaluators"
   },
   "c3fa6b6a983077561348d3dd6c5ad83f26dbe8cce9ec99204f1c31392a5daa09": {
     "category": "tech_news",
@@ -115253,6 +115309,14 @@
     "source": "Hugging Face Blog",
     "title": "Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages",
     "title_norm": "falcon 2 an 11b parameter pretrained language model and vlm trained on over 5000b tokens and 11 languages"
+  },
+  "ff0cf28c5d7530571030bbc53285abf8be3ed6fb11c617ba5f382a8208219854": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-14T19:50:01.836468+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "title_norm": "welcome muse spark open openweight frontier multimodal mixtureofexperts model from meta"
   },
   "ff19993f03e86fcae819670a1d8cddb1544df5b92429ba9e81ef99872ae2ede3": {
     "category": "official_labs",
