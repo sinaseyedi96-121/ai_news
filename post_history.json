@@ -71411,7 +71411,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-16-10"
+    "last_slot": "2026-11-16-12"
   },
   "_queue": [],
   "a008a0bb5a2e614ee9e3c538201db0daba37494cf3ab72c02c105f06a63405a9": {
@@ -109909,6 +109909,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
     "title_norm": "tts bench 91 open tts models and 28 paid tts apis on the same prompts"
+  },
+  "f6f110911c6baac10e04db0cef2ef56730b353e8ce961a6f80dd4035c469cacc": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-16T11:13:21.101096+00:00",
+    "source": "Wired AI",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "title_norm": "nvidia was already in trouble before the jensen huang mess"
   },
   "f6f500a7857117f4dbb13965c2723eba328fcd3edba8893e6d9907fa78b00d43": {
     "category": "official_labs",
