@@ -2223,6 +2223,14 @@
     "title": "Announcing the OpenAI Safety Fellowship",
     "title_norm": "announcing the openai safety fellowship"
   },
+  "047ec83c094a0f40002d072757dfadc41defa1dbb28a266cba0bfccff6a7865e": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880169+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+    "title_norm": "uk government forced to admit it issued apple a secret encryption order"
+  },
   "04848ed862874085b9fe7daebaa3e3e2177e7cdc0b26fe6752c00157fbc37350": {
     "category": "official_labs",
     "posted": false,
@@ -18951,6 +18959,14 @@
     "title": "Introducing Chat with Retrieval-Augmented Generation (RAG)",
     "title_norm": "introducing chat with retrievalaugmented generation rag"
   },
+  "294f494c3d9f12c9110786f29265e22a04963e7329c35552a7c93f435d58d4fc": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880137+00:00",
+    "source": "The Verge AI",
+    "title": "Anthropic starts trading on Wall Street",
+    "title_norm": "anthropic starts trading on wall street"
+  },
   "294fb9e9ef57b1806924dcf28ea2981501ab6504b8db6d613a39bdf50422fb9a": {
     "category": "research",
     "posted": false,
@@ -26159,6 +26175,14 @@
     "title": "Has anyone used tensortorrent?",
     "title_norm": "has anyone used tensortorrent"
   },
+  "388b2fb2341adcac1d16be59cb29c0dbdef2667ab36764edeec788632345441d": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880180+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Discovery: Fail-closed authority checks for AI agent tool calls (v1.0-v1.1.8)",
+    "title_norm": "discovery failclosed authority checks for ai agent tool calls v10v118"
+  },
   "388f3c12da84e0d334fdd8b1e0f7f95bda7abedbbf6658344b87e85a7ffc6414": {
     "category": "research",
     "posted": false,
@@ -28798,6 +28822,14 @@
     "source": "Hacker News AI keyword",
     "title": "What AI progress teaches us about human psychology",
     "title_norm": "what ai progress teaches us about human psychology"
+  },
+  "3e35d01c88b452b0a7bbf7c6178233102f437a5781375afb8b438ae4dfb333e1": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880192+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Chrome AI Features Wasting Much Bandwidth",
+    "title_norm": "chrome ai features wasting much bandwidth"
   },
   "3e369d6208050bf3e957875890e878976259816a075cb5a3e9303fbc07de792a": {
     "category": "community_signal",
@@ -39926,6 +39958,14 @@
     "source": "arXiv cs.CL",
     "title": "Sanity Checks for Attention Surgery: Null Models and Matched Interventions for Representation-Motivated Design",
     "title_norm": "sanity checks for attention surgery null models and matched interventions for representationmotivated design"
+  },
+  "56f5de5b11aedbd46f31109b7a721e222ffc2dbd0458613fd57107082f051db8": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880114+00:00",
+    "source": "TechCrunch AI",
+    "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+    "title_norm": "anthropic hits nasdaq exchanges at 111 33 percent above ipo price"
   },
   "56f98972a32ef5f338126c694d4df39760b6823f86f29a18453e921254457c31": {
     "category": "community_signal",
@@ -73275,7 +73315,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-19-16"
+    "last_slot": "2026-11-19-18"
   },
   "_queue": [],
   "a008a0bb5a2e614ee9e3c538201db0daba37494cf3ab72c02c105f06a63405a9": {
@@ -73333,6 +73373,14 @@
     "source": "OpenAI News",
     "title": "First look at GPT-5",
     "title_norm": "first look at gpt5"
+  },
+  "a01e91531918f8e754a91e257c403aff661e33a391f2cfea25cf5f1632b1c95d": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880052+00:00",
+    "source": "TechCrunch AI",
+    "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+    "title_norm": "former alibaba execs everful raises 485m to connect retailers with chinese factories"
   },
   "a0243e3626ac649675869afc1629aacaaadf94fe1b3586e1ee1aa933306e69a0": {
     "category": "tech_news",
@@ -77677,6 +77725,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Tried to get Qwen 3.8 27b to make the deepseek chibi whale in blender and animate it lol",
     "title_norm": "tried to get qwen 38 27b to make the deepseek chibi whale in blender and animate it lol"
+  },
+  "a9933de7f7b7b312069a468a08c2a6dd5f5e8ec4ae37a88ef8ec11b6261118ac": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880152+00:00",
+    "source": "Wired AI",
+    "title": "Google Built a Giant \u2018Mirror Dimension\u2019 Internet to Test Its Chrome AI Agents",
+    "title_norm": "google built a giant mirror dimension internet to test its chrome ai agents"
   },
   "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f": {
     "category": "official_labs",
@@ -87534,6 +87590,14 @@
     "title": "Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies",
     "title_norm": "explainable multimodal ai approach to reduce unnecessary breast biopsies"
   },
+  "bea6a1cfa6f9bbc7308562155b53bc1a1ae2e586f4f11bf92b6c17074749acc7": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880212+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "The54 \u2013 Europe Cannot Sleep Through the AI Revolution",
+    "title_norm": "the54 europe cannot sleep through the ai revolution"
+  },
   "beb056c7d9f9924860cd72272b9db2772b336d2466b5054310101bbfa88910ac": {
     "category": "community_signal",
     "posted": false,
@@ -93358,6 +93422,14 @@
     "title": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
     "title_norm": "old xeon x99 pc with 256gb ram rtx 3090 ti worth it for strata llm inference"
   },
+  "cb3cd586e997a629ff655c1a5e406f99b86e6cb2cc81edad47949aa0713467c5": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880233+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Show HN: AgentMall \u2013 Let your AI agent buy groceries",
+    "title_norm": "show hn agentmall let your ai agent buy groceries"
+  },
   "cb3f1b9a4adfde88d99fadf3d48544f592b4d8a9e2f38e72218cdc8ffa7a8d09": {
     "category": "research",
     "posted": false,
@@ -94341,6 +94413,14 @@
     "source": "Hugging Face Blog",
     "title": "Converting Vertex-Colored Meshes to Textured Meshes",
     "title_norm": "converting vertexcolored meshes to textured meshes"
+  },
+  "cd759e6684ea23fc765cc4498c4ac649653c78ca7e9b1c1814297643d20bd0fc": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880223+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Did the attack work? Auditing AI-agent security benchmark verdicts",
+    "title_norm": "did the attack work auditing aiagent security benchmark verdicts"
   },
   "cd7f3f1a25c7a370efbf92d08fb5342cb9ec9db38ff5e34b2f9b0ac6cd8902d5": {
     "category": "research",
@@ -116925,6 +117005,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
     "title_norm": "introducing agentsjs give tools to your llms using javascript"
+  },
+  "ff772f090165aaaeca613b84b35c8eecfec2825b92d80c8b026ec4f9330c4dbb": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-19T17:10:31.880202+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+    "title_norm": "three breaches endless leaks your ai supply chain needs canaries"
   },
   "ff7833693fa2a06713dc923ab6354b82d0a99faf362cef1531beb712e1bb1855": {
     "category": "official_labs",
