@@ -71635,7 +71635,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-21-12"
+    "last_slot": "2026-11-21-14"
   },
   "_queue": [],
   "a00100ca2b78e7c7b8e696ef9b200e1e752b777ba26012e3020aad5c0153ca46": {
@@ -72013,6 +72013,14 @@
     "source": "Hacker News AI keyword",
     "title": "'Anthropic was supposed to save the AI trade. What went wrong?' \u2013 CNBC",
     "title_norm": "anthropic was supposed to save the ai trade what went wrong cnbc"
+  },
+  "a0ab65cb5afa735d7d379cb5361c9e36da062a2a68218616e4ae17e92b5c5304": {
+    "category": "tech_news",
+    "posted": false,
+    "seen_at": "2026-11-21T13:10:17.874256+00:00",
+    "source": "Wired AI",
+    "title": "The Outages Are Just Getting Started",
+    "title_norm": "the outages are just getting started"
   },
   "a0ae1c798c5566af1c3e02dc08932925ebcf8ef6e3be30595a4d8761556d07ba": {
     "category": "research",
@@ -107925,6 +107933,14 @@
     "source": "arXiv cs.AI",
     "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
     "title_norm": "thinkworld world imagination reinforces chainofdynamics reasoning"
+  },
+  "f123538552205ed6a7f0233334a70ad1c73eb53949928fd8eece071af7b397a2": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-21T13:10:17.874327+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "Allianz Warns AI Insurance Losses Are \"Tip of the Iceberg\"",
+    "title_norm": "allianz warns ai insurance losses are tip of the iceberg"
   },
   "f12f711a10d47f1d966216cb7ac7b533d8722da5c82bf2a446b1f6bf4426b243": {
     "category": "research",
