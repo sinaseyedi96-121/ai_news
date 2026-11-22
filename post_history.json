@@ -69410,8 +69410,8 @@
   "_digest_state": {
     "daily_digest_date": "2026-11-21",
     "daily_digest_date_fa": "2026-11-21",
-    "weekly_digest_date": "2026-11-15",
-    "weekly_digest_date_fa": "2026-11-15"
+    "weekly_digest_date": "2026-11-22",
+    "weekly_digest_date_fa": "2026-11-22"
   },
   "_meta": {
     "date": "2026-11-22",
@@ -69419,7 +69419,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-22-18"
+    "last_slot": "2026-11-22-20"
   },
   "_queue": [],
   "a00100ca2b78e7c7b8e696ef9b200e1e752b777ba26012e3020aad5c0153ca46": {
@@ -82469,6 +82469,14 @@
     "source": "arXiv cs.AI",
     "title": "Connectivity-Aware Client Selection in Decentralized Federated Learning",
     "title_norm": "connectivityaware client selection in decentralized federated learning"
+  },
+  "bd73616c9a7e67854492bdeafebba6d04317e21c39a95c1e217ed22963659075": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-22T19:09:24.571767+00:00",
+    "source": "Hacker News AI keyword",
+    "title": "AI and hiring: bad for employees, bad for employers",
+    "title_norm": "ai and hiring bad for employees bad for employers"
   },
   "bd736a959b6d6995d6a2a365d9e0d78315ac466f672958cfa9d706f60f0027f3": {
     "category": "research",
