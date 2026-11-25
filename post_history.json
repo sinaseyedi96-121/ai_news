@@ -439,6 +439,14 @@
     "title": "AI agents attempted exploits on Epoch AI's website during an alignment eval",
     "title_norm": "ai agents attempted exploits on epoch ais website during an alignment eval"
   },
+  "00d3db5c989a663a4552057f272517054d4f6b888d143f6f218bffb236c4bb36": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235570+00:00",
+    "source": "arXiv cs.CL",
+    "title": "UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding",
+    "title_norm": "univer a unified perspective for multistep and multidraft speculative decoding"
+  },
   "00d52199bef25f9eda98fa79c30b3c80d4e34af93f50b3c1b0911b599d05708b": {
     "category": "official_labs",
     "posted": false,
@@ -1055,6 +1063,14 @@
     "title": "LaunchDarkly's approach to AI-powered product management",
     "title_norm": "launchdarklys approach to aipowered product management"
   },
+  "02363f14086271531b6b53642060214170aa5962fd5e02d613b39286baa322da": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233298+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ToneMamaba: Learning Contextualized Tonal Contours with Boundary-Reset State Space Models",
+    "title_norm": "tonemamaba learning contextualized tonal contours with boundaryreset state space models"
+  },
   "023e1dcc9f72d728ae73c06420b5913f1000c8592615253a50208cb67cca7191": {
     "category": "official_labs",
     "posted": false,
@@ -1230,6 +1246,14 @@
     "source": "Hugging Face Blog",
     "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
     "title_norm": "introducing the livecodebench leaderboard holistic and contaminationfree evaluation of code llms"
+  },
+  "029d870fca9116a7904542c0817a4760f1f94673c3069151bf57b526b6941de3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234890+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ARS-VLM: Visually Aligned Augmented Random Search for Vision-Language Models",
+    "title_norm": "arsvlm visually aligned augmented random search for visionlanguage models"
   },
   "02a375c53f6d9ed9afc93e7812de04f3d1ae347d0f8f0d355e5dae756289a0ee": {
     "category": "official_labs",
@@ -1783,6 +1807,14 @@
     "title": "Advancing science and math with GPT-5.2",
     "title_norm": "advancing science and math with gpt52"
   },
+  "03ce16030d6b18a1661a957cc3e5dcf0add0128da01595516f34f8a69b124489": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235736+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Graph-model gains, edge dependence, and the value of correct claim structure in patent litigation prediction",
+    "title_norm": "graphmodel gains edge dependence and the value of correct claim structure in patent litigation prediction"
+  },
   "03d5433e0dbea9ad6f552ea65532c8b21de1600eab1e4aa1d6303356ed67a453": {
     "category": "community_signal",
     "posted": false,
@@ -2318,6 +2350,14 @@
     "source": "Hacker News AI keyword",
     "title": "Patent Strategy in the Age of AI [video]",
     "title_norm": "patent strategy in the age of ai video"
+  },
+  "0519b8fa6d0c3743abd360f7e8b59c87cd41f1b7e888072eb7ddda4d2adad2b2": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235806+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Framing the Narrative: Ideological Mimicry in Large Language Models",
+    "title_norm": "framing the narrative ideological mimicry in large language models"
   },
   "051a1cb0282e74c2250b46464ab4406f5b165cf2a7488d4640e4957d0b34a669": {
     "category": "community_signal",
@@ -3471,6 +3511,14 @@
     "title": "Tackling AI security risks",
     "title_norm": "tackling ai security risks"
   },
+  "07faf2fc1a583cf3c2b7e32e48753423806269e18f66930d680d3af301ed44d6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234967+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ASTERISM: Do Multimodal LLMs Actually Look at All the Images?",
+    "title_norm": "asterism do multimodal llms actually look at all the images"
+  },
   "07fbceeaccbb3c33fc75ee8508eaf272822443dbcf3b2f115ffd36b7c72aacbd": {
     "category": "research",
     "posted": false,
@@ -3583,6 +3631,14 @@
     "title": "Operations workflows with ChatGPT Work",
     "title_norm": "operations workflows with chatgpt work"
   },
+  "0840f4cff26bf320cd513e3d55c506989b55b32ac43a4952c61f562e070285bc": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235307+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Latent Merger: Latent-Space Composition of Hypernetwork-Generated LoRAs",
+    "title_norm": "latent merger latentspace composition of hypernetworkgenerated loras"
+  },
   "0844352dd5cb5c5e18a32dc557973e6486e9ccd6d35eedf3bb52c4c457c8f8be": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -3614,6 +3670,14 @@
     "source": "arXiv cs.AI",
     "title": "Agentic Societies Need a Social Harness",
     "title_norm": "agentic societies need a social harness"
+  },
+  "08531c3121128979bfda903c9a41872d218eedc456cace76a871fc03c13d9b9f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234089+00:00",
+    "source": "arXiv cs.CL",
+    "title": "MargEmbed-Akan: Bridging Twi Questions and English Knowledge through Cross-Lingual Score Distillation",
+    "title_norm": "margembedakan bridging twi questions and english knowledge through crosslingual score distillation"
   },
   "086a8742ddedf17f1f901ee9b4d5cc12b67ebe8d98dd072a8340ace5a8dcdf14": {
     "category": "community_signal",
@@ -3766,6 +3830,14 @@
     "source": "OpenAI News",
     "title": "Using GPT-4 for content moderation",
     "title_norm": "using gpt4 for content moderation"
+  },
+  "08b0584fa55e9c4d851e90d310af4c8a2004a42af5d7470ab7aaaba9d037aca6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235603+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Training-Free Cultural Alignment of Large Language Models via Persona Disagreement",
+    "title_norm": "trainingfree cultural alignment of large language models via persona disagreement"
   },
   "08bdb17dc912e0b2e51ab502c010543e2e497475f5b2a9fad0fe626ea01067a1": {
     "category": "research",
@@ -4174,6 +4246,14 @@
     "source": "OpenAI News",
     "title": "Fanatics Betting and Gaming uses AI to focus on the big picture",
     "title_norm": "fanatics betting and gaming uses ai to focus on the big picture"
+  },
+  "09a378ac9bda8efaacf6383e00a4dada3cd86ff90431eb33c8cc1d745e700e10": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234179+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages",
+    "title_norm": "redteaming a sovereign llm its reasoning and its training stages"
   },
   "09a3b5857033a63a4c2784fefce82980cad8956b427e7ecd422cd52d9ea1049d": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -4998,6 +5078,22 @@
     "source": "arXiv cs.AI",
     "title": "Agent Trajectories as Evidence for Software Quality Assurance",
     "title_norm": "agent trajectories as evidence for software quality assurance"
+  },
+  "0b759eff2ac373ad0419904385c0ea22051b1bd349e74ce600fb4c0dab614e44": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234378+00:00",
+    "source": "arXiv cs.CL",
+    "title": "FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics",
+    "title_norm": "folproof verifying llm texttologic translations via deterministic semantics"
+  },
+  "0b7da7d44d78f4983a4bcbc656a949edf8213a5053a7649ef0fec37caa605515": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235856+00:00",
+    "source": "arXiv cs.CL",
+    "title": "TrustMI: Causally controlling how assistants trust their users",
+    "title_norm": "trustmi causally controlling how assistants trust their users"
   },
   "0b7de25d626af2fae56386905501551f568de6697950d726f3eb3c366f5d4ef6": {
     "category": "research",
@@ -6399,6 +6495,14 @@
     "title": "Equivalence between policy gradients and soft Q-learning",
     "title_norm": "equivalence between policy gradients and soft qlearning"
   },
+  "0ec95a62d80af626ad2bdc43cd47484ee8b5bd8d3939a62c61542a778a8d8de2": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233396+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Reading Between the Layers: Where Representation Quality Lives, and What Geometry Reveals",
+    "title_norm": "reading between the layers where representation quality lives and what geometry reveals"
+  },
   "0eca97729d1072475fd87ed4f70c0c88f2c4160cb76ad578cf8ac7d803a562a4": {
     "category": "official_labs",
     "posted": false,
@@ -7527,6 +7631,14 @@
     "title": "Synthetic Child-Adult Interactions Are Not Developmentally Plausible",
     "title_norm": "synthetic childadult interactions are not developmentally plausible"
   },
+  "110c2ac90f91f7bbc4e2d5d1eb1b9c596142c11f9470b506dc5e5f690ef0b79e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234259+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Is Prosody Encoded in the Neural Audio Codec Mimi?",
+    "title_norm": "is prosody encoded in the neural audio codec mimi"
+  },
   "1112d3795afb8ae48a749e9d0f03f5f47e755331719d44f41bb102057b2ef2af": {
     "category": "official_labs",
     "posted": false,
@@ -8647,6 +8759,14 @@
     "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
     "title_norm": "mineralexp benchmarking llm agents for experimental design in realworld mineral exploration"
   },
+  "13c1aa57cf10fd1927dc43448cb0d66c7c982f5eb804426d3697169996ec2d85": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236323+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check",
+    "title_norm": "the missing compliance class llm graders that collapse jailbreak success and a free check"
+  },
   "13c5d54df9fe54be460fea4cb8c2843b9e766d6585ede1ab9a76ba5ee610a523": {
     "category": "official_labs",
     "posted": false,
@@ -8999,6 +9119,14 @@
     "title": "Fable's 5.2 aerodynamics of a cow",
     "title_norm": "fables 52 aerodynamics of a cow"
   },
+  "14a80823cfec88512edd8a3ad13d6a705433f7b0237f4cc5ed74bbc71a1c77a4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235161+00:00",
+    "source": "arXiv cs.CL",
+    "title": "One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens",
+    "title_norm": "one style fits all cultural values embedded in conversational ai via a peoplepleasing lens"
+  },
   "14a959238623f243b1beca3108241c936f5dc23a10ebf6f81ceee1ef1968c9e0": {
     "category": "research",
     "posted": false,
@@ -9190,6 +9318,14 @@
     "source": "arXiv cs.AI",
     "title": "DIGOM: Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare",
     "title_norm": "digom disentangled interaction graphs for outcome prediction in multimodal healthcare"
+  },
+  "1546a033e2498fa9a96ef05bf47c4c314b7ee600902c553e67276924d0b4fab4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234426+00:00",
+    "source": "arXiv cs.CL",
+    "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+    "title_norm": "cotproxy crossformat transfer for distilling longhorizon policies"
   },
   "1549edabf6f2bea6e59c2635b1375d61f1e4ba323d262e8a2a87e26ad0f56c16": {
     "category": "research",
@@ -11159,6 +11295,14 @@
     "title": "Firecracker VM Escape: PwnEscape Part 2",
     "title_norm": "firecracker vm escape pwnescape part 2"
   },
+  "19e9ca7cc65eca9a78bb2e10d7887e2a4c85294e90bf8b48744dd3c189ebd65a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235960+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Grammar-as-a-Drafter: More Tokens per Speculative Decoding Step on Grammar-Constrained Structured Outputs",
+    "title_norm": "grammarasadrafter more tokens per speculative decoding step on grammarconstrained structured outputs"
+  },
   "19eafb0d36849097b57ef151318daff7687caa4b0e254e78c94470bfca3cd108": {
     "category": "community_signal",
     "posted": false,
@@ -11455,6 +11599,14 @@
     "title": "Upload2Shell \u00b7 CVE-2026-125396",
     "title_norm": "upload2shell cve2026125396"
   },
+  "1a6c2f89ef1a7e0020682e86e1597eef66cc052a3a0497443d6be17b091f7979": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236101+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Diagnosing and Repairing Citation Failures in Generative Engine Optimization",
+    "title_norm": "diagnosing and repairing citation failures in generative engine optimization"
+  },
   "1a6dda4c4f1da299274ecb4333758b956f0151f0850528f733267177fc2da571": {
     "category": "community_signal",
     "posted": false,
@@ -11734,6 +11886,14 @@
     "source": "arXiv cs.AI",
     "title": "Joint Learning of Hierarchical Neural Options and Abstract World Model",
     "title_norm": "joint learning of hierarchical neural options and abstract world model"
+  },
+  "1aef74a2bf1a9f42cbaafca0b0dfd22183d3fa02d54ab1816748734bc706de9d": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233765+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ArEssays: Towards Robust Arabic Handwritten Text Understanding in Educational Settings",
+    "title_norm": "aressays towards robust arabic handwritten text understanding in educational settings"
   },
   "1af2c3bc0451eb7d98ee0e3d196e91baacc2c51d19b792c71925fc92cd176a42": {
     "category": "research",
@@ -12391,6 +12551,14 @@
     "title": "Hackathon: Build an iOS app in 1 hour, $1k in AI credits",
     "title_norm": "hackathon build an ios app in 1 hour 1k in ai credits"
   },
+  "1c5fd9f9a1bd3780163e14968ca3199f969e49da5fc38bbea57cd254d97f5724": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234411+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SAG-Mem-1.0 Technical Report",
+    "title_norm": "sagmem10 technical report"
+  },
   "1c6037e32d9ee620f39d9e7fbded65628c73f35666f9c90d51b482722a8efd14": {
     "category": "research",
     "posted": false,
@@ -12454,6 +12622,14 @@
     "source": "OpenAI News",
     "title": "Operation \u201cTrolling Stone\u201d: Russia-linked influence activity",
     "title_norm": "operation trolling stone russialinked influence activity"
+  },
+  "1c91405ee9825c1b3d8281d8080b696cced1407912e9ec11ab1ab3dffb57f47e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234857+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Fix How It Acts, Not How It Thinks: Surgical Fine-Tuning of Frontier LLMs",
+    "title_norm": "fix how it acts not how it thinks surgical finetuning of frontier llms"
   },
   "1c93d6c1c7251e5ff843fb2982bc81d3484030843143193a3928aceb9a5802b8": {
     "category": "official_labs",
@@ -13487,6 +13663,14 @@
     "title": "Show HN: Fursoy \u2013 Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
     "title_norm": "show hn fursoy outoforder rv64imafdv core in systemverilog linux 66"
   },
+  "1edadb33eea57c9cd15c7e83b675f503fde7c0b9d2ff8cc8870898f159420aa9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234946+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Steerable by Design: Conditional Pretraining for Robust Control of Language Models",
+    "title_norm": "steerable by design conditional pretraining for robust control of language models"
+  },
   "1edae97984b150f9a4b1f590902ae97797056197086a3d0d666e116637ed2da7": {
     "category": "community_signal",
     "posted": false,
@@ -13614,6 +13798,14 @@
     "source": "arXiv cs.AI",
     "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
     "title_norm": "coremem costinternalizing memory for successive coding tasks with prospective valuation"
+  },
+  "1f2001dc41f5c0ca4add06c5ba6b040e50e65a80598f7163cb4d5ce19dd9e7dd": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233519+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Tablassert: Declarative Extraction of Knowledge Graphs from Biomedical Tables",
+    "title_norm": "tablassert declarative extraction of knowledge graphs from biomedical tables"
   },
   "1f26252de6e046535fed545abaf86867cca8a12114f54e10b9db28b6c737d5af": {
     "category": "research",
@@ -14847,6 +15039,14 @@
     "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
     "title_norm": "an llm inside an llm same guy who put a riskv cpu inside qwen has now made karpathys stories260k run on an npu compiled inside qwen 354bs weights"
   },
+  "21c6683ad974b5c574ffa3ed3ceec51662d687c50881e59cc7b390ac349c346a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233819+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ArabFake: A multitask deep learning framework for Arabic fake news Detection, Categorization, and risk prediction",
+    "title_norm": "arabfake a multitask deep learning framework for arabic fake news detection categorization and risk prediction"
+  },
   "21ce853718862ecb8f5bf10fa23cbda599445f4ecf74f63df66f65ab66d16f05": {
     "category": "research",
     "posted": false,
@@ -15199,6 +15399,14 @@
     "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
     "title_norm": "irisz scaling one generative model past specialist geometry models"
   },
+  "228cc6641d1a2ce8fe6d5c1e45d9da19bdf78bb05f5f605bf2ece79b6cbcca46": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234583+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SwiftLoop: Selective Refinement for Adaptive Implicit Reasoning in Looped Transformers",
+    "title_norm": "swiftloop selective refinement for adaptive implicit reasoning in looped transformers"
+  },
   "2295a1e0066077878419d4748e04567db3df6901b7a11a7c2c93dae32fa6278d": {
     "category": "research",
     "posted": false,
@@ -15366,6 +15574,14 @@
     "source": "arXiv cs.AI",
     "title": "CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination",
     "title_norm": "chord crossmodel hallucination detection via relational graph discrimination"
+  },
+  "23041466a5bd2fc2d0a957c8e101246c55ddea20a655e9e059e8ca524d9be9b3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233571+00:00",
+    "source": "arXiv cs.CL",
+    "title": "fork() for Agents: Agent Kernel for Non-blocking LLM Orchestration",
+    "title_norm": "fork for agents agent kernel for nonblocking llm orchestration"
   },
   "230a8088103d9e1ff9c3c480697a2efc6ba499e352539827a71ea875854c4b51": {
     "category": "official_labs",
@@ -15751,6 +15967,14 @@
     "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
     "title_norm": "llm inference on edge a fun and easy guide to run llms via react native on your phone"
   },
+  "23a463fc817ff83d926252a13c2c7e1eabf12c8f941f9935719a583025a6485b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234107+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Generating Schema-Aligned Synthetic Dialogues and Measuring Their Diversity",
+    "title_norm": "generating schemaaligned synthetic dialogues and measuring their diversity"
+  },
   "23a46d26b10f47c9ff0ec828ae81d0a15df3d819c8061f3631ab872b69bd9d56": {
     "category": "community_signal",
     "posted": false,
@@ -15862,6 +16086,14 @@
     "source": "Hacker News Frontpage",
     "title": "TSMC Hacked",
     "title_norm": "tsmc hacked"
+  },
+  "23cca4fa3769fb5efb336ec8b6e96a68ec9abb80c8f1d56f642ca00dc98a263e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233783+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SkillCore: Internalizing Generalizable Skills via Scaffolding-Removed Fine-Tuning",
+    "title_norm": "skillcore internalizing generalizable skills via scaffoldingremoved finetuning"
   },
   "23ccd9ff0c11ef81ec2380b190cca16b9bf8060ea7b88f5f2fe29d03a80c6c2f": {
     "category": "official_labs",
@@ -16694,6 +16926,14 @@
     "source": "Hacker News AI keyword",
     "title": "Generalist vs. Specialist in the After AI Era",
     "title_norm": "generalist vs specialist in the after ai era"
+  },
+  "255feaccb29faf6cd6a6951c98bb7d162e103afbc6c7c6ced85028c5d570e1b8": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235054+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Privacy Disclosure Control Benchmark (PDC-Bench): How Faithfully Do LLMs Keep Privacy Constraints on In-Context Disclosure Granularity?",
+    "title_norm": "privacy disclosure control benchmark pdcbench how faithfully do llms keep privacy constraints on incontext disclosure granularity"
   },
   "25603029fc927a2770eda190146565fa34a122a45916019a2d68b441687c8ee9": {
     "category": "community_signal",
@@ -17655,6 +17895,14 @@
     "title": "Small Open-Weight Language Models for Crowd Decision-Making: Capabilities and Limits of Output-Level Fusion and Linguistic Aggregation",
     "title_norm": "small openweight language models for crowd decisionmaking capabilities and limits of outputlevel fusion and linguistic aggregation"
   },
+  "27454ecd3dc1f8708bb96008b09bc6f9769556636aceddfa0d4330c889f7efaa": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234530+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+    "title_norm": "learning what vs learning how decomposing task and interface competence in agentic training"
+  },
   "274bb7bcf9a2b038eaf67af69b663b9d985e8be0d2471a04486eb697b802ae60": {
     "category": "official_labs",
     "posted": false,
@@ -18511,6 +18759,14 @@
     "title": "Interpretable Text Embeddings Based on Hierarchical Questions",
     "title_norm": "interpretable text embeddings based on hierarchical questions"
   },
+  "291f37319b992d624e19eb3c249214dae38a6b7650ce2bf3a2ae291f9905e1dd": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233727+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Making Evaluation Explicit Is Not Enough: Supervising the Evaluation Process in Generative Reward Models",
+    "title_norm": "making evaluation explicit is not enough supervising the evaluation process in generative reward models"
+  },
   "2924811f962625d7a25030e1ca1bc868b70deabcf1b4894827da494241208722": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -19111,6 +19367,14 @@
     "title": "From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference",
     "title_norm": "from relevant posts to attributable spans explicit symptom evidence for depression questionnaire inference"
   },
+  "2a3880fda1a1d13e8138b219320f79cbcd6c26ccdb5c631527c7a3fbb328e39e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235841+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Exploring the Hidden Cost of the World Around AI Agents",
+    "title_norm": "exploring the hidden cost of the world around ai agents"
+  },
   "2a38e22ca84c5b257fc835d778c5b898eb0cdd887d5e397ea905d262aef614ae": {
     "category": "research",
     "posted": false,
@@ -19623,6 +19887,14 @@
     "title": "Fine-Tune Wav2Vec2 for English ASR in Hugging Face with \ud83e\udd17 Transformers",
     "title_norm": "finetune wav2vec2 for english asr in hugging face with transformers"
   },
+  "2b470493eb7d82a61eef446856d165ae86eef2609c2ec4052254dd8a89fbf9da": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234216+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ASCENT: A Benchmark for Evaluating and Advancing Stepwise Diagnostic Reasoning in Large Language Models on Common Clinical Scenarios",
+    "title_norm": "ascent a benchmark for evaluating and advancing stepwise diagnostic reasoning in large language models on common clinical scenarios"
+  },
   "2b4c2e07608c8f44c1224499d39b2e31a5f2fca32d13faf2de16c724e0b3fd39": {
     "category": "community_signal",
     "posted": false,
@@ -19678,6 +19950,14 @@
     "source": "Hacker News AI keyword",
     "title": "Factum \u2013 Human-first, AI-native modeling for VS Code",
     "title_norm": "factum humanfirst ainative modeling for vs code"
+  },
+  "2b6258563847ef5d64ff4c27a81c56d36d8030156534432fedd970d59443107d": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234395+00:00",
+    "source": "arXiv cs.CL",
+    "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+    "title_norm": "aichipbench benchmarking llm agents for automated ai accelerator design"
   },
   "2b67eec137e57cf89e3e19368aa5cd38cd28e43114f35140fe92297138195859": {
     "category": "community_signal",
@@ -21239,6 +21519,14 @@
     "title": "Huge AI milestone - Anthropic acknowledges 2x acceleration and tripwire reached",
     "title_norm": "huge ai milestone anthropic acknowledges 2x acceleration and tripwire reached"
   },
+  "2ef307988fb32cfb263c56fc49defebae42768ba28860cdc652321cf2f9236c9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.232980+00:00",
+    "source": "arXiv cs.CL",
+    "title": "DAGGER: Deployment-Free Quality Estimation for Generative AI Workflows",
+    "title_norm": "dagger deploymentfree quality estimation for generative ai workflows"
+  },
   "2ef4199673dba8a7c5dca4f098469fc39affb8f8061d8a66cb31f7cb31f35963": {
     "category": "research",
     "posted": false,
@@ -21542,6 +21830,14 @@
     "source": "OpenAI News",
     "title": "Personalizing travel at scale with OpenAI",
     "title_norm": "personalizing travel at scale with openai"
+  },
+  "2fb15b153ea28acf964bd18b128ef29f48c058aba7bdeccec0fc2190ed0691c7": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234822+00:00",
+    "source": "arXiv cs.CL",
+    "title": "HuluOPD: Unifying Heterogeneous Medical Specialists into One Lightweight Model with Unlabeled Prompts",
+    "title_norm": "huluopd unifying heterogeneous medical specialists into one lightweight model with unlabeled prompts"
   },
   "2fb376d25394119438b80909d0cf5ae810a1b0ad78ba38f413fed94af5b7b446": {
     "category": "community_signal",
@@ -23871,6 +24167,14 @@
     "title": "How Conservation X Labs Is Using Segment Anything Model 3 for Endangered Wildlife Monitoring",
     "title_norm": "how conservation x labs is using segment anything model 3 for endangered wildlife monitoring"
   },
+  "3474215e68e43f04bc8756cdc1c1507e5a6db15d79b54e30e17ccc0dac9c8198": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235001+00:00",
+    "source": "arXiv cs.CL",
+    "title": "MAGPIE: Agentic Multi-Reference Image Generation via Executable Scene Construction",
+    "title_norm": "magpie agentic multireference image generation via executable scene construction"
+  },
   "347b65ce144a221e189c1995b6f8e902fff172db7617e6d8030d51c8740ce826": {
     "category": "official_labs",
     "posted": false,
@@ -24142,6 +24446,14 @@
     "source": "arXiv cs.AI",
     "title": "Many Plans at Once: Diverse Top-Quality Planning in Continuous Time",
     "title_norm": "many plans at once diverse topquality planning in continuous time"
+  },
+  "351262fb555b8f64b06e627a9ca8d4d42cb098b9dd38b897a735a1c0d0b4bc1c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236291+00:00",
+    "source": "arXiv cs.CL",
+    "title": "InvestigationWorlds: An Agentic Environment for Legal Investigation",
+    "title_norm": "investigationworlds an agentic environment for legal investigation"
   },
   "351a7bc4fc08f2dbe26b98030f754f759dc83ee7cbc9e12289c5e68301101b8b": {
     "category": "community_signal",
@@ -24886,6 +25198,14 @@
     "source": "arXiv cs.CL",
     "title": "When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning",
     "title_norm": "when and how much to imagine adaptive testtime scaling with world models for visual spatial reasoning"
+  },
+  "369f73942dbea0500d8210fc2d75248374acbf97148647e52e61dc609219abe4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233106+00:00",
+    "source": "arXiv cs.CL",
+    "title": "scOPD: Routed On-Policy Self-Distillation for LLM-Based Single-Cell Annotation",
+    "title_norm": "scopd routed onpolicy selfdistillation for llmbased singlecell annotation"
   },
   "36a577946a19df6d49d42cc8035d2d61934354b93497eb7895166d819392e6c8": {
     "category": "community_signal",
@@ -26383,6 +26703,14 @@
     "title": "Agent-as-a-Judge",
     "title_norm": "agentasajudge"
   },
+  "3a03654649bd9536c0a693489aa9c719668321a7961a8c99804d3c110a2a59c8": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235376+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Feriji: A French-Zarma Parallel Corpus, Glossary & Translator",
+    "title_norm": "feriji a frenchzarma parallel corpus glossary translator"
+  },
   "3a04439ef90209527d64de5bd58dc586f09fff9e12febb434833e035de5284c7": {
     "category": "community_signal",
     "posted": false,
@@ -26422,6 +26750,14 @@
     "source": "arXiv cs.CL",
     "title": "Orthographic depth at two scales, with English also matched for lexicon size",
     "title_norm": "orthographic depth at two scales with english also matched for lexicon size"
+  },
+  "3a1897a8bdff8fadc6cb1791d7331379a4da0c0a18105c4486afb1bac5cfcdbe": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234343+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment",
+    "title_norm": "salsa sampling adversarial suffixes from learned distributions for llm safety assessment"
   },
   "3a18bb57d526bd2f83c356bdfb3af81da2054ac28e202c28fe3b548b3bc37070": {
     "category": "research",
@@ -28751,6 +29087,14 @@
     "title": "Pharo 14",
     "title_norm": "pharo 14"
   },
+  "3f96554d887bc06204310e1eb430d89413ce308faf7d507359e5b70ed08eecb0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233356+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Lexical Tone and Word Order Matter in Translation: Prosodic Correspondence Across Languages",
+    "title_norm": "lexical tone and word order matter in translation prosodic correspondence across languages"
+  },
   "3f9cab86adb1dd2227627d1a6260e042309f5480455ef156880d28e41c51283b": {
     "category": "research",
     "posted": false,
@@ -28854,6 +29198,14 @@
     "source": "arXiv cs.AI",
     "title": "Not All Information Is Worth Asking For: Decision-Informed Information Seeking with LLMs",
     "title_norm": "not all information is worth asking for decisioninformed information seeking with llms"
+  },
+  "3fda27eb855fc839f075b0b3b819134a6f9419a66d9e868425be1b9adc569165": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235479+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Computational Social Linguistics for Telugu Cultural Preservation: Novel Algorithms for Chandassu Metrical Pattern Recognition",
+    "title_norm": "computational social linguistics for telugu cultural preservation novel algorithms for chandassu metrical pattern recognition"
   },
   "3fddb20bfa630d3e6bdcd6291deb1e0117bf625d6d91d38feb028ead638406bf": {
     "category": "research",
@@ -30911,6 +31263,14 @@
     "title": "IBM trains two small open models to ignore orders hidden in documents",
     "title_norm": "ibm trains two small open models to ignore orders hidden in documents"
   },
+  "450a69c83167a85c781fa4755cfc39326f610e8ca76c505b519069bbacd1d3ff": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234723+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Byte Patches versus BPE at Matched Data: A Matched-Twin Comparison at 350M Parameters",
+    "title_norm": "byte patches versus bpe at matched data a matchedtwin comparison at 350m parameters"
+  },
   "450d5ccfb1602dc277cdfc7081592af9d5770b23e6395d73e1190a55a4b14872": {
     "category": "official_labs",
     "posted": false,
@@ -30974,6 +31334,14 @@
     "source": "Hacker News AI keyword",
     "title": "AI agents enter the 'wet lab'",
     "title_norm": "ai agents enter the wet lab"
+  },
+  "452a3f3e1d663f19e297000d626e0f86d40e300c7bcee7ba5b297890f52716de": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233536+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Provenance Loss and Repair in Multilingual Compaction",
+    "title_norm": "provenance loss and repair in multilingual compaction"
   },
   "4531044794d146a423878bdcd86d9bdc78ed629b28a009d0fecfaba4403ec280": {
     "category": "official_labs",
@@ -31086,6 +31454,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
     "title_norm": "deepseek alone accounted for 53 of all 27 trillion tokens on openrouter yesterday openweights labs totaling over 75 now"
+  },
+  "4555543cc338eb7f4609c3ec4f533ed9d3afbf3e7710dff1491859eb5f5bef57": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234637+00:00",
+    "source": "arXiv cs.CL",
+    "title": "E2SIM: Long-Horizon Simulation of Everyday Human Behavior with Evolving States",
+    "title_norm": "e2sim longhorizon simulation of everyday human behavior with evolving states"
   },
   "456125deb4d9219c2c1d762f6cb10cd81037c21cfe2bcf1e04a1904e03032632": {
     "category": "research",
@@ -31318,6 +31694,14 @@
     "source": "arXiv cs.AI",
     "title": "HERA: Assessing an Autonomous Agent for Quantum Device Measurement",
     "title_norm": "hera assessing an autonomous agent for quantum device measurement"
+  },
+  "45e6e7b35e60fdab0adcb88f9993a5ab728cd317002ea46c8ffe6da7a1af09eb": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233607+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Exploring Multi-Player Social Games as Verifiable Training Grounds for Large Language Models",
+    "title_norm": "exploring multiplayer social games as verifiable training grounds for large language models"
   },
   "45e8e2b022a7ae8a20f06c8ddbbd647d61d0f9b2dafa3b7e3384066f74bee8ec": {
     "category": "community_signal",
@@ -32159,6 +32543,22 @@
     "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
     "title_norm": "show hn read your characterai data export in the browser nothing uploaded"
   },
+  "47c80c1f28c77d829166e8e2283672748baf5d9f5d40fb92f17e23f91d22ccbb": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233485+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation",
+    "title_norm": "lucid statistically grounded selfcorrection for llm reasoning evaluation"
+  },
+  "47d04d206e588eb3691361de78bae039b13f9407f7a922cebf3b2d2a7b4762a9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234669+00:00",
+    "source": "arXiv cs.CL",
+    "title": "CATWAY: Cost-sensitive agentic three-way robot decisions with calibrated language-model confidence",
+    "title_norm": "catway costsensitive agentic threeway robot decisions with calibrated languagemodel confidence"
+  },
   "47d0c87b08f0e1f1171522f5be5b10a89a9e8b8220eda36b66894a1a0a79d299": {
     "category": "official_labs",
     "posted": false,
@@ -32879,6 +33279,14 @@
     "title": "CoToan: Executable Rules and a Representation Contract for Reproducible Game AI Evaluation",
     "title_norm": "cotoan executable rules and a representation contract for reproducible game ai evaluation"
   },
+  "494a7fd316b94635a2361ac21ce648e55abfc86ab0e9c728d6c2daa7cd87d2a9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235106+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Fresh Keys, Stale Secrets: Numeric Leakage across Linked LLM Prompts",
+    "title_norm": "fresh keys stale secrets numeric leakage across linked llm prompts"
+  },
   "494aa518fcf2790a7ca59377738191c0a1b67c3181bdee41e9ec1f633ebf12f6": {
     "category": "community_signal",
     "posted": false,
@@ -33550,6 +33958,14 @@
     "source": "Cohere Blog (unofficial)",
     "title": "Enterprise AI security challenges and solutions",
     "title_norm": "enterprise ai security challenges and solutions"
+  },
+  "4b1c5b5316e2251699670d1d6e4a6fb21b6f039ab06b1dc4df27fd17d8735ff1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235619+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Grounding Text Embeddings in Stakeholder Associations",
+    "title_norm": "grounding text embeddings in stakeholder associations"
   },
   "4b20f2fb2afab899314cba0dd74202ae05d3784424e1e72b8b484b3ddb710f07": {
     "category": "research",
@@ -34887,6 +35303,14 @@
     "title": "PRISM: Personalized Item Representations in User History",
     "title_norm": "prism personalized item representations in user history"
   },
+  "4e0653d413f526d43f2064e05706c12abfbf8ee4f56f5781904b128a9dd36486": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235139+00:00",
+    "source": "arXiv cs.CL",
+    "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
+    "title_norm": "instructreplay replaying assistant turns to preserve general behavior during factual finetuning"
+  },
   "4e09856a0c89babc9949f0e05e1cc2a3c27d8fdafb9b30d30ec1c7903095516b": {
     "category": "research",
     "posted": false,
@@ -35022,6 +35446,14 @@
     "source": "OpenAI News",
     "title": "Learning to play Minecraft with Video PreTraining",
     "title_norm": "learning to play minecraft with video pretraining"
+  },
+  "4e3a430deada88737bf840a77c372d3262e6fc6d16a47824b81fe3cb4b96ae02": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235091+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Sample-Efficient In-Context Adaptation via Sleep",
+    "title_norm": "sampleefficient incontext adaptation via sleep"
   },
   "4e3b5fa7a4155a52a866ed9049f57fbd173df65068b792af3deb0c5f90f793f1": {
     "category": "research",
@@ -35543,6 +35975,14 @@
     "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
     "title_norm": "cohere and opentext partner to bring trusted agentic ai to governments and regulated industries"
   },
+  "4f7afaa54c50cfa8bd527f794ad02dc19cb17d8b7558b20c202b849a3767b6e9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234984+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Factorized Context Attention: From Emulated to Native Grid Probing",
+    "title_norm": "factorized context attention from emulated to native grid probing"
+  },
   "4f7b33b1c29d542327f19232e9b6cbf999e07db40e24f6a2360f4420dfa062ea": {
     "category": "community_signal",
     "posted": false,
@@ -35646,6 +36086,14 @@
     "source": "arXiv cs.AI",
     "title": "Remembering Is Not Enough: Refining Memories and Learning When to Use Them in Multi-Agent Systems",
     "title_norm": "remembering is not enough refining memories and learning when to use them in multiagent systems"
+  },
+  "4fb72c3ac8ed9908bd92551096db04ed2bd4365f939ef3395811f519180358de": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235651+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Speculative Decoding and the Curse of Multilinguality",
+    "title_norm": "speculative decoding and the curse of multilinguality"
   },
   "4fb73cf59fb260602a79ed66911158858482a6f70ef3411fbae5a924e720e6b9": {
     "category": "official_labs",
@@ -36303,6 +36751,14 @@
     "title": "Colombo: A Frontier-to-Frontier Autoresearch System for Oracle-Based Optimization",
     "title_norm": "colombo a frontiertofrontier autoresearch system for oraclebased optimization"
   },
+  "5185bc6fbac99fee9077a756ebf248d690def48886b41e783c3881c330fbed6f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233626+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Faithful Persona Steering under Incongruity via Dual-Stream Refinement",
+    "title_norm": "faithful persona steering under incongruity via dualstream refinement"
+  },
   "5185c2677d362197f490703455ebc8679ea7de41ec8dd189b77a1cfb17c5e0d2": {
     "category": "official_labs",
     "posted": false,
@@ -36534,6 +36990,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: Prototype of a product management tool for AI agent companies",
     "title_norm": "show hn prototype of a product management tool for ai agent companies"
+  },
+  "520f1e54d666aa4c0b9d6e3acc712e24a4bbcf06362ce30bda6ccfe8c4c3a9c1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235360+00:00",
+    "source": "arXiv cs.CL",
+    "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+    "title_norm": "diacap jointly learning who speaks when for audiovisual dialogue captioning"
   },
   "5214e81828be930ee6d7509e9985fcd8715f3f4688acf7b6644b976137dcf7ca": {
     "category": "research",
@@ -37359,6 +37823,14 @@
     "title": "AI Job Market Summary",
     "title_norm": "ai job market summary"
   },
+  "53e80e3c1e84a143305da525ec5fb322f8c30a678d9c914ec78a32d4f8a1335e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234294+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Joint Detection of Constructive Speech, Hate Speech and Agreement in Online Conversations",
+    "title_norm": "joint detection of constructive speech hate speech and agreement in online conversations"
+  },
   "53ead09f1e1f6db8a52eca6dfdb3fe617885da75a11a3167d175350f740d4c49": {
     "category": "research",
     "posted": false,
@@ -37662,6 +38134,14 @@
     "source": "Hacker News Frontpage",
     "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
     "title_norm": "in leaked audio flock ceo tells cops backlash to the company isnt real"
+  },
+  "545b0ab930727575bbecab9a308a977159876f007c3d0d14b8d65a4406b5ce16": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235324+00:00",
+    "source": "arXiv cs.CL",
+    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "title_norm": "a bias in disguise tiny gradient edits stop a small language models thinking loops and complement a frontier models weight edit"
   },
   "545b879bd1fecfbd9d32302669cd5d3b64b45ce43d74934d88d5d763af79f8c9": {
     "category": "research",
@@ -38055,6 +38535,14 @@
     "title": "Cohere partners with Canada and UK Governments on secure AI",
     "title_norm": "cohere partners with canada and uk governments on secure ai"
   },
+  "550a5faba564be9b65ba35776e30bf08a35721f29e04bd9e421f1eb38c7f12f3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236306+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Noise Your Prompt: Noising Conditioning Tokens in Continuous Diffusion Language Models",
+    "title_norm": "noise your prompt noising conditioning tokens in continuous diffusion language models"
+  },
   "550b9302aeb0fad24079bc9f87edce7b82104bc42f702a65575e8d4fa3e4a7f0": {
     "category": "research",
     "posted": false,
@@ -38166,6 +38654,14 @@
     "source": "Hacker News Frontpage",
     "title": "Lua for Data Representation",
     "title_norm": "lua for data representation"
+  },
+  "5550eb2d8e8e0a0e3303a4dc913fcbc8927d4ab782f88051a66f1a66959d787e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233433+00:00",
+    "source": "arXiv cs.CL",
+    "title": "CLAIMGATE: Cautious On-Device Checking of Spoken Legal and Clinical Claims",
+    "title_norm": "claimgate cautious ondevice checking of spoken legal and clinical claims"
   },
   "5553e04e6fc129919a162ecdbc4c132ab7ec213aa8555c9ef05b49e8d3fff4ba": {
     "category": "research",
@@ -40423,6 +40919,14 @@
     "title": "From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct and LLM-Assisted Auditing",
     "title_norm": "from selfconfidence to statistical accuracy scaling humanintheloop evaluation with direct and llmassisted auditing"
   },
+  "59cbeea893f028ac444d1425d54c2483ca60f3938960366c347a4b31783cc087": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234875+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Calibrated Reading of Latent Reasoning and Communication",
+    "title_norm": "calibrated reading of latent reasoning and communication"
+  },
   "59d104b9c049f2ada099b3135da9b9e79700b67122fb281af22291e0f71939ac": {
     "category": "official_labs",
     "posted": false,
@@ -40871,6 +41375,14 @@
     "title": "FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D",
     "title_norm": "frontiermat benchmarking language models at the frontier of materials rd"
   },
+  "5aad8129409ac1b37d8a985df535df9412330a482a6a823b2320a8fc8ee7c6aa": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233642+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Scoring What Matters: Exact Feedback Reduction for Language Model Comparison",
+    "title_norm": "scoring what matters exact feedback reduction for language model comparison"
+  },
   "5ab590850491008e2cefeb696721869fa1b9dd449fc9a908867a23da166dfb52": {
     "category": "official_labs",
     "posted": false,
@@ -40902,6 +41414,14 @@
     "source": "TechCrunch AI",
     "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
     "title_norm": "intels stock crashes knocking 12b from governments stake"
+  },
+  "5ae95ce05b6e556e881df140fda5ec6789441b25194ec0a519f13ea95066a96b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233468+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SecondChance: Benchmarking Reliable Error Recovery in AI Agents",
+    "title_norm": "secondchance benchmarking reliable error recovery in ai agents"
   },
   "5aee9226dd257e567fb405803510803abf472298f2d05d3714a6984de3fcaca3": {
     "category": "community_signal",
@@ -41087,6 +41607,14 @@
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "title_norm": "profiling torchneuron part 1 systemlevel profiling on aws trainium"
   },
+  "5b5048658005ec79510f25effe5896b516b59ae9b1ab4f85e7791404d727c68a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233589+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering",
+    "title_norm": "sparqlplanned singlehop traversal over a live knowledge graph for multihop question answering"
+  },
   "5b50eb5a2bb27da564f7cb548b067abc5113bd6b7e1f668e4ca00d837a31e522": {
     "category": "research",
     "posted": false,
@@ -41094,6 +41622,14 @@
     "source": "arXiv cs.AI",
     "title": "EVA-RSI: Recursive Self-Improvement of Video Evaluators for Judging Temporal Quality",
     "title_norm": "evarsi recursive selfimprovement of video evaluators for judging temporal quality"
+  },
+  "5b5230fa758613ade1099ff5751ac1018d7b293b9f1af02bc379ce933f2c9985": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233125+00:00",
+    "source": "arXiv cs.CL",
+    "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction",
+    "title_norm": "recap training longhorizon llm agents with context compaction"
   },
   "5b5aa0a531c6034c8ddef959b7545191ee37ec8225571aaf2cea8f5a112471f4": {
     "category": "official_labs",
@@ -41287,6 +41823,14 @@
     "title": "Structify: AI apps built on a manufacturer's ERP data",
     "title_norm": "structify ai apps built on a manufacturers erp data"
   },
+  "5bae4a31eb1bbba460a40360ab337a90c2cbbbf573d981a1a0d43ded7e7ac700": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235520+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Multi-Dimensional Prompt Chaining to Improve Open-Domain Dialogue Generation",
+    "title_norm": "multidimensional prompt chaining to improve opendomain dialogue generation"
+  },
   "5bc1689552a88065bb34fe041d4cb359a55686a2a21ba6d4c292b40aafafa84c": {
     "category": "community_signal",
     "posted": false,
@@ -41414,6 +41958,14 @@
     "source": "Hugging Face Blog",
     "title": "Hugging Face x LangChain : A new partner package",
     "title_norm": "hugging face x langchain a new partner package"
+  },
+  "5bf861412d1161d8aed61badf3447dd107f2bd3c377233bb2749e76c5659bf20": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236275+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The Hermon Moment: AI Self-Transcendence and Its Human Narration",
+    "title_norm": "the hermon moment ai selftranscendence and its human narration"
   },
   "5bfe0314ea2ed0ae1b29a98b3257cbc43ac86b92d1a6c74b8682077ff03715c9": {
     "category": "official_labs",
@@ -41583,6 +42135,14 @@
     "title": "Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning",
     "title_norm": "design optimization of nuclear fusion reactor through deep reinforcement learning"
   },
+  "5c62a1e1f7943aca9887fd99db16a615ab1cce8c4d14fc88507fcb4c32206ea8": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235943+00:00",
+    "source": "arXiv cs.CL",
+    "title": "When Should Decision Models Compare Candidates?",
+    "title_norm": "when should decision models compare candidates"
+  },
   "5c6a155408a943694a8c8b8bad7112beb77d3e6e8152b334ce8fb33bbdbd198b": {
     "category": "research",
     "posted": false,
@@ -41614,6 +42174,14 @@
     "source": "Hacker News AI keyword",
     "title": "Ask HN: How much did an 8 TB SSD hard cost before the AI race?",
     "title_norm": "ask hn how much did an 8 tb ssd hard cost before the ai race"
+  },
+  "5c81b8f1429b4d05e00b3ff321eb7416bbf3ea5cd2cd8c5d1b15994b7c5bd1b7": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234840+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Do Clinician-Scored Examples Help LLMs Code ADOS-2 from Hour-Long Transcripts?",
+    "title_norm": "do clinicianscored examples help llms code ados2 from hourlong transcripts"
   },
   "5c82887ba911882b653fca10bf857cd741fab7881de19b1ccdcdf718a07a8111": {
     "category": "community_signal",
@@ -42302,6 +42870,14 @@
     "source": "OpenAI News",
     "title": "Creating agent and human collaboration with GPT 4o",
     "title_norm": "creating agent and human collaboration with gpt 4o"
+  },
+  "5e3683a98e69f1acc6fb882d990d3c6849c7f6acdb6ae7791f71daaf6d6fa315": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234276+00:00",
+    "source": "arXiv cs.CL",
+    "title": "From Grammar Deltas to Token Masks: Incremental Constrained Decoding under Runtime Grammar Evolution",
+    "title_norm": "from grammar deltas to token masks incremental constrained decoding under runtime grammar evolution"
   },
   "5e369d1ee312f7cce65f510b70d0908ec5088e29b7035be73561a86df261a1e1": {
     "category": "community_signal",
@@ -43327,6 +43903,14 @@
     "title": "Flagline \u2013 fraud triage desk built by an AI agent, verified with Kane CLI",
     "title_norm": "flagline fraud triage desk built by an ai agent verified with kane cli"
   },
+  "60757207d97d5a8893575714d2319ea87a6b2c8f2de8eaf4d0ae54693d6e0709": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233800+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant",
+    "title_norm": "unjamming deferrals supporting students through jamn bot a mobile raggrounded policy assistant"
+  },
   "60761832689e48e00f3b8f935181017c43e8ae03ba2a601dece897f051a59dfc": {
     "category": "community_signal",
     "posted": false,
@@ -43566,6 +44150,14 @@
     "source": "The Verge AI",
     "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
     "title_norm": "with the biggest ipo of all time anthropics good guy reputation is on the line"
+  },
+  "61003439b7285b6616baea70e648526afd10ec7aceb7c41ad63cef94fa896a94": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236021+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LimeTree: Linear-Memory Graph Neural Networks over Tree-Graphs for Resource-Efficient Language Modeling and Context Extrapolation",
+    "title_norm": "limetree linearmemory graph neural networks over treegraphs for resourceefficient language modeling and context extrapolation"
   },
   "6109c6e744b8c3440432c5396e8dc29b064ddc68bb11d8a5b7996b4f036649ff": {
     "category": "community_signal",
@@ -43943,6 +44535,14 @@
     "title": "Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers",
     "title_norm": "consistency is not understanding orbit audits for neural field weight readers"
   },
+  "61b85716b84a57223c7d2540f1e4e8a6c308651c450b5508aab216490a57d2c6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236081+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Where is the multimodal goal post? On the Ability of Foundation Models to Recognize Highlights in Videos",
+    "title_norm": "where is the multimodal goal post on the ability of foundation models to recognize highlights in videos"
+  },
   "61cb7f163c987a7885c7ec3e92770a7e0d88d347ca151b7788b5fdb81c44379d": {
     "category": "research",
     "posted": false,
@@ -44167,6 +44767,14 @@
     "title": "ChatGPT for research",
     "title_norm": "chatgpt for research"
   },
+  "623b1bef73b8e57e59f17690b31f94cb1cac6bd136549b514c50d1da84e1c1aa": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236375+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LLM-based Personalized Travel Planner",
+    "title_norm": "llmbased personalized travel planner"
+  },
   "62411de0b5e88fa709bf0fe1ff489c960bd71d416ebffba07b669f3fabb5d802": {
     "category": "research",
     "posted": false,
@@ -44326,6 +44934,14 @@
     "source": "Hacker News Frontpage",
     "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
     "title_norm": "can peer review survive aigenerated text pdf"
+  },
+  "62a34e7dfd74af7f48bafa85da029f66b1e4d2fd44dae19af03107b92011951c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233503+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Training decision models for simulating human respondents",
+    "title_norm": "training decision models for simulating human respondents"
   },
   "62aa0e581fddffbbe4618dcf19fc740cacf844467ab1f0b04529f93070fdffda": {
     "category": "research",
@@ -45831,6 +46447,14 @@
     "title": "Lead the AI Shift in Your Organization",
     "title_norm": "lead the ai shift in your organization"
   },
+  "65f1d761616e043b026ebcad427efca0e681e9cd30a186b4a0b56e61a35d08e1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235238+00:00",
+    "source": "arXiv cs.CL",
+    "title": "On Potentiality and Actuality Of Foundation Models",
+    "title_norm": "on potentiality and actuality of foundation models"
+  },
   "65f850563a9b4aaa299c6e1a186da09836e7b41dad282e535f046872e696a7d4": {
     "category": "community_signal",
     "posted": false,
@@ -46230,6 +46854,14 @@
     "source": "arXiv cs.AI",
     "title": "ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation",
     "title_norm": "ecgreasoningbenchmark a benchmark for evaluating clinical reasoning capabilities in ecg interpretation"
+  },
+  "66c0140f14b7b3db6271203fedc5f0fa42c6e78bc75520cc4e781e5e20c15598": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236206+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search",
+    "title_norm": "llmaces closedloop discovery of dynamical systems with llmguided adaptive search"
   },
   "66c0da277fc8c05ff9a55f0c2543800a55e534ba6d29e906e8bf93074e415a43": {
     "category": "research",
@@ -47079,6 +47711,14 @@
     "title": "Parameter-Efficient Adaptation of Qwen3-VL for Handwritten Mathematical Expression Recognition",
     "title_norm": "parameterefficient adaptation of qwen3vl for handwritten mathematical expression recognition"
   },
+  "6899bb56f833beb3250ea6e0e00c35005dca42f64d8be41f93242ed1e25fc9d5": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234012+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Avalon-M1: Reinforcement Learning from Collective Rewards",
+    "title_norm": "avalonm1 reinforcement learning from collective rewards"
+  },
   "689c395fda9a1a538bb9dfc586bf6bb0466fd34ab49ce3b3aa45005b1413b275": {
     "category": "research",
     "posted": false,
@@ -47415,6 +48055,14 @@
     "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
     "title_norm": "windowedmtp removing the fullcontext draftkv tax at milliontoken context"
   },
+  "69497f68925148ebd854bc2ac80dba4c0ec63c0b5ea0450be7baae3bf7705bf4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233336+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Reliability of Language-Model Judges for Quantitative Scientific Question Answering: Evidence from Perovskite Photovoltaics",
+    "title_norm": "reliability of languagemodel judges for quantitative scientific question answering evidence from perovskite photovoltaics"
+  },
   "694de0efc278879ce9a53204b5c557c08e9be66639d352df5339f169afd245d0": {
     "category": "research",
     "posted": false,
@@ -47446,6 +48094,14 @@
     "source": "arXiv cs.CL",
     "title": "Text as an Index for Zero-Shot Cross-Domain Knowledge Tracing",
     "title_norm": "text as an index for zeroshot crossdomain knowledge tracing"
+  },
+  "695496c662768fe1942658c8cba2ec493b9f0754f653eb557fb83c05c84f9219": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234513+00:00",
+    "source": "arXiv cs.CL",
+    "title": "CoRe: Jointly Learning Contextual Representations for Understanding and Generation",
+    "title_norm": "core jointly learning contextual representations for understanding and generation"
   },
   "69573e1c029c6c0d086ed4af4ce1862d410cbca1855d9920b31f997ad2a25679": {
     "category": "research",
@@ -48111,6 +48767,14 @@
     "title": "A developmental psychologist audits his own research with AI",
     "title_norm": "a developmental psychologist audits his own research with ai"
   },
+  "6a9ceb82c6b3973871245fe2e43631af99ac32c4f407cbf306f6138efa833427": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233857+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Decision Models: An Introduction and Capability Evaluation",
+    "title_norm": "decision models an introduction and capability evaluation"
+  },
   "6a9f9c33eb3d4ea74ef541f0c48a7c9521f82071945154846847edb72e0ef087": {
     "category": "research",
     "posted": false,
@@ -48262,6 +48926,14 @@
     "source": "arXiv cs.AI",
     "title": "TriAttention: Unified Sparse Mixed-Precision Attention for Long-Context LLM Inference",
     "title_norm": "triattention unified sparse mixedprecision attention for longcontext llm inference"
+  },
+  "6b0545a6001e44042bf0be310b0d48791ef57b2ebe3b5664c9f046ce9f7372e0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233144+00:00",
+    "source": "arXiv cs.CL",
+    "title": "RecipeADQA: A User-aware Question-Answering Dataset for Multi-Constraint Recipe Recommendation",
+    "title_norm": "recipeadqa a useraware questionanswering dataset for multiconstraint recipe recommendation"
   },
   "6b097a287e2a565e2b170c9e3cfc2961827394e4a7796625868eb55501a51368": {
     "category": "community_signal",
@@ -48927,6 +49599,14 @@
     "title": "Why Your AI Agent Can't Solve CTF Challenges",
     "title_norm": "why your ai agent cant solve ctf challenges"
   },
+  "6c6217992729e8a8881f12fd9e434006e0c8e4926ff08ea61d8365a93d176f43": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236340+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Speculative Self-Distillation enables Efficient Knowledge Internalization",
+    "title_norm": "speculative selfdistillation enables efficient knowledge internalization"
+  },
   "6c6443ee40a9a2f0271113d5d1021571d10fec2d3a80dec44a359880bfe1f01e": {
     "category": "community_signal",
     "posted": false,
@@ -49247,6 +49927,14 @@
     "title": "Show HN: RealtimeVAD \u2013 trading false positives for 110ms earlier end-of-speech",
     "title_norm": "show hn realtimevad trading false positives for 110ms earlier endofspeech"
   },
+  "6d091c8785a97415d1f67d9521a48c69e1da1ea4315151b48bc90d12a7e1c243": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235872+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The interpreter as developer: An autoethnographic design study of building a computer-assisted interpreting tool through human-LLM co-creation",
+    "title_norm": "the interpreter as developer an autoethnographic design study of building a computerassisted interpreting tool through humanllm cocreation"
+  },
   "6d0ddccb961e9a3688d31a866ba2db5384a967bc58ed9b81fd325ab787cab3ff": {
     "category": "research",
     "posted": false,
@@ -49311,6 +49999,14 @@
     "title": "Trigger.dev customer environment variables exposed",
     "title_norm": "triggerdev customer environment variables exposed"
   },
+  "6d2db9f7d0498b852f19eed67cef537bc881500e3cb305bd1a23101e3dc34c61": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235460+00:00",
+    "source": "arXiv cs.CL",
+    "title": "EEG-MedRAG: Enhancing EEG-based Clinical Decision-Making via Hierarchical Hypergraph Retrieval-Augmented Generation",
+    "title_norm": "eegmedrag enhancing eegbased clinical decisionmaking via hierarchical hypergraph retrievalaugmented generation"
+  },
   "6d311804f6d61c22eb55c35c55e9c51e1692fddeeba1f661b3ed336aafea1a78": {
     "category": "research",
     "posted": false,
@@ -49366,6 +50062,14 @@
     "source": "OpenAI News",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "title_norm": "partnering with codeai to prepare the first ai generation"
+  },
+  "6d4fb1088d1d071cfa28ad90cba7901bc808d7477b786cd61d6de4b475598f01": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234497+00:00",
+    "source": "arXiv cs.CL",
+    "title": "GHC:Expanding Residual Interfaces in Hyper-Connections",
+    "title_norm": "ghcexpanding residual interfaces in hyperconnections"
   },
   "6d541524d20fa6cecc217f702dcebb8e3e561c0c0d8bfa8eb57ddcd80534201f": {
     "category": "community_signal",
@@ -49879,6 +50583,14 @@
     "title": "Will Wright's next simulation will use AI to mine content from your memories",
     "title_norm": "will wrights next simulation will use ai to mine content from your memories"
   },
+  "6e626dc8ecf243ca5b7cebea019a80a1a5c2380a176690c83e254ae8e0e7661c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234565+00:00",
+    "source": "arXiv cs.CL",
+    "title": "A dataset of clinically similar image pairs from citation-linked case reports for medical image retrieval",
+    "title_norm": "a dataset of clinically similar image pairs from citationlinked case reports for medical image retrieval"
+  },
   "6e6e5524f81a624c193ec272971339f186acbd6ba3ed7d87c2f11a8e562a3a2a": {
     "category": "official_labs",
     "posted": false,
@@ -50358,6 +51070,14 @@
     "source": "arXiv cs.AI",
     "title": "Efficient Generative Retrieval for E-commerce Search with Semantic Cluster IDs and Expert-Guided RL",
     "title_norm": "efficient generative retrieval for ecommerce search with semantic cluster ids and expertguided rl"
+  },
+  "6f79c72e30881feb21ba3b85ea4298804fdd0c801910a2b5bda363eba01359b5": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233017+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Instantiation of Human Values in Image Generation",
+    "title_norm": "instantiation of human values in image generation"
   },
   "6f7a1073a8b8ffd9755dd3416f0e0d713ccdd7bd45871632420b14c149541408": {
     "category": "tech_news",
@@ -50975,6 +51695,14 @@
     "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
     "title_norm": "security agencies worldwide found to use adbased surveillance system"
   },
+  "70e16e2c4419aaa396722f8fab9c4735bb6b55947249d0953cb503504388578d": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236260+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Risky Business: Measuring The Faithfulness-Safety Tension",
+    "title_norm": "risky business measuring the faithfulnesssafety tension"
+  },
   "70e30bd3f610777d1463576f09eea8366d9dcc8c259507da80f68ee73e13e6b6": {
     "category": "community_signal",
     "posted": false,
@@ -51327,6 +52055,14 @@
     "title": "SemGeo-Gen: Unsupervised Generation of Approximate Cross-Instance Semantic-Geometric Correspondences",
     "title_norm": "semgeogen unsupervised generation of approximate crossinstance semanticgeometric correspondences"
   },
+  "71b676268cf03f387b63ab261a4653fc35cc7624d7b4ad2add659ac2f442f068": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235587+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Agent Collectives Should Not Detect Their Own Imposters: A Chess Case Study",
+    "title_norm": "agent collectives should not detect their own imposters a chess case study"
+  },
   "71b9e79048f31aa789dd2afe2f00f3ba60e2f34d6270cecfeea518d1bf2c14ba": {
     "category": "community_signal",
     "posted": false,
@@ -51671,6 +52407,14 @@
     "title": "Achieving 10x growth with agentic sales prospecting",
     "title_norm": "achieving 10x growth with agentic sales prospecting"
   },
+  "7274e5f544b2867a67962f9aa334a5ed45489a805e75b3b10a886d983960e3d9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234066+00:00",
+    "source": "arXiv cs.CL",
+    "title": "REBEAL: Human References Are No Longer the Best Translation, and Metrics Do Not Notice",
+    "title_norm": "rebeal human references are no longer the best translation and metrics do not notice"
+  },
   "7279785142919f7cb1decc305c5ae841a42f4f82ed2e6614a1bf6c84b7fd8f18": {
     "category": "community_signal",
     "posted": false,
@@ -51823,6 +52567,14 @@
     "title": "New Cohere Toolkit Features: Authentication, HTML and More",
     "title_norm": "new cohere toolkit features authentication html and more"
   },
+  "72ba2cc2dace22af497d0fb60684211f4152fc066ca4ce802bfbbd4cc321a39f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233040+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The Date You Didn't Set: The System-Prompt Date as a Hidden Variable in LLM Evaluation",
+    "title_norm": "the date you didnt set the systemprompt date as a hidden variable in llm evaluation"
+  },
   "72c45e2fcfa8fd1def97550221f2165b6f7e144c1f790e4c9ce13aaa8572467e": {
     "category": "research",
     "posted": false,
@@ -51918,6 +52670,14 @@
     "source": "Hacker News AI keyword",
     "title": "Show HN: I've asked AI to generate portraits per country",
     "title_norm": "show hn ive asked ai to generate portraits per country"
+  },
+  "7306e1ad7ddef66c6df394fcc789b8f6543bf76dfa2b691f5eb65248e7a66626": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234806+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Marketing-Bench: Evaluating Frontier Models and Agents on Real-World Marketing Capabilities",
+    "title_norm": "marketingbench evaluating frontier models and agents on realworld marketing capabilities"
   },
   "7310523931ec31d7ed58d6864e280f1ea3587548e215ab4071b52e6535d448ee": {
     "category": "tech_news",
@@ -52326,6 +53086,14 @@
     "source": "Hugging Face Blog",
     "title": "The Annotated Diffusion Model",
     "title_norm": "the annotated diffusion model"
+  },
+  "73dfcd883979af7cf9773391a3d6d25a3d5e509f699623c30d4a9db9b3ce504f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235074+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
+    "title_norm": "measuring layerwise intrinsic dimensionality of ffns in llms via pca"
   },
   "73e570ad8ee1a6eb8526c6f2febbf66e588a5d757b3c9f1a59749d3f2782ee47": {
     "category": "official_labs",
@@ -53038,6 +53806,14 @@
     "source": "Hacker News AI keyword",
     "title": "Our AI agent signs its own work; we publish its mistakes in a public audit",
     "title_norm": "our ai agent signs its own work we publish its mistakes in a public audit"
+  },
+  "757c6c680e731f2999e2a253a937c02caaafea8af9ab67e71e1d2c1b5a9ed440": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235393+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Grammatical Error Correction for Low-Resource Languages: The Case of Zarma",
+    "title_norm": "grammatical error correction for lowresource languages the case of zarma"
   },
   "757c801adf513618941a8206a8b712011c2c093d070398756aa6449e170d4bdc": {
     "category": "community_signal",
@@ -54151,6 +54927,14 @@
     "title": "Binarization as an Attack Surface in Weightless Neural Networks",
     "title_norm": "binarization as an attack surface in weightless neural networks"
   },
+  "782e936fc00b02dab22a63fa5e5a8b9f22383f3483f292333bcb6ffa8ea20fc9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233691+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Reading, Writing and Repairing Game-Theoretic Policies in Weight Space",
+    "title_norm": "reading writing and repairing gametheoretic policies in weight space"
+  },
   "7831f0af74d05e2706572f3f154ba883d8638be6124d991913f83111f4e0168f": {
     "category": "research",
     "posted": false,
@@ -54527,6 +55311,14 @@
     "title": "Director of Machine Learning Insights [Part 2: SaaS Edition]",
     "title_norm": "director of machine learning insights part 2 saas edition"
   },
+  "7909799cbc1538f04381c9b57cfa0cf00123cc1f5e09d59a842344be7e200506": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236226+00:00",
+    "source": "arXiv cs.CL",
+    "title": "PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding",
+    "title_norm": "pruneground plugandplay spatial pruning for 3d visual grounding"
+  },
   "7909eda5a0dd6cffbf3381ff712b46f5b0a25496775062be0de2e25c421c9673": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -54550,6 +55342,14 @@
     "source": "arXiv cs.AI",
     "title": "DUP: Detection-guided Unlearning for Backdoor Purification in Language Models",
     "title_norm": "dup detectionguided unlearning for backdoor purification in language models"
+  },
+  "791304ab6a22dd58670e893d7b5acc039411112856abf807ffdde75120d8fb4a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236119+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+    "title_norm": "speak or stay silent contextaware turntaking in multiparty dialogue"
   },
   "79156cbe286b270357ac29110789c963342926a835d6b342828971163be2f54f": {
     "category": "official_labs",
@@ -55511,6 +56311,14 @@
     "title": "Marginal-Preserving Coupled Diffusion Composition for Long-Horizon Planning",
     "title_norm": "marginalpreserving coupled diffusion composition for longhorizon planning"
   },
+  "7b3ab5ce787486981abea680031d7a89eaeb6f20b380f1f1241fffa9e2456da1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234047+00:00",
+    "source": "arXiv cs.CL",
+    "title": "When \"Neutral\" Means Irrelevant: A Construct-Validity Audit of NormAd-ETI",
+    "title_norm": "when neutral means irrelevant a constructvalidity audit of normadeti"
+  },
   "7b3b377c6cb8d74e543c5b8bac1c563e27acc39ca07ee2bfc069306cf76deb0f": {
     "category": "community_signal",
     "posted": false,
@@ -55702,6 +56510,14 @@
     "source": "arXiv cs.AI",
     "title": "FlashSampling: Fast and Memory-Efficient Exact Sampling",
     "title_norm": "flashsampling fast and memoryefficient exact sampling"
+  },
+  "7bb391b5e8058774ceaa2b5de98826ccca1b17f990197c4916b25000ed9636ed": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233259+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SD-Cache: Learnable Memory Consolidation with State-Guided Dynamic Caching",
+    "title_norm": "sdcache learnable memory consolidation with stateguided dynamic caching"
   },
   "7bb99512575204cd545c319a8d7b1e1e74d4061c62d4a052ba16afa438d4d89b": {
     "category": "research",
@@ -56222,6 +57038,14 @@
     "source": "arXiv cs.AI",
     "title": "MIND: AI Co-Scientist for Material Research",
     "title_norm": "mind ai coscientist for material research"
+  },
+  "7cf93924b128fbe0ec87a30aa1cd3cf856773fa9e1feb432656693f3466a88e4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234464+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LLM Genetic Feature Engineering",
+    "title_norm": "llm genetic feature engineering"
   },
   "7cfc25d1a361b0d218b1ce00c7c4545c74a0f02e08a367a2ce482b9f1bea6dd4": {
     "category": "research",
@@ -57478,6 +58302,14 @@
     "source": "OpenAI News",
     "title": "Welcome, Pieter and Shivon!",
     "title_norm": "welcome pieter and shivon"
+  },
+  "7fc6fc9f82cb87a1b5d72137965225abd5b7ef1e98360876e19882dd208ea8a1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233891+00:00",
+    "source": "arXiv cs.CL",
+    "title": "When Ink Meets Pixel: Intent-Aware OCR with VLMs for Human-Corrected Financial Documents When Ink Meets Pixel: Intent-Aware OCR with VLMs for Human-Corrected Financial Documents",
+    "title_norm": "when ink meets pixel intentaware ocr with vlms for humancorrected financial documents when ink meets pixel intentaware ocr with vlms for humancorrected financial documents"
   },
   "7fc88fbdaa8e97213d1bb6c9d52037d4d79961628e827e3981b6a9eadb75f295": {
     "category": "tech_news",
@@ -59119,6 +59951,14 @@
     "title": "FATE-5: Faithful Alignment of Trait Expression for Continuous Big Five Personality Control",
     "title_norm": "fate5 faithful alignment of trait expression for continuous big five personality control"
   },
+  "836eb4feaabd9249860ade504e8ef5c8c2e3328b2be78e702bbdfb8a4f8c83ba": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233181+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks",
+    "title_norm": "does item response theory generalize across languages evidence from crosslingual llm benchmarks"
+  },
   "8371f2dc5f159a038bc8ba4e4ab103aaa082b2d094fce6fedb20cda7ccdaa3f3": {
     "category": "research",
     "posted": false,
@@ -59230,6 +60070,14 @@
     "source": "arXiv cs.AI",
     "title": "How to Loop Your Transformer: Loop Scaling, Specialization, and Parallel Inference",
     "title_norm": "how to loop your transformer loop scaling specialization and parallel inference"
+  },
+  "83c8b8409c119d5b4672184c67cce8187177014e6611d4394dc1255f8424fb66": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235221+00:00",
+    "source": "arXiv cs.CL",
+    "title": "When Repair Accuracy Misleads: Training a VLM on Its Own Failures",
+    "title_norm": "when repair accuracy misleads training a vlm on its own failures"
   },
   "83d3af7f83cc828427f424e7f9e16d11734dcecc56310e1edd9d3af7094d4b5e": {
     "category": "research",
@@ -60782,6 +61630,14 @@
     "source": "arXiv cs.CL",
     "title": "DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction",
     "title_norm": "depthgraft structural regularization through hierarchical crosslayer kv reconstruction"
+  },
+  "86e7c196394555a69e15e333285171574263a731838e721d12aff8885d3eb4fa": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235344+00:00",
+    "source": "arXiv cs.CL",
+    "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+    "title_norm": "briconstrain geometrically constrained decoding for autoregressive brick assembly generation"
   },
   "86e9f5c95662b124f9f362f6b08c6081891c0a64d4c961d3ffa3280de0bf8eab": {
     "category": "community_signal",
@@ -62855,6 +63711,14 @@
     "title": "Airbnb is working on an AI travel agent",
     "title_norm": "airbnb is working on an ai travel agent"
   },
+  "8b3afedc919fa6a00a38c1387ca21afe261624bb8ac71ba51f49e7a669378e42": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235180+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Tasks",
+    "title_norm": "shellbench what matters more for ai agents models or harness for everyday tasks"
+  },
   "8b3de0ea6e8a774f8621a5e1edc6c64ee2aeea3ff36fb0bc9953f18a5d7e73be": {
     "category": "research",
     "posted": false,
@@ -63062,6 +63926,14 @@
     "source": "Hacker News Frontpage",
     "title": "Roadside investigations of psyllids, ants and eucs",
     "title_norm": "roadside investigations of psyllids ants and eucs"
+  },
+  "8be86a0b0af72b483a25ca2ac0f89a85bfbae0a711902496e84967821b84b088": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233552+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Right Destination, Wrong Journey: Synthetic Counseling Dialogues Miss Human Interactional Dynamics",
+    "title_norm": "right destination wrong journey synthetic counseling dialogues miss human interactional dynamics"
   },
   "8bf0b09a8040939e6db1e033370edd1f38b40f42789b9a8824689ddd9debd897": {
     "category": "community_signal",
@@ -65023,6 +65895,14 @@
     "title": "Toward Universal Translatability: On the Statistical Ontology of Generative AI",
     "title_norm": "toward universal translatability on the statistical ontology of generative ai"
   },
+  "906ee7a953e09ff63d9dcc9cd60465c8e9446b1e6773ecd3835a0b3150812352": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235018+00:00",
+    "source": "arXiv cs.CL",
+    "title": "STAR: Counterfactual Dual-World Rollouts and Spatial Target Adaptive Reconstruction for Visual On-Policy Distillation",
+    "title_norm": "star counterfactual dualworld rollouts and spatial target adaptive reconstruction for visual onpolicy distillation"
+  },
   "906efba942c9477cd74b602ab96bc7fea610d944a8c400331dae43aa11c6db79": {
     "category": "community_signal",
     "posted": false,
@@ -65246,6 +66126,14 @@
     "source": "Hacker News Frontpage",
     "title": "A training engine for your local model, using your idle compute",
     "title_norm": "a training engine for your local model using your idle compute"
+  },
+  "9126ccd66148c662b27ebaad60287f40fde2ab902f6517f39cfcd51995f8abbf": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233278+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System",
+    "title_norm": "agentic systems need multirun evaluation a study of retrieval and response variability in a deployed enterprise rag system"
   },
   "9128526d57995bc911bbba80183abe1accd76147aa422ee3f6efa2948c03e602": {
     "category": "research",
@@ -66599,6 +67487,14 @@
     "title": "Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams",
     "title_norm": "omniinteractscope benchmarking proactive and agentic interaction in continuous omnimodal streams"
   },
+  "942c3496ca115c867018d96947437e8cd99c3ad8b6fc52bd3ff3a17b6b5b60bf": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235497+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Multiscale Aggregated Hierarchical Attention (MAHA): A Constrained and Consensus-Based Approach to Efficient Contextual Modeling in Large Language Models",
+    "title_norm": "multiscale aggregated hierarchical attention maha a constrained and consensusbased approach to efficient contextual modeling in large language models"
+  },
   "942cd2c33a48765b7f7797eea5c2db07b646662069e61c74e81ce028bf741fc4": {
     "category": "research",
     "posted": false,
@@ -66758,6 +67654,14 @@
     "source": "arXiv cs.AI",
     "title": "dKV Forcing: Separating Generation and Memory Representations through a Differentiable KV Cache",
     "title_norm": "dkv forcing separating generation and memory representations through a differentiable kv cache"
+  },
+  "94692647a7f410ebc383128a9a2188526c634d07ab5ffbe69c455d3efc894bf4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233450+00:00",
+    "source": "arXiv cs.CL",
+    "title": "PazaBench: Large-Scale ASR Benchmark for Low-Resource Languages in Africa",
+    "title_norm": "pazabench largescale asr benchmark for lowresource languages in africa"
   },
   "946b2c15310c7636c28d40b98bb378dab192b35226abae3e92e15eb610d0917e": {
     "category": "research",
@@ -67054,6 +67958,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
     "title_norm": "the qwen flash next alibaba url thing happened to me too just now"
+  },
+  "951fb15ec16fb1979761488e915acd9e3ffd349fc64d59b1fb86a4567d30a64f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235788+00:00",
+    "source": "arXiv cs.CL",
+    "title": "RheoSampling: Resolving the One-Hot Dilemma in Stochastic Dynamic-Tree Speculative Decoding",
+    "title_norm": "rheosampling resolving the onehot dilemma in stochastic dynamictree speculative decoding"
   },
   "95235900cc342af4eb022ffa3c9a5e38d8db53a5c3793fc3bebd0a2e7b176dd5": {
     "category": "tech_news",
@@ -68719,6 +69631,14 @@
     "title": "Evaluating Visual Realism of AI-Generated Videos with Eye Tracking",
     "title_norm": "evaluating visual realism of aigenerated videos with eye tracking"
   },
+  "98ac4195a56c40d71fab1a6a0ff128f164583d6f9440ec2b67467888aa2470e6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236171+00:00",
+    "source": "arXiv cs.CL",
+    "title": "PairAlign: A Framework for Autoregressive Tokenization via Self-Alignment with Applications to Audio Tokenization",
+    "title_norm": "pairalign a framework for autoregressive tokenization via selfalignment with applications to audio tokenization"
+  },
   "98b5684cf5a31847067167d3a868b97f9921e5972f6be5d70d1092b301410bf3": {
     "category": "research",
     "posted": false,
@@ -70247,6 +71167,14 @@
     "title": "Pacing model development in an era of cyber-critical capabilities",
     "title_norm": "pacing model development in an era of cybercritical capabilities"
   },
+  "9c2744008d2b3bcc58f32a564b186423a4f422594759e21f2ec443a732d2e1fa": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233747+00:00",
+    "source": "arXiv cs.CL",
+    "title": "RightDiff: Learning Generative Reward Models to Judge by the Right Differences",
+    "title_norm": "rightdiff learning generative reward models to judge by the right differences"
+  },
   "9c3029d496ecc23c619bc839ae13a41f817758135fbe1fe612797de554850e99": {
     "category": "research",
     "posted": false,
@@ -70454,6 +71382,14 @@
     "source": "Hugging Face Blog",
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "title_norm": "discoformer one transformer for density and score across distributions"
+  },
+  "9cc3e707e9e0081b8f9c704fccfb46bd48fecf6005503a7265c8cf8682b405b5": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234785+00:00",
+    "source": "arXiv cs.CL",
+    "title": "TableRouter: Query-Aware Evidence Construction for Long-Table Question Answering",
+    "title_norm": "tablerouter queryaware evidence construction for longtable question answering"
   },
   "9cc601c88b93f2dfebba13ca40ef31465133fc671b2ff98a83b4dd40b4ebb2be": {
     "category": "tech_news",
@@ -71222,6 +72158,14 @@
     "source": "arXiv cs.CL",
     "title": "Evidence-Linked Radiology Reporting: A Human-Supervised Reference Architecture for Structured Imaging Intelligence",
     "title_norm": "evidencelinked radiology reporting a humansupervised reference architecture for structured imaging intelligence"
+  },
+  "9e840374ac06a44337b88690f851770ead09c12485c12226c8cecc93a8956ee3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233220+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Evaluating Large Language Models on Iranian Doctoral Entrance Exams in Electrical and Computer Engineering",
+    "title_norm": "evaluating large language models on iranian doctoral entrance exams in electrical and computer engineering"
   },
   "9e899a157ff8ca685d215ee4e64b6f34a06a42afa71ee9ae885858af1c79cdc0": {
     "category": "official_labs",
@@ -72125,6 +73069,14 @@
     "source": "OpenAI News",
     "title": "GPT-5.5 System Card",
     "title_norm": "gpt55 system card"
+  },
+  "a082ca37d28d233fe9cbdf208146c92dd83a7ae7d607e9038fe9af78bfc4ac18": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233164+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Capability and Interpretability of Transformers on Multi-task Recurrence",
+    "title_norm": "capability and interpretability of transformers on multitask recurrence"
   },
   "a084d3a45abcc244a8dc44122ed1f2a43ac6646f2a54c7a7a65e0b6a932d33d1": {
     "category": "community_signal",
@@ -73253,6 +74205,14 @@
     "source": "Hugging Face Blog",
     "title": "Any Custom Frontend with Gradio's Backend",
     "title_norm": "any custom frontend with gradios backend"
+  },
+  "a2e38bc0879095999850c668abd62ecf9195748f4eae96b3a6c90ad644d89595": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236040+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+    "title_norm": "unlocking the power of loops in pretrained llms with loop residuals"
   },
   "a2ed43efbf1c3ddb6d09856be2c472d03531d289ee4140d54b05e60b0017f7cf": {
     "category": "community_signal",
@@ -75102,6 +76062,14 @@
     "title": "Trump declares robot imports a national security threat",
     "title_norm": "trump declares robot imports a national security threat"
   },
+  "a71ece9bab8af7e4fd07262153cf8bfc1f3b1423d87a1c89afedad7d5786973b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235634+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Structured Prompt Optimization Advances Globally and Locally Interpretable Learning from Complex Text",
+    "title_norm": "structured prompt optimization advances globally and locally interpretable learning from complex text"
+  },
   "a72130f48773392b8f42017c001fc663c3b36c73e5e278801c22a38c78f5e72c": {
     "category": "community_signal",
     "posted": false,
@@ -75437,6 +76405,14 @@
     "source": "The Verge AI",
     "title": "China reportedly recruited AI exec to spy on Jensen Huang",
     "title_norm": "china reportedly recruited ai exec to spy on jensen huang"
+  },
+  "a7e272ab4a37ac20dd6aa72f7bd4683444e1c2cc77b203e8117ce6bf112df39d": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233968+00:00",
+    "source": "arXiv cs.CL",
+    "title": "BCP: A Lightweight Boundary-Controlled Framework for Online Sign Language Recognition and Translation",
+    "title_norm": "bcp a lightweight boundarycontrolled framework for online sign language recognition and translation"
   },
   "a7e286a63c0aa632242d0836f9041734be3c5a00aa395d5793d85376a8f172af": {
     "category": "research",
@@ -76582,6 +77558,14 @@
     "title": "Reusing formal Vlasov-Maxwell proofs to certify plasma solver outputs",
     "title_norm": "reusing formal vlasovmaxwell proofs to certify plasma solver outputs"
   },
+  "aab2b620e4d421ea3c1b0984ce5e8fdce20c7fa69188161b650f3a5f92ba1760": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236056+00:00",
+    "source": "arXiv cs.CL",
+    "title": "MMGenBench: An Automated Pipeline for Evaluating LMMs from a Text-to-Image Generation Perspective",
+    "title_norm": "mmgenbench an automated pipeline for evaluating lmms from a texttoimage generation perspective"
+  },
   "aab51c40f7dd04383fd2521e08daa1a82131da83892fb0c17b89e9b8b9f24376": {
     "category": "community_signal",
     "posted": false,
@@ -77237,6 +78221,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "what projects have you guys created with localllm models",
     "title_norm": "what projects have you guys created with localllm models"
+  },
+  "abfcd83b98657f14e87e66c5746660d741db4b8e2370c6f68de36159fcf2cd5b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234124+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Bathys: Advancing Deep Search Agents",
+    "title_norm": "bathys advancing deep search agents"
   },
   "ac065eb45b6e3ff21945afc0e2ced63a9e5daf96d0057d68e7e2ef9c7c939e5d": {
     "category": "research",
@@ -78062,6 +79054,14 @@
     "title": "Cohere at Collision 2023",
     "title_norm": "cohere at collision 2023"
   },
+  "adc6f97e36d6bbb4e0010c92578bb2950bb3ae8d9dd9d55ed193ec1569ad4422": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234359+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement",
+    "title_norm": "worth the wait how response time and streaming shape judgments of generative ai answers and chatbot engagement"
+  },
   "adc7c86f54cec923cf376ee5bbb0ec176b50fc74ed8138886479fc9903f17de0": {
     "category": "research",
     "posted": false,
@@ -78389,6 +79389,14 @@
     "source": "arXiv cs.AI",
     "title": "Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion",
     "title_norm": "placeitr1 unlocking environmentaware reasoning potential of mllm for video object insertion"
+  },
+  "ae71e8af42e3ef7f24bfe617cb32340bded575464d1a309dd5903e41a7c4bd5b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234030+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Evaluating Latent Knowledge Stability in Multimodal Large Language Models",
+    "title_norm": "evaluating latent knowledge stability in multimodal large language models"
   },
   "ae74f10308878dbaadc7737a4336aa4a218da84c31268bc29c7af5c7c3b8c868": {
     "category": "research",
@@ -79461,6 +80469,14 @@
     "source": "OpenAI News",
     "title": "OpenAI and Cisco introduce Shirudo",
     "title_norm": "openai and cisco introduce shirudo"
+  },
+  "b06f898e9161a827a4b08c386f066a1dddabac4d2efa7d5580478f2a8ad1cf64": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235538+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Linguistic and Argument Diversity in Synthetic Data for Function-Calling Agents",
+    "title_norm": "linguistic and argument diversity in synthetic data for functioncalling agents"
   },
   "b071492aa263dfb9a9fe995bf15037f2d60d8d5d8a55997f1c4e31a6ad0d9c1f": {
     "category": "research",
@@ -80646,6 +81662,14 @@
     "title": "Cohere Embed: New Features for More Efficient and Accurate Enterprise Search",
     "title_norm": "cohere embed new features for more efficient and accurate enterprise search"
   },
+  "b3696362a4a42ceb5f27caf3089e9de5aab9904c6aad1481350b83e75102e908": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235122+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SOARS: System One Assisted Reranking for Agentic Search",
+    "title_norm": "soars system one assisted reranking for agentic search"
+  },
   "b36a34db153b996f44ed0a95810dbb2968872e8ada08b5d3fdfafb2629a60545": {
     "category": "research",
     "posted": false,
@@ -80765,6 +81789,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "Look what my son gave me!",
     "title_norm": "look what my son gave me"
+  },
+  "b39b8ed34b12bebfb346605131482c8aa0a1d4cd9b26ae58c0e70acbab34c5f7": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233915+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Phoneme-identity depth profiles do not reliably predict LoRA placement for dysarthric ASR",
+    "title_norm": "phonemeidentity depth profiles do not reliably predict lora placement for dysarthric asr"
   },
   "b3a61926022281ad005d893ae13188ee2f19256d33945c6444bdc7c434c31874": {
     "category": "research",
@@ -81534,6 +82566,14 @@
     "title": "Probing the Limits of the Lie Detector Approach to LLM Deception",
     "title_norm": "probing the limits of the lie detector approach to llm deception"
   },
+  "b5614bccdb7000a90f04357bdd9531943fa4301861e2406f6fbb6f83aa466589": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233086+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Directly Maximizing On-policy Expected Accepted Length for Speculative Decoding",
+    "title_norm": "directly maximizing onpolicy expected accepted length for speculative decoding"
+  },
   "b5625a22999d028e46d9d0e9bd06b73088155f9c6afe28a00d91393f1cfb61da": {
     "category": "community_signal",
     "posted": false,
@@ -82045,6 +83085,14 @@
     "source": "OpenAI News",
     "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
     "title_norm": "gpts are gpts an early look at the labor market impact potential of large language models"
+  },
+  "b66efdcfa7613e43bf1f8707b4c243444e166a53157c4f88be4b0f0a1da9c617": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235683+00:00",
+    "source": "arXiv cs.CL",
+    "title": "When Better Codebooks Are Not Enough: Predictive Performance and Rule Adherence in LLM Political Event Coding",
+    "title_norm": "when better codebooks are not enough predictive performance and rule adherence in llm political event coding"
   },
   "b66fa642e082d66ad7ace6aa7258a8cbd074f33f4fcbd1452d1c57e5f0f5cdec": {
     "category": "research",
@@ -82790,6 +83838,14 @@
     "title": "TTS Arena: Benchmarking Text-to-Speech Models in the Wild",
     "title_norm": "tts arena benchmarking texttospeech models in the wild"
   },
+  "b82694bc2191de9e361d6e38a7f80be06f00e5be2cc6942823a9dc9790cbaf31": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233239+00:00",
+    "source": "arXiv cs.CL",
+    "title": "How Persona Conditioning Changes Open-Ended Task Execution: A Paired Evaluation of Behavioral Gains and Reliability Costs",
+    "title_norm": "how persona conditioning changes openended task execution a paired evaluation of behavioral gains and reliability costs"
+  },
   "b82956d9dca60be3f52c9afc2e80f6802991a15f52f44c018f674fdfe8cc4349": {
     "category": "official_labs",
     "posted": false,
@@ -83125,6 +84181,14 @@
     "source": "arXiv cs.AI",
     "title": "BARS: Budget-Aware Sequential Sampling with Refusal for Majority Identification under Unknown Distributions",
     "title_norm": "bars budgetaware sequential sampling with refusal for majority identification under unknown distributions"
+  },
+  "b8ce2eca5751d54c2278f721837fe1512292e3482bab1f8deb77e5e36ddf818c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236189+00:00",
+    "source": "arXiv cs.CL",
+    "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+    "title_norm": "mobilemoe scaling ondevice mixture of experts"
   },
   "b8d121c1d87b6364ccc518d6ecea5e5dc08894e6d9aaf1dcaa824414864fcc31": {
     "category": "research",
@@ -84006,6 +85070,14 @@
     "title": "Modeling Preference Dependencies with Directed Acyclic Graphs for Narrative-Driven Recommendation",
     "title_norm": "modeling preference dependencies with directed acyclic graphs for narrativedriven recommendation"
   },
+  "bab0f4dab0fb36ff76b7dc3a3bff68bf042c836f351c9f91ebbfc0d789ccb86b": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.232869+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Validation Bias in Large Language Model Responses to Cancer Treatment Queries: A Factorial Cross-Sectional Study",
+    "title_norm": "validation bias in large language model responses to cancer treatment queries a factorial crosssectional study"
+  },
   "bab8d9613aba6c99748b71d98c68866e4b39bfed8a75194e26a451f884f9230f": {
     "category": "community_signal",
     "posted": false,
@@ -84565,6 +85637,14 @@
     "source": "arXiv cs.AI",
     "title": "Touch\\'{e}World tech report : Towards Online Unified Camera--Hand Exploration in Generative Worlds",
     "title_norm": "toucheworld tech report towards online unified camerahand exploration in generative worlds"
+  },
+  "bbc79524d0a1c14f5b2e21904fa825c4924f4677696fcdabf407bb65104dbd54": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234654+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LimoBench: How Street Smart Are Large Language Models?",
+    "title_norm": "limobench how street smart are large language models"
   },
   "bbcb79fadd39dd32e9c797027b308d5c2c485c48e2443c45c36a1c1cd441ee24": {
     "category": "tech_news",
@@ -85150,6 +86230,14 @@
     "title": "Merge-Based Vocabulary Extension Stalls at the Pre-Tokenizer: An English-Preserving Repair for Nepali, Tested in Continued Pretraining",
     "title_norm": "mergebased vocabulary extension stalls at the pretokenizer an englishpreserving repair for nepali tested in continued pretraining"
   },
+  "bcf9b8fb2cf87562d84f4e88c005d2a049083e6083109592a83f2e9412e9a7de": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235979+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LITMUS - Literature Informed Testbed for Mapping Usecases and Synthesizing Risk-Cards",
+    "title_norm": "litmus literature informed testbed for mapping usecases and synthesizing riskcards"
+  },
   "bd090de072065122d4c249018c2dc293d2889b0b26c7873e51efbd639c7c3097": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -85453,6 +86541,14 @@
     "source": "Hugging Face Blog",
     "title": "The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models",
     "title_norm": "the hallucinations leaderboard an open effort to measure hallucinations in large language models"
+  },
+  "bd8e73c637538075965ca0d240a40664a40fd5ce145591ffec9e1cb2c9bfefbc": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234741+00:00",
+    "source": "arXiv cs.CL",
+    "title": "SwarmLeak: Does Coordination Improve Privacy Attacks on LLM Agents?",
+    "title_norm": "swarmleak does coordination improve privacy attacks on llm agents"
   },
   "bd90f796a6b99fd3ffc7dc0ef3b2c3e90872e4030991c591eac713362e62fbf9": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -86029,6 +87125,14 @@
     "source": "Hugging Face Blog",
     "title": "Building the Hugging Face MCP Server",
     "title_norm": "building the hugging face mcp server"
+  },
+  "bebd3911a5b88be6a0ac7e7422e21d64fa79d8d4a0e02ce8ca4ad0bdcba767ba": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235271+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+    "title_norm": "can a frontier llm repair a quantized network by toolfree weightspace programming"
   },
   "bebfc941a21c271d807f84019f3fc86c12e0c38528a2ea17cda7bbf8f590415b": {
     "category": "research",
@@ -87246,6 +88350,14 @@
     "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
     "title_norm": "kugelblitz macnative google earth alternative"
   },
+  "c134ffd8b8f7463020a5e4b9bd6010afa264835da99cc0ce63d72efbf51c457f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233375+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ModernELECTRA: Replaced-Token Detection with Boundary-Window Reconstruction for Compact Encoders that Classify and Embed",
+    "title_norm": "modernelectra replacedtoken detection with boundarywindow reconstruction for compact encoders that classify and embed"
+  },
   "c13d14150630d4902c19dedd147037642c44b3870e929e49db7887e2212a84fd": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -88094,6 +89206,14 @@
     "title": "OpenAI Five Benchmark",
     "title_norm": "openai five benchmark"
   },
+  "c2f8857c12a9a24c5afb32a92953f95f3c3bfa4787d327010689c907c7c162c4": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234328+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Leto: Utility-Centric Agent Memory",
+    "title_norm": "leto utilitycentric agent memory"
+  },
   "c2f8b2e6b3c94eb658566e8c1b644b5aee59193b5c1f9ea5a1b48496d2d697d1": {
     "category": "community_signal",
     "posted": false,
@@ -88205,6 +89325,14 @@
     "source": "arXiv cs.AI",
     "title": "Revisiting data-driven dynamic security assessment with a tabular foundation model",
     "title_norm": "revisiting datadriven dynamic security assessment with a tabular foundation model"
+  },
+  "c323625765ef76b593447c39533e35bf886824a593316201148dfa7519f55d4a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235289+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+    "title_norm": "towards realistic evaluation of uncertainty quantification for llmbased recommender systems"
   },
   "c3239581ced88ca1ab6e333846f6065b7781d8791b86c35676edd4ab1b81dafa": {
     "category": "research",
@@ -88557,6 +89685,14 @@
     "source": "arXiv cs.AI",
     "title": "Hierarchical Cooperative GFlowNets",
     "title_norm": "hierarchical cooperative gflownets"
+  },
+  "c3e9e5c56aa9ee3582d063b82fbe7fc1a197df77ad1692a7db6d320de4a8a58a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235821+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ContextAdapt: Evaluating Contextual Adaptation and Value Alignment in LLMs",
+    "title_norm": "contextadapt evaluating contextual adaptation and value alignment in llms"
   },
   "c3ece235e23ae8a2a169d58b3f19285dcdf975e82b8febcdb314e972bce4325a": {
     "category": "community_signal",
@@ -88957,6 +90093,14 @@
     "source": "Anthropic News (unofficial mirror)",
     "title": "Introducing the Anthropic Cyber Mission",
     "title_norm": "introducing the anthropic cyber mission"
+  },
+  "c4a32b910bd2e4b7aa10707618d973c87ccff125208bfdda436d56058b2edc9e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235891+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The FlightFinder Occurrence Corpus: harmonising 128 aviation-safety source codes into one deduplicated cross-national accident dataset",
+    "title_norm": "the flightfinder occurrence corpus harmonising 128 aviationsafety source codes into one deduplicated crossnational accident dataset"
   },
   "c4a35fef1278ef6c082784112a3ca4ccac7c391b67421a3723b0398c7abd2281": {
     "category": "research",
@@ -93222,6 +94366,14 @@
     "title": "Pairing Expert Critique with LLM-Driven Refinement: An Iterative Approach for Curating Quality AI Evaluation Datasets",
     "title_norm": "pairing expert critique with llmdriven refinement an iterative approach for curating quality ai evaluation datasets"
   },
+  "ce5c5f24d47abb1a78909db5ef7a928ba2e5c99ee8a141080d737a6b10872433": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234618+00:00",
+    "source": "arXiv cs.CL",
+    "title": "GoldiBench: Right Tools, Wrong Amount -- Benchmarking Agents on Effect Judgement in Professional Editing",
+    "title_norm": "goldibench right tools wrong amount benchmarking agents on effect judgement in professional editing"
+  },
   "ce5feac7c3bc52e62b72975108b07224f8ba62d98a14ca8f22ee35fed9432f67": {
     "category": "research",
     "posted": false,
@@ -93902,6 +95054,14 @@
     "title": "From Data to Wisdom: Rethinking AI Through an Epistemic Lens",
     "title_norm": "from data to wisdom rethinking ai through an epistemic lens"
   },
+  "cf9f4fd6674e23e8b79943e316c9aae31ac3d93518f1d473ff0a2504a9ed26e0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234907+00:00",
+    "source": "arXiv cs.CL",
+    "title": "ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks",
+    "title_norm": "thinkmorphssl scaling interleaved multimodal reasoning with pretext tasks"
+  },
   "cfa038367e1960cc4d0d3136f9298b78b5bde0e2c0503c7f5d0e3ef065bc1bd9": {
     "category": "community_signal",
     "posted": false,
@@ -93949,6 +95109,14 @@
     "source": "arXiv cs.AI",
     "title": "Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?",
     "title_norm": "breaking bad molecules are mllms ready for structurelevel molecular detoxification"
+  },
+  "cfc0c17e559b786c915364c9c1eeed6d30c021655fa7a95859cf536121d53054": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236356+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+    "title_norm": "safe to omit worth omitting keeping the answer and cutting latency when an llm agent skips anothers message"
   },
   "cfc0caf59afc4c977b68f6810db2fb852e46ebdc1e50b0aa79d28f9f79b59d26": {
     "category": "official_labs",
@@ -96102,6 +97270,14 @@
     "title": "Greg Kurtzer's Ginux is now a userspace kernel",
     "title_norm": "greg kurtzers ginux is now a userspace kernel"
   },
+  "d516e4733a4443e3feee2ec135a41139d7970ccd9fe6c0e15568a8d6a1b961e9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233064+00:00",
+    "source": "arXiv cs.CL",
+    "title": "INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation",
+    "title_norm": "include20 disentangling knowledge gaps in multilingual llm evaluation"
+  },
   "d519f7151f6e5ba3f1ca8058dc3bd4e30e791c0d101a147c1ceed513ad8c3fe5": {
     "category": "research",
     "posted": false,
@@ -96334,6 +97510,14 @@
     "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
     "title_norm": "preserve to expand sourceaware adaptation and model merging for multilingual llmbased asr"
   },
+  "d59f1ddcb4b89280ea6c568664c4438808bdea454a2c853277f79b0188ab9deb": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234706+00:00",
+    "source": "arXiv cs.CL",
+    "title": "TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+    "title_norm": "tactbench testing adaptive conversational threats against tooluse agents"
+  },
   "d5a083cf78109f4356074adf306b6c2fffe6e56eb23f7d693638249b8eb6d7aa": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -96549,6 +97733,14 @@
     "source": "Hacker News AI keyword",
     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
     "title_norm": "octopus gecko and tortoise the 3 scanners hunting your ai keys"
+  },
+  "d628322fc53b1dcb16d8a52ac93a73a5bfc1ce0705c1148d2279ba225170fd73": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235754+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+    "title_norm": "the imperfective paradox is not necessarily in large language models a benchmark failure before a model failure"
   },
   "d628a731fad05cc172d458d14b28bb95c4f63da2ded17a55b78d56163ba35ed7": {
     "category": "research",
@@ -96773,6 +97965,14 @@
     "source": "arXiv cs.CL",
     "title": "Towards Fine-grained and Robust Detection of Human-AI Co-authorship",
     "title_norm": "towards finegrained and robust detection of humanai coauthorship"
+  },
+  "d6824605b86531a7d8ea49dcf3b96bd0a024b432276aa3b118054cd814cea22a": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234240+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Beyond Fixed-Context Likelihood: Zero-Shot AI-Generated Text Detection via Context Perturbation Discrepancy",
+    "title_norm": "beyond fixedcontext likelihood zeroshot aigenerated text detection via context perturbation discrepancy"
   },
   "d689fa169851b2e728c5b07fa10d21edc735f4b24c71d3c4e97f49025c5bfc42": {
     "category": "research",
@@ -97390,6 +98590,14 @@
     "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
     "title_norm": "do llm agents still need to be told how to selfimprove"
   },
+  "d7d9c686fcc5ca0020b535ba1a8a7a87314456244c0c69703b5575b7f4dfd515": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235554+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Adaptive Conformal Prediction for Improving Factuality of Generations by Large Language Models",
+    "title_norm": "adaptive conformal prediction for improving factuality of generations by large language models"
+  },
   "d7e51f257c34dc6320a889c7c7531a0581411edb94086bc7fb5594d4cb535c51": {
     "category": "research",
     "posted": false,
@@ -97581,6 +98789,14 @@
     "source": "Hacker News Frontpage",
     "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
     "title_norm": "why are soviet math textbooks so hardcore in comparison to us textbooks 2017"
+  },
+  "d840ae6c58f296efc035b3af04c573b8ac2bcf88b67e5c9795b7c937dbdcc2f9": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234601+00:00",
+    "source": "arXiv cs.CL",
+    "title": "LatentLens: Rethinking Latent Interface in Multi-Agent Systems",
+    "title_norm": "latentlens rethinking latent interface in multiagent systems"
   },
   "d845322af78005f85f4487e20b2edaaae5acecfeee37e874235c90548812f0b5": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -97814,6 +99030,14 @@
     "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
     "title_norm": "welcome mixtral a sota mixture of experts on hugging face"
   },
+  "d8d76384cb0eaa62c804e125bd99f03cfd24c5c3360b05131beeda53022d1e9f": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235443+00:00",
+    "source": "arXiv cs.CL",
+    "title": "REAL: Reading Out Transformer Activations for Precise Localization in Language Model Steering",
+    "title_norm": "real reading out transformer activations for precise localization in language model steering"
+  },
   "d8d888a6db4312690dd6e90e8fbf7026e60fedc56d81cc49de87724889e32603": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -97949,6 +99173,14 @@
     "source": "Hacker News Frontpage",
     "title": "AlpineBSD",
     "title_norm": "alpinebsd"
+  },
+  "d92bed4b899e372ada355a4ad6ceefd51d4a7ad8f5e3e396baa273fb3df75866": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234311+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Modelling Billingual Learning Through LLM Training: A Critical-Period Exploration",
+    "title_norm": "modelling billingual learning through llm training a criticalperiod exploration"
   },
   "d93a6886907134e43098d909b80a1840797dc3de1fad3c419f870a044b834232": {
     "category": "community_signal",
@@ -99269,6 +100501,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "JEV arena blog and benchmark",
     "title_norm": "jev arena blog and benchmark"
+  },
+  "dbfe077e3286b1e9bd8e35b98cc57d0694ce904b206a7a1d16ad3d389aff863c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234757+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Learning Compact State Abstractions for LLM Agents",
+    "title_norm": "learning compact state abstractions for llm agents"
   },
   "dbfe8c22a9a2aea79d89b5ea4afa057f9f0d3f9eaceb40a3e3c8b2ada1be6ec1": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -101246,6 +102486,14 @@
     "title": "Characterizing LLM Agent Behaviors in Module Shadowing Environments",
     "title_norm": "characterizing llm agent behaviors in module shadowing environments"
   },
+  "e072f1c4f1d29a882e8fef0025005135759d8d0bde0c06b35436156071998896": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233201+00:00",
+    "source": "arXiv cs.CL",
+    "title": "RegioZH: Unveiling Comprehension Disparities across Regional Chinese Varieties in LLMs",
+    "title_norm": "regiozh unveiling comprehension disparities across regional chinese varieties in llms"
+  },
   "e0734e2819c1b7e7a741dbe29f0247f6fb9dadfe0b4d99ad5940258785539512": {
     "category": "research",
     "posted": false,
@@ -101757,6 +103005,14 @@
     "source": "Hacker News Frontpage",
     "title": "NINLIVE: The Nine Inch Nails live archive",
     "title_norm": "ninlive the nine inch nails live archive"
+  },
+  "e1d21cb667ef8baeb7810db7e265e16b98583e32499eb6438d05c5a43c9adac3": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233839+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Implementation of Machine Translation for the Uzbek Language Based on Transformer Models",
+    "title_norm": "implementation of machine translation for the uzbek language based on transformer models"
   },
   "e1d3b979978824954c9af1ff1865580b4e079c5888f9b5997cd51b94139c7335": {
     "category": "research",
@@ -102814,6 +104070,14 @@
     "title": "Terence Tao on how AI math solutions miss the point",
     "title_norm": "terence tao on how ai math solutions miss the point"
   },
+  "e43bf47548b2b688421936199bfb26ba418e13ed9e88f9c3a7c643f7ca2bd152": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235253+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study",
+    "title_norm": "can llm judges catch unsafe clinical actions a faultinjection study"
+  },
   "e449b18a48981bb1bdb262987e6ddca2d20f3fff9d28d2d5a2f319b906918004": {
     "category": "research",
     "posted": false,
@@ -103117,6 +104381,14 @@
     "source": "arXiv cs.AI",
     "title": "Violet Teaming in Practice: Lessons from a Pilot Expert Workshop on Governing Complex AI Systems",
     "title_norm": "violet teaming in practice lessons from a pilot expert workshop on governing complex ai systems"
+  },
+  "e4dc16d559f165551cd5dfc04e22e9f256eca846a0ade32d7771ffc1e2f74be0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235996+00:00",
+    "source": "arXiv cs.CL",
+    "title": "S\\'anchez, Feij\\'oo, or Abascal? Speaker Attribution and Ideological Congruence in LLM Personas Reading Posts on X of the Leaders of the Three Main Parties of the 29N General Election in Spain",
+    "title_norm": "sanchez feijoo or abascal speaker attribution and ideological congruence in llm personas reading posts on x of the leaders of the three main parties of the 29n general election in spain"
   },
   "e4e6ab1cea2b9237f9c6588343f098dd736dc8560a108047f38b9fa2e9af387c": {
     "category": "research",
@@ -103893,6 +105165,14 @@
     "source": "arXiv cs.CL",
     "title": "ImgMT: Wikipedia-based Dataset For Evaluating Text-in-Image Translation",
     "title_norm": "imgmt wikipediabased dataset for evaluating textinimage translation"
+  },
+  "e6820c8def136670d7daef090d1fcf73b0056bac5db4b4ead58e5fa1aec63baf": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233991+00:00",
+    "source": "arXiv cs.CL",
+    "title": "What If Chinese Were Latinized? A Counterfactual Study of Input Representation, Tokenization, and Language Modeling",
+    "title_norm": "what if chinese were latinized a counterfactual study of input representation tokenization and language modeling"
   },
   "e68de5d6c3a917d95b8278f53503d99c349a2508292bb952a0950be7eca75dc0": {
     "category": "research",
@@ -104894,6 +106174,14 @@
     "title": "Recovering topological information of light by topological learning",
     "title_norm": "recovering topological information of light by topological learning"
   },
+  "e8c2d7d43332efbbadc0e2529a340badf8992c56289a810349b0c4db796a47ec": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234443+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Verifiable On-Policy Distillation",
+    "title_norm": "verifiable onpolicy distillation"
+  },
   "e8cc130e4af681b7bc9310c9aaf77cfeb8a10a865c4ae88f2e6b2dc8b336bc9f": {
     "category": "official_labs",
     "posted": false,
@@ -104974,6 +106262,14 @@
     "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
     "title_norm": "ai chipmaker axelera in talks to raise additional 400m"
   },
+  "e904fb64479fa99c0080cc8e05409048911f5c6bca1f5ed6277d3ef3237c256c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235668+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Emergent Language as an Approach to Conscious AI",
+    "title_norm": "emergent language as an approach to conscious ai"
+  },
   "e90521f80dbf433442ee8b78fdfbc6dc6cb3c564e8fac56c2331401fa1c580e1": {
     "category": "community_signal",
     "posted": false,
@@ -104997,6 +106293,14 @@
     "source": "Hacker News AI keyword",
     "title": "Ask HN: What positive impact has AI had in the past 5 years?",
     "title_norm": "ask hn what positive impact has ai had in the past 5 years"
+  },
+  "e908db6a942106277769a9494963cfe8ddc0a7193c2cbbdabba30e9935056e41": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235426+00:00",
+    "source": "arXiv cs.CL",
+    "title": "TRIM: Achieving Extreme Sparsity with Targeted Row-wise Iterative Metric-driven Pruning",
+    "title_norm": "trim achieving extreme sparsity with targeted rowwise iterative metricdriven pruning"
   },
   "e9099b73efc123444512b76f1ffe0cce502bef522251f3dc23becd426d6169b0": {
     "category": "community_signal",
@@ -105421,6 +106725,14 @@
     "source": "arXiv cs.CL",
     "title": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
     "title_norm": "processprefbench evaluating crosstask transfer of individual process preferences from naturalistic humanai interaction"
+  },
+  "ea31b6b725ae5e660e661c3a95b5e1b330e2710882152049c7fb908fd2bb8327": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233674+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Localizing Cross-Lingual Generalization in Parameter Space",
+    "title_norm": "localizing crosslingual generalization in parameter space"
   },
   "ea39f8a43a60b7b5db52809f3f79e9dfe28345396880641ba3dfa237f7201b22": {
     "category": "tech_news",
@@ -105885,6 +107197,14 @@
     "source": "arXiv cs.AI",
     "title": "Trajectory-Regularized Distribution Distillation for One-Step Generation",
     "title_norm": "trajectoryregularized distribution distillation for onestep generation"
+  },
+  "eb5aa5e6f84648ea4608658d30f06ba41af552f521814341457d29be17232db1": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236154+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Pothen: Can Vision-Language Models Tell Where a Cultural Object Comes From?",
+    "title_norm": "pothen can visionlanguage models tell where a cultural object comes from"
   },
   "eb5e206fdee3a25f0b7ca124ca1b18d9085df78e62b4d0d167bb05683bf7f36a": {
     "category": "research",
@@ -106662,6 +107982,14 @@
     "title": "Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs",
     "title_norm": "case study millisecond latency using hugging face infinity and modern cpus"
   },
+  "ed185bb5c4bc03f0db738d809d772d3c423a00cddb00848f5671513e50ed37a0": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235772+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Untangling the Mechanisms of Misleading Context in Medical Question Answering",
+    "title_norm": "untangling the mechanisms of misleading context in medical question answering"
+  },
   "ed18f8ab0f26929ad394c7fbf5781c76dd6eb47ee1e8f1d1ab34a8b3915c475a": {
     "category": "community_signal",
     "posted": false,
@@ -106854,6 +108182,14 @@
     "title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
     "title_norm": "ram altman is now a linux script that emails sam altman daily to report how much unused ram is in your pc"
   },
+  "ed803917d6e0040991ddffe8637a62302a84a5e57a4837b0dcf6897373f156d2": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233317+00:00",
+    "source": "arXiv cs.CL",
+    "title": "AhaPro: A Process-level Rebus benchmark for probing Aha moments in LLM reasoning",
+    "title_norm": "ahapro a processlevel rebus benchmark for probing aha moments in llm reasoning"
+  },
   "ed81dbf74c8cb866f27cf054d2b58274e38ef2586a1a4eb8292b48e213b33bf9": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -106909,6 +108245,14 @@
     "source": "OpenAI News",
     "title": "Introducing Structured Outputs in the API",
     "title_norm": "introducing structured outputs in the api"
+  },
+  "ed993fd9aee393df240156bc74c9a258f203b2c26a728a80f5470c03a336fcc6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234687+00:00",
+    "source": "arXiv cs.CL",
+    "title": "BEARING: Who Is Talking to Whom? Grounding Acoustic Direction in Vision for Online Multi-Party Conversation",
+    "title_norm": "bearing who is talking to whom grounding acoustic direction in vision for online multiparty conversation"
   },
   "ed9c2d831f103410d046b6e7b18cdb3ae4840febf36194e963d18b6d1323a2ae": {
     "category": "research",
@@ -107221,6 +108565,14 @@
     "source": "OpenAI News",
     "title": "Introducing text and code embeddings",
     "title_norm": "introducing text and code embeddings"
+  },
+  "ee55b3bdb0a59b61586e78d72028bf2d49c41b4ec65ba08c0c22110ad55faada": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235203+00:00",
+    "source": "arXiv cs.CL",
+    "title": "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?",
+    "title_norm": "i do intend to deliver will llms run a marketplace advancefee scam"
   },
   "ee5ccdfa81d096d413a8272bdc0ebdcba3f332be72039742ea50c7f778f60f62": {
     "category": "community_signal",
@@ -107710,6 +109062,14 @@
     "title": "RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG",
     "title_norm": "routedrag learning to route and control agentic execution for multimodal document rag"
   },
+  "efa0c956eb745f6e864cdfee40a3e9cd171557769072bdadef737481c326e799": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236243+00:00",
+    "source": "arXiv cs.CL",
+    "title": "CrossProjection: Benchmarking Spatial Grounding across Projection and Section Views",
+    "title_norm": "crossprojection benchmarking spatial grounding across projection and section views"
+  },
   "efb509fc85586f40d24bdab86ca781fd230c6939913bcd113c574316e14e4826": {
     "category": "community_signal",
     "posted": false,
@@ -107725,6 +109085,14 @@
     "source": "arXiv cs.AI",
     "title": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents",
     "title_norm": "incentiveresponsive agents a principalagent framework metric suite and runtime architecture for longlived personal ai agents"
+  },
+  "efccbd2c50bd72cf49f5feb5c9a194b9cb527d0dfb8087f47c1569091c383324": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234547+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense",
+    "title_norm": "leaks by installments crosssession answer disclosure in llm tutors and a ledgerbased defense"
   },
   "efd612e14395a463d91a7cc95a48bf34b49719caa4c509900c81b53fe7302414": {
     "category": "research",
@@ -108566,6 +109934,14 @@
     "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
     "title_norm": "40domain study 80 of shopify stores expose apiucpmcp 0 agentsmd"
   },
+  "f1e6c148587615d7f9f3cfedb1dd713442b00001791ba08f211beb97906a0b94": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235910+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments",
+    "title_norm": "offlinefirst quantized ai design and evaluation of an ondevice maternalhealth assistant for lowconnectivity environments"
+  },
   "f1eb8671c3d6178b4af821da5d5293b7cbf2c7ddbc731831de0a8d3b4b10a722": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
     "posted": false,
@@ -108845,6 +110221,14 @@
     "source": "Hacker News AI keyword",
     "title": "An AI toy for 3-year-olds described gang rape. Major retailers are pulling it",
     "title_norm": "an ai toy for 3yearolds described gang rape major retailers are pulling it"
+  },
+  "f275784a25ba0e60d867de43a0fa9d1668007b366bf781695d143707e54ee647": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235410+00:00",
+    "source": "arXiv cs.CL",
+    "title": "On the Efficiency of Structured Pruning in Small Language Model Pretraining",
+    "title_norm": "on the efficiency of structured pruning in small language model pretraining"
   },
   "f275a661d44ddb8d1eb9ef82dec2f8662fd86c0e19252d8992cba37ca77c5fcf": {
     "category": "research",
@@ -109326,6 +110710,14 @@
     "title": "Beyond Post-Hoc Rewards: Privileged Reasoning Exploration for Multimodal Embeddings",
     "title_norm": "beyond posthoc rewards privileged reasoning exploration for multimodal embeddings"
   },
+  "f3a7395893a4f27dfe8ca387230dff422a015bebf50f05ff067c4eb9ca0b814c": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234771+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Subliminal Learning Crosses Modalities",
+    "title_norm": "subliminal learning crosses modalities"
+  },
   "f3a9400d2ea26c9abdb81848e9a00cf3fdada531186e1a17fb0a4c37536ae866": {
     "category": "community_signal",
     "posted": false,
@@ -109757,6 +111149,14 @@
     "source": "Hacker News Frontpage",
     "title": "Backblaze customers worried of personal data sale/sharing after policy update",
     "title_norm": "backblaze customers worried of personal data salesharing after policy update"
+  },
+  "f47be2b3efa43288458aff829386265e9392369c4122b0aba211847c2ed55eeb": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235701+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Structural Pattern Mining in Inka Khipus: An Audit of Clustering and Provenance Classification in the Open Khipu Repository",
+    "title_norm": "structural pattern mining in inka khipus an audit of clustering and provenance classification in the open khipu repository"
   },
   "f47e8f0dcf67a37eae93618a0a25f51216c505f634e7722ae5be0eba4f7ac180": {
     "category": "official_labs",
@@ -110614,6 +112014,14 @@
     "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
     "title_norm": "sierra doubles valuation to 30b within six months as demand for ai in cx takes off"
   },
+  "f62d7c76b1d9d3d2baa7da87909ac20913ab849f0d2d6939ffabec4a8222a5bf": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.236136+00:00",
+    "source": "arXiv cs.CL",
+    "title": "The Reasoning Bottleneck in Graph-RAG: Structured Prompting and Context Compression for Multi-Hop QA",
+    "title_norm": "the reasoning bottleneck in graphrag structured prompting and context compression for multihop qa"
+  },
   "f6309e2e2530ba7ce13c93a33507b6bd7f1888bf6a73048ec77209a75e098491": {
     "category": "research",
     "posted": false,
@@ -110910,6 +112318,14 @@
     "title": "\"Does censorship exist in [country]?\", according to various LLMs",
     "title_norm": "does censorship exist in country according to various llms"
   },
+  "f6c8e8f417d354e5aeb6dc45c0d84a4843ef66e9bdf1af707b1d2772f3905ffe": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235720+00:00",
+    "source": "arXiv cs.CL",
+    "title": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+    "title_norm": "gem a generative embedding model bridging reasoning and retrieval"
+  },
   "f6c90f4b540dd5b72111e75f39e4f4512b7b71aa0af264c61510bbd6057d7032": {
     "category": "research",
     "posted": false,
@@ -111198,6 +112614,14 @@
     "title": "AutoCompress: Automated Hardware-Guided Model Compression",
     "title_norm": "autocompress automated hardwareguided model compression"
   },
+  "f758901273fae72536204a8cdf930836bab239a1c2d9ce642337fe5feeafe6f7": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233710+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Grounding Language Models in Revealed Audience Behavior",
+    "title_norm": "grounding language models in revealed audience behavior"
+  },
   "f762962d4e70678a67373cf47437a81ba9edf3d01faba5b648257e7c0fe982b2": {
     "category": "tech_news",
     "posted": false,
@@ -111246,6 +112670,14 @@
     "title": "Accelerating Safe Reinforcement Learning with Massive Parallelism",
     "title_norm": "accelerating safe reinforcement learning with massive parallelism"
   },
+  "f78545f89eef097d31b302e3840a6658307181ab0e22138c7408c6a7c80b8e7e": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234140+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Social Bias Neurons in Multilingual Language Models: A Mechanistic Interpretability Analysis",
+    "title_norm": "social bias neurons in multilingual language models a mechanistic interpretability analysis"
+  },
   "f7860bd222bbc5fdbe3cfea45574dfb55c00e3a4c901dbd94c06124b1430f290": {
     "category": "research",
     "posted": false,
@@ -111277,6 +112709,22 @@
     "source": "Hacker News Frontpage",
     "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
     "title_norm": "tinfoil yc p25 is hiring an applied ai security engineer in san francisco"
+  },
+  "f7985a8b049aa9a8af389d5e74ead71dbee79edd94f4bfa48a5b50bf79b18977": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.235037+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Gated Concept Adapters: Layer-Wise Concept Bottlenecks for Auditable Text Understanding",
+    "title_norm": "gated concept adapters layerwise concept bottlenecks for auditable text understanding"
+  },
+  "f798778eba8b50c6e98d7f65a3b94519c9ea367a2373dde566af8b4051167b77": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233873+00:00",
+    "source": "arXiv cs.CL",
+    "title": "On the Importance of Hidden-State Refinement in Masked Diffusion Language Models",
+    "title_norm": "on the importance of hiddenstate refinement in masked diffusion language models"
   },
   "f79afd183dce7791a3e32702ed12f6fc79cf662af48ba5baee031995e3c83435": {
     "category": "community_signal",
@@ -112878,6 +114326,14 @@
     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
     "title_norm": "nebius tests the neocloud playbook with 40 billion in planned spending"
   },
+  "fb2699a7376a0c6dd9a7f2d8be15312f5a5d377f4fcd9723014d0259a8b2e7cf": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.234478+00:00",
+    "source": "arXiv cs.CL",
+    "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+    "title_norm": "what people choose not to say a multimodal benchmark for finegrained information manipulation in conversations"
+  },
   "fb273174ecc838373823cf9b30595d248e841f0b78f727b5f6c1d8d6011570db": {
     "category": "research",
     "posted": false,
@@ -113237,6 +114693,14 @@
     "source": "Hugging Face Blog",
     "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
     "title_norm": "rethinking llm evaluation with 3c3h aragen benchmark and leaderboard"
+  },
+  "fbeef85332b05427a21a92f32aa24a7279dda5141050be274cd505926beb0bb6": {
+    "category": "research",
+    "posted": false,
+    "seen_at": "2026-11-25T08:18:57.233414+00:00",
+    "source": "arXiv cs.CL",
+    "title": "Can LLM-Simulated Respondents Pre-Test Survey Questions? Evidence From Preregistered Prospective Validation",
+    "title_norm": "can llmsimulated respondents pretest survey questions evidence from preregistered prospective validation"
   },
   "fbf0edcb3fb7d778cfbb466f72549048d0a8519519aa5e2ef8ade30a56ce5a67": {
     "category": "research",
