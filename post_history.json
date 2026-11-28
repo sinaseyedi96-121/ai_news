@@ -4167,6 +4167,14 @@
     "title": "Getting the mind to steer the body to steer you",
     "title_norm": "getting the mind to steer the body to steer you"
   },
+  "09d1d26fa19dd694ec40f7bb3bc136d48191abcd2b19156a45d7567a4b7fa32e": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747610+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Holo4: powering generalist computer-use agents",
+    "title_norm": "holo4 powering generalist computeruse agents"
+  },
   "09d60ef595f476dbbb062b0d9ceee2a5418a45d9bd87f53ffbe3182e67987ae1": {
     "category": "research",
     "posted": false,
@@ -9479,6 +9487,14 @@
     "title": "Calif. AG: Character.ai to auction off users' IP addresses and chat histories",
     "title_norm": "calif ag characterai to auction off users ip addresses and chat histories"
   },
+  "17177c100c9150295f9a783a1f42c5ab7f67d636429664b84dc83f06cd3f4a18": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747622+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "title_norm": "training and finetuning multivector embedding models with sentence transformers"
+  },
   "171b94fafc685f0bbe01ce8df65d2d164f349c2f077b20d1c27b8c55b116f2ee": {
     "category": "tech_news",
     "posted": false,
@@ -11966,6 +11982,14 @@
     "source": "Reddit r/LocalLLaMA",
     "title": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
     "title_norm": "deepseek v41 flash 1017 can also do weightspace programming"
+  },
+  "1cb235fae63983df5648e711de889546749d2923471227547b9ebf4e7aafb1da": {
+    "category": "unofficial_lab_mirrors_VERIFY_FIRST",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747647+00:00",
+    "source": "Cohere Blog (unofficial)",
+    "title": "Build a financial research assistant with Cohere on AWS",
+    "title_norm": "build a financial research assistant with cohere on aws"
   },
   "1cb66a9694a4f71784220b1180ae5e593f721d2d6e02b92b4572d2d4a10fe566": {
     "category": "research",
@@ -42759,6 +42783,14 @@
     "title": "CWE-bench v2: More coverage, quality, and transparency",
     "title_norm": "cwebench v2 more coverage quality and transparency"
   },
+  "6394645bd5105adc5435eb92d86f0a9234c4d9608ebffb6215783e8187d812db": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747594+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "title_norm": "introducing anyspeechrecognizer and anydecisionmodel open models for speech and decisions on apple platforms"
+  },
   "639715636b1771bd9cc870a60223e0d1853c25bd4e45c1ffea2cf7b9f1190137": {
     "category": "research",
     "posted": false,
@@ -45030,6 +45062,14 @@
     "source": "arXiv cs.AI",
     "title": "Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts",
     "title_norm": "bad genius counterfactualguided harness evolution beyond taskspecific shortcuts"
+  },
+  "68bd2e32c09542cb22fc0e9cb7e8924fbe09bed5f190bd32b4c03a4e4190efe4": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747568+00:00",
+    "source": "OpenAI News",
+    "title": "Introducing Intelligence Age",
+    "title_norm": "introducing intelligence age"
   },
   "68bd35b49f2a17807095af52205f0aa0034bdb36b2ba93747065b02f4a9c5774": {
     "category": "research",
@@ -55846,6 +55886,14 @@
     "source": "arXiv cs.AI",
     "title": "AI-Generated Image Detectors Exploit Global Artifacts: Evidence from Inpainting Exchange",
     "title_norm": "aigenerated image detectors exploit global artifacts evidence from inpainting exchange"
+  },
+  "824b5ba22f1e74f57103cf97c6ccba2fd0427fcaf3709c76d98de2dd553286e5": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747582+00:00",
+    "source": "OpenAI News",
+    "title": "Scientific computing in the age of agentic AI",
+    "title_norm": "scientific computing in the age of agentic ai"
   },
   "824b6b0b2ba4713704b4ded42004bf1ceb22a571170684d3b00588ab32d85ba1": {
     "category": "research",
@@ -68291,7 +68339,7 @@
     "posts_today_by_category": {}
   },
   "_publish_state": {
-    "last_slot": "2026-11-28-12"
+    "last_slot": "2026-11-28-14"
   },
   "_queue": [],
   "a00100ca2b78e7c7b8e696ef9b200e1e752b777ba26012e3020aad5c0153ca46": {
@@ -69933,6 +69981,14 @@
     "source": "arXiv cs.AI",
     "title": "Benchmarking Multilingual Document Understanding in Vision-Language Models",
     "title_norm": "benchmarking multilingual document understanding in visionlanguage models"
+  },
+  "a395c7da350b5086cc15f6b616a71f222298172ced3c491458f1fd1d38e79b77": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747479+00:00",
+    "source": "OpenAI News",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "title_norm": "openai and servicenow expand partnership across enterprise workflows"
   },
   "a397a93d958bd820568d1a3699961e8a6cf616e47a8f5f4eb15d0aed24031e58": {
     "category": "unofficial_lab_mirrors_VERIFY_FIRST",
@@ -87414,6 +87470,14 @@
     "title": "One-shot imitation learning",
     "title_norm": "oneshot imitation learning"
   },
+  "cb1db0d5c74b6e9eeb890e2ee46bb06c7f0b7f7e54363ac96a62606a772bbfa5": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747547+00:00",
+    "source": "OpenAI News",
+    "title": "Supporting Thailand\u2019s next generation of AI startups",
+    "title_norm": "supporting thailands next generation of ai startups"
+  },
   "cb1df21219985a53274ff76a93d121bfca21aa2b7a0c26697964bb1f54c2b346": {
     "category": "research",
     "posted": false,
@@ -90238,6 +90302,14 @@
     "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
     "title_norm": "china seeks advanced nvidia chips for ai weapons despite us curbs report says"
   },
+  "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93": {
+    "category": "official_labs",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747634+00:00",
+    "source": "Hugging Face Blog",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "title_norm": "granite 42 llms how theyre built"
+  },
   "d2189df1fb119f27987ffe9da7d5bdf2a8c08877aee3bfde9ece66d06158ac51": {
     "category": "community_signal",
     "posted": false,
@@ -91397,6 +91469,14 @@
     "source": "OpenAI News",
     "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
     "title_norm": "openai and nvidia announce strategic partnership to deploy 10 gigawatts of nvidia systems"
+  },
+  "d4f8460a825ad17f8f603f477e90106533541901a06530e4b9f158e76e78bf41": {
+    "category": "community_signal",
+    "posted": false,
+    "seen_at": "2026-11-28T13:10:41.747658+00:00",
+    "source": "Hacker News Frontpage",
+    "title": "AnthropicAI posted a fraudulent proof of RH",
+    "title_norm": "anthropicai posted a fraudulent proof of rh"
   },
   "d4ff69c3b973608c7df6ffa86b00f3a29f8f8146c578c24887222d898c44e302": {
     "category": "research",
